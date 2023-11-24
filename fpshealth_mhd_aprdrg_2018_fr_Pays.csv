@@ -1,0 +1,328 @@
+﻿drg_34;libellé_drg;mdc_34;libellé_mdc;type_de_diagnostic;hospitalisation_classique;hospitalisation_de_jour
+1;Transplantation hépatique et/ou intestinale;PP;Pré-MDC;Chirurgical;311;0
+2;Transplantation cardiaque et/ou pulmonaire;PP;Pré-MDC;Chirurgical;185;0
+3;Transplantation de moelle osseuse;PP;Pré-MDC;Chirurgical;956;< 5
+4;Oxygénation par membrane extracorporelle ou trachéostomie avec ventilation mécanique de longue durée et procédure extensive;PP;Pré-MDC;Chirurgical;1.563;< 5
+5;Trachéostomie avec ventilation mécanique de longue durée sans intervention extensive;PP;Pré-MDC;Chirurgical;348;0
+6;Transplantation du pancréas;PP;Pré-MDC;Chirurgical;17;0
+20;Craniotomie pour traumatisme;1;Système nerveux;Chirurgical;785;7
+21;Craniotomie excepté pour traumatisme;1;Système nerveux;Chirurgical;4.906;26
+22;Procédures concernant un shunt ventriculaire;1;Système nerveux;Chirurgical;625;< 5
+23;Procédures au niveau de la colonne vertébrale et de la moelle épinière;1;Système nerveux;Chirurgical;1.339;81
+24;Procédures vasculaires extracrâniennes;1;Système nerveux;Chirurgical;5.343;80
+26;Autres procédures du système nerveux et procédures apparentées;1;Système nerveux;Chirurgical;3.223;37.354
+40;Troubles et lésions de la colonne vertébrale et de la moelle épinière;1;Système nerveux;Médical;552;94
+41;Malignité du système nerveux;1;Système nerveux;Médical;3.100;411
+42;Troubles dégénératifs du système nerveux excepté la sclérose en plaques;1;Système nerveux;Médical;12.842;218
+43;Sclérose en plaques et autres maladies démyélinisantes;1;Système nerveux;Médical;4.431;492
+44;Hémorragie intracrânienne;1;Système nerveux;Médical;3.309;43
+45;Accident vasculaire cérébral et occlusion précérébrale avec infarctus;1;Système nerveux;Médical;15.545;58
+46;Accident vasculaire cérébral non spécifique et occlusion précérébrale sans infarctus;1;Système nerveux;Médical;612;132
+47;Ischémie cérébrale transitoire (TIA);1;Système nerveux;Médical;7.286;36
+48;Troubles des nerfs crâniens, périphériques et autonomes;1;Système nerveux;Médical;4.288;3.991
+49;Infections bactériennes et tuberculeuses du système nerveux;1;Système nerveux;Médical;717;10
+50;Infections non-bactériennes du système nerveux, excepté méningite virale;1;Système nerveux;Médical;1.010;66
+51;Méningite virale;1;Système nerveux;Médical;1.191;< 5
+52;Comas et états stuporeux non traumatiques;1;Système nerveux;Médical;2.630;52
+53;Crise épileptique;1;Système nerveux;Médical;17.266;379
+54;Migraine et autres céphalées;1;Système nerveux;Médical;6.524;332
+55;Traumatisme crânien avec coma > 1 h ou hémorragie;1;Système nerveux;Médical;3.687;14
+56;Contusion ou lacération cérébrale et fracture du crâne compliquée, coma < 1 h ou pas de coma;1;Système nerveux;Médical;300;< 5
+57;Contusion, fracture du crâne fermée non autrement spécifiée, lésion intracrânienne non compliquée, coma < 1 h ou pas de coma;1;Système nerveux;Médical;8.825;40
+58;Autres troubles du système nerveux;1;Système nerveux;Médical;20.323;1.565
+70;Procédures orbitaires;2;Affections des yeux;Chirurgical;543;440
+73;Procédures sur  l'œil excepté sur l'orbite;2;Affections des yeux;Chirurgical;10.337;145.158
+80;Infections aiguës majeures de l'œil;2;Affections des yeux;Médical;626;17
+82;Troubles oculaires excepté infections majeures;2;Affections des yeux;Médical;2.984;2.993
+89;Procédures majeures sur les os de la face et du crâne;3;Nez, gorge, oreilles;Chirurgical;1.968;25.133
+90;Procédures majeures du larynx et de la trachée;3;Nez, gorge, oreilles;Chirurgical;364;140
+91;Autres procédures majeures de la tête et du cou;3;Nez, gorge, oreilles;Chirurgical;661;56
+92;Procédures sur les os de la face, excepté procédures majeures des os du crâne ou de la face;3;Nez, gorge, oreilles;Chirurgical;5.395;23.110
+93;Procédures sur sinus et mastoïde;3;Nez, gorge, oreilles;Chirurgical;4.787;3.863
+95;Réparation de la fente labiale et du palais;3;Nez, gorge, oreilles;Chirurgical;166;19
+97;Procédures sur amygdales et végétations;3;Nez, gorge, oreilles;Chirurgical;7.584;31.348
+98;Autres procédures sur l'oreille, le nez, la bouche et la gorge;3;Nez, gorge, oreilles;Chirurgical;13.430;37.652
+110;Affections malignes de l'oreille, du nez, de la bouche, de la gorge, du crâne et de la face;3;Nez, gorge, oreilles;Médical;1.593;1.486
+111;Vertige et autres troubles labyrinthiques;3;Nez, gorge, oreilles;Médical;5.791;64
+113;Infection des voies aériennes supérieures;3;Nez, gorge, oreilles;Médical;23.633;907
+114;Maladies et lésions dentaires et buccales;3;Nez, gorge, oreilles;Médical;4.424;119.410
+115;Autres diagnostics de l'oreille, du nez, de la bouche, de la gorge, du crâne et de la face;3;Nez, gorge, oreilles;Médical;63.276;8.057
+120;Interventions majeures sur le système respiratoire et le thorax;4;Système respiratoire;Chirurgical;3.606;291
+121;Autres interventions sur le système respiratoire et le thorax;4;Système respiratoire;Chirurgical;3.971;415
+130;Affection du système respiratoire avec assistance ventilatoire pendant plus de 96 heures;4;Système respiratoire;Médical;985;0
+131;Mucoviscidose (cystic fibrosis) - maladie pulmonaire;4;Système respiratoire;Médical;877;35
+132;Dysplasie bronchopulmonaire et autres maladies respiratoires chroniques apparaissant en période périnatale;4;Système respiratoire;Médical;116;7
+133;Insuffisance respiratoire;4;Système respiratoire;Médical;1.097;9
+134;Embolie pulmonaire;4;Système respiratoire;Médical;5.456;19
+135;Traumatisme majeur thoracique et respiratoire;4;Système respiratoire;Médical;3.916;13
+136;Affection maligne respiratoire;4;Système respiratoire;Médical;8.134;4.818
+137;Inflammations et infections majeures du système respiratoire;4;Système respiratoire;Médical;8.861;238
+138;Bronchiolite et pneumonie à virus respiratoire syncytial (RSV);4;Système respiratoire;Médical;13.145;36
+139;Autre pneumonie;4;Système respiratoire;Médical;33.209;168
+140;Maladie pulmonaire obstructive chronique;4;Système respiratoire;Médical;32.124;945
+141;Asthme;4;Système respiratoire;Médical;5.324;120
+142;Maladie pulmonaire interstitielle et alvéolaire;4;Système respiratoire;Médical;2.016;422
+143;Autres diagnostics respiratoires excepté les signes, symptômes et diagnostics mineurs;4;Système respiratoire;Médical;5.953;1.380
+144;Signes respiratoires, symptômes et diagnostics mineurs;4;Système respiratoire;Médical;23.725;3.992
+160;Réparation majeure d'anomalie cardiaque par voie cardiothoracique;5;Système circulatoire;Chirurgical;127;0
+161;Implantation d'un défibrillateur cardiaque et d'un système d'assistance cardiaque;5;Système circulatoire;Chirurgical;1.761;17
+162;Procédures sur les valves cardiaques avec infarctus du myocarde aigu ou diagnostic principal complexe;5;Système circulatoire;Chirurgical;534;0
+163;Procédures sur les valves cardiaques sans cathétérisme cardiaque ni diagnostic principal complexe;5;Système circulatoire;Chirurgical;3.608;< 5
+165;Pontage coronarien avec infarctus aigu du myocarde ou diagnostic principal complexe;5;Système circulatoire;Chirurgical;1.021;0
+166;Pontage coronarien sans infarctus aigu du myocarde ni disgnostic principal complexe;5;Système circulatoire;Chirurgical;4.446;< 5
+167;Autres procédures cardiothoraciques et thoracovasculaires;5;Système circulatoire;Chirurgical;3.453;208
+169;Procédures vasculaires abdominales majeures;5;Système circulatoire;Chirurgical;2.255;26
+170;Implantation de pacemaker permanent avec infarctus aigu du myocarde, décompensation cardiaque ou choc;5;Système circulatoire;Chirurgical;383;< 5
+171;Implantation de pacemaker permanent sans infarctus aigu du myocarde ni décompensation cardiaque ni choc;5;Système circulatoire;Chirurgical;6.893;22
+174;Procédures coronariennes percutanées avec infarctus aigu du myocarde;5;Système circulatoire;Chirurgical;9.135;520
+175;Procédures coronariennes percutanées sans infarctus aigu du myocarde;5;Système circulatoire;Chirurgical;29.204;2.163
+176;Remplacement de pacemaker et de défibrillateur cardiaque;5;Système circulatoire;Chirurgical;2.286;394
+177;Révision de pacemaker et de défibrillateur cardiaque excepté remplacement d'appareil;5;Système circulatoire;Chirurgical;787;81
+180;Autres procédures sur le système circulatoire;5;Système circulatoire;Chirurgical;2.855;19.858
+181;Procédures sur les artères des membres inférieurs;5;Système circulatoire;Chirurgical;18.840;1.393
+182;Autres procédures sur les vaisseaux périphériques;5;Système circulatoire;Chirurgical;4.734;4.627
+190;Infarctus aigu du myocarde;5;Système circulatoire;Médical;7.038;632
+191;Cathétérisme cardiaque pour maladie coronarienne;5;Système circulatoire;Médical;12.312;15.671
+192;Cathétérisme cardiaque pour autre maladie non coronarienne;5;Système circulatoire;Médical;14.418;6.833
+193;Endocardite aiguë et subaiguë;5;Système circulatoire;Médical;217;< 5
+194;Insuffisance cardiaque;5;Système circulatoire;Médical;24.147;68
+196;Arrêt cardiaque et choc;5;Système circulatoire;Médical;1.090;77
+197;Troubles vasculaires périphériques et autres;5;Système circulatoire;Médical;5.330;1.944
+198;Angine de poitrine et athérosclérose coronarienne;5;Système circulatoire;Médical;4.150;118
+199;Hypertension;5;Système circulatoire;Médical;2.722;73
+200;Maladies cardiaques structurelles et valvulaires;5;Système circulatoire;Médical;1.359;208
+201;Arythmie cardiaque et troubles de conduction;5;Système circulatoire;Médical;19.229;7.134
+203;Douleur thoracique;5;Système circulatoire;Médical;4.500;170
+204;Syncope et collapsus;5;Système circulatoire;Médical;11.154;136
+205;Cardiomyopathie;5;Système circulatoire;Médical;412;16
+206;Dysfonctionnement, réaction et complication en rapport avec du matériel ou une procédure cardiaques ou vasculaires;5;Système circulatoire;Médical;1.314;433
+207;Autres diagnostics du système circulatoire;5;Système circulatoire;Médical;5.536;464
+220;Procédures majeures sur œsophage, estomac et duodénum;6;Système digestif;Chirurgical;3.833;305
+221;Procédures majeures sur l'intestin grêle et le gros intestin;6;Système digestif;Chirurgical;15.882;135
+222;Autres procédures surœsophage, estomac et duodénum;6;Système digestif;Chirurgical;4.925;710
+223;Autres procédures sur l'intestin grêle et le gros intestin;6;Système digestif;Chirurgical;4.291;2.609
+224;Lyse d'adhérences péritonéales;6;Système digestif;Chirurgical;1.745;111
+225;Appendicectomie;6;Système digestif;Chirurgical;13.144;290
+226;Procédures sur l'anus;6;Système digestif;Chirurgical;6.466;10.432
+227;Procédures pour hernie excepté hernies inguinale, fémorale et ombilicale;6;Système digestif;Chirurgical;8.245;3.207
+228;Procédures pour hernies inguinale, fémorale et ombilicale;6;Système digestif;Chirurgical;14.529;12.760
+229;Autres procédures sur le système digestif et au niveau abdominal;6;Système digestif;Chirurgical;3.138;918
+240;Affections malignes du tube digestif;6;Système digestif;Médical;7.024;8.286
+241;Ulcère peptique et gastrite;6;Système digestif;Médical;7.802;16.852
+242;Troubles majeurs de l'œsophage;6;Système digestif;Médical;736;442
+243;Autres troubles de l'œsophage;6;Système digestif;Médical;6.808;19.334
+244;Diverticulite et diverticulose;6;Système digestif;Médical;9.951;22.583
+245;Maladie inflammatoire de l'intestin;6;Système digestif;Médical;3.530;9.586
+246;Insuffisance vasculaire gastro-intestinale;6;Système digestif;Médical;1.365;149
+247;Obstruction intestinale;6;Système digestif;Médical;8.387;528
+248;Infections gastro-intestinales et péritonéales majeures;6;Système digestif;Médical;5.264;131
+249;Autres gastro-entérites, nausées et vomissements;6;Système digestif;Médical;31.360;8.242
+251;Douleur abdominale;6;Système digestif;Médical;5.936;8.550
+252;Dysfonctionnement, réaction et complication en rapport avec une procédure ou du matériel gastro-intestinaux;6;Système digestif;Médical;2.662;925
+253;Hémorragie gastro-intestinale autre et non spécifiée;6;Système digestif;Médical;2.894;2.196
+254;Autres diagnostics du système digestif;6;Système digestif;Médical;21.140;100.893
+260;Procédures majeures sur pancréas, foie et shunt;7;Foie, bile et pancréas;Chirurgical;2.770;128
+261;Procédures majeures des voies biliaires;7;Foie, bile et pancréas;Chirurgical;1.519;115
+262;Cholécystectomie excepté par voie laparascopique;7;Foie, bile et pancréas;Chirurgical;505;155
+263;Cholécystectomie laparoscopique;7;Foie, bile et pancréas;Chirurgical;20.106;1.823
+264;Autres procédures abdominales, sur système hépatobiliaire et pancréas;7;Foie, bile et pancréas;Chirurgical;2.843;1.125
+279;Coma hépatique et autres troubles hépatiques majeurs aigus;7;Foie, bile et pancréas;Médical;1.428;171
+280;Maladie hépatique alcoolique;7;Foie, bile et pancréas;Médical;3.771;282
+281;Affections malignes du système hépatobiliaire et du pancréas;7;Foie, bile et pancréas;Médical;4.946;2.962
+282;Troubles du pancréas excepté affections malignes;7;Foie, bile et pancréas;Médical;7.038;885
+283;Autres troubles du foie;7;Foie, bile et pancréas;Médical;2.722;1.125
+284;Troubles de la vésicule biliaire et des voies biliaires;7;Foie, bile et pancréas;Médical;10.767;948
+301;Remplacement d'articulation de la hanche;8;Système musculaire et tissu conjonctif;Chirurgical;31.155;30
+302;Remplacement d'articulation du genou;8;Système musculaire et tissu conjonctif;Chirurgical;26.855;44
+303;Arthrodèse dorsolombaire pour déviation du dos;8;Système musculaire et tissu conjonctif;Chirurgical;412;0
+304;Arthrodèse dorsolombaire excepté déviation du dos;8;Système musculaire et tissu conjonctif;Chirurgical;7.963;< 5
+305;Amputation des membres inférieurs, excepté amputation des seuls orteils;8;Système musculaire et tissu conjonctif;Chirurgical;1.249;5
+308;Réparation de fractures de la hanche et du fémur;8;Système musculaire et tissu conjonctif;Chirurgical;11.138;14
+309;Autres chirurgies significatives de la hanche et du fémur;8;Système musculaire et tissu conjonctif;Chirurgical;4.017;2.023
+310;Excision et décompression de disque intervertébral;8;Système musculaire et tissu conjonctif;Chirurgical;17.579;194
+312;Greffe cutanée, excepté sur la main, pour affections musculo-squelettique et du tissu conjonctif;8;Système musculaire et tissu conjonctif;Chirurgical;765;675
+313;Procédures au niveau du genou et de la jambe excepté le pied;8;Système musculaire et tissu conjonctif;Chirurgical;18.313;41.298
+314;Procédures au niveau du pied et des orteils;8;Système musculaire et tissu conjonctif;Chirurgical;16.716;8.098
+315;Procédures au niveau de l'épaule, du bras et de l'avant-bras excepté le remplacement d'une articulation;8;Système musculaire et tissu conjonctif;Chirurgical;36.827;15.514
+316;Procédures au niveau de la main et du poignet;8;Système musculaire et tissu conjonctif;Chirurgical;5.472;33.111
+317;Procédures au niveau des tendons, muscles et autres tissus mous;8;Système musculaire et tissu conjonctif;Chirurgical;10.490;10.694
+320;Autres procédures du système musculo-squelettique et du tissu conjonctif;8;Système musculaire et tissu conjonctif;Chirurgical;11.556;10.947
+321;Arthrodèse cervicale et autres procédures sur le cou/dos, excepté excision/décompression de disques intervertébraux;8;Système musculaire et tissu conjonctif;Chirurgical;7.036;82
+322;Remplacement de l'articulation de l'épaule et du coude;8;Système musculaire et tissu conjonctif;Chirurgical;1.437;43
+340;Fractures du fémur;8;Système musculaire et tissu conjonctif;Médical;1.745;12
+341;Fracture du bassin ou luxation de la hanche;8;Système musculaire et tissu conjonctif;Médical;3.661;12
+342;Fracture ou luxation excepté du fémur, du bassin et du dos;8;Système musculaire et tissu conjonctif;Médical;8.812;3.874
+343;Affection maligne musculo-squelletique et fractures pathologiques liées à ce type d'affection;8;Système musculaire et tissu conjonctif;Médical;2.423;1.396
+344;Ostéomyélite, arthrite septique et autres infections musculo-squelettiques;8;Système musculaire et tissu conjonctif;Médical;1.762;114
+346;Troubles du tissu conjonctif;8;Système musculaire et tissu conjonctif;Médical;3.478;2.710
+347;Autres troubles, fractures et lésions du dos et du cou;8;Système musculaire et tissu conjonctif;Médical;19.014;44.670
+349;Dysfonctionnement, réaction et complication dues à du matériel ou à une procédure orthopédique;8;Système musculaire et tissu conjonctif;Médical;2.509;539
+351;Autres diagnostics concernant le système musculo-squelettique et le tissu conjonctif;8;Système musculaire et tissu conjonctif;Médical;14.061;9.208
+361;Greffe cutanée pour affections de la peau et du tissu sous-cutané;9;Peau, tissu sous-cutané, sein;Chirurgical;5.068;10.462
+362;Procédures de mastectomie;9;Peau, tissu sous-cutané, sein;Chirurgical;4.892;429
+363;Procédures mammaires, excepté mastectomie;9;Peau, tissu sous-cutané, sein;Chirurgical;15.735;6.554
+364;Autres interventions sur la peau, les tissus sous-cutanés et apparentés;9;Peau, tissu sous-cutané, sein;Chirurgical;7.794;8.127
+380;Ulcères cutanés;9;Peau, tissu sous-cutané, sein;Médical;1.978;148
+381;Affections majeures de la peau;9;Peau, tissu sous-cutané, sein;Médical;821;594
+382;Affections malignes du sein;9;Peau, tissu sous-cutané, sein;Médical;1.178;4.598
+383;Cellulite et autres infections de la peau;9;Peau, tissu sous-cutané, sein;Médical;13.268;2.882
+384;Contusion, plaie ouverte et autres traumatismes de la peau et du tissu sous-cutané;9;Peau, tissu sous-cutané, sein;Médical;7.708;3.622
+385;Autres affections de la peau, du tissu sous-cutané et du sein;9;Peau, tissu sous-cutané, sein;Médical;5.334;19.108
+401;Procédures sur les surrénales et l'hypophyse;10;Maladies endocriniennes, nutritionnelles et métaboliques;Chirurgical;633;5
+403;Procédures pour obésité;10;Maladies endocriniennes, nutritionnelles et métaboliques;Chirurgical;16.170;388
+404;Procédures sur la thyroïde, les parathyroïdes et le canal thyréoglosse;10;Maladies endocriniennes, nutritionnelles et métaboliques;Chirurgical;6.834;45
+405;Autres procédures pour troubles endocriniens, nutritionnels et métaboliques;10;Maladies endocriniennes, nutritionnelles et métaboliques;Chirurgical;363;40
+420;Diabète;10;Maladies endocriniennes, nutritionnelles et métaboliques;Médical;11.142;61
+421;Malnutrition, retard staturopondéral et autres troubles nutritionnels;10;Maladies endocriniennes, nutritionnelles et métaboliques;Médical;6.365;1.872
+422;Hypovolémie et troubles électrolytiques associés;10;Maladies endocriniennes, nutritionnelles et métaboliques;Médical;5.498;< 5
+423;Anomalies congénitales du métabolisme;10;Maladies endocriniennes, nutritionnelles et métaboliques;Médical;518;280
+424;Autres troubles endocriniens;10;Maladies endocriniennes, nutritionnelles et métaboliques;Médical;3.401;280
+425;Autres troubles électrolytiques sauf ceux associés à l'hypovolémie;10;Maladies endocriniennes, nutritionnelles et métaboliques;Médical;4.294;21
+440;Transplantation rénale;11;Reins et voies urinaires;Chirurgical;504;0
+441;Procédures majeures sur la vessie;11;Reins et voies urinaires;Chirurgical;1.640;106
+442;Procédures sur les reins et les voies urinaires pour affections malignes;11;Reins et voies urinaires;Chirurgical;2.211;47
+443;Procédures sur les reins et les voies urinaires pour affections bénignes;11;Reins et voies urinaires;Chirurgical;9.676;9.057
+444;Procédure uniquement pour matériel de voie d'accès de dialyse rénale;11;Reins et voies urinaires;Chirurgical;889;407
+445;Autres procédures sur la vessie;11;Reins et voies urinaires;Chirurgical;1.423;422
+446;Procédures urétrales et transurétrales;11;Reins et voies urinaires;Chirurgical;13.990;4.050
+447;Autres procédures du rein, des voies urinaires et apparentées;11;Reins et voies urinaires;Chirurgical;532;121
+461;Affection maligne des reins et des voies urinaires;11;Reins et voies urinaires;Médical;1.966;3.750
+462;Néphrite et néphrose;11;Reins et voies urinaires;Médical;935;237
+463;Infections des reins et des voies urinaires;11;Reins et voies urinaires;Médical;24.552;1.045
+465;Lithiases urinaires et obstruction acquise du tractus urinaire supérieur;11;Reins et voies urinaires;Médical;11.674;12.427
+466;Dysfonctionnement, réaction et complication de matériel ou de procédure génito-urinaire;11;Reins et voies urinaires;Médical;2.706;521
+468;Autres diagnostics, signes et symptômes du rein et des voies urinaires;11;Reins et voies urinaires;Médical;10.777;19.960
+469;Lésion aiguë du rein;11;Reins et voies urinaires;Médical;2.725;22
+470;Maladie rénale chronique;11;Reins et voies urinaires;Médical;2.707;759
+480;Procédures majeures sur le petit bassin chez l'homme;12;Organes génitaux masculins;Chirurgical;4.114;6
+481;Procédures sur le pénis;12;Organes génitaux masculins;Chirurgical;1.187;2.665
+482;Prostatectomie transurétrale;12;Organes génitaux masculins;Chirurgical;8.121;76
+483;Procédures sur les testicules et le scrotum;12;Organes génitaux masculins;Chirurgical;2.179;5.613
+484;Autres interventions sur le système reproducteur masculin et interventions apparentées;12;Organes génitaux masculins;Chirurgical;2.089;317
+500;Affections malignes du système reproducteur masculin;12;Organes génitaux masculins;Médical;1.336;3.358
+501;Diagnostics du système reproducteur masculin sauf affections malignes;12;Organes génitaux masculins;Médical;5.495;40.377
+510;Éviscération pelvienne, hystérectomie radicale et autres procédures gynécologiques radicales;13;Organes génitaux féminins;Chirurgical;931;< 5
+511;Procédures sur l'utérus et ses annexes pour affections malignes des ovaires et des annexes;13;Organes génitaux féminins;Chirurgical;673;66
+512;Procédures sur l'utérus et ses annexes pour affections malignes excepté celles des ovaires et des annexes;13;Organes génitaux féminins;Chirurgical;1.155;101
+513;Procédures sur l'utérus et ses annexes pour affection non maligne excepté léiomyome;13;Organes génitaux féminins;Chirurgical;13.582;9.441
+514;Procédures reconstructrices du système reproducteur féminin;13;Organes génitaux féminins;Chirurgical;4.523;559
+517;Dilatation et curetage pour diagnostics non-obstétriques;13;Organes génitaux féminins;Chirurgical;657;7.324
+518;Autres procédures sur le système reproducteur féminin et procédures apparentées;13;Organes génitaux féminins;Chirurgical;1.953;5.333
+519;Procédures sur l'utérus et ses annexes pour léiomyome;13;Organes génitaux féminins;Chirurgical;4.645;1.112
+530;Affection maligne du système reproducteur féminin;13;Organes génitaux féminins;Médical;1.312;1.343
+531;Infections du système reproducteur féminin;13;Organes génitaux féminins;Médical;870;353
+532;Troubles menstruels et autres troubles du système reproducteur féminin;13;Organes génitaux féminins;Médical;1.843;10.154
+540;Accouchement par césarienne;14;Grossesse et accouchement;Chirurgical;24.897;79
+541;Accouchement par voie vaginale avec stérilisation et/ou dilatation et curetage;14;Grossesse et accouchement;Chirurgical;2.677;127
+542;Accouchement par voie vaginale avec procédure compliquée, excepté stérilisation et dilatation-curetage;14;Grossesse et accouchement;Chirurgical;1.693;19
+544;Dilatation et curetage, curetage par aspiration ou hystérotomie pour diagnostics obstétricaux;14;Grossesse et accouchement;Chirurgical;1.554;8.797
+545;Procédure pour grossesse ectopique;14;Grossesse et accouchement;Chirurgical;1.291;138
+546;Autres procédures opératoires pour diagnostics obstétricaux excepté accouchement;14;Grossesse et accouchement;Chirurgical;500;329
+560;Accouchement par voie vaginale;14;Grossesse et accouchement;Médical;88.053;1.883
+561;Diagnostics du post-partum et post-avortement, sans procédure;14;Grossesse et accouchement;Médical;1.880;97
+563;Travail prématuré;14;Grossesse et accouchement;Médical;3.565;14
+564;Avortement, sans dilatation-curetage, ni curetage par aspiration, ni hystérotomie;14;Grossesse et accouchement;Médical;879;213
+565;Faux travail;14;Grossesse et accouchement;Médical;1.176;16
+566;Autres diagnostics en antepartum;14;Grossesse et accouchement;Médical;12.735;1.984
+580;Nouveau-né, transféré dans les 5 jours, né ailleurs;15;Nouveau-nés, affections d'origine périnatale;Médical;177;< 5
+581;Nouveau-né, transféré dans les 5 jours, né sur place;15;Nouveau-nés, affections d'origine périnatale;Médical;31;6
+583;Nouveau-né, avec oxygénation par membrane extracorporelle (ECMO);15;Nouveau-nés, affections d'origine périnatale;Chirurgical;21;0
+588;Nouveau-né, poids de naissance < 1 500 g avec procédure majeure;15;Nouveau-nés, affections d'origine périnatale;Chirurgical;98;0
+589;Nouveau-né, poids de naissance < 500 g ou âge gestationnel < 24 semaines;15;Nouveau-nés, affections d'origine périnatale;Médical;43;0
+591;Nouveau-né, poids de naissance 500-749 g sans procédure majeure;15;Nouveau-nés, affections d'origine périnatale;Médical;104;0
+593;Nouveau-né, poids de naissance 750-999 g sans procédure majeure;15;Nouveau-nés, affections d'origine périnatale;Médical;244;0
+602;Nouveau-né, poids de naissance 1 000-1 249 g avec syndrome de détresse respiratoire, autre anomalie respiratoire majeure ou anomalie majeure;15;Nouveau-nés, affections d'origine périnatale;Médical;185;0
+603;Nouveau-né, poids de naissance 1 000-1 249 g avec ou sans autre affection significative;15;Nouveau-nés, affections d'origine périnatale;Médical;64;0
+607;Nouveau-né, poids de naissance 1 250-1 499 g avec syndrome de détresse respiratoire, autre anomalie respiratoire majeure ou autre anomalie majeure;15;Nouveau-nés, affections d'origine périnatale;Médical;326;0
+608;Nouveau-né, poids de naissance 1 250-1 499 g avec ou sans autre affection significative;15;Nouveau-nés, affections d'origine périnatale;Médical;116;0
+609;Nouveau-né, poids de naissance 1 500-2 499 g avec procédure majeure;15;Nouveau-nés, affections d'origine périnatale;Chirurgical;100;0
+611;Nouveau-né, poids de naissance 1 500-1 999 g avec anomalie majeure;15;Nouveau-nés, affections d'origine périnatale;Médical;172;0
+612;Nouveau-né, poids de naissance 1 500-1 999 g avec syndrome de détresse respiratoire ou autre affection respiratoire majeure;15;Nouveau-nés, affections d'origine périnatale;Médical;357;0
+613;Nouveau-né, poids de naissance 1 500-1 999 g avec infection congénitale ou périnatale;15;Nouveau-nés, affections d'origine périnatale;Médical;55;0
+614;Autre nouveau-né, poids de naissance 1 500-1 999 g avec ou sans autre affection significative;15;Nouveau-nés, affections d'origine périnatale;Médical;425;0
+621;Nouveau-né, poids de naissance 2 000-2 499 g avec anomalie majeure;15;Nouveau-nés, affections d'origine périnatale;Médical;164;0
+622;Nouveau-né, poids de naissance 2 000-2 499 g avec syndrome de détresse respiratoire ou autre affection respiratoire majeure;15;Nouveau-nés, affections d'origine périnatale;Médical;307;0
+623;Nouveau-né, poids de naissance 2 000-2 499 g avec infection congénitale ou périnatale;15;Nouveau-nés, affections d'origine périnatale;Médical;46;0
+625;Nouveau-né, poids de naissance 2 000-2 499 g, né sur place, avec autre affection significative;15;Nouveau-nés, affections d'origine périnatale;Médical;218;0
+626;Nouveau-né, poids de naissance 2 000-2 499 g, normal ou nouveau-né avec autre problème;15;Nouveau-nés, affections d'origine périnatale;Médical;496;0
+630;Nouveau-né, poids de naissance > 2 499 g avec procédure cardiovasculaire majeure;15;Nouveau-nés, affections d'origine périnatale;Chirurgical;116;0
+631;Nouveau-né, poids de naissance > 2 499 g avec autre procédure majeure;15;Nouveau-nés, affections d'origine périnatale;Chirurgical;125;0
+633;Nouveau-né, poids de naissance > 2 499 g avec anomalie majeure;15;Nouveau-nés, affections d'origine périnatale;Médical;474;0
+634;Nouveau-né, poids de naissance > 2 499 g avec syndrome de détresse respiratoire ou autre affection respiratoire majeure;15;Nouveau-nés, affections d'origine périnatale;Médical;680;0
+636;Nouveau-né, poids de naissance > 2 499 g avec infection congénitale ou périnatale;15;Nouveau-nés, affections d'origine périnatale;Médical;234;0
+639;Nouveau-né, poids de naissance > 2 499 g avec autre affection significative;15;Nouveau-nés, affections d'origine périnatale;Médical;732;0
+640;Nouveau-né, poids de naissance > 2 499 g, normal et avec autres problèmes;15;Nouveau-nés, affections d'origine périnatale;Médical;2.153;15
+650;Splénectomie;16;Sang et organes hématopoïétiques;Chirurgical;191;0
+651;Autres procédures concernant le sang et les organes hématopoïétiques;16;Sang et organes hématopoïétiques;Chirurgical;809;850
+660;Diagnostics hématologiques et immunologiques majeurs excepté crise drépanocytaire et coagulation;16;Sang et organes hématopoïétiques;Médical;4.070;4.756
+661;Troubles de la coagulation et des plaquettes;16;Sang et organes hématopoïétiques;Médical;1.174;1.724
+662;Crise d'anémie à cellules falciformes;16;Sang et organes hématopoïétiques;Médical;939;63
+663;Autres anémies et troubles sanguins, troubles des organes hématopoïétiques;16;Sang et organes hématopoïétiques;Médical;10.341;19.773
+680;Procédures opératoires majeures pour néoplasie lymphatique, hématopoïétique ou autre;17;Maladies myéloprolifératives, néoplasmes peu différenciés;Chirurgical;951;48
+681;Autres procédures opératoires pour néoplasie lymphatique, hématopoïétique ou autre;17;Maladies myéloprolifératives, néoplasmes peu différenciés;Chirurgical;3.751;1.855
+690;Leucémie aiguë;17;Maladies myéloprolifératives, néoplasmes peu différenciés;Médical;1.117;4.080
+691;Lymphome, myélome et leucémie non aiguë;17;Maladies myéloprolifératives, néoplasmes peu différenciés;Médical;3.278;7.597
+692;Radiothérapie;17;Maladies myéloprolifératives, néoplasmes peu différenciés;Médical;460;259
+694;Affections malignes lymphatiques et autres et néoplasmes de comportement incertain;17;Maladies myéloprolifératives, néoplasmes peu différenciés;Médical;2.771;14.837
+695;Chimiothérapie pour leucémie aiguë;17;Maladies myéloprolifératives, néoplasmes peu différenciés;Médical;1.204;8.312
+696;Autre chimiothérapie;17;Maladies myéloprolifératives, néoplasmes peu différenciés;Médical;21.581;419.178
+710;Infections et maladies parasitaires incluant le HIV avec procédure opératoire;18;Maladies infectieuses et parasitaires;Chirurgical;3.069;116
+711;Infections post-opératoires, post-traumatiques ou d'autre matériel avec procédure opératoire;18;Maladies infectieuses et parasitaires;Chirurgical;2.318;480
+720;Septicémie et infections disséminées;18;Maladies infectieuses et parasitaires;Médical;13.465;15
+721;Infections post-opératoires, post-traumatiques ou d'autre matériel;18;Maladies infectieuses et parasitaires;Médical;4.099;432
+722;Fièvre;18;Maladies infectieuses et parasitaires;Médical;3.687;30
+723;Maladie virale;18;Maladies infectieuses et parasitaires;Médical;10.573;38
+724;Autres maladies infectieuses et parasitaires;18;Maladies infectieuses et parasitaires;Médical;3.488;264
+740;Diagnostic de maladie mentale avec procédure opératoire;19;Troubles mentaux;Chirurgical;908;58
+750;Schizophrénie;19;Troubles mentaux;Médical;569;49
+751;Troubles dépressifs majeurs et psychoses autres ou non spécifiées;19;Troubles mentaux;Médical;2.661;776
+752;Troubles de la personnalité et du contrôle des impulsions;19;Troubles mentaux;Médical;432;< 5
+753;Troubles bipolaires;19;Troubles mentaux;Médical;1.374;578
+754;Dépression, excepté trouble dépressif majeur;19;Troubles mentaux;Médical;2.738;268
+755;Troubles de l'ajustement et névroses, excepté diagnostics dépressifs;19;Troubles mentaux;Médical;2.689;138
+756;États d'anxiété et de délire aigus;19;Troubles mentaux;Médical;3.845;20
+757;Troubles organiques de la santé mentale;19;Troubles mentaux;Médical;4.941;196
+758;Troubles comportementaux;19;Troubles mentaux;Médical;655;23
+759;Troubles de la nutrition;19;Troubles mentaux;Médical;338;5
+760;Autres troubles de la santé mentale;19;Troubles mentaux;Médical;4.899;368
+770;Abus d'alcool et de drogues avec dépendance, sortie contre avis médical;20;Alcoolisme et usage de drogue;Médical;562;< 5
+772;Dépendance à l'alcool et aux drogues avec revalidation ou revalidation et désintoxication;20;Alcoolisme et usage de drogue;Médical;1.612;0
+773;Abus d'opiacés et dépendance;20;Alcoolisme et usage de drogue;Médical;603;< 5
+774;Abus de cocaïne et dépendance;20;Alcoolisme et usage de drogue;Médical;545;< 5
+775;Abus d'alcool et dépendance;20;Alcoolisme et usage de drogue;Médical;8.527;19
+776;Abus d'autres drogues et dépendance;20;Alcoolisme et usage de drogue;Médical;1.043;11
+791;Procédures opératoires pour autres complications de traitement;21;Traumatismes, empoisonnements, effets toxiques des médicaments;Chirurgical;4.417;1.506
+811;Réactions allergiques;21;Traumatismes, empoisonnements, effets toxiques des médicaments;Médical;1.479;9
+812;Empoisonnement par agents médicamenteux;21;Traumatismes, empoisonnements, effets toxiques des médicaments;Médical;11.139;41
+813;Autres complications de traitement;21;Traumatismes, empoisonnements, effets toxiques des médicaments;Médical;5.299;1.285
+815;Autres diagnostics de blessure, empoisonnement, effets toxiques;21;Traumatismes, empoisonnements, effets toxiques des médicaments;Médical;2.451;81
+816;Effets toxiques de substances non médicamenteuses;21;Traumatismes, empoisonnements, effets toxiques des médicaments;Médical;2.005;22
+841;Brûlures extensives du troisième degré avec greffe de peau;22;Brûlures;Chirurgical;17;0
+842;Brûlures avec greffe de peau excepté brûlures extensives du troisième degré;22;Brûlures;Chirurgical;289;80
+843;Brûlures extensives du troisième degré ou de « l'épaisseur totale » sans greffe de peau;22;Brûlures;Médical;15;< 5
+844;Brûlures de « l'épaisseur partielle » sans greffe de peau;22;Brûlures;Médical;738;51
+850;Procédure avec diagnostic de rééducation, suites de soins ou autre contact avec les services de santé;23;Facteurs influençant la santé;Chirurgical;10.325;38.099
+860;Rééducation;23;Facteurs influençant la santé;Médical;12.597;9
+861;Signes, symptômes et autres facteurs influençant l'état de santé;23;Facteurs influençant la santé;Médical;34.852;267.289
+862;Autre suivi de soins et convalescence;23;Facteurs influençant la santé;Médical;20.549;68.085
+863;Suivi de soins néonatal;23;Facteurs influençant la santé;Médical;938;9
+890;HIV avec affections majeures multiples en rapport avec le HIV;24;Infections HIV;Médical;158;< 5
+892;HIV avec une affection majeure en rapport avec le HIV;24;Infections HIV;Médical;277;80
+893;HIV avec affections significatives multiples en rapport avec le HIV;24;Infections HIV;Médical;51;0
+894;HIV avec une seule ou aucune affection significative en rapport avec le HIV;24;Infections HIV;Médical;381;61
+910;Craniotomie pour polytraumatisme significatif;25;Traumatismes multiples;Chirurgical;203;< 5
+911;Procédure abdominale ou thoracique extensive pour polytraumatisme significatif;25;Traumatismes multiples;Chirurgical;215;< 5
+912;Procédures musculo-squelettiques et autres pour polytraumatisme significatif;25;Traumatismes multiples;Chirurgical;1.312;< 5
+930;Polytraumatisme significatif sans procédure opératoire;25;Traumatismes multiples;Médical;1.327;14
+950;Procédure extensive sans relation avec le diagnostic principal;0;Groupe résiduel;Chirurgical;4.813;1.565
+951;Procédure modérément étendue sans relation avec le diagnostic principal;0;Groupe résiduel;Chirurgical;14.119;3.529
+952;Procédure non extensive sans relation avec le diagnostic principal;0;Groupe résiduel;Chirurgical;5.384;3.061
+955;Diagnostic principal non valable comme diagnostic de sortie;0;Groupe résiduel;Autre;47;7
+956;Séjour non groupable;0;Groupe résiduel;Autre;92;59
+AAA;Psychiatrie (A, K, T);SS;DRG spéciaux;Autre;0;0
+DDD;Enregistrement provisoire;SS;DRG spéciaux;Autre;0;0
+MMM;Hospitalisation de jour;SS;DRG spéciaux;Autre;0;7.262
+UAA;Service d'urgence en psychiatrie;SS;DRG spéciaux;Autre;0;0
+UUU;Service d'urgence;SS;DRG spéciaux;Autre;0;0
+XXX;Diagnostic factice;SS;DRG spéciaux;Autre;0;0
+ZZZ;;;;;1.838.778;2.040.552

@@ -1,0 +1,328 @@
+﻿drg_34;drg_beschrijving;mdc_34;mdc_beschrijving;soort_diagnose;klassieke_hospitalisatie;daghospitalisatie
+1;Lever- en/of darmtransplantatie;PP;Pre-MDC;Chirurgisch;294;0
+2;Hart- en/of longtransplantatie;PP;Pre-MDC;Chirurgisch;195;0
+3;Beenmergtransplantatie;PP;Pre-MDC;Chirurgisch;972;< 5
+4;Extracorporele membraanoxygenatie of tracheostomie met langdurige mechanische ventilatie met extensieve procedure;PP;Pre-MDC;Chirurgisch;1.537;< 5
+5;Tracheostomie met langdurige mechanische ventilatie zonder extensieve procedure;PP;Pre-MDC;Chirurgisch;348;0
+6;Pancreastransplantatie;PP;Pre-MDC;Chirurgisch;11;0
+20;Craniotomie voor trauma;1;Zenuwstelsel;Chirurgisch;872;5
+21;Craniotomie behalve voor trauma;1;Zenuwstelsel;Chirurgisch;4.939;22
+22;Procedures op een ventriculaire shunt;1;Zenuwstelsel;Chirurgisch;609;0
+23;Spinale procedures;1;Zenuwstelsel;Chirurgisch;1.585;108
+24;Extracraniale vasculaire procedures;1;Zenuwstelsel;Chirurgisch;5.169;63
+26;Andere procedures op het zenuwstelsel en gerelateerde procedures;1;Zenuwstelsel;Chirurgisch;3.365;37.421
+40;Spinale stoornissen en letsels;1;Zenuwstelsel;Medisch;567;76
+41;Maligniteit van het zenuwstelsel;1;Zenuwstelsel;Medisch;3.154;416
+42;Degeneratieve stoornissen van het zenuwstelsel met uitzondering van multipele sclerose;1;Zenuwstelsel;Medisch;12.976;164
+43;Multipele sclerose en andere demyeliniserende ziekten;1;Zenuwstelsel;Medisch;4.180;279
+44;Intracraniële hemorragie;1;Zenuwstelsel;Medisch;3.508;48
+45;CVA en precerebrale occlusie met infarct;1;Zenuwstelsel;Medisch;15.357;37
+46;Niet specifieke CVA en precerebrale occlusie zonder infarct;1;Zenuwstelsel;Medisch;609;94
+47;Transitoire cerebrale ischemie (TIA);1;Zenuwstelsel;Medisch;7.684;44
+48;Stoornissen van de perifere, craniale en autonome zenuwen;1;Zenuwstelsel;Medisch;4.308;5.485
+49;Bacteriële en tuberculeuze infecties van het zenuwstelsel;1;Zenuwstelsel;Medisch;732;20
+50;Niet bacteriële infecties van het zenuwstelsel behalve virale meningitis;1;Zenuwstelsel;Medisch;959;51
+51;Virale meningitis;1;Zenuwstelsel;Medisch;1.299;< 5
+52;Niet-traumatische stupor en coma;1;Zenuwstelsel;Medisch;2.577;37
+53;Epileptisch insult;1;Zenuwstelsel;Medisch;16.694;387
+54;Migraine en andere hoofdpijn;1;Zenuwstelsel;Medisch;6.580;272
+55;Hoofdtrauma met coma > 1 uur of met hemorragie;1;Zenuwstelsel;Medisch;3.525;13
+56;Cerebrale contusie/laceratie en gecompliceerde schedelbreuk, met coma < 1 uur of zonder coma;1;Zenuwstelsel;Medisch;317;< 5
+57;Hersenschudding, gesloten schedelbreuk niet anders gespecificeerd, niet gecompliceerd intracraniaal letsel, coma < 1 uur of geen coma;1;Zenuwstelsel;Medisch;9.192;48
+58;Andere stoornissen van het zenuwstelsel;1;Zenuwstelsel;Medisch;20.019;1.463
+70;Procedures op de orbita;2;Oogaandoeningen;Chirurgisch;552;299
+73;Procedures op het oog behalve op de orbita;2;Oogaandoeningen;Chirurgisch;10.854;141.622
+80;Acute majeure ooginfecties;2;Oogaandoeningen;Medisch;658;11
+82;Oogstoornissen behalve majeure infecties;2;Oogaandoeningen;Medisch;2.951;3.131
+89;Majeure procedures op aangezichts- en schedelbeenderen;3;Neus, keel en oren;Chirurgisch;2.067;23.410
+90;Majeure procedures op larynx en trachea;3;Neus, keel en oren;Chirurgisch;335;156
+91;Andere majeure procedures op hoofd en hals;3;Neus, keel en oren;Chirurgisch;726;58
+92;Procedures op aangezichtsbeenderen, behalve majeure procedures op aangezichts- en schedelbeenderen;3;Neus, keel en oren;Chirurgisch;5.031;20.676
+93;Procedures op sinussen en mastoïd;3;Neus, keel en oren;Chirurgisch;4.973;3.584
+95;Palatoplastie en herstel van hazelip;3;Neus, keel en oren;Chirurgisch;171;30
+97;Procedures op tonsillen en adenoïden;3;Neus, keel en oren;Chirurgisch;7.784;33.869
+98;Andere procedures op oren, neus, mond en keel;3;Neus, keel en oren;Chirurgisch;13.403;37.716
+110;Maligne aandoeningen van oren, neus, mond, keel, schedel/aangezicht;3;Neus, keel en oren;Medisch;1.735;1.418
+111;Vertigo en andere labyrintstoornissen;3;Neus, keel en oren;Medisch;5.869;45
+113;Infecties bovenste luchtwegen;3;Neus, keel en oren;Medisch;20.529;944
+114;Dentale en orale ziekten en letsels;3;Neus, keel en oren;Medisch;4.362;117.270
+115;Andere diagnosen van oren, neus, mond, keel en schedel/aangezicht;3;Neus, keel en oren;Medisch;59.756;7.401
+120;Majeure thoracale en respiratoire procedures;4;Ademhalingsstelsel;Chirurgisch;3.585;249
+121;Andere respiratoire en thoracale procedures;4;Ademhalingsstelsel;Chirurgisch;3.784;418
+130;Diagnose van het respiratoire stelsel met kunstmatige beademing 96+ uur;4;Ademhalingsstelsel;Medisch;971;0
+131;Mucoviscidose (cystic fibrosis) - longziekte;4;Ademhalingsstelsel;Medisch;861;47
+132;Bronchopulmonale dysplasie en andere chronische respiratoire ziekten ontstaan in de perinatale periode;4;Ademhalingsstelsel;Medisch;133;5
+133;Respiratoire insufficiëntie;4;Ademhalingsstelsel;Medisch;1.109;8
+134;Longembolie;4;Ademhalingsstelsel;Medisch;5.449;20
+135;Majeur thoracaal en respiratoir trauma;4;Ademhalingsstelsel;Medisch;3.897;12
+136;Maligne respiratoire aandoening;4;Ademhalingsstelsel;Medisch;8.135;4.657
+137;Majeure respiratoire infecties en inflammaties;4;Ademhalingsstelsel;Medisch;8.613;223
+138;Bronchiolitis en respiratoir syncytiaal virus (RSV) pneumonie;4;Ademhalingsstelsel;Medisch;12.080;34
+139;Andere pneumonie;4;Ademhalingsstelsel;Medisch;30.789;159
+140;Chronische obstructieve longaandoeningen;4;Ademhalingsstelsel;Medisch;30.420;1.079
+141;Astma;4;Ademhalingsstelsel;Medisch;5.599;137
+142;Interstitiële en alveolaire longziekte;4;Ademhalingsstelsel;Medisch;2.048;395
+143;Andere respiratoire diagnosen behalve tekens, symptomen en mineure diagnosen;4;Ademhalingsstelsel;Medisch;6.116;1.296
+144;Respiratoire tekens, symptomen en mineure diagnosen;4;Ademhalingsstelsel;Medisch;24.916;4.256
+160;Majeur cardiothoracaal herstel van hartanomalie;5;Hart en vaatstelsel;Chirurgisch;106;< 5
+161;Inplantatie van hartdefibrillator en hartassistentiesyteem;5;Hart en vaatstelsel;Chirurgisch;1.634;18
+162;Procedures op hartkleppen met acuut myocardinfarct of complexe hoofddiagnose;5;Hart en vaatstelsel;Chirurgisch;508;0
+163;Procedures op hartkleppen zonder acuut myocardinfarct of complexe hoofddiagnose;5;Hart en vaatstelsel;Chirurgisch;3.607;< 5
+165;Coronaire overbrugging met acuut myocardinfarct of complexe hoofddiagnose;5;Hart en vaatstelsel;Chirurgisch;1.084;0
+166;Coronaire overbrugging zonder acuut myocardinfarct of complexe hoofddiagnose;5;Hart en vaatstelsel;Chirurgisch;4.749;0
+167;Andere cardiothoracale procedures en thoracovasculaire procedures;5;Hart en vaatstelsel;Chirurgisch;3.371;124
+169;Majeure abdominale vasculaire procedures;5;Hart en vaatstelsel;Chirurgisch;2.240;21
+170;Implantatie van permanente pacemaker met AMI, hartdecompensatie of shock;5;Hart en vaatstelsel;Chirurgisch;330;0
+171;Implanteren van permanente pacemaker zonder AMI, hartdecompensatie of shock;5;Hart en vaatstelsel;Chirurgisch;6.723;29
+174;Percutane coronaire procedures met acuut myocardinfarct;5;Hart en vaatstelsel;Chirurgisch;9.078;361
+175;Percutane coronaire procedures zonder acuut myocardinfarct;5;Hart en vaatstelsel;Chirurgisch;27.752;1.996
+176;Vervangen van pacemaker of defibrillator;5;Hart en vaatstelsel;Chirurgisch;2.345;399
+177;Revisie van pacemaker of defibrillator behalve toestel vervanging;5;Hart en vaatstelsel;Chirurgisch;750;55
+180;Andere procedures op het circulatoire systeem;5;Hart en vaatstelsel;Chirurgisch;2.930;19.663
+181;Procedures op de arteries van de onderste ledematen;5;Hart en vaatstelsel;Chirurgisch;19.342;1.305
+182;Andere perifere vasculaire procedures;5;Hart en vaatstelsel;Chirurgisch;4.852;4.902
+190;Acuut myocardinfarct;5;Hart en vaatstelsel;Medisch;7.317;537
+191;Hartkatheterisatie voor coronaire condities;5;Hart en vaatstelsel;Medisch;13.857;14.266
+192;Hartkatheterisatie voor andere niet-coronaire condities;5;Hart en vaatstelsel;Medisch;14.508;5.774
+193;Acute en subacute endocarditis;5;Hart en vaatstelsel;Medisch;248;< 5
+194;Hartfalen;5;Hart en vaatstelsel;Medisch;23.796;59
+196;Hartstilstand en shock;5;Hart en vaatstelsel;Medisch;1.257;101
+197;Perifere en andere vasculaire stoornissen;5;Hart en vaatstelsel;Medisch;5.583;2.141
+198;Angina pectoris en coronaire atherosclerose;5;Hart en vaatstelsel;Medisch;4.673;95
+199;Hypertensie;5;Hart en vaatstelsel;Medisch;2.778;55
+200;Structurele hartaandoeningen en kleplijden;5;Hart en vaatstelsel;Medisch;1.258;188
+201;Hartaritmie en geleidingsstoornissen;5;Hart en vaatstelsel;Medisch;19.858;6.433
+203;Thoracale pijn;5;Hart en vaatstelsel;Medisch;5.072;200
+204;Syncope en collaps;5;Hart en vaatstelsel;Medisch;10.940;104
+205;Cardiomyopathie;5;Hart en vaatstelsel;Medisch;419;15
+206;Dysfunctie, reactie en complicatie op cardiaal of vasculair toestel of procedure;5;Hart en vaatstelsel;Medisch;1.376;525
+207;Andere diagnosen van het circulatoir stelsel;5;Hart en vaatstelsel;Medisch;5.441;451
+220;Majeure procedures op oesofagus, maag en duodenum;6;Spijsverteringsstelsel;Chirurgisch;3.654;351
+221;Majeure procedures op dunne en dikke darm;6;Spijsverteringsstelsel;Chirurgisch;16.090;147
+222;Andere procedures op oesofagus, maag en duodenum;6;Spijsverteringsstelsel;Chirurgisch;4.913;776
+223;Andere procedures op dunne en dikke darm;6;Spijsverteringsstelsel;Chirurgisch;4.451;2.080
+224;Peritoneale adhesiolyse;6;Spijsverteringsstelsel;Chirurgisch;1.692;96
+225;Appendectomie;6;Spijsverteringsstelsel;Chirurgisch;13.003;290
+226;Anale procedures;6;Spijsverteringsstelsel;Chirurgisch;6.718;9.870
+227;Procedures voor hernia behalve voor hernia inguinalis, femoralis en umbilicalis;6;Spijsverteringsstelsel;Chirurgisch;8.192;3.126
+228;Procedures voor hernia inguinalis, femoralis en umbilicalis;6;Spijsverteringsstelsel;Chirurgisch;15.046;12.290
+229;Andere procedures op het spijsverteringsstelsel en abdomen;6;Spijsverteringsstelsel;Chirurgisch;3.028;890
+240;Maligne aandoeningen van het spijsverteringsstelsel;6;Spijsverteringsstelsel;Medisch;7.006;8.478
+241;Peptisch ulcus en gastritis;6;Spijsverteringsstelsel;Medisch;8.154;15.968
+242;Majeure slokdarmstoornissen;6;Spijsverteringsstelsel;Medisch;742;455
+243;Andere slokdarmstoornissen;6;Spijsverteringsstelsel;Medisch;7.310;19.298
+244;Diverticulitis en diverticulosis;6;Spijsverteringsstelsel;Medisch;9.973;21.942
+245;Inflammatoire darmziekte;6;Spijsverteringsstelsel;Medisch;3.531;9.189
+246;Gastro-intestinale vasculaire insufficiëntie;6;Spijsverteringsstelsel;Medisch;1.519;151
+247;Intestinale obstructie;6;Spijsverteringsstelsel;Medisch;8.283;503
+248;Majeure gastro-intestinale en peritoneale infecties;6;Spijsverteringsstelsel;Medisch;5.046;130
+249;Andere gastro-enteritis, misselijkheid en braken;6;Spijsverteringsstelsel;Medisch;32.017;7.775
+251;Abdominale pijn;6;Spijsverteringsstelsel;Medisch;6.390;8.944
+252;Dysfunctie, reactie op en complicatie van gastro-intestinaal toestel of procedure;6;Spijsverteringsstelsel;Medisch;2.641;881
+253;Andere en niet gespecificeerde gastro-intestinale hemorragie;6;Spijsverteringsstelsel;Medisch;2.898;2.261
+254;Andere diagnosen van spijsverteringsstelsel;6;Spijsverteringsstelsel;Medisch;21.439;103.167
+260;Majeure pancreas-, lever- en shuntprocedures;7;Lever, gal en pancreas;Chirurgisch;2.710;119
+261;Majeure procedures op de galwegen;7;Lever, gal en pancreas;Chirurgisch;1.447;99
+262;Cholecystectomie, behalve laparoscopisch;7;Lever, gal en pancreas;Chirurgisch;657;222
+263;Laparoscopische cholecystectomie;7;Lever, gal en pancreas;Chirurgisch;20.174;1.545
+264;Andere procedures op hepatobiliair stelsel en pancreas, abdominaal;7;Lever, gal en pancreas;Chirurgisch;2.804;1.003
+279;Hepatisch coma en andere majeure acute leverstoornissen;7;Lever, gal en pancreas;Medisch;1.354;190
+280;Alcoholische leverziekte;7;Lever, gal en pancreas;Medisch;3.767;275
+281;Maligne aandoeningen van het hepatobiliair stelsel en de pancreas;7;Lever, gal en pancreas;Medisch;5.086;2.573
+282;Stoornissen van de pancreas behalve maligne aandoeningen;7;Lever, gal en pancreas;Medisch;6.832;818
+283;Andere leverstoornissen;7;Lever, gal en pancreas;Medisch;2.787;1.090
+284;Stoornissen van de galblaas en de galwegen;7;Lever, gal en pancreas;Medisch;10.411;897
+301;Vervanging van heupgewricht;8;Bewegingsstelsel en bindweefsel;Chirurgisch;30.976;43
+302;Vervanging van kniegewricht;8;Bewegingsstelsel en bindweefsel;Chirurgisch;26.317;24
+303;Dorsolumbale arthrodese bij wervelkolomafwijkingen;8;Bewegingsstelsel en bindweefsel;Chirurgisch;376;0
+304;Dorsolumbale arthrodese behalve bij wervelkolomafwijkingen;8;Bewegingsstelsel en bindweefsel;Chirurgisch;8.563;< 5
+305;Amputatie van onderste lidmaat behalve tenen;8;Bewegingsstelsel en bindweefsel;Chirurgisch;1.202;11
+308;Herstellen van heup en femur fracturen;8;Bewegingsstelsel en bindweefsel;Chirurgisch;11.000;12
+309;Andere significante procedures op heup en femur;8;Bewegingsstelsel en bindweefsel;Chirurgisch;4.050;1.813
+310;Excisie en decompressie van discus intervertebralis;8;Bewegingsstelsel en bindweefsel;Chirurgisch;17.473;208
+312;Huidgreffe behalve op de hand, voor musculo-skeletaal en bindweefsel diagnosen;8;Bewegingsstelsel en bindweefsel;Chirurgisch;824;788
+313;Procedures op de knie en het onderbeen, behalve op de voet;8;Bewegingsstelsel en bindweefsel;Chirurgisch;18.875;42.790
+314;Procedures op voet en tenen;8;Bewegingsstelsel en bindweefsel;Chirurgisch;16.947;7.354
+315;Procedures op schouder, arm en voorarm behalve gewrichtsvervanging;8;Bewegingsstelsel en bindweefsel;Chirurgisch;36.846;14.437
+316;Procedures op hand en pols;8;Bewegingsstelsel en bindweefsel;Chirurgisch;5.548;32.247
+317;Procedures op pees, spier en andere weke weefsels;8;Bewegingsstelsel en bindweefsel;Chirurgisch;10.175;10.187
+320;Andere procedures op musculo-skeletaalstelsel en bindweefsel;8;Bewegingsstelsel en bindweefsel;Chirurgisch;11.223;11.547
+321;Cervicale artrodese en andere procedures op nek/rug, behalve excisie/decompressie discus intervertebralis;8;Bewegingsstelsel en bindweefsel;Chirurgisch;7.395;353
+322;Vervanging van schouder en elleboog gewricht;8;Bewegingsstelsel en bindweefsel;Chirurgisch;1.339;60
+340;Femurfracturen;8;Bewegingsstelsel en bindweefsel;Medisch;1.760;11
+341;Fracturen van het bekken of luxatie van de heup;8;Bewegingsstelsel en bindweefsel;Medisch;3.661;32
+342;Fracturen of luxatie, behalve femur, heup en bekken;8;Bewegingsstelsel en bindweefsel;Medisch;9.073;4.588
+343;Maligne aandoeningen van het musculoskeletaal stelsel en pathologische fracturen hierdoor.;8;Bewegingsstelsel en bindweefsel;Medisch;2.441;1.315
+344;Osteomyelitis, septische arthritis en andere musculo-skeletale infecties;8;Bewegingsstelsel en bindweefsel;Medisch;1.622;129
+346;Stoornissen van het bindweefsel;8;Bewegingsstelsel en bindweefsel;Medisch;3.463;2.336
+347;Andere stoornissen, breuken en letsels van de rug en van de nek;8;Bewegingsstelsel en bindweefsel;Medisch;20.223;51.338
+349;Dysfunctie, bijwerking en complicaties van orthopedisch toestel of procedure;8;Bewegingsstelsel en bindweefsel;Medisch;2.409;482
+351;Andere diagnosen van het musculo-skeletaal stelsel en bindweefsel;8;Bewegingsstelsel en bindweefsel;Medisch;14.042;9.053
+361;Huidgreffe voor huid en subcutaan weefsel diagnosen;9;Huid, subcutis, borstklier;Chirurgisch;5.072;10.039
+362;Mastectomie procedures;9;Huid, subcutis, borstklier;Chirurgisch;5.055;415
+363;Procedures op de borst, behalve mastectomie;9;Huid, subcutis, borstklier;Chirurgisch;15.473;6.333
+364;Andere procedures op huid, subcutaan weefsel en gerelateerde procedures;9;Huid, subcutis, borstklier;Chirurgisch;7.853;7.767
+380;Huidulcera;9;Huid, subcutis, borstklier;Medisch;2.004;85
+381;Majeure aandoeningen van de huid;9;Huid, subcutis, borstklier;Medisch;798;572
+382;Maligne aandoeningen van de mamma;9;Huid, subcutis, borstklier;Medisch;1.165;4.242
+383;Cellulitis en andere huidinfecties;9;Huid, subcutis, borstklier;Medisch;12.976;2.893
+384;Contusie, open wonde en andere trauma van de huid en van het subcutaan weefsel;9;Huid, subcutis, borstklier;Medisch;7.411;3.620
+385;Andere aandoeningen van de huid, het subcutaan weefsel en de mamma;9;Huid, subcutis, borstklier;Medisch;5.133;18.340
+401;Procedures op bijnieren en hypofyse;10;Endocriene, voedings- en stofwisselingsziekten;Chirurgisch;660;< 5
+403;Procedures voor obesitas;10;Endocriene, voedings- en stofwisselingsziekten;Chirurgisch;16.094;300
+404;Procedures op schildklier, bijschildklieren en ductus thyreoglossus;10;Endocriene, voedings- en stofwisselingsziekten;Chirurgisch;6.866;45
+405;Andere procedures bij endocriene, nutritionele en metabole stoornissen;10;Endocriene, voedings- en stofwisselingsziekten;Chirurgisch;330;30
+420;Diabetes;10;Endocriene, voedings- en stofwisselingsziekten;Medisch;11.064;68
+421;Malnutritie,  “failure to thrive” en andere nutritionele stoornissen;10;Endocriene, voedings- en stofwisselingsziekten;Medisch;6.434;1.922
+422;Hypovolemie en gerelateerde electrolytenstoornissen;10;Endocriene, voedings- en stofwisselingsziekten;Medisch;4.626;< 5
+423;Congenitale afwijkingen van het metabolisme;10;Endocriene, voedings- en stofwisselingsziekten;Medisch;521;237
+424;Andere endocriene stoornissen;10;Endocriene, voedings- en stofwisselingsziekten;Medisch;3.213;258
+425;Andere elektrolytenstoornissen behalve in verband met hypovolemie;10;Endocriene, voedings- en stofwisselingsziekten;Medisch;3.928;31
+440;Niertransplantatie;11;Nieren en urinewegen;Chirurgisch;487;0
+441;Majeure procedures op de blaas;11;Nieren en urinewegen;Chirurgisch;1.564;93
+442;Procedures op nier en urinewegen voor maligne aandoening;11;Nieren en urinewegen;Chirurgisch;2.169;52
+443;Procedures op nier en urinewegen voor niet maligne aandoening;11;Nieren en urinewegen;Chirurgisch;8.495;8.461
+444;Procedure enkel voor het aanleggen van een dialyse toegangsweg toestel;11;Nieren en urinewegen;Chirurgisch;1.021;384
+445;Andere procedures op de blaas;11;Nieren en urinewegen;Chirurgisch;1.448;374
+446;Transurethrale en urethrale procedures;11;Nieren en urinewegen;Chirurgisch;13.645;3.703
+447;Andere procedures op nieren, urinewegen en gerelateerde procedures;11;Nieren en urinewegen;Chirurgisch;553;89
+461;Maligne aandoening van de nier en urinewegen;11;Nieren en urinewegen;Medisch;2.002;3.314
+462;Nefritis en nefrose;11;Nieren en urinewegen;Medisch;884;130
+463;Infecties van de nier en de urinewegen;11;Nieren en urinewegen;Medisch;23.362;1.011
+465;Urinaire stenen en verworven bovenste urinewegobstructie;11;Nieren en urinewegen;Medisch;11.686;12.182
+466;Dysfunctie, reactie op en complicatie van genito-urinair toestel of procedure;11;Nieren en urinewegen;Medisch;2.627;520
+468;Andere nier en urinewegen diagnosen, tekens en symptomen;11;Nieren en urinewegen;Medisch;10.187;19.139
+469;Acute nierziekten;11;Nieren en urinewegen;Medisch;2.633;39
+470;Chronische nierziekten;11;Nieren en urinewegen;Medisch;2.683;639
+480;Majeure procedures in het kleine bekken bij de man;12;Mannelijke geslachtsorganen;Chirurgisch;4.138;7
+481;Procedures op de penis;12;Mannelijke geslachtsorganen;Chirurgisch;1.247;2.593
+482;Transurethrale prostatectomie;12;Mannelijke geslachtsorganen;Chirurgisch;8.161;100
+483;Procedures op de testes en het scrotum;12;Mannelijke geslachtsorganen;Chirurgisch;2.271;5.825
+484;Andere procedures op het mannelijk voortplantingsstelsel en gerelateerde procedures;12;Mannelijke geslachtsorganen;Chirurgisch;1.954;327
+500;Maligne aandoening van het mannelijk voortplantingsstelsel;12;Mannelijke geslachtsorganen;Medisch;1.374;3.082
+501;Diagnosen van het mannelijk voortplantingsstelsel behalve maligne aandoeningen;12;Mannelijke geslachtsorganen;Medisch;5.219;39.849
+510;Evisceratie van het kleine bekken, radicale hysterectomie en andere radicale gynaecologische procedures;13;Vrouwelijke geslachtsorganen;Chirurgisch;991;< 5
+511;Procedures op uterus/adnexen voor maligne aandoening van ovaria en adnexen;13;Vrouwelijke geslachtsorganen;Chirurgisch;699;41
+512;Procedures op uterus/adnexen voor maligne aandoening behalve ovaria en adnexen;13;Vrouwelijke geslachtsorganen;Chirurgisch;1.097;79
+513;Procedures op uterus/adnexen voor niet-maligne aandoening behalve leiomyoma;13;Vrouwelijke geslachtsorganen;Chirurgisch;14.105;8.954
+514;Reconstructieve procedures op het vrouwelijke voortplantingsstelsel;13;Vrouwelijke geslachtsorganen;Chirurgisch;4.361;487
+517;Dilatatie en curettage voor niet-verloskundige diagnosen;13;Vrouwelijke geslachtsorganen;Chirurgisch;696;7.602
+518;Andere procedures op het vrouwelijke voortplantingsstelsel en gerelateerde procedures;13;Vrouwelijke geslachtsorganen;Chirurgisch;2.039;5.271
+519;Procedures op uterus/adnexen voor leiomyoma;13;Vrouwelijke geslachtsorganen;Chirurgisch;4.701;1.076
+530;Maligne aandoening van het vrouwelijke voortplantingsstelsel;13;Vrouwelijke geslachtsorganen;Medisch;1.279;1.311
+531;Infecties van het vrouwelijke voortplantingsstelsel;13;Vrouwelijke geslachtsorganen;Medisch;940;470
+532;Menstruatiestoornissen en andere stoornissen van het vrouwelijke voortplantingsstelsel;13;Vrouwelijke geslachtsorganen;Medisch;1.998;10.532
+540;Bevalling met sectio caesarea;14;Zwangerschap en bevalling;Chirurgisch;24.989;70
+541;Vaginale bevalling met sterilisatie en/of dilatatie en curettage;14;Zwangerschap en bevalling;Chirurgisch;2.759;123
+542;Vaginale bevalling met gecompliceerde procedures behalve sterilisatie en/of dilatatie en curettage;14;Zwangerschap en bevalling;Chirurgisch;1.621;15
+544;Dilatatie en curettage, aspiratie curettage of hysterotomie voor verloskundige diagnosen;14;Zwangerschap en bevalling;Chirurgisch;1.660;9.065
+545;Procedure voor ectopische zwangerschap;14;Zwangerschap en bevalling;Chirurgisch;1.292;126
+546;Andere operatiezaal procedures voor verloskundige diagnosen behalve bevalling;14;Zwangerschap en bevalling;Chirurgisch;580;340
+560;Vaginale bevalling;14;Zwangerschap en bevalling;Medisch;88.804;1.818
+561;Diagnosen in het postpartum en post abortus, zonder ingrepen;14;Zwangerschap en bevalling;Medisch;1.840;118
+563;Vroegtijdige arbeid;14;Zwangerschap en bevalling;Medisch;3.854;10
+564;Abortus, zonder dilatatie en curettage, aspiratie curettage of hysterotomie;14;Zwangerschap en bevalling;Medisch;836;267
+565;Valse arbeid;14;Zwangerschap en bevalling;Medisch;1.213;15
+566;Andere diagnosen in het antepartum;14;Zwangerschap en bevalling;Medisch;12.011;1.982
+580;Pasgeborene, getransfereerd binnen 5 dagen, elders geboren;15;Neonati, perinatale aandoeningen;Medisch;85;0
+581;Pasgeborene, getransfereerd binnen 5 dagen, hier geboren;15;Neonati, perinatale aandoeningen;Medisch;41;8
+583;Pasgeborene, met extracorporele membraanoxygenatie (ECMO);15;Neonati, perinatale aandoeningen;Chirurgisch;14;0
+588;Pasgeborene, geboortegewicht < 1 500 g met majeure procedure;15;Neonati, perinatale aandoeningen;Chirurgisch;72;0
+589;Pasgeborene, geboortegewicht < 500 g of zwangerschapsduur < 24 weken;15;Neonati, perinatale aandoeningen;Medisch;33;0
+591;Pasgeborene, geboortegewicht 500-749 g zonder majeure procedure;15;Neonati, perinatale aandoeningen;Medisch;128;0
+593;Pasgeborene, geboortegewicht 750-999 g zonder majeure procedure;15;Neonati, perinatale aandoeningen;Medisch;214;0
+602;Pasgeborene, geboortegewicht 1 000-1 249 g met respiratoire distress syndroom/andere majeure respiratoire anomalie of majeure anomalie;15;Neonati, perinatale aandoeningen;Medisch;223;0
+603;Pasgeborene, geboortegewicht 1 000-1 249 g met of zonder andere significante aandoening;15;Neonati, perinatale aandoeningen;Medisch;60;0
+607;Pasgeborene, geboortegewicht 1 250-1 499 g met respiratoire distress syndroom/andere majeure respiratoire of majeure anomalie;15;Neonati, perinatale aandoeningen;Medisch;303;0
+608;Pasgeborene, geboortegewicht 1 250-1 499 g met of zonder andere significante aandoening;15;Neonati, perinatale aandoeningen;Medisch;141;0
+609;Pasgeborene, geboortegewicht 1 500-2 499 g met majeure procedure;15;Neonati, perinatale aandoeningen;Chirurgisch;60;0
+611;Pasgeborene, geboortegewicht 1 500-1 999 g met majeure anomalie;15;Neonati, perinatale aandoeningen;Medisch;183;0
+612;Pasgeborene, geboortegewicht 1 500-1 999 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Neonati, perinatale aandoeningen;Medisch;326;0
+613;Pasgeborene, geboortegewicht 1 500-1 999 g met congenitale of perinatale infecties;15;Neonati, perinatale aandoeningen;Medisch;56;0
+614;Andere pasgeborene, geboortegewicht 1 500-1 999 g met of zonder andere significante aandoening;15;Neonati, perinatale aandoeningen;Medisch;425;0
+621;Pasgeborene, geboortegewicht 2 000-2 499 g met majeure anomalie;15;Neonati, perinatale aandoeningen;Medisch;154;0
+622;Pasgeborene, geboortegewicht 2 000-2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Neonati, perinatale aandoeningen;Medisch;272;0
+623;Pasgeborene, geboortegewicht 2 000-2 499 g met congenitale of perinatale infectie;15;Neonati, perinatale aandoeningen;Medisch;63;0
+625;Pasgeborene, geboortegewicht 2 000-2 499 g, hier geboren, met andere significante aandoening;15;Neonati, perinatale aandoeningen;Medisch;278;0
+626;Pasgeborene, geboortegewicht 2 000-2 499 g, normale pasgeborene of pasgeborene met ander probleem;15;Neonati, perinatale aandoeningen;Medisch;427;< 5
+630;Pasgeborene, geboortegewicht > 2 499 g met majeure cardiovasculaire procedures;15;Neonati, perinatale aandoeningen;Chirurgisch;99;0
+631;Pasgeborene, geboortegewicht > 2 499 g met andere majeure procedure;15;Neonati, perinatale aandoeningen;Chirurgisch;112;< 5
+633;Pasgeborene, geboortegewicht > 2 499 g met majeure anomalie;15;Neonati, perinatale aandoeningen;Medisch;468;0
+634;Pasgeborene, geboortegewicht > 2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Neonati, perinatale aandoeningen;Medisch;682;0
+636;Pasgeborene, geboortegewicht > 2 499 g met congenitale of perinatale infecties;15;Neonati, perinatale aandoeningen;Medisch;270;0
+639;Pasgeborene, geboortegewicht > 2 499 g hier geboren, met andere significante aandoening;15;Neonati, perinatale aandoeningen;Medisch;738;0
+640;Pasgeborene, geboortegewicht > 2 499 g, normale pasgeborene of met ander probleem;15;Neonati, perinatale aandoeningen;Medisch;2.093;12
+650;Splenectomie;16;Bloed en bloedvormende organen;Chirurgisch;190;0
+651;Andere procedures op bloed en bloedvormende organen;16;Bloed en bloedvormende organen;Chirurgisch;879;818
+660;Majeure hemato-/immunologische diagnosen behalve crisis van sikkelcelanemie en coagulatie;16;Bloed en bloedvormende organen;Medisch;3.925;4.541
+661;Bloedstollingsstoornissen en bloedplaatjes;16;Bloed en bloedvormende organen;Medisch;1.206;1.630
+662;Crisis van sikkelcelanemie;16;Bloed en bloedvormende organen;Medisch;736;80
+663;Andere anemia en bloedstoornissen en hematopoietische organen;16;Bloed en bloedvormende organen;Medisch;10.230;18.277
+680;Majeure operatiezaal procedures voor lymfatische/hematopoietische/andere neoplasma;17;Myeloproliferatieve ziekten en weinig gedifferentieerde neoplasmata;Chirurgisch;962;37
+681;Andere operatiezaal procedures voor lymfatisch/hematopoietisch/andere neoplasma;17;Myeloproliferatieve ziekten en weinig gedifferentieerde neoplasmata;Chirurgisch;3.776;1.426
+690;Acute leukemie;17;Myeloproliferatieve ziekten en weinig gedifferentieerde neoplasmata;Medisch;1.041;3.808
+691;Lymfoom, myeloom en niet-acute leukemie;17;Myeloproliferatieve ziekten en weinig gedifferentieerde neoplasmata;Medisch;3.589;8.144
+692;Radiotherapie;17;Myeloproliferatieve ziekten en weinig gedifferentieerde neoplasmata;Medisch;548;327
+694;Lymphatisch en andere maligne aandoeningen en neoplasmata met onzeker gedrag;17;Myeloproliferatieve ziekten en weinig gedifferentieerde neoplasmata;Medisch;2.685;14.238
+695;Chemotherapie voor acute leukemie;17;Myeloproliferatieve ziekten en weinig gedifferentieerde neoplasmata;Medisch;1.178;6.833
+696;Andere chemotherapie;17;Myeloproliferatieve ziekten en weinig gedifferentieerde neoplasmata;Medisch;22.347;391.108
+710;Infectieuze en parasitaire ziekten, HIV met operatiezaal procedures inbegrepen;18;Infectie en parasitaire ziekten;Chirurgisch;2.882;108
+711;Postoperatieve, posttraumatische en andere toestel- infecties met operatiezaal procedures;18;Infectie en parasitaire ziekten;Chirurgisch;2.174;343
+720;Septicemie en gedissemineerde infecties;18;Infectie en parasitaire ziekten;Medisch;12.341;12
+721;Postoperatieve, posttraumatische en andere toestel infecties;18;Infectie en parasitaire ziekten;Medisch;3.974;358
+722;Koorts;18;Infectie en parasitaire ziekten;Medisch;3.683;30
+723;Virale ziekte;18;Infectie en parasitaire ziekten;Medisch;9.247;51
+724;Andere infectieuze en parasitaire ziekten;18;Infectie en parasitaire ziekten;Medisch;3.385;370
+740;Diagnosen van mentale ziekte met operatiezaal procedures;19;Psychische stoornissen;Chirurgisch;776;47
+750;Schizofrenie;19;Psychische stoornissen;Medisch;637;< 5
+751;Majeure depressieve stoornissen en andere/niet-gespecificeerde psychoses;19;Psychische stoornissen;Medisch;2.596;1.841
+752;Persoonlijkheidsstoornissen en impulscontrolestoornissen;19;Psychische stoornissen;Medisch;410;< 5
+753;Bipolaire stoornissen;19;Psychische stoornissen;Medisch;1.401;342
+754;Depressie, behalve majeure depressieve diagnosen;19;Psychische stoornissen;Medisch;2.860;137
+755;Aanpassingstoornis en neuroses, behalve depressieve diagnosen;19;Psychische stoornissen;Medisch;2.677;125
+756;Acute angst en delirante toestanden;19;Psychische stoornissen;Medisch;3.889;20
+757;Organische stoornissen van de geestelijke gezondheid;19;Psychische stoornissen;Medisch;4.969;142
+758;Gedragsstoornissen;19;Psychische stoornissen;Medisch;626;33
+759;Eetstoornissen;19;Psychische stoornissen;Medisch;290;8
+760;Andere stoornissen van de mentale gezondheid;19;Psychische stoornissen;Medisch;4.680;376
+770;Alcohol en drugs- misbruik of verslaving, ontslag tegen medisch advies;20;Alcohol en druggebruik;Medisch;633;< 5
+772;Alcohol en drugs- verslaving met revalidatietherapie of revalidatie/detoxificatietherapie;20;Alcohol en druggebruik;Medisch;1.520;< 5
+773;Misbruik van en verslaving aan opiaten;20;Alcohol en druggebruik;Medisch;579;< 5
+774;Misbruik van en verslaving aan cocaine;20;Alcohol en druggebruik;Medisch;484;< 5
+775;Misbruik van en verslaving aan alcohol;20;Alcohol en druggebruik;Medisch;8.928;70
+776;Misbruik van en verslaving aan andere drugs;20;Alcohol en druggebruik;Medisch;912;6
+791;Operatiezaal procedures voor andere complicaties van de behandeling;21;Ongevallen, vergiftigingen, toxische effecten van geneesmiddelen;Chirurgisch;4.381;1.569
+811;Allergische reacties;21;Ongevallen, vergiftigingen, toxische effecten van geneesmiddelen;Medisch;1.383;9
+812;Vergiftiging door geneesmiddellen;21;Ongevallen, vergiftigingen, toxische effecten van geneesmiddelen;Medisch;10.933;36
+813;Andere complicaties van de behandeling;21;Ongevallen, vergiftigingen, toxische effecten van geneesmiddelen;Medisch;5.017;1.184
+815;Andere diagnosen van letsels, vergiftigingen en toxische effecten;21;Ongevallen, vergiftigingen, toxische effecten van geneesmiddelen;Medisch;2.576;62
+816;Toxische effecten van niet-medische substanties;21;Ongevallen, vergiftigingen, toxische effecten van geneesmiddelen;Medisch;1.902;23
+841;Extensieve derde graad brandwonden met huidgreffe;22;Brandwonden;Chirurgisch;16;0
+842;Brandwonden met huidgreffe behalve extensieve derde graad brandwonden;22;Brandwonden;Chirurgisch;282;61
+843;Extensieve derde graad of “full thickness” brandwonden zonder huidgreffe;22;Brandwonden;Medisch;14;< 5
+844;“Partial thickness” brandwonden zonder huidgreffe;22;Brandwonden;Medisch;766;56
+850;Procedures met diagnosen van revalidatie, nazorg of andere contacten met gezondheidsinstellingen;23;Factoren die de gezondheid beïnvloeden;Chirurgisch;11.119;36.398
+860;Revalidatie;23;Factoren die de gezondheid beïnvloeden;Medisch;11.885;12
+861;Tekens, symptomen en andere factoren met invloed op de gezondheidstoestand;23;Factoren die de gezondheid beïnvloeden;Medisch;36.785;242.780
+862;Andere nazorg en convalescentie;23;Factoren die de gezondheid beïnvloeden;Medisch;20.800;69.076
+863;Neonatale nazorg;23;Factoren die de gezondheid beïnvloeden;Medisch;989;13
+890;HIV met multipele majeure HIV gerelateerde aandoeningen;24;HIV infecties;Medisch;161;0
+892;HIV met majeure HIV gerelateerde aandoeningen;24;HIV infecties;Medisch;265;118
+893;HIV met multipele significante HIV gerelateerde aandoeningen;24;HIV infecties;Medisch;56;0
+894;HIV met een significante HIV aandoening of zonder significante gerelateerde aandoeningen;24;HIV infecties;Medisch;348;110
+910;Craniotomie voor multipele significante traumata;25;Multipele traumata;Chirurgisch;197;0
+911;Extensieve abdominale/thoracale procedures voor multipele significante traumata;25;Multipele traumata;Chirurgisch;214;< 5
+912;Musculo-skeletale en andere procedures voor multipele significante traumata;25;Multipele traumata;Chirurgisch;1.218;< 5
+930;Multipele significante traumata zonder operatiezaal procedures;25;Multipele traumata;Medisch;1.307;14
+950;Extensieve procedure zonder verband met de hoofddiagnose;0;Restgroep;Chirurgisch;4.960;1.542
+951;Matige uitgebreide procedure zonder verband met de hoofddiagnose;0;Restgroep;Chirurgisch;13.535;3.675
+952;Niet-extensieve procedure zonder verband met de hoofddiagnose;0;Restgroep;Chirurgisch;5.437;3.222
+955;Hoofddiagnose niet geldig als ontslagdiagnose;0;Restgroep;Andere;51;29
+956;Niet te groeperen verblijven;0;Restgroep;Andere;124;71
+AAA;Psychiatrie (A, K, T);SS;Speciale DRG's;Andere;0;0
+DDD;Voorlopige registratie;SS;Speciale DRG's;Andere;0;0
+MMM;Daghospitalisatie;SS;Speciale DRG's;Andere;0;7.200
+UAA;Psychiatrische spoedgevallendienst;SS;Speciale DRG's;Andere;0;0
+UUU;Spoedgevallendienst;SS;Speciale DRG's;Andere;0;0
+XXX;Dummy diagnose;SS;Speciale DRG's;Andere;0;0
+;;;;;1.829.201;1.971.935

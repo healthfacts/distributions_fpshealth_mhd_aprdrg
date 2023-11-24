@@ -1,0 +1,1494 @@
+﻿gewest;drg_34;drg_beschrijving;mdc_34;soort_diagnose;klassieke_hospitalisatie;daghospitalisatie
+Vlaams Gewest;1;Lever- en/of darmtransplantatie;PP;Chirurgisch;120;0
+Vlaams Gewest;2;Hart- en/of longtransplantatie;PP;Chirurgisch;118;0
+Vlaams Gewest;3;Beenmergtransplantatie;PP;Chirurgisch;619;< 5
+Vlaams Gewest;4;Extracorporele membraanoxygenatie of tracheostomie met langdurige mechanische ventilatie met extensieve procedure;PP;Chirurgisch;851;< 5
+Vlaams Gewest;5;Tracheostomie met langdurige mechanische ventilatie zonder extensieve procedure;PP;Chirurgisch;198;0
+Vlaams Gewest;6;Pancreastransplantatie;PP;Chirurgisch;6;0
+Vlaams Gewest;20;Craniotomie voor trauma;1;Chirurgisch;394;< 5
+Vlaams Gewest;21;Craniotomie behalve voor trauma;1;Chirurgisch;2816;19
+Vlaams Gewest;22;Procedures op een ventriculaire shunt;1;Chirurgisch;298;< 5
+Vlaams Gewest;23;Spinale procedures;1;Chirurgisch;970;78
+Vlaams Gewest;24;Extracraniale vasculaire procedures;1;Chirurgisch;3090;61
+Vlaams Gewest;26;Andere procedures op het zenuwstelsel en gerelateerde procedures;1;Chirurgisch;1773;22143
+Vlaams Gewest;40;Spinale stoornissen en letsels;1;Medisch;271;50
+Vlaams Gewest;41;Maligniteit van het zenuwstelsel;1;Medisch;1850;243
+Vlaams Gewest;42;Degeneratieve stoornissen van het zenuwstelsel met uitzondering van multipele sclerose;1;Medisch;7350;142
+Vlaams Gewest;43;Multipele sclerose en andere demyeliniserende ziekten;1;Medisch;2204;189
+Vlaams Gewest;44;Intracraniële hemorragie;1;Medisch;1877;27
+Vlaams Gewest;45;CVA en precerebrale occlusie met infarct;1;Medisch;9354;18
+Vlaams Gewest;46;Niet specifieke CVA en precerebrale occlusie zonder infarct;1;Medisch;297;58
+Vlaams Gewest;47;Transitoire cerebrale ischemie (TIA);1;Medisch;5140;10
+Vlaams Gewest;48;Stoornissen van de perifere, craniale en autonome zenuwen;1;Medisch;2561;1630
+Vlaams Gewest;49;Bacteriële en tuberculeuze infecties van het zenuwstelsel;1;Medisch;379;< 5
+Vlaams Gewest;50;Niet bacteriële infecties van het zenuwstelsel behalve virale meningitis;1;Medisch;617;50
+Vlaams Gewest;51;Virale meningitis;1;Medisch;647;< 5
+Vlaams Gewest;52;Niet-traumatische stupor en coma;1;Medisch;1718;18
+Vlaams Gewest;53;Epileptisch insult;1;Medisch;9549;186
+Vlaams Gewest;54;Migraine en andere hoofdpijn;1;Medisch;4600;186
+Vlaams Gewest;55;Hoofdtrauma met coma > 1 uur of met hemorragie;1;Medisch;2171;10
+Vlaams Gewest;56;Cerebrale contusie/laceratie en gecompliceerde schedelbreuk, met coma < 1 uur of zonder coma;1;Medisch;198;< 5
+Vlaams Gewest;57;Hersenschudding, gesloten schedelbreuk niet anders gespecificeerd, niet gecompliceerd intracraniaal letsel, coma < 1 uur of geen coma;1;Medisch;5401;29
+Vlaams Gewest;58;Andere stoornissen van het zenuwstelsel;1;Medisch;10255;1071
+Vlaams Gewest;70;Procedures op de orbita;2;Chirurgisch;279;118
+Vlaams Gewest;73;Procedures op het oog behalve op de orbita;2;Chirurgisch;6325;90347
+Vlaams Gewest;80;Acute majeure ooginfecties;2;Medisch;408;13
+Vlaams Gewest;82;Oogstoornissen behalve majeure infecties;2;Medisch;1674;2130
+Vlaams Gewest;89;Majeure procedures op aangezichts- en schedelbeenderen;3;Chirurgisch;1296;24124
+Vlaams Gewest;90;Majeure procedures op larynx en trachea;3;Chirurgisch;141;88
+Vlaams Gewest;91;Andere majeure procedures op hoofd en hals;3;Chirurgisch;446;35
+Vlaams Gewest;92;Procedures op aangezichtsbeenderen, behalve majeure procedures op aangezichts- en schedelbeenderen;3;Chirurgisch;3928;22509
+Vlaams Gewest;93;Procedures op sinussen en mastoïd;3;Chirurgisch;3091;3023
+Vlaams Gewest;95;Palatoplastie en herstel van hazelip;3;Chirurgisch;70;17
+Vlaams Gewest;97;Procedures op tonsillen en adenoïden;3;Chirurgisch;4709;17365
+Vlaams Gewest;98;Andere procedures op oren, neus, mond en keel;3;Chirurgisch;7523;29176
+Vlaams Gewest;110;Maligne aandoeningen van oren, neus, mond, keel, schedel/aangezicht;3;Medisch;664;826
+Vlaams Gewest;111;Vertigo en andere labyrintstoornissen;3;Medisch;4400;28
+Vlaams Gewest;113;Infecties bovenste luchtwegen;3;Medisch;15278;572
+Vlaams Gewest;114;Dentale en orale ziekten en letsels;3;Medisch;2530;90829
+Vlaams Gewest;115;Andere diagnosen van oren, neus, mond, keel en schedel/aangezicht;3;Medisch;34637;5632
+Vlaams Gewest;120;Majeure thoracale en respiratoire procedures;4;Chirurgisch;2131;121
+Vlaams Gewest;121;Andere respiratoire en thoracale procedures;4;Chirurgisch;2127;244
+Vlaams Gewest;130;Diagnose van het respiratoire stelsel met kunstmatige beademing 96+ uur;4;Medisch;402;0
+Vlaams Gewest;131;Mucoviscidose (cystic fibrosis) - longziekte;4;Medisch;521;25
+Vlaams Gewest;132;Bronchopulmonale dysplasie en andere chronische respiratoire ziekten ontstaan in de perinatale periode;4;Medisch;77;< 5
+Vlaams Gewest;133;Respiratoire insufficiëntie;4;Medisch;531;< 5
+Vlaams Gewest;134;Longembolie;4;Medisch;2985;14
+Vlaams Gewest;135;Majeur thoracaal en respiratoir trauma;4;Medisch;2484;10
+Vlaams Gewest;136;Maligne respiratoire aandoening;4;Medisch;4563;3142
+Vlaams Gewest;137;Majeure respiratoire infecties en inflammaties;4;Medisch;4495;143
+Vlaams Gewest;138;Bronchiolitis en respiratoir syncytiaal virus (RSV) pneumonie;4;Medisch;7814;23
+Vlaams Gewest;139;Andere pneumonie;4;Medisch;19660;97
+Vlaams Gewest;140;Chronische obstructieve longaandoeningen;4;Medisch;17708;442
+Vlaams Gewest;141;Astma;4;Medisch;2741;70
+Vlaams Gewest;142;Interstitiële en alveolaire longziekte;4;Medisch;1074;254
+Vlaams Gewest;143;Andere respiratoire diagnosen behalve tekens, symptomen en mineure diagnosen;4;Medisch;2706;666
+Vlaams Gewest;144;Respiratoire tekens, symptomen en mineure diagnosen;4;Medisch;13806;2844
+Vlaams Gewest;160;Majeur cardiothoracaal herstel van hartanomalie;5;Chirurgisch;50;0
+Vlaams Gewest;161;Inplantatie van hartdefibrillator en hartassistentiesyteem;5;Chirurgisch;1205;10
+Vlaams Gewest;162;Procedures op hartkleppen met acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;343;0
+Vlaams Gewest;163;Procedures op hartkleppen zonder acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;2002;0
+Vlaams Gewest;165;Coronaire overbrugging met acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;547;< 5
+Vlaams Gewest;166;Coronaire overbrugging zonder acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;2496;0
+Vlaams Gewest;167;Andere cardiothoracale procedures en thoracovasculaire procedures;5;Chirurgisch;2050;136
+Vlaams Gewest;169;Majeure abdominale vasculaire procedures;5;Chirurgisch;1055;19
+Vlaams Gewest;170;Implantatie van permanente pacemaker met AMI, hartdecompensatie of shock;5;Chirurgisch;278;0
+Vlaams Gewest;171;Implanteren van permanente pacemaker zonder AMI, hartdecompensatie of shock;5;Chirurgisch;4081;7
+Vlaams Gewest;174;Percutane coronaire procedures met acuut myocardinfarct;5;Chirurgisch;5130;357
+Vlaams Gewest;175;Percutane coronaire procedures zonder acuut myocardinfarct;5;Chirurgisch;19171;2164
+Vlaams Gewest;176;Vervangen van pacemaker of defibrillator;5;Chirurgisch;1342;178
+Vlaams Gewest;177;Revisie van pacemaker of defibrillator behalve toestel vervanging;5;Chirurgisch;494;16
+Vlaams Gewest;180;Andere procedures op het circulatoire systeem;5;Chirurgisch;1485;14267
+Vlaams Gewest;181;Procedures op de arteries van de onderste ledematen;5;Chirurgisch;12055;1084
+Vlaams Gewest;182;Andere perifere vasculaire procedures;5;Chirurgisch;2669;2264
+Vlaams Gewest;190;Acuut myocardinfarct;5;Medisch;4034;500
+Vlaams Gewest;191;Hartkatheterisatie voor coronaire condities;5;Medisch;6276;14286
+Vlaams Gewest;192;Hartkatheterisatie voor andere niet-coronaire condities;5;Medisch;8237;6108
+Vlaams Gewest;193;Acute en subacute endocarditis;5;Medisch;116;< 5
+Vlaams Gewest;194;Hartfalen;5;Medisch;14616;66
+Vlaams Gewest;196;Hartstilstand en shock;5;Medisch;494;119
+Vlaams Gewest;197;Perifere en andere vasculaire stoornissen;5;Medisch;2726;1130
+Vlaams Gewest;198;Angina pectoris en coronaire atherosclerose;5;Medisch;2471;54
+Vlaams Gewest;199;Hypertensie;5;Medisch;1423;21
+Vlaams Gewest;200;Structurele hartaandoeningen en kleplijden;5;Medisch;743;154
+Vlaams Gewest;201;Hartaritmie en geleidingsstoornissen;5;Medisch;11506;5521
+Vlaams Gewest;203;Thoracale pijn;5;Medisch;2996;77
+Vlaams Gewest;204;Syncope en collaps;5;Medisch;7610;82
+Vlaams Gewest;205;Cardiomyopathie;5;Medisch;247;8
+Vlaams Gewest;206;Dysfunctie, reactie en complicatie op cardiaal of vasculair toestel of procedure;5;Medisch;723;296
+Vlaams Gewest;207;Andere diagnosen van het circulatoir stelsel;5;Medisch;3143;380
+Vlaams Gewest;220;Majeure procedures op oesofagus, maag en duodenum;6;Chirurgisch;1841;175
+Vlaams Gewest;221;Majeure procedures op dunne en dikke darm;6;Chirurgisch;9786;86
+Vlaams Gewest;222;Andere procedures op oesofagus, maag en duodenum;6;Chirurgisch;2289;356
+Vlaams Gewest;223;Andere procedures op dunne en dikke darm;6;Chirurgisch;2385;1350
+Vlaams Gewest;224;Peritoneale adhesiolyse;6;Chirurgisch;1038;98
+Vlaams Gewest;225;Appendectomie;6;Chirurgisch;7358;230
+Vlaams Gewest;226;Anale procedures;6;Chirurgisch;3251;7383
+Vlaams Gewest;227;Procedures voor hernia behalve voor hernia inguinalis, femoralis en umbilicalis;6;Chirurgisch;3770;2212
+Vlaams Gewest;228;Procedures voor hernia inguinalis, femoralis en umbilicalis;6;Chirurgisch;6831;9506
+Vlaams Gewest;229;Andere procedures op het spijsverteringsstelsel en abdomen;6;Chirurgisch;1902;513
+Vlaams Gewest;240;Maligne aandoeningen van het spijsverteringsstelsel;6;Medisch;3809;5396
+Vlaams Gewest;241;Peptisch ulcus en gastritis;6;Medisch;4890;8539
+Vlaams Gewest;242;Majeure slokdarmstoornissen;6;Medisch;405;293
+Vlaams Gewest;243;Andere slokdarmstoornissen;6;Medisch;3613;10209
+Vlaams Gewest;244;Diverticulitis en diverticulosis;6;Medisch;5748;12380
+Vlaams Gewest;245;Inflammatoire darmziekte;6;Medisch;1966;6132
+Vlaams Gewest;246;Gastro-intestinale vasculaire insufficiëntie;6;Medisch;879;104
+Vlaams Gewest;247;Intestinale obstructie;6;Medisch;5284;244
+Vlaams Gewest;248;Majeure gastro-intestinale en peritoneale infecties;6;Medisch;3230;107
+Vlaams Gewest;249;Andere gastro-enteritis, misselijkheid en braken;6;Medisch;20938;5112
+Vlaams Gewest;251;Abdominale pijn;6;Medisch;3514;4875
+Vlaams Gewest;252;Dysfunctie, reactie op en complicatie van gastro-intestinaal toestel of procedure;6;Medisch;1528;480
+Vlaams Gewest;253;Andere en niet gespecificeerde gastro-intestinale hemorragie;6;Medisch;1680;1266
+Vlaams Gewest;254;Andere diagnosen van spijsverteringsstelsel;6;Medisch;12333;76525
+Vlaams Gewest;260;Majeure pancreas-, lever- en shuntprocedures;7;Chirurgisch;1525;76
+Vlaams Gewest;261;Majeure procedures op de galwegen;7;Chirurgisch;907;77
+Vlaams Gewest;262;Cholecystectomie, behalve laparoscopisch;7;Chirurgisch;206;< 5
+Vlaams Gewest;263;Laparoscopische cholecystectomie;7;Chirurgisch;10892;1451
+Vlaams Gewest;264;Andere procedures op hepatobiliair stelsel en pancreas, abdominaal;7;Chirurgisch;1484;405
+Vlaams Gewest;279;Hepatisch coma en andere majeure acute leverstoornissen;7;Medisch;818;80
+Vlaams Gewest;280;Alcoholische leverziekte;7;Medisch;1801;199
+Vlaams Gewest;281;Maligne aandoeningen van het hepatobiliair stelsel en de pancreas;7;Medisch;2627;1996
+Vlaams Gewest;282;Stoornissen van de pancreas behalve maligne aandoeningen;7;Medisch;3388;449
+Vlaams Gewest;283;Andere leverstoornissen;7;Medisch;1364;776
+Vlaams Gewest;284;Stoornissen van de galblaas en de galwegen;7;Medisch;6375;530
+Vlaams Gewest;301;Vervanging van heupgewricht;8;Chirurgisch;19562;8
+Vlaams Gewest;302;Vervanging van kniegewricht;8;Chirurgisch;17530;24
+Vlaams Gewest;303;Dorsolumbale arthrodese bij wervelkolomafwijkingen;8;Chirurgisch;272;0
+Vlaams Gewest;304;Dorsolumbale arthrodese behalve bij wervelkolomafwijkingen;8;Chirurgisch;5331;5
+Vlaams Gewest;305;Amputatie van onderste lidmaat behalve tenen;8;Chirurgisch;580;7
+Vlaams Gewest;308;Herstellen van heup en femur fracturen;8;Chirurgisch;6117;7
+Vlaams Gewest;309;Andere significante procedures op heup en femur;8;Chirurgisch;2457;1397
+Vlaams Gewest;310;Excisie en decompressie van discus intervertebralis;8;Chirurgisch;10437;222
+Vlaams Gewest;312;Huidgreffe behalve op de hand, voor musculo-skeletaal en bindweefsel diagnosen;8;Chirurgisch;410;406
+Vlaams Gewest;313;Procedures op de knie en het onderbeen, behalve op de voet;8;Chirurgisch;10966;28611
+Vlaams Gewest;314;Procedures op voet en tenen;8;Chirurgisch;9894;5593
+Vlaams Gewest;315;Procedures op schouder, arm en voorarm behalve gewrichtsvervanging;8;Chirurgisch;23531;11278
+Vlaams Gewest;316;Procedures op hand en pols;8;Chirurgisch;3591;21338
+Vlaams Gewest;317;Procedures op pees, spier en andere weke weefsels;8;Chirurgisch;6347;7485
+Vlaams Gewest;320;Andere procedures op musculo-skeletaalstelsel en bindweefsel;8;Chirurgisch;7211;6734
+Vlaams Gewest;321;Cervicale artrodese en andere procedures op nek/rug, behalve excisie/decompressie discus intervertebralis;8;Chirurgisch;4646;52
+Vlaams Gewest;322;Vervanging van schouder en elleboog gewricht;8;Chirurgisch;900;19
+Vlaams Gewest;340;Femurfracturen;8;Medisch;1019;7
+Vlaams Gewest;341;Fracturen van het bekken of luxatie van de heup;8;Medisch;2378;15
+Vlaams Gewest;342;Fracturen of luxatie, behalve femur, heup en bekken;8;Medisch;5371;2675
+Vlaams Gewest;343;Maligne aandoeningen van het musculoskeletaal stelsel en pathologische fracturen hierdoor.;8;Medisch;1620;1074
+Vlaams Gewest;344;Osteomyelitis, septische arthritis en andere musculo-skeletale infecties;8;Medisch;1009;50
+Vlaams Gewest;346;Stoornissen van het bindweefsel;8;Medisch;2091;1396
+Vlaams Gewest;347;Andere stoornissen, breuken en letsels van de rug en van de nek;8;Medisch;12429;13343
+Vlaams Gewest;349;Dysfunctie, bijwerking en complicaties van orthopedisch toestel of procedure;8;Medisch;1407;384
+Vlaams Gewest;351;Andere diagnosen van het musculo-skeletaal stelsel en bindweefsel;8;Medisch;8009;4696
+Vlaams Gewest;361;Huidgreffe voor huid en subcutaan weefsel diagnosen;9;Chirurgisch;2901;6827
+Vlaams Gewest;362;Mastectomie procedures;9;Chirurgisch;2849;288
+Vlaams Gewest;363;Procedures op de borst, behalve mastectomie;9;Chirurgisch;9005;4357
+Vlaams Gewest;364;Andere procedures op huid, subcutaan weefsel en gerelateerde procedures;9;Chirurgisch;4251;5350
+Vlaams Gewest;380;Huidulcera;9;Medisch;1077;155
+Vlaams Gewest;381;Majeure aandoeningen van de huid;9;Medisch;450;419
+Vlaams Gewest;382;Maligne aandoeningen van de mamma;9;Medisch;560;3710
+Vlaams Gewest;383;Cellulitis en andere huidinfecties;9;Medisch;7801;1942
+Vlaams Gewest;384;Contusie, open wonde en andere trauma van de huid en van het subcutaan weefsel;9;Medisch;4395;2003
+Vlaams Gewest;385;Andere aandoeningen van de huid, het subcutaan weefsel en de mamma;9;Medisch;3024;10928
+Vlaams Gewest;401;Procedures op bijnieren en hypofyse;10;Chirurgisch;358;< 5
+Vlaams Gewest;403;Procedures voor obesitas;10;Chirurgisch;7195;126
+Vlaams Gewest;404;Procedures op schildklier, bijschildklieren en ductus thyreoglossus;10;Chirurgisch;3438;31
+Vlaams Gewest;405;Andere procedures bij endocriene, nutritionele en metabole stoornissen;10;Chirurgisch;198;21
+Vlaams Gewest;420;Diabetes;10;Medisch;6363;38
+Vlaams Gewest;421;Malnutritie,  “failure to thrive” en andere nutritionele stoornissen;10;Medisch;3726;987
+Vlaams Gewest;422;Hypovolemie en gerelateerde electrolytenstoornissen;10;Medisch;2920;< 5
+Vlaams Gewest;423;Congenitale afwijkingen van het metabolisme;10;Medisch;268;162
+Vlaams Gewest;424;Andere endocriene stoornissen;10;Medisch;1805;156
+Vlaams Gewest;425;Andere elektrolytenstoornissen behalve in verband met hypovolemie;10;Medisch;2248;28
+Vlaams Gewest;440;Niertransplantatie;11;Chirurgisch;200;0
+Vlaams Gewest;441;Majeure procedures op de blaas;11;Chirurgisch;918;65
+Vlaams Gewest;442;Procedures op nier en urinewegen voor maligne aandoening;11;Chirurgisch;1436;51
+Vlaams Gewest;443;Procedures op nier en urinewegen voor niet maligne aandoening;11;Chirurgisch;4581;6450
+Vlaams Gewest;444;Procedure enkel voor het aanleggen van een dialyse toegangsweg toestel;11;Chirurgisch;388;248
+Vlaams Gewest;445;Andere procedures op de blaas;11;Chirurgisch;843;273
+Vlaams Gewest;446;Transurethrale en urethrale procedures;11;Chirurgisch;9214;2682
+Vlaams Gewest;447;Andere procedures op nieren, urinewegen en gerelateerde procedures;11;Chirurgisch;320;46
+Vlaams Gewest;461;Maligne aandoening van de nier en urinewegen;11;Medisch;1043;2615
+Vlaams Gewest;462;Nefritis en nefrose;11;Medisch;531;162
+Vlaams Gewest;463;Infecties van de nier en de urinewegen;11;Medisch;13617;734
+Vlaams Gewest;465;Urinaire stenen en verworven bovenste urinewegobstructie;11;Medisch;6902;8366
+Vlaams Gewest;466;Dysfunctie, reactie op en complicatie van genito-urinair toestel of procedure;11;Medisch;1622;381
+Vlaams Gewest;468;Andere nier en urinewegen diagnosen, tekens en symptomen;11;Medisch;6603;13514
+Vlaams Gewest;469;Acute nierziekten;11;Medisch;1356;8
+Vlaams Gewest;470;Chronische nierziekten;11;Medisch;1226;330
+Vlaams Gewest;480;Majeure procedures in het kleine bekken bij de man;12;Chirurgisch;2706;< 5
+Vlaams Gewest;481;Procedures op de penis;12;Chirurgisch;618;1456
+Vlaams Gewest;482;Transurethrale prostatectomie;12;Chirurgisch;5554;68
+Vlaams Gewest;483;Procedures op de testes en het scrotum;12;Chirurgisch;882;3300
+Vlaams Gewest;484;Andere procedures op het mannelijk voortplantingsstelsel en gerelateerde procedures;12;Chirurgisch;1037;145
+Vlaams Gewest;500;Maligne aandoening van het mannelijk voortplantingsstelsel;12;Medisch;704;2565
+Vlaams Gewest;501;Diagnosen van het mannelijk voortplantingsstelsel behalve maligne aandoeningen;12;Medisch;3161;25980
+Vlaams Gewest;510;Evisceratie van het kleine bekken, radicale hysterectomie en andere radicale gynaecologische procedures;13;Chirurgisch;447;< 5
+Vlaams Gewest;511;Procedures op uterus/adnexen voor maligne aandoening van ovaria en adnexen;13;Chirurgisch;422;47
+Vlaams Gewest;512;Procedures op uterus/adnexen voor maligne aandoening behalve ovaria en adnexen;13;Chirurgisch;650;58
+Vlaams Gewest;513;Procedures op uterus/adnexen voor niet-maligne aandoening behalve leiomyoma;13;Chirurgisch;6758;5552
+Vlaams Gewest;514;Reconstructieve procedures op het vrouwelijke voortplantingsstelsel;13;Chirurgisch;2984;521
+Vlaams Gewest;517;Dilatatie en curettage voor niet-verloskundige diagnosen;13;Chirurgisch;352;5019
+Vlaams Gewest;518;Andere procedures op het vrouwelijke voortplantingsstelsel en gerelateerde procedures;13;Chirurgisch;1040;2679
+Vlaams Gewest;519;Procedures op uterus/adnexen voor leiomyoma;13;Chirurgisch;2371;616
+Vlaams Gewest;530;Maligne aandoening van het vrouwelijke voortplantingsstelsel;13;Medisch;706;1080
+Vlaams Gewest;531;Infecties van het vrouwelijke voortplantingsstelsel;13;Medisch;460;295
+Vlaams Gewest;532;Menstruatiestoornissen en andere stoornissen van het vrouwelijke voortplantingsstelsel;13;Medisch;852;6445
+Vlaams Gewest;540;Bevalling met sectio caesarea;14;Chirurgisch;13236;37
+Vlaams Gewest;541;Vaginale bevalling met sterilisatie en/of dilatatie en curettage;14;Chirurgisch;1319;77
+Vlaams Gewest;542;Vaginale bevalling met gecompliceerde procedures behalve sterilisatie en/of dilatatie en curettage;14;Chirurgisch;1215;12
+Vlaams Gewest;544;Dilatatie en curettage, aspiratie curettage of hysterotomie voor verloskundige diagnosen;14;Chirurgisch;811;4613
+Vlaams Gewest;545;Procedure voor ectopische zwangerschap;14;Chirurgisch;651;118
+Vlaams Gewest;546;Andere operatiezaal procedures voor verloskundige diagnosen behalve bevalling;14;Chirurgisch;269;138
+Vlaams Gewest;560;Vaginale bevalling;14;Medisch;46663;1139
+Vlaams Gewest;561;Diagnosen in het postpartum en post abortus, zonder ingrepen;14;Medisch;1074;86
+Vlaams Gewest;563;Vroegtijdige arbeid;14;Medisch;1192;< 5
+Vlaams Gewest;564;Abortus, zonder dilatatie en curettage, aspiratie curettage of hysterotomie;14;Medisch;410;133
+Vlaams Gewest;565;Valse arbeid;14;Medisch;639;8
+Vlaams Gewest;566;Andere diagnosen in het antepartum;14;Medisch;7695;1166
+Vlaams Gewest;580;Pasgeborene, getransfereerd binnen 5 dagen, elders geboren;15;Medisch;47;0
+Vlaams Gewest;581;Pasgeborene, getransfereerd binnen 5 dagen, hier geboren;15;Medisch;16;< 5
+Vlaams Gewest;583;Pasgeborene, met extracorporele membraanoxygenatie (ECMO);15;Chirurgisch;9;0
+Vlaams Gewest;588;Pasgeborene, geboortegewicht < 1 500 g met majeure procedure;15;Chirurgisch;51;0
+Vlaams Gewest;589;Pasgeborene, geboortegewicht < 500 g of zwangerschapsduur < 24 weken;15;Medisch;8;0
+Vlaams Gewest;591;Pasgeborene, geboortegewicht 500-749 g zonder majeure procedure;15;Medisch;42;0
+Vlaams Gewest;593;Pasgeborene, geboortegewicht 750-999 g zonder majeure procedure;15;Medisch;80;0
+Vlaams Gewest;602;Pasgeborene, geboortegewicht 1 000-1 249 g met respiratoire distress syndroom/andere majeure respiratoire anomalie of majeure anomalie;15;Medisch;105;0
+Vlaams Gewest;603;Pasgeborene, geboortegewicht 1 000-1 249 g met of zonder andere significante aandoening;15;Medisch;27;0
+Vlaams Gewest;607;Pasgeborene, geboortegewicht 1 250-1 499 g met respiratoire distress syndroom/andere majeure respiratoire of majeure anomalie;15;Medisch;129;0
+Vlaams Gewest;608;Pasgeborene, geboortegewicht 1 250-1 499 g met of zonder andere significante aandoening;15;Medisch;68;0
+Vlaams Gewest;609;Pasgeborene, geboortegewicht 1 500-2 499 g met majeure procedure;15;Chirurgisch;42;0
+Vlaams Gewest;611;Pasgeborene, geboortegewicht 1 500-1 999 g met majeure anomalie;15;Medisch;83;0
+Vlaams Gewest;612;Pasgeborene, geboortegewicht 1 500-1 999 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;142;0
+Vlaams Gewest;613;Pasgeborene, geboortegewicht 1 500-1 999 g met congenitale of perinatale infecties;15;Medisch;15;0
+Vlaams Gewest;614;Andere pasgeborene, geboortegewicht 1 500-1 999 g met of zonder andere significante aandoening;15;Medisch;176;0
+Vlaams Gewest;621;Pasgeborene, geboortegewicht 2 000-2 499 g met majeure anomalie;15;Medisch;80;0
+Vlaams Gewest;622;Pasgeborene, geboortegewicht 2 000-2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;129;0
+Vlaams Gewest;623;Pasgeborene, geboortegewicht 2 000-2 499 g met congenitale of perinatale infectie;15;Medisch;22;0
+Vlaams Gewest;625;Pasgeborene, geboortegewicht 2 000-2 499 g, hier geboren, met andere significante aandoening;15;Medisch;113;0
+Vlaams Gewest;626;Pasgeborene, geboortegewicht 2 000-2 499 g, normale pasgeborene of pasgeborene met ander probleem;15;Medisch;154;0
+Vlaams Gewest;630;Pasgeborene, geboortegewicht > 2 499 g met majeure cardiovasculaire procedures;15;Chirurgisch;74;0
+Vlaams Gewest;631;Pasgeborene, geboortegewicht > 2 499 g met andere majeure procedure;15;Chirurgisch;57;0
+Vlaams Gewest;633;Pasgeborene, geboortegewicht > 2 499 g met majeure anomalie;15;Medisch;265;0
+Vlaams Gewest;634;Pasgeborene, geboortegewicht > 2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;277;0
+Vlaams Gewest;636;Pasgeborene, geboortegewicht > 2 499 g met congenitale of perinatale infecties;15;Medisch;104;0
+Vlaams Gewest;639;Pasgeborene, geboortegewicht > 2 499 g hier geboren, met andere significante aandoening;15;Medisch;366;0
+Vlaams Gewest;640;Pasgeborene, geboortegewicht > 2 499 g, normale pasgeborene of met ander probleem;15;Medisch;1030;6
+Vlaams Gewest;650;Splenectomie;16;Chirurgisch;92;0
+Vlaams Gewest;651;Andere procedures op bloed en bloedvormende organen;16;Chirurgisch;484;573
+Vlaams Gewest;660;Majeure hemato-/immunologische diagnosen behalve crisis van sikkelcelanemie en coagulatie;16;Medisch;2110;3716
+Vlaams Gewest;661;Bloedstollingsstoornissen en bloedplaatjes;16;Medisch;648;940
+Vlaams Gewest;662;Crisis van sikkelcelanemie;16;Medisch;368;27
+Vlaams Gewest;663;Andere anemia en bloedstoornissen en hematopoietische organen;16;Medisch;5981;11971
+Vlaams Gewest;680;Majeure operatiezaal procedures voor lymfatische/hematopoietische/andere neoplasma;17;Chirurgisch;542;22
+Vlaams Gewest;681;Andere operatiezaal procedures voor lymfatisch/hematopoietisch/andere neoplasma;17;Chirurgisch;2176;1111
+Vlaams Gewest;690;Acute leukemie;17;Medisch;739;3004
+Vlaams Gewest;691;Lymfoom, myeloom en niet-acute leukemie;17;Medisch;1859;4988
+Vlaams Gewest;692;Radiotherapie;17;Medisch;178;87
+Vlaams Gewest;694;Lymphatisch en andere maligne aandoeningen en neoplasmata met onzeker gedrag;17;Medisch;1581;9043
+Vlaams Gewest;695;Chemotherapie voor acute leukemie;17;Medisch;770;5394
+Vlaams Gewest;696;Andere chemotherapie;17;Medisch;14732;263841
+Vlaams Gewest;710;Infectieuze en parasitaire ziekten, HIV met operatiezaal procedures inbegrepen;18;Chirurgisch;1658;64
+Vlaams Gewest;711;Postoperatieve, posttraumatische en andere toestel- infecties met operatiezaal procedures;18;Chirurgisch;1466;381
+Vlaams Gewest;720;Septicemie en gedissemineerde infecties;18;Medisch;7755;6
+Vlaams Gewest;721;Postoperatieve, posttraumatische en andere toestel infecties;18;Medisch;2549;285
+Vlaams Gewest;722;Koorts;18;Medisch;2180;10
+Vlaams Gewest;723;Virale ziekte;18;Medisch;6439;24
+Vlaams Gewest;724;Andere infectieuze en parasitaire ziekten;18;Medisch;2085;154
+Vlaams Gewest;740;Diagnosen van mentale ziekte met operatiezaal procedures;19;Chirurgisch;575;73
+Vlaams Gewest;750;Schizofrenie;19;Medisch;123;46
+Vlaams Gewest;751;Majeure depressieve stoornissen en andere/niet-gespecificeerde psychoses;19;Medisch;1158;738
+Vlaams Gewest;752;Persoonlijkheidsstoornissen en impulscontrolestoornissen;19;Medisch;104;< 5
+Vlaams Gewest;753;Bipolaire stoornissen;19;Medisch;566;538
+Vlaams Gewest;754;Depressie, behalve majeure depressieve diagnosen;19;Medisch;1159;99
+Vlaams Gewest;755;Aanpassingstoornis en neuroses, behalve depressieve diagnosen;19;Medisch;1377;84
+Vlaams Gewest;756;Acute angst en delirante toestanden;19;Medisch;1743;12
+Vlaams Gewest;757;Organische stoornissen van de geestelijke gezondheid;19;Medisch;3131;123
+Vlaams Gewest;758;Gedragsstoornissen;19;Medisch;183;12
+Vlaams Gewest;759;Eetstoornissen;19;Medisch;151;< 5
+Vlaams Gewest;760;Andere stoornissen van de mentale gezondheid;19;Medisch;2382;221
+Vlaams Gewest;770;Alcohol en drugs- misbruik of verslaving, ontslag tegen medisch advies;20;Medisch;246;< 5
+Vlaams Gewest;772;Alcohol en drugs- verslaving met revalidatietherapie of revalidatie/detoxificatietherapie;20;Medisch;283;11
+Vlaams Gewest;773;Misbruik van en verslaving aan opiaten;20;Medisch;262;0
+Vlaams Gewest;774;Misbruik van en verslaving aan cocaine;20;Medisch;288;< 5
+Vlaams Gewest;775;Misbruik van en verslaving aan alcohol;20;Medisch;4288;17
+Vlaams Gewest;776;Misbruik van en verslaving aan andere drugs;20;Medisch;458;< 5
+Vlaams Gewest;791;Operatiezaal procedures voor andere complicaties van de behandeling;21;Chirurgisch;2649;1127
+Vlaams Gewest;811;Allergische reacties;21;Medisch;901;< 5
+Vlaams Gewest;812;Vergiftiging door geneesmiddellen;21;Medisch;4644;16
+Vlaams Gewest;813;Andere complicaties van de behandeling;21;Medisch;3088;875
+Vlaams Gewest;815;Andere diagnosen van letsels, vergiftigingen en toxische effecten;21;Medisch;1017;77
+Vlaams Gewest;816;Toxische effecten van niet-medische substanties;21;Medisch;890;15
+Vlaams Gewest;841;Extensieve derde graad brandwonden met huidgreffe;22;Chirurgisch;12;0
+Vlaams Gewest;842;Brandwonden met huidgreffe behalve extensieve derde graad brandwonden;22;Chirurgisch;142;14
+Vlaams Gewest;843;Extensieve derde graad of “full thickness” brandwonden zonder huidgreffe;22;Medisch;10;< 5
+Vlaams Gewest;844;“Partial thickness” brandwonden zonder huidgreffe;22;Medisch;456;31
+Vlaams Gewest;850;Procedures met diagnosen van revalidatie, nazorg of andere contacten met gezondheidsinstellingen;23;Chirurgisch;5922;21104
+Vlaams Gewest;860;Revalidatie;23;Medisch;3008;11
+Vlaams Gewest;861;Tekens, symptomen en andere factoren met invloed op de gezondheidstoestand;23;Medisch;16354;235606
+Vlaams Gewest;862;Andere nazorg en convalescentie;23;Medisch;6921;51518
+Vlaams Gewest;863;Neonatale nazorg;23;Medisch;519;< 5
+Vlaams Gewest;890;HIV met multipele majeure HIV gerelateerde aandoeningen;24;Medisch;62;< 5
+Vlaams Gewest;892;HIV met majeure HIV gerelateerde aandoeningen;24;Medisch;113;12
+Vlaams Gewest;893;HIV met multipele significante HIV gerelateerde aandoeningen;24;Medisch;17;< 5
+Vlaams Gewest;894;HIV met een significante HIV aandoening of zonder significante gerelateerde aandoeningen;24;Medisch;166;44
+Vlaams Gewest;910;Craniotomie voor multipele significante traumata;25;Chirurgisch;103;0
+Vlaams Gewest;911;Extensieve abdominale/thoracale procedures voor multipele significante traumata;25;Chirurgisch;93;0
+Vlaams Gewest;912;Musculo-skeletale en andere procedures voor multipele significante traumata;25;Chirurgisch;778;< 5
+Vlaams Gewest;930;Multipele significante traumata zonder operatiezaal procedures;25;Medisch;830;9
+Vlaams Gewest;950;Extensieve procedure zonder verband met de hoofddiagnose;0;Chirurgisch;2532;807
+Vlaams Gewest;951;Matige uitgebreide procedure zonder verband met de hoofddiagnose;0;Chirurgisch;7059;2107
+Vlaams Gewest;952;Niet-extensieve procedure zonder verband met de hoofddiagnose;0;Chirurgisch;3057;1907
+Vlaams Gewest;955;Hoofddiagnose niet geldig als ontslagdiagnose;0;Andere;11;< 5
+Vlaams Gewest;956;Niet te groeperen verblijven;0;Andere;16;19
+Vlaams Gewest;MMM;Daghospitalisatie;SS;Andere;0;6813
+Waals Gewest;1;Lever- en/of darmtransplantatie;PP;Chirurgisch;97;0
+Waals Gewest;2;Hart- en/of longtransplantatie;PP;Chirurgisch;66;0
+Waals Gewest;3;Beenmergtransplantatie;PP;Chirurgisch;276;0
+Waals Gewest;4;Extracorporele membraanoxygenatie of tracheostomie met langdurige mechanische ventilatie met extensieve procedure;PP;Chirurgisch;477;< 5
+Waals Gewest;5;Tracheostomie met langdurige mechanische ventilatie zonder extensieve procedure;PP;Chirurgisch;111;0
+Waals Gewest;6;Pancreastransplantatie;PP;Chirurgisch;< 5;0
+Waals Gewest;20;Craniotomie voor trauma;1;Chirurgisch;276;< 5
+Waals Gewest;21;Craniotomie behalve voor trauma;1;Chirurgisch;1588;11
+Waals Gewest;22;Procedures op een ventriculaire shunt;1;Chirurgisch;172;0
+Waals Gewest;23;Spinale procedures;1;Chirurgisch;340;12
+Waals Gewest;24;Extracraniale vasculaire procedures;1;Chirurgisch;1997;31
+Waals Gewest;26;Andere procedures op het zenuwstelsel en gerelateerde procedures;1;Chirurgisch;1056;13238
+Waals Gewest;40;Spinale stoornissen en letsels;1;Medisch;156;35
+Waals Gewest;41;Maligniteit van het zenuwstelsel;1;Medisch;906;79
+Waals Gewest;42;Degeneratieve stoornissen van het zenuwstelsel met uitzondering van multipele sclerose;1;Medisch;3873;94
+Waals Gewest;43;Multipele sclerose en andere demyeliniserende ziekten;1;Medisch;928;154
+Waals Gewest;44;Intracraniële hemorragie;1;Medisch;1076;13
+Waals Gewest;45;CVA en precerebrale occlusie met infarct;1;Medisch;4502;32
+Waals Gewest;46;Niet specifieke CVA en precerebrale occlusie zonder infarct;1;Medisch;214;58
+Waals Gewest;47;Transitoire cerebrale ischemie (TIA);1;Medisch;1972;15
+Waals Gewest;48;Stoornissen van de perifere, craniale en autonome zenuwen;1;Medisch;1364;1567
+Waals Gewest;49;Bacteriële en tuberculeuze infecties van het zenuwstelsel;1;Medisch;244;< 5
+Waals Gewest;50;Niet bacteriële infecties van het zenuwstelsel behalve virale meningitis;1;Medisch;306;8
+Waals Gewest;51;Virale meningitis;1;Medisch;348;0
+Waals Gewest;52;Niet-traumatische stupor en coma;1;Medisch;766;15
+Waals Gewest;53;Epileptisch insult;1;Medisch;5512;100
+Waals Gewest;54;Migraine en andere hoofdpijn;1;Medisch;1675;111
+Waals Gewest;55;Hoofdtrauma met coma > 1 uur of met hemorragie;1;Medisch;1213;5
+Waals Gewest;56;Cerebrale contusie/laceratie en gecompliceerde schedelbreuk, met coma < 1 uur of zonder coma;1;Medisch;92;0
+Waals Gewest;57;Hersenschudding, gesloten schedelbreuk niet anders gespecificeerd, niet gecompliceerd intracraniaal letsel, coma < 1 uur of geen coma;1;Medisch;2237;6
+Waals Gewest;58;Andere stoornissen van het zenuwstelsel;1;Medisch;6973;532
+Waals Gewest;70;Procedures op de orbita;2;Chirurgisch;216;85
+Waals Gewest;73;Procedures op het oog behalve op de orbita;2;Chirurgisch;3629;44440
+Waals Gewest;80;Acute majeure ooginfecties;2;Medisch;163;14
+Waals Gewest;82;Oogstoornissen behalve majeure infecties;2;Medisch;901;507
+Waals Gewest;89;Majeure procedures op aangezichts- en schedelbeenderen;3;Chirurgisch;437;2152
+Waals Gewest;90;Majeure procedures op larynx en trachea;3;Chirurgisch;131;59
+Waals Gewest;91;Andere majeure procedures op hoofd en hals;3;Chirurgisch;221;8
+Waals Gewest;92;Procedures op aangezichtsbeenderen, behalve majeure procedures op aangezichts- en schedelbeenderen;3;Chirurgisch;1486;2434
+Waals Gewest;93;Procedures op sinussen en mastoïd;3;Chirurgisch;1236;777
+Waals Gewest;95;Palatoplastie en herstel van hazelip;3;Chirurgisch;67;5
+Waals Gewest;97;Procedures op tonsillen en adenoïden;3;Chirurgisch;1767;10934
+Waals Gewest;98;Andere procedures op oren, neus, mond en keel;3;Chirurgisch;4173;6897
+Waals Gewest;110;Maligne aandoeningen van oren, neus, mond, keel, schedel/aangezicht;3;Medisch;700;529
+Waals Gewest;111;Vertigo en andere labyrintstoornissen;3;Medisch;1221;30
+Waals Gewest;113;Infecties bovenste luchtwegen;3;Medisch;6356;226
+Waals Gewest;114;Dentale en orale ziekten en letsels;3;Medisch;1395;24597
+Waals Gewest;115;Andere diagnosen van oren, neus, mond, keel en schedel/aangezicht;3;Medisch;26291;1866
+Waals Gewest;120;Majeure thoracale en respiratoire procedures;4;Chirurgisch;1462;227
+Waals Gewest;121;Andere respiratoire en thoracale procedures;4;Chirurgisch;1510;172
+Waals Gewest;130;Diagnose van het respiratoire stelsel met kunstmatige beademing 96+ uur;4;Medisch;383;0
+Waals Gewest;131;Mucoviscidose (cystic fibrosis) - longziekte;4;Medisch;264;5
+Waals Gewest;132;Bronchopulmonale dysplasie en andere chronische respiratoire ziekten ontstaan in de perinatale periode;4;Medisch;28;0
+Waals Gewest;133;Respiratoire insufficiëntie;4;Medisch;556;< 5
+Waals Gewest;134;Longembolie;4;Medisch;2067;< 5
+Waals Gewest;135;Majeur thoracaal en respiratoir trauma;4;Medisch;1115;8
+Waals Gewest;136;Maligne respiratoire aandoening;4;Medisch;2711;1502
+Waals Gewest;137;Majeure respiratoire infecties en inflammaties;4;Medisch;3197;39
+Waals Gewest;138;Bronchiolitis en respiratoir syncytiaal virus (RSV) pneumonie;4;Medisch;2961;< 5
+Waals Gewest;139;Andere pneumonie;4;Medisch;10251;36
+Waals Gewest;140;Chronische obstructieve longaandoeningen;4;Medisch;12121;345
+Waals Gewest;141;Astma;4;Medisch;1491;34
+Waals Gewest;142;Interstitiële en alveolaire longziekte;4;Medisch;694;143
+Waals Gewest;143;Andere respiratoire diagnosen behalve tekens, symptomen en mineure diagnosen;4;Medisch;2325;488
+Waals Gewest;144;Respiratoire tekens, symptomen en mineure diagnosen;4;Medisch;5899;1160
+Waals Gewest;160;Majeur cardiothoracaal herstel van hartanomalie;5;Chirurgisch;16;0
+Waals Gewest;161;Inplantatie van hartdefibrillator en hartassistentiesyteem;5;Chirurgisch;474;10
+Waals Gewest;162;Procedures op hartkleppen met acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;157;0
+Waals Gewest;163;Procedures op hartkleppen zonder acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;1127;0
+Waals Gewest;165;Coronaire overbrugging met acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;381;0
+Waals Gewest;166;Coronaire overbrugging zonder acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;1396;0
+Waals Gewest;167;Andere cardiothoracale procedures en thoracovasculaire procedures;5;Chirurgisch;1036;60
+Waals Gewest;169;Majeure abdominale vasculaire procedures;5;Chirurgisch;997;< 5
+Waals Gewest;170;Implantatie van permanente pacemaker met AMI, hartdecompensatie of shock;5;Chirurgisch;110;0
+Waals Gewest;171;Implanteren van permanente pacemaker zonder AMI, hartdecompensatie of shock;5;Chirurgisch;2386;< 5
+Waals Gewest;174;Percutane coronaire procedures met acuut myocardinfarct;5;Chirurgisch;3288;124
+Waals Gewest;175;Percutane coronaire procedures zonder acuut myocardinfarct;5;Chirurgisch;9595;246
+Waals Gewest;176;Vervangen van pacemaker of defibrillator;5;Chirurgisch;729;184
+Waals Gewest;177;Revisie van pacemaker of defibrillator behalve toestel vervanging;5;Chirurgisch;270;20
+Waals Gewest;180;Andere procedures op het circulatoire systeem;5;Chirurgisch;870;4513
+Waals Gewest;181;Procedures op de arteries van de onderste ledematen;5;Chirurgisch;5425;335
+Waals Gewest;182;Andere perifere vasculaire procedures;5;Chirurgisch;1578;1490
+Waals Gewest;190;Acuut myocardinfarct;5;Medisch;2476;113
+Waals Gewest;191;Hartkatheterisatie voor coronaire condities;5;Medisch;4836;3005
+Waals Gewest;192;Hartkatheterisatie voor andere niet-coronaire condities;5;Medisch;4513;1507
+Waals Gewest;193;Acute en subacute endocarditis;5;Medisch;90;0
+Waals Gewest;194;Hartfalen;5;Medisch;8792;10
+Waals Gewest;196;Hartstilstand en shock;5;Medisch;385;< 5
+Waals Gewest;197;Perifere en andere vasculaire stoornissen;5;Medisch;1876;443
+Waals Gewest;198;Angina pectoris en coronaire atherosclerose;5;Medisch;1307;27
+Waals Gewest;199;Hypertensie;5;Medisch;965;24
+Waals Gewest;200;Structurele hartaandoeningen en kleplijden;5;Medisch;400;28
+Waals Gewest;201;Hartaritmie en geleidingsstoornissen;5;Medisch;5767;1537
+Waals Gewest;203;Thoracale pijn;5;Medisch;1118;62
+Waals Gewest;204;Syncope en collaps;5;Medisch;2494;35
+Waals Gewest;205;Cardiomyopathie;5;Medisch;141;< 5
+Waals Gewest;206;Dysfunctie, reactie en complicatie op cardiaal of vasculair toestel of procedure;5;Medisch;440;151
+Waals Gewest;207;Andere diagnosen van het circulatoir stelsel;5;Medisch;1735;117
+Waals Gewest;220;Majeure procedures op oesofagus, maag en duodenum;6;Chirurgisch;1368;130
+Waals Gewest;221;Majeure procedures op dunne en dikke darm;6;Chirurgisch;5119;31
+Waals Gewest;222;Andere procedures op oesofagus, maag en duodenum;6;Chirurgisch;2024;288
+Waals Gewest;223;Andere procedures op dunne en dikke darm;6;Chirurgisch;1566;914
+Waals Gewest;224;Peritoneale adhesiolyse;6;Chirurgisch;542;20
+Waals Gewest;225;Appendectomie;6;Chirurgisch;3933;81
+Waals Gewest;226;Anale procedures;6;Chirurgisch;2432;2939
+Waals Gewest;227;Procedures voor hernia behalve voor hernia inguinalis, femoralis en umbilicalis;6;Chirurgisch;3312;898
+Waals Gewest;228;Procedures voor hernia inguinalis, femoralis en umbilicalis;6;Chirurgisch;5822;2978
+Waals Gewest;229;Andere procedures op het spijsverteringsstelsel en abdomen;6;Chirurgisch;1180;394
+Waals Gewest;240;Maligne aandoeningen van het spijsverteringsstelsel;6;Medisch;2328;2453
+Waals Gewest;241;Peptisch ulcus en gastritis;6;Medisch;2219;6382
+Waals Gewest;242;Majeure slokdarmstoornissen;6;Medisch;197;140
+Waals Gewest;243;Andere slokdarmstoornissen;6;Medisch;2336;7897
+Waals Gewest;244;Diverticulitis en diverticulosis;6;Medisch;3472;5515
+Waals Gewest;245;Inflammatoire darmziekte;6;Medisch;1203;2926
+Waals Gewest;246;Gastro-intestinale vasculaire insufficiëntie;6;Medisch;383;38
+Waals Gewest;247;Intestinale obstructie;6;Medisch;2539;299
+Waals Gewest;248;Majeure gastro-intestinale en peritoneale infecties;6;Medisch;1501;28
+Waals Gewest;249;Andere gastro-enteritis, misselijkheid en braken;6;Medisch;8294;2673
+Waals Gewest;251;Abdominale pijn;6;Medisch;1842;2408
+Waals Gewest;252;Dysfunctie, reactie op en complicatie van gastro-intestinaal toestel of procedure;6;Medisch;1009;365
+Waals Gewest;253;Andere en niet gespecificeerde gastro-intestinale hemorragie;6;Medisch;1091;900
+Waals Gewest;254;Andere diagnosen van spijsverteringsstelsel;6;Medisch;6985;26879
+Waals Gewest;260;Majeure pancreas-, lever- en shuntprocedures;7;Chirurgisch;888;56
+Waals Gewest;261;Majeure procedures op de galwegen;7;Chirurgisch;646;31
+Waals Gewest;262;Cholecystectomie, behalve laparoscopisch;7;Chirurgisch;217;26
+Waals Gewest;263;Laparoscopische cholecystectomie;7;Chirurgisch;7084;600
+Waals Gewest;264;Andere procedures op hepatobiliair stelsel en pancreas, abdominaal;7;Chirurgisch;1142;588
+Waals Gewest;279;Hepatisch coma en andere majeure acute leverstoornissen;7;Medisch;500;40
+Waals Gewest;280;Alcoholische leverziekte;7;Medisch;1599;150
+Waals Gewest;281;Maligne aandoeningen van het hepatobiliair stelsel en de pancreas;7;Medisch;1781;1038
+Waals Gewest;282;Stoornissen van de pancreas behalve maligne aandoeningen;7;Medisch;2786;414
+Waals Gewest;283;Andere leverstoornissen;7;Medisch;924;275
+Waals Gewest;284;Stoornissen van de galblaas en de galwegen;7;Medisch;3613;329
+Waals Gewest;301;Vervanging van heupgewricht;8;Chirurgisch;10052;8
+Waals Gewest;302;Vervanging van kniegewricht;8;Chirurgisch;8055;9
+Waals Gewest;303;Dorsolumbale arthrodese bij wervelkolomafwijkingen;8;Chirurgisch;134;0
+Waals Gewest;304;Dorsolumbale arthrodese behalve bij wervelkolomafwijkingen;8;Chirurgisch;2105;< 5
+Waals Gewest;305;Amputatie van onderste lidmaat behalve tenen;8;Chirurgisch;501;5
+Waals Gewest;308;Herstellen van heup en femur fracturen;8;Chirurgisch;3745;6
+Waals Gewest;309;Andere significante procedures op heup en femur;8;Chirurgisch;1049;295
+Waals Gewest;310;Excisie en decompressie van discus intervertebralis;8;Chirurgisch;5450;13
+Waals Gewest;312;Huidgreffe behalve op de hand, voor musculo-skeletaal en bindweefsel diagnosen;8;Chirurgisch;250;214
+Waals Gewest;313;Procedures op de knie en het onderbeen, behalve op de voet;8;Chirurgisch;5873;8624
+Waals Gewest;314;Procedures op voet en tenen;8;Chirurgisch;4883;2061
+Waals Gewest;315;Procedures op schouder, arm en voorarm behalve gewrichtsvervanging;8;Chirurgisch;9945;3435
+Waals Gewest;316;Procedures op hand en pols;8;Chirurgisch;1517;11339
+Waals Gewest;317;Procedures op pees, spier en andere weke weefsels;8;Chirurgisch;3168;2672
+Waals Gewest;320;Andere procedures op musculo-skeletaalstelsel en bindweefsel;8;Chirurgisch;3511;2992
+Waals Gewest;321;Cervicale artrodese en andere procedures op nek/rug, behalve excisie/decompressie discus intervertebralis;8;Chirurgisch;1969;40
+Waals Gewest;322;Vervanging van schouder en elleboog gewricht;8;Chirurgisch;416;8
+Waals Gewest;340;Femurfracturen;8;Medisch;512;< 5
+Waals Gewest;341;Fracturen van het bekken of luxatie van de heup;8;Medisch;1022;6
+Waals Gewest;342;Fracturen of luxatie, behalve femur, heup en bekken;8;Medisch;2579;1087
+Waals Gewest;343;Maligne aandoeningen van het musculoskeletaal stelsel en pathologische fracturen hierdoor.;8;Medisch;639;279
+Waals Gewest;344;Osteomyelitis, septische arthritis en andere musculo-skeletale infecties;8;Medisch;673;59
+Waals Gewest;346;Stoornissen van het bindweefsel;8;Medisch;951;673
+Waals Gewest;347;Andere stoornissen, breuken en letsels van de rug en van de nek;8;Medisch;5192;21183
+Waals Gewest;349;Dysfunctie, bijwerking en complicaties van orthopedisch toestel of procedure;8;Medisch;874;183
+Waals Gewest;351;Andere diagnosen van het musculo-skeletaal stelsel en bindweefsel;8;Medisch;4153;3745
+Waals Gewest;361;Huidgreffe voor huid en subcutaan weefsel diagnosen;9;Chirurgisch;1667;3453
+Waals Gewest;362;Mastectomie procedures;9;Chirurgisch;1638;121
+Waals Gewest;363;Procedures op de borst, behalve mastectomie;9;Chirurgisch;5518;1742
+Waals Gewest;364;Andere procedures op huid, subcutaan weefsel en gerelateerde procedures;9;Chirurgisch;2795;2488
+Waals Gewest;380;Huidulcera;9;Medisch;661;25
+Waals Gewest;381;Majeure aandoeningen van de huid;9;Medisch;256;216
+Waals Gewest;382;Maligne aandoeningen van de mamma;9;Medisch;375;1055
+Waals Gewest;383;Cellulitis en andere huidinfecties;9;Medisch;4343;1026
+Waals Gewest;384;Contusie, open wonde en andere trauma van de huid en van het subcutaan weefsel;9;Medisch;2239;938
+Waals Gewest;385;Andere aandoeningen van de huid, het subcutaan weefsel en de mamma;9;Medisch;1725;6729
+Waals Gewest;401;Procedures op bijnieren en hypofyse;10;Chirurgisch;220;< 5
+Waals Gewest;403;Procedures voor obesitas;10;Chirurgisch;5256;23
+Waals Gewest;404;Procedures op schildklier, bijschildklieren en ductus thyreoglossus;10;Chirurgisch;2524;11
+Waals Gewest;405;Andere procedures bij endocriene, nutritionele en metabole stoornissen;10;Chirurgisch;125;5
+Waals Gewest;420;Diabetes;10;Medisch;3045;14
+Waals Gewest;421;Malnutritie,  “failure to thrive” en andere nutritionele stoornissen;10;Medisch;2005;595
+Waals Gewest;422;Hypovolemie en gerelateerde electrolytenstoornissen;10;Medisch;1579;< 5
+Waals Gewest;423;Congenitale afwijkingen van het metabolisme;10;Medisch;166;66
+Waals Gewest;424;Andere endocriene stoornissen;10;Medisch;1152;104
+Waals Gewest;425;Andere elektrolytenstoornissen behalve in verband met hypovolemie;10;Medisch;1546;9
+Waals Gewest;440;Niertransplantatie;11;Chirurgisch;124;0
+Waals Gewest;441;Majeure procedures op de blaas;11;Chirurgisch;700;50
+Waals Gewest;442;Procedures op nier en urinewegen voor maligne aandoening;11;Chirurgisch;660;9
+Waals Gewest;443;Procedures op nier en urinewegen voor niet maligne aandoening;11;Chirurgisch;4533;2668
+Waals Gewest;444;Procedure enkel voor het aanleggen van een dialyse toegangsweg toestel;11;Chirurgisch;337;161
+Waals Gewest;445;Andere procedures op de blaas;11;Chirurgisch;440;170
+Waals Gewest;446;Transurethrale en urethrale procedures;11;Chirurgisch;3742;686
+Waals Gewest;447;Andere procedures op nieren, urinewegen en gerelateerde procedures;11;Chirurgisch;199;29
+Waals Gewest;461;Maligne aandoening van de nier en urinewegen;11;Medisch;743;849
+Waals Gewest;462;Nefritis en nefrose;11;Medisch;277;65
+Waals Gewest;463;Infecties van de nier en de urinewegen;11;Medisch;9160;310
+Waals Gewest;465;Urinaire stenen en verworven bovenste urinewegobstructie;11;Medisch;3298;2830
+Waals Gewest;466;Dysfunctie, reactie op en complicatie van genito-urinair toestel of procedure;11;Medisch;870;146
+Waals Gewest;468;Andere nier en urinewegen diagnosen, tekens en symptomen;11;Medisch;3096;5989
+Waals Gewest;469;Acute nierziekten;11;Medisch;1178;27
+Waals Gewest;470;Chronische nierziekten;11;Medisch;1085;331
+Waals Gewest;480;Majeure procedures in het kleine bekken bij de man;12;Chirurgisch;1064;0
+Waals Gewest;481;Procedures op de penis;12;Chirurgisch;436;789
+Waals Gewest;482;Transurethrale prostatectomie;12;Chirurgisch;2264;17
+Waals Gewest;483;Procedures op de testes en het scrotum;12;Chirurgisch;963;1671
+Waals Gewest;484;Andere procedures op het mannelijk voortplantingsstelsel en gerelateerde procedures;12;Chirurgisch;821;165
+Waals Gewest;500;Maligne aandoening van het mannelijk voortplantingsstelsel;12;Medisch;401;934
+Waals Gewest;501;Diagnosen van het mannelijk voortplantingsstelsel behalve maligne aandoeningen;12;Medisch;1801;11210
+Waals Gewest;510;Evisceratie van het kleine bekken, radicale hysterectomie en andere radicale gynaecologische procedures;13;Chirurgisch;239;0
+Waals Gewest;511;Procedures op uterus/adnexen voor maligne aandoening van ovaria en adnexen;13;Chirurgisch;180;12
+Waals Gewest;512;Procedures op uterus/adnexen voor maligne aandoening behalve ovaria en adnexen;13;Chirurgisch;342;38
+Waals Gewest;513;Procedures op uterus/adnexen voor niet-maligne aandoening behalve leiomyoma;13;Chirurgisch;5508;3359
+Waals Gewest;514;Reconstructieve procedures op het vrouwelijke voortplantingsstelsel;13;Chirurgisch;1320;147
+Waals Gewest;517;Dilatatie en curettage voor niet-verloskundige diagnosen;13;Chirurgisch;215;1668
+Waals Gewest;518;Andere procedures op het vrouwelijke voortplantingsstelsel en gerelateerde procedures;13;Chirurgisch;704;2265
+Waals Gewest;519;Procedures op uterus/adnexen voor leiomyoma;13;Chirurgisch;1525;340
+Waals Gewest;530;Maligne aandoening van het vrouwelijke voortplantingsstelsel;13;Medisch;485;444
+Waals Gewest;531;Infecties van het vrouwelijke voortplantingsstelsel;13;Medisch;332;113
+Waals Gewest;532;Menstruatiestoornissen en andere stoornissen van het vrouwelijke voortplantingsstelsel;13;Medisch;716;3323
+Waals Gewest;540;Bevalling met sectio caesarea;14;Chirurgisch;7943;31
+Waals Gewest;541;Vaginale bevalling met sterilisatie en/of dilatatie en curettage;14;Chirurgisch;1105;35
+Waals Gewest;542;Vaginale bevalling met gecompliceerde procedures behalve sterilisatie en/of dilatatie en curettage;14;Chirurgisch;402;5
+Waals Gewest;544;Dilatatie en curettage, aspiratie curettage of hysterotomie voor verloskundige diagnosen;14;Chirurgisch;551;2690
+Waals Gewest;545;Procedure voor ectopische zwangerschap;14;Chirurgisch;426;34
+Waals Gewest;546;Andere operatiezaal procedures voor verloskundige diagnosen behalve bevalling;14;Chirurgisch;180;149
+Waals Gewest;560;Vaginale bevalling;14;Medisch;26265;843
+Waals Gewest;561;Diagnosen in het postpartum en post abortus, zonder ingrepen;14;Medisch;550;23
+Waals Gewest;563;Vroegtijdige arbeid;14;Medisch;1571;5
+Waals Gewest;564;Abortus, zonder dilatatie en curettage, aspiratie curettage of hysterotomie;14;Medisch;261;83
+Waals Gewest;565;Valse arbeid;14;Medisch;398;11
+Waals Gewest;566;Andere diagnosen in het antepartum;14;Medisch;3813;652
+Waals Gewest;580;Pasgeborene, getransfereerd binnen 5 dagen, elders geboren;15;Medisch;45;0
+Waals Gewest;581;Pasgeborene, getransfereerd binnen 5 dagen, hier geboren;15;Medisch;14;5
+Waals Gewest;583;Pasgeborene, met extracorporele membraanoxygenatie (ECMO);15;Chirurgisch;6;0
+Waals Gewest;588;Pasgeborene, geboortegewicht < 1 500 g met majeure procedure;15;Chirurgisch;30;0
+Waals Gewest;589;Pasgeborene, geboortegewicht < 500 g of zwangerschapsduur < 24 weken;15;Medisch;12;0
+Waals Gewest;591;Pasgeborene, geboortegewicht 500-749 g zonder majeure procedure;15;Medisch;43;0
+Waals Gewest;593;Pasgeborene, geboortegewicht 750-999 g zonder majeure procedure;15;Medisch;73;0
+Waals Gewest;602;Pasgeborene, geboortegewicht 1 000-1 249 g met respiratoire distress syndroom/andere majeure respiratoire anomalie of majeure anomalie;15;Medisch;77;0
+Waals Gewest;603;Pasgeborene, geboortegewicht 1 000-1 249 g met of zonder andere significante aandoening;15;Medisch;6;0
+Waals Gewest;607;Pasgeborene, geboortegewicht 1 250-1 499 g met respiratoire distress syndroom/andere majeure respiratoire of majeure anomalie;15;Medisch;122;0
+Waals Gewest;608;Pasgeborene, geboortegewicht 1 250-1 499 g met of zonder andere significante aandoening;15;Medisch;35;0
+Waals Gewest;609;Pasgeborene, geboortegewicht 1 500-2 499 g met majeure procedure;15;Chirurgisch;18;0
+Waals Gewest;611;Pasgeborene, geboortegewicht 1 500-1 999 g met majeure anomalie;15;Medisch;73;0
+Waals Gewest;612;Pasgeborene, geboortegewicht 1 500-1 999 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;129;0
+Waals Gewest;613;Pasgeborene, geboortegewicht 1 500-1 999 g met congenitale of perinatale infecties;15;Medisch;21;0
+Waals Gewest;614;Andere pasgeborene, geboortegewicht 1 500-1 999 g met of zonder andere significante aandoening;15;Medisch;164;0
+Waals Gewest;621;Pasgeborene, geboortegewicht 2 000-2 499 g met majeure anomalie;15;Medisch;48;0
+Waals Gewest;622;Pasgeborene, geboortegewicht 2 000-2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;127;0
+Waals Gewest;623;Pasgeborene, geboortegewicht 2 000-2 499 g met congenitale of perinatale infectie;15;Medisch;29;0
+Waals Gewest;625;Pasgeborene, geboortegewicht 2 000-2 499 g, hier geboren, met andere significante aandoening;15;Medisch;53;0
+Waals Gewest;626;Pasgeborene, geboortegewicht 2 000-2 499 g, normale pasgeborene of pasgeborene met ander probleem;15;Medisch;195;0
+Waals Gewest;630;Pasgeborene, geboortegewicht > 2 499 g met majeure cardiovasculaire procedures;15;Chirurgisch;27;0
+Waals Gewest;631;Pasgeborene, geboortegewicht > 2 499 g met andere majeure procedure;15;Chirurgisch;37;0
+Waals Gewest;633;Pasgeborene, geboortegewicht > 2 499 g met majeure anomalie;15;Medisch;148;0
+Waals Gewest;634;Pasgeborene, geboortegewicht > 2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;296;< 5
+Waals Gewest;636;Pasgeborene, geboortegewicht > 2 499 g met congenitale of perinatale infecties;15;Medisch;110;0
+Waals Gewest;639;Pasgeborene, geboortegewicht > 2 499 g hier geboren, met andere significante aandoening;15;Medisch;195;0
+Waals Gewest;640;Pasgeborene, geboortegewicht > 2 499 g, normale pasgeborene of met ander probleem;15;Medisch;649;< 5
+Waals Gewest;650;Splenectomie;16;Chirurgisch;57;0
+Waals Gewest;651;Andere procedures op bloed en bloedvormende organen;16;Chirurgisch;350;285
+Waals Gewest;660;Majeure hemato-/immunologische diagnosen behalve crisis van sikkelcelanemie en coagulatie;16;Medisch;1437;991
+Waals Gewest;661;Bloedstollingsstoornissen en bloedplaatjes;16;Medisch;430;565
+Waals Gewest;662;Crisis van sikkelcelanemie;16;Medisch;368;8
+Waals Gewest;663;Andere anemia en bloedstoornissen en hematopoietische organen;16;Medisch;3650;6054
+Waals Gewest;680;Majeure operatiezaal procedures voor lymfatische/hematopoietische/andere neoplasma;17;Chirurgisch;312;22
+Waals Gewest;681;Andere operatiezaal procedures voor lymfatisch/hematopoietisch/andere neoplasma;17;Chirurgisch;1182;843
+Waals Gewest;690;Acute leukemie;17;Medisch;369;1330
+Waals Gewest;691;Lymfoom, myeloom en niet-acute leukemie;17;Medisch;1042;1767
+Waals Gewest;692;Radiotherapie;17;Medisch;182;70
+Waals Gewest;694;Lymphatisch en andere maligne aandoeningen en neoplasmata met onzeker gedrag;17;Medisch;898;5101
+Waals Gewest;695;Chemotherapie voor acute leukemie;17;Medisch;379;3445
+Waals Gewest;696;Andere chemotherapie;17;Medisch;4610;134488
+Waals Gewest;710;Infectieuze en parasitaire ziekten, HIV met operatiezaal procedures inbegrepen;18;Chirurgisch;1033;43
+Waals Gewest;711;Postoperatieve, posttraumatische en andere toestel- infecties met operatiezaal procedures;18;Chirurgisch;855;97
+Waals Gewest;720;Septicemie en gedissemineerde infecties;18;Medisch;4515;< 5
+Waals Gewest;721;Postoperatieve, posttraumatische en andere toestel infecties;18;Medisch;1402;62
+Waals Gewest;722;Koorts;18;Medisch;1145;17
+Waals Gewest;723;Virale ziekte;18;Medisch;2652;11
+Waals Gewest;724;Andere infectieuze en parasitaire ziekten;18;Medisch;880;54
+Waals Gewest;740;Diagnosen van mentale ziekte met operatiezaal procedures;19;Chirurgisch;239;26
+Waals Gewest;750;Schizofrenie;19;Medisch;236;< 5
+Waals Gewest;751;Majeure depressieve stoornissen en andere/niet-gespecificeerde psychoses;19;Medisch;887;47
+Waals Gewest;752;Persoonlijkheidsstoornissen en impulscontrolestoornissen;19;Medisch;210;0
+Waals Gewest;753;Bipolaire stoornissen;19;Medisch;585;18
+Waals Gewest;754;Depressie, behalve majeure depressieve diagnosen;19;Medisch;1061;< 5
+Waals Gewest;755;Aanpassingstoornis en neuroses, behalve depressieve diagnosen;19;Medisch;905;12
+Waals Gewest;756;Acute angst en delirante toestanden;19;Medisch;2017;< 5
+Waals Gewest;757;Organische stoornissen van de geestelijke gezondheid;19;Medisch;1211;37
+Waals Gewest;758;Gedragsstoornissen;19;Medisch;343;9
+Waals Gewest;759;Eetstoornissen;19;Medisch;120;< 5
+Waals Gewest;760;Andere stoornissen van de mentale gezondheid;19;Medisch;1883;147
+Waals Gewest;770;Alcohol en drugs- misbruik of verslaving, ontslag tegen medisch advies;20;Medisch;274;0
+Waals Gewest;772;Alcohol en drugs- verslaving met revalidatietherapie of revalidatie/detoxificatietherapie;20;Medisch;1196;0
+Waals Gewest;773;Misbruik van en verslaving aan opiaten;20;Medisch;297;0
+Waals Gewest;774;Misbruik van en verslaving aan cocaine;20;Medisch;202;0
+Waals Gewest;775;Misbruik van en verslaving aan alcohol;20;Medisch;3565;9
+Waals Gewest;776;Misbruik van en verslaving aan andere drugs;20;Medisch;413;< 5
+Waals Gewest;791;Operatiezaal procedures voor andere complicaties van de behandeling;21;Chirurgisch;1453;412
+Waals Gewest;811;Allergische reacties;21;Medisch;458;< 5
+Waals Gewest;812;Vergiftiging door geneesmiddellen;21;Medisch;5322;13
+Waals Gewest;813;Andere complicaties van de behandeling;21;Medisch;1820;352
+Waals Gewest;815;Andere diagnosen van letsels, vergiftigingen en toxische effecten;21;Medisch;990;22
+Waals Gewest;816;Toxische effecten van niet-medische substanties;21;Medisch;755;7
+Waals Gewest;841;Extensieve derde graad brandwonden met huidgreffe;22;Chirurgisch;5;0
+Waals Gewest;842;Brandwonden met huidgreffe behalve extensieve derde graad brandwonden;22;Chirurgisch;109;50
+Waals Gewest;843;Extensieve derde graad of “full thickness” brandwonden zonder huidgreffe;22;Medisch;9;< 5
+Waals Gewest;844;“Partial thickness” brandwonden zonder huidgreffe;22;Medisch;180;18
+Waals Gewest;850;Procedures met diagnosen van revalidatie, nazorg of andere contacten met gezondheidsinstellingen;23;Chirurgisch;3091;11131
+Waals Gewest;860;Revalidatie;23;Medisch;5181;< 5
+Waals Gewest;861;Tekens, symptomen en andere factoren met invloed op de gezondheidstoestand;23;Medisch;14326;40767
+Waals Gewest;862;Andere nazorg en convalescentie;23;Medisch;7823;12867
+Waals Gewest;863;Neonatale nazorg;23;Medisch;355;5
+Waals Gewest;890;HIV met multipele majeure HIV gerelateerde aandoeningen;24;Medisch;33;< 5
+Waals Gewest;892;HIV met majeure HIV gerelateerde aandoeningen;24;Medisch;87;< 5
+Waals Gewest;893;HIV met multipele significante HIV gerelateerde aandoeningen;24;Medisch;17;0
+Waals Gewest;894;HIV met een significante HIV aandoening of zonder significante gerelateerde aandoeningen;24;Medisch;87;16
+Waals Gewest;910;Craniotomie voor multipele significante traumata;25;Chirurgisch;55;0
+Waals Gewest;911;Extensieve abdominale/thoracale procedures voor multipele significante traumata;25;Chirurgisch;74;0
+Waals Gewest;912;Musculo-skeletale en andere procedures voor multipele significante traumata;25;Chirurgisch;419;< 5
+Waals Gewest;930;Multipele significante traumata zonder operatiezaal procedures;25;Medisch;433;5
+Waals Gewest;950;Extensieve procedure zonder verband met de hoofddiagnose;0;Chirurgisch;1746;522
+Waals Gewest;951;Matige uitgebreide procedure zonder verband met de hoofddiagnose;0;Chirurgisch;4792;1026
+Waals Gewest;952;Niet-extensieve procedure zonder verband met de hoofddiagnose;0;Chirurgisch;1639;895
+Waals Gewest;955;Hoofddiagnose niet geldig als ontslagdiagnose;0;Andere;22;< 5
+Waals Gewest;956;Niet te groeperen verblijven;0;Andere;74;12
+Waals Gewest;MMM;Daghospitalisatie;SS;Andere;0;418
+Brussels Hoofdstedelijk Gewest;1;Lever- en/of darmtransplantatie;PP;Chirurgisch;13;0
+Brussels Hoofdstedelijk Gewest;2;Hart- en/of longtransplantatie;PP;Chirurgisch;15;0
+Brussels Hoofdstedelijk Gewest;3;Beenmergtransplantatie;PP;Chirurgisch;86;0
+Brussels Hoofdstedelijk Gewest;4;Extracorporele membraanoxygenatie of tracheostomie met langdurige mechanische ventilatie met extensieve procedure;PP;Chirurgisch;119;0
+Brussels Hoofdstedelijk Gewest;5;Tracheostomie met langdurige mechanische ventilatie zonder extensieve procedure;PP;Chirurgisch;24;0
+Brussels Hoofdstedelijk Gewest;6;Pancreastransplantatie;PP;Chirurgisch;< 5;0
+Brussels Hoofdstedelijk Gewest;20;Craniotomie voor trauma;1;Chirurgisch;75;< 5
+Brussels Hoofdstedelijk Gewest;21;Craniotomie behalve voor trauma;1;Chirurgisch;383;< 5
+Brussels Hoofdstedelijk Gewest;22;Procedures op een ventriculaire shunt;1;Chirurgisch;61;0
+Brussels Hoofdstedelijk Gewest;23;Spinale procedures;1;Chirurgisch;84;< 5
+Brussels Hoofdstedelijk Gewest;24;Extracraniale vasculaire procedures;1;Chirurgisch;415;< 5
+Brussels Hoofdstedelijk Gewest;26;Andere procedures op het zenuwstelsel en gerelateerde procedures;1;Chirurgisch;219;1888
+Brussels Hoofdstedelijk Gewest;40;Spinale stoornissen en letsels;1;Medisch;34;10
+Brussels Hoofdstedelijk Gewest;41;Maligniteit van het zenuwstelsel;1;Medisch;246;53
+Brussels Hoofdstedelijk Gewest;42;Degeneratieve stoornissen van het zenuwstelsel met uitzondering van multipele sclerose;1;Medisch;1011;29
+Brussels Hoofdstedelijk Gewest;43;Multipele sclerose en andere demyeliniserende ziekten;1;Medisch;249;104
+Brussels Hoofdstedelijk Gewest;44;Intracraniële hemorragie;1;Medisch;234;6
+Brussels Hoofdstedelijk Gewest;45;CVA en precerebrale occlusie met infarct;1;Medisch;1152;13
+Brussels Hoofdstedelijk Gewest;46;Niet specifieke CVA en precerebrale occlusie zonder infarct;1;Medisch;72;16
+Brussels Hoofdstedelijk Gewest;47;Transitoire cerebrale ischemie (TIA);1;Medisch;415;< 5
+Brussels Hoofdstedelijk Gewest;48;Stoornissen van de perifere, craniale en autonome zenuwen;1;Medisch;321;781
+Brussels Hoofdstedelijk Gewest;49;Bacteriële en tuberculeuze infecties van het zenuwstelsel;1;Medisch;72;0
+Brussels Hoofdstedelijk Gewest;50;Niet bacteriële infecties van het zenuwstelsel behalve virale meningitis;1;Medisch;114;5
+Brussels Hoofdstedelijk Gewest;51;Virale meningitis;1;Medisch;114;< 5
+Brussels Hoofdstedelijk Gewest;52;Niet-traumatische stupor en coma;1;Medisch;159;< 5
+Brussels Hoofdstedelijk Gewest;53;Epileptisch insult;1;Medisch;1742;58
+Brussels Hoofdstedelijk Gewest;54;Migraine en andere hoofdpijn;1;Medisch;400;27
+Brussels Hoofdstedelijk Gewest;55;Hoofdtrauma met coma > 1 uur of met hemorragie;1;Medisch;292;7
+Brussels Hoofdstedelijk Gewest;56;Cerebrale contusie/laceratie en gecompliceerde schedelbreuk, met coma < 1 uur of zonder coma;1;Medisch;29;< 5
+Brussels Hoofdstedelijk Gewest;57;Hersenschudding, gesloten schedelbreuk niet anders gespecificeerd, niet gecompliceerd intracraniaal letsel, coma < 1 uur of geen coma;1;Medisch;528;12
+Brussels Hoofdstedelijk Gewest;58;Andere stoornissen van het zenuwstelsel;1;Medisch;2643;138
+Brussels Hoofdstedelijk Gewest;70;Procedures op de orbita;2;Chirurgisch;53;57
+Brussels Hoofdstedelijk Gewest;73;Procedures op het oog behalve op de orbita;2;Chirurgisch;553;12661
+Brussels Hoofdstedelijk Gewest;80;Acute majeure ooginfecties;2;Medisch;80;< 5
+Brussels Hoofdstedelijk Gewest;82;Oogstoornissen behalve majeure infecties;2;Medisch;269;290
+Brussels Hoofdstedelijk Gewest;89;Majeure procedures op aangezichts- en schedelbeenderen;3;Chirurgisch;137;697
+Brussels Hoofdstedelijk Gewest;90;Majeure procedures op larynx en trachea;3;Chirurgisch;33;13
+Brussels Hoofdstedelijk Gewest;91;Andere majeure procedures op hoofd en hals;3;Chirurgisch;48;< 5
+Brussels Hoofdstedelijk Gewest;92;Procedures op aangezichtsbeenderen, behalve majeure procedures op aangezichts- en schedelbeenderen;3;Chirurgisch;512;790
+Brussels Hoofdstedelijk Gewest;93;Procedures op sinussen en mastoïd;3;Chirurgisch;381;284
+Brussels Hoofdstedelijk Gewest;95;Palatoplastie en herstel van hazelip;3;Chirurgisch;13;< 5
+Brussels Hoofdstedelijk Gewest;97;Procedures op tonsillen en adenoïden;3;Chirurgisch;650;2793
+Brussels Hoofdstedelijk Gewest;98;Andere procedures op oren, neus, mond en keel;3;Chirurgisch;1479;2141
+Brussels Hoofdstedelijk Gewest;110;Maligne aandoeningen van oren, neus, mond, keel, schedel/aangezicht;3;Medisch;171;83
+Brussels Hoofdstedelijk Gewest;111;Vertigo en andere labyrintstoornissen;3;Medisch;377;6
+Brussels Hoofdstedelijk Gewest;113;Infecties bovenste luchtwegen;3;Medisch;1981;70
+Brussels Hoofdstedelijk Gewest;114;Dentale en orale ziekten en letsels;3;Medisch;371;8055
+Brussels Hoofdstedelijk Gewest;115;Andere diagnosen van oren, neus, mond, keel en schedel/aangezicht;3;Medisch;6247;1055
+Brussels Hoofdstedelijk Gewest;120;Majeure thoracale en respiratoire procedures;4;Chirurgisch;233;13
+Brussels Hoofdstedelijk Gewest;121;Andere respiratoire en thoracale procedures;4;Chirurgisch;363;29
+Brussels Hoofdstedelijk Gewest;130;Diagnose van het respiratoire stelsel met kunstmatige beademing 96+ uur;4;Medisch;76;0
+Brussels Hoofdstedelijk Gewest;131;Mucoviscidose (cystic fibrosis) - longziekte;4;Medisch;78;< 5
+Brussels Hoofdstedelijk Gewest;132;Bronchopulmonale dysplasie en andere chronische respiratoire ziekten ontstaan in de perinatale periode;4;Medisch;18;< 5
+Brussels Hoofdstedelijk Gewest;133;Respiratoire insufficiëntie;4;Medisch;140;0
+Brussels Hoofdstedelijk Gewest;134;Longembolie;4;Medisch;467;< 5
+Brussels Hoofdstedelijk Gewest;135;Majeur thoracaal en respiratoir trauma;4;Medisch;211;< 5
+Brussels Hoofdstedelijk Gewest;136;Maligne respiratoire aandoening;4;Medisch;761;336
+Brussels Hoofdstedelijk Gewest;137;Majeure respiratoire infecties en inflammaties;4;Medisch;1129;14
+Brussels Hoofdstedelijk Gewest;138;Bronchiolitis en respiratoir syncytiaal virus (RSV) pneumonie;4;Medisch;1289;< 5
+Brussels Hoofdstedelijk Gewest;139;Andere pneumonie;4;Medisch;3093;16
+Brussels Hoofdstedelijk Gewest;140;Chronische obstructieve longaandoeningen;4;Medisch;2295;74
+Brussels Hoofdstedelijk Gewest;141;Astma;4;Medisch;662;12
+Brussels Hoofdstedelijk Gewest;142;Interstitiële en alveolaire longziekte;4;Medisch;254;45
+Brussels Hoofdstedelijk Gewest;143;Andere respiratoire diagnosen behalve tekens, symptomen en mineure diagnosen;4;Medisch;534;73
+Brussels Hoofdstedelijk Gewest;144;Respiratoire tekens, symptomen en mineure diagnosen;4;Medisch;1674;251
+Brussels Hoofdstedelijk Gewest;160;Majeur cardiothoracaal herstel van hartanomalie;5;Chirurgisch;11;0
+Brussels Hoofdstedelijk Gewest;161;Inplantatie van hartdefibrillator en hartassistentiesyteem;5;Chirurgisch;100;0
+Brussels Hoofdstedelijk Gewest;162;Procedures op hartkleppen met acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;38;0
+Brussels Hoofdstedelijk Gewest;163;Procedures op hartkleppen zonder acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;233;0
+Brussels Hoofdstedelijk Gewest;165;Coronaire overbrugging met acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;129;0
+Brussels Hoofdstedelijk Gewest;166;Coronaire overbrugging zonder acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;322;0
+Brussels Hoofdstedelijk Gewest;167;Andere cardiothoracale procedures en thoracovasculaire procedures;5;Chirurgisch;300;9
+Brussels Hoofdstedelijk Gewest;169;Majeure abdominale vasculaire procedures;5;Chirurgisch;133;< 5
+Brussels Hoofdstedelijk Gewest;170;Implantatie van permanente pacemaker met AMI, hartdecompensatie of shock;5;Chirurgisch;26;0
+Brussels Hoofdstedelijk Gewest;171;Implanteren van permanente pacemaker zonder AMI, hartdecompensatie of shock;5;Chirurgisch;433;0
+Brussels Hoofdstedelijk Gewest;174;Percutane coronaire procedures met acuut myocardinfarct;5;Chirurgisch;747;44
+Brussels Hoofdstedelijk Gewest;175;Percutane coronaire procedures zonder acuut myocardinfarct;5;Chirurgisch;2254;257
+Brussels Hoofdstedelijk Gewest;176;Vervangen van pacemaker of defibrillator;5;Chirurgisch;177;15
+Brussels Hoofdstedelijk Gewest;177;Revisie van pacemaker of defibrillator behalve toestel vervanging;5;Chirurgisch;45;< 5
+Brussels Hoofdstedelijk Gewest;180;Andere procedures op het circulatoire systeem;5;Chirurgisch;342;1289
+Brussels Hoofdstedelijk Gewest;181;Procedures op de arteries van de onderste ledematen;5;Chirurgisch;1042;10
+Brussels Hoofdstedelijk Gewest;182;Andere perifere vasculaire procedures;5;Chirurgisch;394;251
+Brussels Hoofdstedelijk Gewest;190;Acuut myocardinfarct;5;Medisch;460;57
+Brussels Hoofdstedelijk Gewest;191;Hartkatheterisatie voor coronaire condities;5;Medisch;1089;906
+Brussels Hoofdstedelijk Gewest;192;Hartkatheterisatie voor andere niet-coronaire condities;5;Medisch;1038;200
+Brussels Hoofdstedelijk Gewest;193;Acute en subacute endocarditis;5;Medisch;22;0
+Brussels Hoofdstedelijk Gewest;194;Hartfalen;5;Medisch;2121;6
+Brussels Hoofdstedelijk Gewest;196;Hartstilstand en shock;5;Medisch;143;5
+Brussels Hoofdstedelijk Gewest;197;Perifere en andere vasculaire stoornissen;5;Medisch;509;189
+Brussels Hoofdstedelijk Gewest;198;Angina pectoris en coronaire atherosclerose;5;Medisch;293;8
+Brussels Hoofdstedelijk Gewest;199;Hypertensie;5;Medisch;296;18
+Brussels Hoofdstedelijk Gewest;200;Structurele hartaandoeningen en kleplijden;5;Medisch;119;14
+Brussels Hoofdstedelijk Gewest;201;Hartaritmie en geleidingsstoornissen;5;Medisch;1086;553
+Brussels Hoofdstedelijk Gewest;203;Thoracale pijn;5;Medisch;177;15
+Brussels Hoofdstedelijk Gewest;204;Syncope en collaps;5;Medisch;467;9
+Brussels Hoofdstedelijk Gewest;205;Cardiomyopathie;5;Medisch;60;< 5
+Brussels Hoofdstedelijk Gewest;206;Dysfunctie, reactie en complicatie op cardiaal of vasculair toestel of procedure;5;Medisch;100;58
+Brussels Hoofdstedelijk Gewest;207;Andere diagnosen van het circulatoir stelsel;5;Medisch;467;37
+Brussels Hoofdstedelijk Gewest;220;Majeure procedures op oesofagus, maag en duodenum;6;Chirurgisch;260;27
+Brussels Hoofdstedelijk Gewest;221;Majeure procedures op dunne en dikke darm;6;Chirurgisch;1047;15
+Brussels Hoofdstedelijk Gewest;222;Andere procedures op oesofagus, maag en duodenum;6;Chirurgisch;395;70
+Brussels Hoofdstedelijk Gewest;223;Andere procedures op dunne en dikke darm;6;Chirurgisch;375;200
+Brussels Hoofdstedelijk Gewest;224;Peritoneale adhesiolyse;6;Chirurgisch;130;< 5
+Brussels Hoofdstedelijk Gewest;225;Appendectomie;6;Chirurgisch;1368;38
+Brussels Hoofdstedelijk Gewest;226;Anale procedures;6;Chirurgisch;740;837
+Brussels Hoofdstedelijk Gewest;227;Procedures voor hernia behalve voor hernia inguinalis, femoralis en umbilicalis;6;Chirurgisch;765;243
+Brussels Hoofdstedelijk Gewest;228;Procedures voor hernia inguinalis, femoralis en umbilicalis;6;Chirurgisch;1462;867
+Brussels Hoofdstedelijk Gewest;229;Andere procedures op het spijsverteringsstelsel en abdomen;6;Chirurgisch;302;60
+Brussels Hoofdstedelijk Gewest;240;Maligne aandoeningen van het spijsverteringsstelsel;6;Medisch;649;623
+Brussels Hoofdstedelijk Gewest;241;Peptisch ulcus en gastritis;6;Medisch;689;3451
+Brussels Hoofdstedelijk Gewest;242;Majeure slokdarmstoornissen;6;Medisch;77;43
+Brussels Hoofdstedelijk Gewest;243;Andere slokdarmstoornissen;6;Medisch;483;1871
+Brussels Hoofdstedelijk Gewest;244;Diverticulitis en diverticulosis;6;Medisch;647;2044
+Brussels Hoofdstedelijk Gewest;245;Inflammatoire darmziekte;6;Medisch;346;787
+Brussels Hoofdstedelijk Gewest;246;Gastro-intestinale vasculaire insufficiëntie;6;Medisch;69;< 5
+Brussels Hoofdstedelijk Gewest;247;Intestinale obstructie;6;Medisch;582;14
+Brussels Hoofdstedelijk Gewest;248;Majeure gastro-intestinale en peritoneale infecties;6;Medisch;338;6
+Brussels Hoofdstedelijk Gewest;249;Andere gastro-enteritis, misselijkheid en braken;6;Medisch;1643;494
+Brussels Hoofdstedelijk Gewest;251;Abdominale pijn;6;Medisch;343;634
+Brussels Hoofdstedelijk Gewest;252;Dysfunctie, reactie op en complicatie van gastro-intestinaal toestel of procedure;6;Medisch;226;76
+Brussels Hoofdstedelijk Gewest;253;Andere en niet gespecificeerde gastro-intestinale hemorragie;6;Medisch;255;154
+Brussels Hoofdstedelijk Gewest;254;Andere diagnosen van spijsverteringsstelsel;6;Medisch;1718;7038
+Brussels Hoofdstedelijk Gewest;260;Majeure pancreas-, lever- en shuntprocedures;7;Chirurgisch;219;7
+Brussels Hoofdstedelijk Gewest;261;Majeure procedures op de galwegen;7;Chirurgisch;143;7
+Brussels Hoofdstedelijk Gewest;262;Cholecystectomie, behalve laparoscopisch;7;Chirurgisch;59;0
+Brussels Hoofdstedelijk Gewest;263;Laparoscopische cholecystectomie;7;Chirurgisch;1825;70
+Brussels Hoofdstedelijk Gewest;264;Andere procedures op hepatobiliair stelsel en pancreas, abdominaal;7;Chirurgisch;208;36
+Brussels Hoofdstedelijk Gewest;279;Hepatisch coma en andere majeure acute leverstoornissen;7;Medisch;169;24
+Brussels Hoofdstedelijk Gewest;280;Alcoholische leverziekte;7;Medisch;304;< 5
+Brussels Hoofdstedelijk Gewest;281;Maligne aandoeningen van het hepatobiliair stelsel en de pancreas;7;Medisch;527;216
+Brussels Hoofdstedelijk Gewest;282;Stoornissen van de pancreas behalve maligne aandoeningen;7;Medisch;764;87
+Brussels Hoofdstedelijk Gewest;283;Andere leverstoornissen;7;Medisch;396;82
+Brussels Hoofdstedelijk Gewest;284;Stoornissen van de galblaas en de galwegen;7;Medisch;1077;74
+Brussels Hoofdstedelijk Gewest;301;Vervanging van heupgewricht;8;Chirurgisch;1824;< 5
+Brussels Hoofdstedelijk Gewest;302;Vervanging van kniegewricht;8;Chirurgisch;1629;11
+Brussels Hoofdstedelijk Gewest;303;Dorsolumbale arthrodese bij wervelkolomafwijkingen;8;Chirurgisch;24;0
+Brussels Hoofdstedelijk Gewest;304;Dorsolumbale arthrodese behalve bij wervelkolomafwijkingen;8;Chirurgisch;430;< 5
+Brussels Hoofdstedelijk Gewest;305;Amputatie van onderste lidmaat behalve tenen;8;Chirurgisch;112;0
+Brussels Hoofdstedelijk Gewest;308;Herstellen van heup en femur fracturen;8;Chirurgisch;931;< 5
+Brussels Hoofdstedelijk Gewest;309;Andere significante procedures op heup en femur;8;Chirurgisch;277;106
+Brussels Hoofdstedelijk Gewest;310;Excisie en decompressie van discus intervertebralis;8;Chirurgisch;927;< 5
+Brussels Hoofdstedelijk Gewest;312;Huidgreffe behalve op de hand, voor musculo-skeletaal en bindweefsel diagnosen;8;Chirurgisch;43;57
+Brussels Hoofdstedelijk Gewest;313;Procedures op de knie en het onderbeen, behalve op de voet;8;Chirurgisch;1693;2381
+Brussels Hoofdstedelijk Gewest;314;Procedures op voet en tenen;8;Chirurgisch;1161;454
+Brussels Hoofdstedelijk Gewest;315;Procedures op schouder, arm en voorarm behalve gewrichtsvervanging;8;Chirurgisch;2344;930
+Brussels Hoofdstedelijk Gewest;316;Procedures op hand en pols;8;Chirurgisch;262;2187
+Brussels Hoofdstedelijk Gewest;317;Procedures op pees, spier en andere weke weefsels;8;Chirurgisch;714;525
+Brussels Hoofdstedelijk Gewest;320;Andere procedures op musculo-skeletaalstelsel en bindweefsel;8;Chirurgisch;805;1262
+Brussels Hoofdstedelijk Gewest;321;Cervicale artrodese en andere procedures op nek/rug, behalve excisie/decompressie discus intervertebralis;8;Chirurgisch;346;13
+Brussels Hoofdstedelijk Gewest;322;Vervanging van schouder en elleboog gewricht;8;Chirurgisch;85;< 5
+Brussels Hoofdstedelijk Gewest;340;Femurfracturen;8;Medisch;140;< 5
+Brussels Hoofdstedelijk Gewest;341;Fracturen van het bekken of luxatie van de heup;8;Medisch;262;0
+Brussels Hoofdstedelijk Gewest;342;Fracturen of luxatie, behalve femur, heup en bekken;8;Medisch;763;422
+Brussels Hoofdstedelijk Gewest;343;Maligne aandoeningen van het musculoskeletaal stelsel en pathologische fracturen hierdoor.;8;Medisch;166;65
+Brussels Hoofdstedelijk Gewest;344;Osteomyelitis, septische arthritis en andere musculo-skeletale infecties;8;Medisch;208;16
+Brussels Hoofdstedelijk Gewest;346;Stoornissen van het bindweefsel;8;Medisch;386;291
+Brussels Hoofdstedelijk Gewest;347;Andere stoornissen, breuken en letsels van de rug en van de nek;8;Medisch;1195;11193
+Brussels Hoofdstedelijk Gewest;349;Dysfunctie, bijwerking en complicaties van orthopedisch toestel of procedure;8;Medisch;184;13
+Brussels Hoofdstedelijk Gewest;351;Andere diagnosen van het musculo-skeletaal stelsel en bindweefsel;8;Medisch;994;667
+Brussels Hoofdstedelijk Gewest;361;Huidgreffe voor huid en subcutaan weefsel diagnosen;9;Chirurgisch;378;878
+Brussels Hoofdstedelijk Gewest;362;Mastectomie procedures;9;Chirurgisch;502;31
+Brussels Hoofdstedelijk Gewest;363;Procedures op de borst, behalve mastectomie;9;Chirurgisch;1415;500
+Brussels Hoofdstedelijk Gewest;364;Andere procedures op huid, subcutaan weefsel en gerelateerde procedures;9;Chirurgisch;735;929
+Brussels Hoofdstedelijk Gewest;380;Huidulcera;9;Medisch;172;< 5
+Brussels Hoofdstedelijk Gewest;381;Majeure aandoeningen van de huid;9;Medisch;81;62
+Brussels Hoofdstedelijk Gewest;382;Maligne aandoeningen van de mamma;9;Medisch;131;220
+Brussels Hoofdstedelijk Gewest;383;Cellulitis en andere huidinfecties;9;Medisch;1270;256
+Brussels Hoofdstedelijk Gewest;384;Contusie, open wonde en andere trauma van de huid en van het subcutaan weefsel;9;Medisch;654;497
+Brussels Hoofdstedelijk Gewest;385;Andere aandoeningen van de huid, het subcutaan weefsel en de mamma;9;Medisch;544;1971
+Brussels Hoofdstedelijk Gewest;401;Procedures op bijnieren en hypofyse;10;Chirurgisch;60;0
+Brussels Hoofdstedelijk Gewest;403;Procedures voor obesitas;10;Chirurgisch;1063;< 5
+Brussels Hoofdstedelijk Gewest;404;Procedures op schildklier, bijschildklieren en ductus thyreoglossus;10;Chirurgisch;592;< 5
+Brussels Hoofdstedelijk Gewest;405;Andere procedures bij endocriene, nutritionele en metabole stoornissen;10;Chirurgisch;28;0
+Brussels Hoofdstedelijk Gewest;420;Diabetes;10;Medisch;1205;8
+Brussels Hoofdstedelijk Gewest;421;Malnutritie,  “failure to thrive” en andere nutritionele stoornissen;10;Medisch;535;83
+Brussels Hoofdstedelijk Gewest;422;Hypovolemie en gerelateerde electrolytenstoornissen;10;Medisch;447;< 5
+Brussels Hoofdstedelijk Gewest;423;Congenitale afwijkingen van het metabolisme;10;Medisch;58;32
+Brussels Hoofdstedelijk Gewest;424;Andere endocriene stoornissen;10;Medisch;343;33
+Brussels Hoofdstedelijk Gewest;425;Andere elektrolytenstoornissen behalve in verband met hypovolemie;10;Medisch;459;< 5
+Brussels Hoofdstedelijk Gewest;440;Niertransplantatie;11;Chirurgisch;37;0
+Brussels Hoofdstedelijk Gewest;441;Majeure procedures op de blaas;11;Chirurgisch;103;< 5
+Brussels Hoofdstedelijk Gewest;442;Procedures op nier en urinewegen voor maligne aandoening;11;Chirurgisch;159;< 5
+Brussels Hoofdstedelijk Gewest;443;Procedures op nier en urinewegen voor niet maligne aandoening;11;Chirurgisch;820;703
+Brussels Hoofdstedelijk Gewest;444;Procedure enkel voor het aanleggen van een dialyse toegangsweg toestel;11;Chirurgisch;127;5
+Brussels Hoofdstedelijk Gewest;445;Andere procedures op de blaas;11;Chirurgisch;96;54
+Brussels Hoofdstedelijk Gewest;446;Transurethrale en urethrale procedures;11;Chirurgisch;948;493
+Brussels Hoofdstedelijk Gewest;447;Andere procedures op nieren, urinewegen en gerelateerde procedures;11;Chirurgisch;47;5
+Brussels Hoofdstedelijk Gewest;461;Maligne aandoening van de nier en urinewegen;11;Medisch;192;269
+Brussels Hoofdstedelijk Gewest;462;Nefritis en nefrose;11;Medisch;116;25
+Brussels Hoofdstedelijk Gewest;463;Infecties van de nier en de urinewegen;11;Medisch;2526;89
+Brussels Hoofdstedelijk Gewest;465;Urinaire stenen en verworven bovenste urinewegobstructie;11;Medisch;748;1374
+Brussels Hoofdstedelijk Gewest;466;Dysfunctie, reactie op en complicatie van genito-urinair toestel of procedure;11;Medisch;273;53
+Brussels Hoofdstedelijk Gewest;468;Andere nier en urinewegen diagnosen, tekens en symptomen;11;Medisch;713;1622
+Brussels Hoofdstedelijk Gewest;469;Acute nierziekten;11;Medisch;212;0
+Brussels Hoofdstedelijk Gewest;470;Chronische nierziekten;11;Medisch;347;26
+Brussels Hoofdstedelijk Gewest;480;Majeure procedures in het kleine bekken bij de man;12;Chirurgisch;196;< 5
+Brussels Hoofdstedelijk Gewest;481;Procedures op de penis;12;Chirurgisch;123;439
+Brussels Hoofdstedelijk Gewest;482;Transurethrale prostatectomie;12;Chirurgisch;567;31
+Brussels Hoofdstedelijk Gewest;483;Procedures op de testes en het scrotum;12;Chirurgisch;258;467
+Brussels Hoofdstedelijk Gewest;484;Andere procedures op het mannelijk voortplantingsstelsel en gerelateerde procedures;12;Chirurgisch;200;17
+Brussels Hoofdstedelijk Gewest;500;Maligne aandoening van het mannelijk voortplantingsstelsel;12;Medisch;138;175
+Brussels Hoofdstedelijk Gewest;501;Diagnosen van het mannelijk voortplantingsstelsel behalve maligne aandoeningen;12;Medisch;474;4094
+Brussels Hoofdstedelijk Gewest;510;Evisceratie van het kleine bekken, radicale hysterectomie en andere radicale gynaecologische procedures;13;Chirurgisch;42;0
+Brussels Hoofdstedelijk Gewest;511;Procedures op uterus/adnexen voor maligne aandoening van ovaria en adnexen;13;Chirurgisch;64;5
+Brussels Hoofdstedelijk Gewest;512;Procedures op uterus/adnexen voor maligne aandoening behalve ovaria en adnexen;13;Chirurgisch;109;7
+Brussels Hoofdstedelijk Gewest;513;Procedures op uterus/adnexen voor niet-maligne aandoening behalve leiomyoma;13;Chirurgisch;1134;1100
+Brussels Hoofdstedelijk Gewest;514;Reconstructieve procedures op het vrouwelijke voortplantingsstelsel;13;Chirurgisch;227;23
+Brussels Hoofdstedelijk Gewest;517;Dilatatie en curettage voor niet-verloskundige diagnosen;13;Chirurgisch;50;579
+Brussels Hoofdstedelijk Gewest;518;Andere procedures op het vrouwelijke voortplantingsstelsel en gerelateerde procedures;13;Chirurgisch;145;292
+Brussels Hoofdstedelijk Gewest;519;Procedures op uterus/adnexen voor leiomyoma;13;Chirurgisch;548;216
+Brussels Hoofdstedelijk Gewest;530;Maligne aandoening van het vrouwelijke voortplantingsstelsel;13;Medisch;142;144
+Brussels Hoofdstedelijk Gewest;531;Infecties van het vrouwelijke voortplantingsstelsel;13;Medisch;105;18
+Brussels Hoofdstedelijk Gewest;532;Menstruatiestoornissen en andere stoornissen van het vrouwelijke voortplantingsstelsel;13;Medisch;187;911
+Brussels Hoofdstedelijk Gewest;540;Bevalling met sectio caesarea;14;Chirurgisch;3229;9
+Brussels Hoofdstedelijk Gewest;541;Vaginale bevalling met sterilisatie en/of dilatatie en curettage;14;Chirurgisch;391;8
+Brussels Hoofdstedelijk Gewest;542;Vaginale bevalling met gecompliceerde procedures behalve sterilisatie en/of dilatatie en curettage;14;Chirurgisch;322;< 5
+Brussels Hoofdstedelijk Gewest;544;Dilatatie en curettage, aspiratie curettage of hysterotomie voor verloskundige diagnosen;14;Chirurgisch;216;895
+Brussels Hoofdstedelijk Gewest;545;Procedure voor ectopische zwangerschap;14;Chirurgisch;181;15
+Brussels Hoofdstedelijk Gewest;546;Andere operatiezaal procedures voor verloskundige diagnosen behalve bevalling;14;Chirurgisch;75;57
+Brussels Hoofdstedelijk Gewest;560;Vaginale bevalling;14;Medisch;13150;223
+Brussels Hoofdstedelijk Gewest;561;Diagnosen in het postpartum en post abortus, zonder ingrepen;14;Medisch;236;12
+Brussels Hoofdstedelijk Gewest;563;Vroegtijdige arbeid;14;Medisch;320;< 5
+Brussels Hoofdstedelijk Gewest;564;Abortus, zonder dilatatie en curettage, aspiratie curettage of hysterotomie;14;Medisch;117;25
+Brussels Hoofdstedelijk Gewest;565;Valse arbeid;14;Medisch;99;16
+Brussels Hoofdstedelijk Gewest;566;Andere diagnosen in het antepartum;14;Medisch;1670;433
+Brussels Hoofdstedelijk Gewest;580;Pasgeborene, getransfereerd binnen 5 dagen, elders geboren;15;Medisch;64;0
+Brussels Hoofdstedelijk Gewest;581;Pasgeborene, getransfereerd binnen 5 dagen, hier geboren;15;Medisch;< 5;0
+Brussels Hoofdstedelijk Gewest;583;Pasgeborene, met extracorporele membraanoxygenatie (ECMO);15;Chirurgisch;< 5;0
+Brussels Hoofdstedelijk Gewest;588;Pasgeborene, geboortegewicht < 1 500 g met majeure procedure;15;Chirurgisch;9;0
+Brussels Hoofdstedelijk Gewest;589;Pasgeborene, geboortegewicht < 500 g of zwangerschapsduur < 24 weken;15;Medisch;7;0
+Brussels Hoofdstedelijk Gewest;591;Pasgeborene, geboortegewicht 500-749 g zonder majeure procedure;15;Medisch;18;0
+Brussels Hoofdstedelijk Gewest;593;Pasgeborene, geboortegewicht 750-999 g zonder majeure procedure;15;Medisch;33;0
+Brussels Hoofdstedelijk Gewest;602;Pasgeborene, geboortegewicht 1 000-1 249 g met respiratoire distress syndroom/andere majeure respiratoire anomalie of majeure anomalie;15;Medisch;19;0
+Brussels Hoofdstedelijk Gewest;603;Pasgeborene, geboortegewicht 1 000-1 249 g met of zonder andere significante aandoening;15;Medisch;< 5;0
+Brussels Hoofdstedelijk Gewest;607;Pasgeborene, geboortegewicht 1 250-1 499 g met respiratoire distress syndroom/andere majeure respiratoire of majeure anomalie;15;Medisch;44;0
+Brussels Hoofdstedelijk Gewest;608;Pasgeborene, geboortegewicht 1 250-1 499 g met of zonder andere significante aandoening;15;Medisch;20;0
+Brussels Hoofdstedelijk Gewest;609;Pasgeborene, geboortegewicht 1 500-2 499 g met majeure procedure;15;Chirurgisch;10;0
+Brussels Hoofdstedelijk Gewest;611;Pasgeborene, geboortegewicht 1 500-1 999 g met majeure anomalie;15;Medisch;13;0
+Brussels Hoofdstedelijk Gewest;612;Pasgeborene, geboortegewicht 1 500-1 999 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;66;0
+Brussels Hoofdstedelijk Gewest;613;Pasgeborene, geboortegewicht 1 500-1 999 g met congenitale of perinatale infecties;15;Medisch;< 5;0
+Brussels Hoofdstedelijk Gewest;614;Andere pasgeborene, geboortegewicht 1 500-1 999 g met of zonder andere significante aandoening;15;Medisch;58;0
+Brussels Hoofdstedelijk Gewest;621;Pasgeborene, geboortegewicht 2 000-2 499 g met majeure anomalie;15;Medisch;20;0
+Brussels Hoofdstedelijk Gewest;622;Pasgeborene, geboortegewicht 2 000-2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;48;0
+Brussels Hoofdstedelijk Gewest;623;Pasgeborene, geboortegewicht 2 000-2 499 g met congenitale of perinatale infectie;15;Medisch;18;0
+Brussels Hoofdstedelijk Gewest;625;Pasgeborene, geboortegewicht 2 000-2 499 g, hier geboren, met andere significante aandoening;15;Medisch;35;0
+Brussels Hoofdstedelijk Gewest;626;Pasgeborene, geboortegewicht 2 000-2 499 g, normale pasgeborene of pasgeborene met ander probleem;15;Medisch;68;0
+Brussels Hoofdstedelijk Gewest;630;Pasgeborene, geboortegewicht > 2 499 g met majeure cardiovasculaire procedures;15;Chirurgisch;15;0
+Brussels Hoofdstedelijk Gewest;631;Pasgeborene, geboortegewicht > 2 499 g met andere majeure procedure;15;Chirurgisch;19;0
+Brussels Hoofdstedelijk Gewest;633;Pasgeborene, geboortegewicht > 2 499 g met majeure anomalie;15;Medisch;79;0
+Brussels Hoofdstedelijk Gewest;634;Pasgeborene, geboortegewicht > 2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;118;0
+Brussels Hoofdstedelijk Gewest;636;Pasgeborene, geboortegewicht > 2 499 g met congenitale of perinatale infecties;15;Medisch;53;0
+Brussels Hoofdstedelijk Gewest;639;Pasgeborene, geboortegewicht > 2 499 g hier geboren, met andere significante aandoening;15;Medisch;84;0
+Brussels Hoofdstedelijk Gewest;640;Pasgeborene, geboortegewicht > 2 499 g, normale pasgeborene of met ander probleem;15;Medisch;367;< 5
+Brussels Hoofdstedelijk Gewest;650;Splenectomie;16;Chirurgisch;18;0
+Brussels Hoofdstedelijk Gewest;651;Andere procedures op bloed en bloedvormende organen;16;Chirurgisch;86;46
+Brussels Hoofdstedelijk Gewest;660;Majeure hemato-/immunologische diagnosen behalve crisis van sikkelcelanemie en coagulatie;16;Medisch;329;460
+Brussels Hoofdstedelijk Gewest;661;Bloedstollingsstoornissen en bloedplaatjes;16;Medisch;132;336
+Brussels Hoofdstedelijk Gewest;662;Crisis van sikkelcelanemie;16;Medisch;298;24
+Brussels Hoofdstedelijk Gewest;663;Andere anemia en bloedstoornissen en hematopoietische organen;16;Medisch;1016;2258
+Brussels Hoofdstedelijk Gewest;680;Majeure operatiezaal procedures voor lymfatische/hematopoietische/andere neoplasma;17;Chirurgisch;82;< 5
+Brussels Hoofdstedelijk Gewest;681;Andere operatiezaal procedures voor lymfatisch/hematopoietisch/andere neoplasma;17;Chirurgisch;313;133
+Brussels Hoofdstedelijk Gewest;690;Acute leukemie;17;Medisch;126;367
+Brussels Hoofdstedelijk Gewest;691;Lymfoom, myeloom en niet-acute leukemie;17;Medisch;302;714
+Brussels Hoofdstedelijk Gewest;692;Radiotherapie;17;Medisch;76;5
+Brussels Hoofdstedelijk Gewest;694;Lymphatisch en andere maligne aandoeningen en neoplasmata met onzeker gedrag;17;Medisch;243;1142
+Brussels Hoofdstedelijk Gewest;695;Chemotherapie voor acute leukemie;17;Medisch;125;1072
+Brussels Hoofdstedelijk Gewest;696;Andere chemotherapie;17;Medisch;1807;30783
+Brussels Hoofdstedelijk Gewest;710;Infectieuze en parasitaire ziekten, HIV met operatiezaal procedures inbegrepen;18;Chirurgisch;187;17
+Brussels Hoofdstedelijk Gewest;711;Postoperatieve, posttraumatische en andere toestel- infecties met operatiezaal procedures;18;Chirurgisch;208;31
+Brussels Hoofdstedelijk Gewest;720;Septicemie en gedissemineerde infecties;18;Medisch;1036;< 5
+Brussels Hoofdstedelijk Gewest;721;Postoperatieve, posttraumatische en andere toestel infecties;18;Medisch;286;24
+Brussels Hoofdstedelijk Gewest;722;Koorts;18;Medisch;246;0
+Brussels Hoofdstedelijk Gewest;723;Virale ziekte;18;Medisch;915;< 5
+Brussels Hoofdstedelijk Gewest;724;Andere infectieuze en parasitaire ziekten;18;Medisch;400;37
+Brussels Hoofdstedelijk Gewest;740;Diagnosen van mentale ziekte met operatiezaal procedures;19;Chirurgisch;74;11
+Brussels Hoofdstedelijk Gewest;750;Schizofrenie;19;Medisch;200;< 5
+Brussels Hoofdstedelijk Gewest;751;Majeure depressieve stoornissen en andere/niet-gespecificeerde psychoses;19;Medisch;508;0
+Brussels Hoofdstedelijk Gewest;752;Persoonlijkheidsstoornissen en impulscontrolestoornissen;19;Medisch;82;0
+Brussels Hoofdstedelijk Gewest;753;Bipolaire stoornissen;19;Medisch;237;0
+Brussels Hoofdstedelijk Gewest;754;Depressie, behalve majeure depressieve diagnosen;19;Medisch;166;0
+Brussels Hoofdstedelijk Gewest;755;Aanpassingstoornis en neuroses, behalve depressieve diagnosen;19;Medisch;138;< 5
+Brussels Hoofdstedelijk Gewest;756;Acute angst en delirante toestanden;19;Medisch;549;5
+Brussels Hoofdstedelijk Gewest;757;Organische stoornissen van de geestelijke gezondheid;19;Medisch;486;43
+Brussels Hoofdstedelijk Gewest;758;Gedragsstoornissen;19;Medisch;62;0
+Brussels Hoofdstedelijk Gewest;759;Eetstoornissen;19;Medisch;20;0
+Brussels Hoofdstedelijk Gewest;760;Andere stoornissen van de mentale gezondheid;19;Medisch;609;70
+Brussels Hoofdstedelijk Gewest;770;Alcohol en drugs- misbruik of verslaving, ontslag tegen medisch advies;20;Medisch;59;0
+Brussels Hoofdstedelijk Gewest;772;Alcohol en drugs- verslaving met revalidatietherapie of revalidatie/detoxificatietherapie;20;Medisch;261;0
+Brussels Hoofdstedelijk Gewest;773;Misbruik van en verslaving aan opiaten;20;Medisch;47;< 5
+Brussels Hoofdstedelijk Gewest;774;Misbruik van en verslaving aan cocaine;20;Medisch;69;< 5
+Brussels Hoofdstedelijk Gewest;775;Misbruik van en verslaving aan alcohol;20;Medisch;621;15
+Brussels Hoofdstedelijk Gewest;776;Misbruik van en verslaving aan andere drugs;20;Medisch;122;0
+Brussels Hoofdstedelijk Gewest;791;Operatiezaal procedures voor andere complicaties van de behandeling;21;Chirurgisch;338;112
+Brussels Hoofdstedelijk Gewest;811;Allergische reacties;21;Medisch;113;0
+Brussels Hoofdstedelijk Gewest;812;Vergiftiging door geneesmiddellen;21;Medisch;972;< 5
+Brussels Hoofdstedelijk Gewest;813;Andere complicaties van de behandeling;21;Medisch;405;65
+Brussels Hoofdstedelijk Gewest;815;Andere diagnosen van letsels, vergiftigingen en toxische effecten;21;Medisch;312;8
+Brussels Hoofdstedelijk Gewest;816;Toxische effecten van niet-medische substanties;21;Medisch;166;< 5
+Brussels Hoofdstedelijk Gewest;841;Extensieve derde graad brandwonden met huidgreffe;22;Chirurgisch;< 5;0
+Brussels Hoofdstedelijk Gewest;842;Brandwonden met huidgreffe behalve extensieve derde graad brandwonden;22;Chirurgisch;6;7
+Brussels Hoofdstedelijk Gewest;843;Extensieve derde graad of “full thickness” brandwonden zonder huidgreffe;22;Medisch;< 5;0
+Brussels Hoofdstedelijk Gewest;844;“Partial thickness” brandwonden zonder huidgreffe;22;Medisch;44;< 5
+Brussels Hoofdstedelijk Gewest;850;Procedures met diagnosen van revalidatie, nazorg of andere contacten met gezondheidsinstellingen;23;Chirurgisch;783;3972
+Brussels Hoofdstedelijk Gewest;860;Revalidatie;23;Medisch;3118;0
+Brussels Hoofdstedelijk Gewest;861;Tekens, symptomen en andere factoren met invloed op de gezondheidstoestand;23;Medisch;2762;8034
+Brussels Hoofdstedelijk Gewest;862;Andere nazorg en convalescentie;23;Medisch;1732;3256
+Brussels Hoofdstedelijk Gewest;863;Neonatale nazorg;23;Medisch;61;< 5
+Brussels Hoofdstedelijk Gewest;890;HIV met multipele majeure HIV gerelateerde aandoeningen;24;Medisch;57;< 5
+Brussels Hoofdstedelijk Gewest;892;HIV met majeure HIV gerelateerde aandoeningen;24;Medisch;100;25
+Brussels Hoofdstedelijk Gewest;893;HIV met multipele significante HIV gerelateerde aandoeningen;24;Medisch;22;0
+Brussels Hoofdstedelijk Gewest;894;HIV met een significante HIV aandoening of zonder significante gerelateerde aandoeningen;24;Medisch;107;22
+Brussels Hoofdstedelijk Gewest;910;Craniotomie voor multipele significante traumata;25;Chirurgisch;10;0
+Brussels Hoofdstedelijk Gewest;911;Extensieve abdominale/thoracale procedures voor multipele significante traumata;25;Chirurgisch;13;0
+Brussels Hoofdstedelijk Gewest;912;Musculo-skeletale en andere procedures voor multipele significante traumata;25;Chirurgisch;95;0
+Brussels Hoofdstedelijk Gewest;930;Multipele significante traumata zonder operatiezaal procedures;25;Medisch;95;< 5
+Brussels Hoofdstedelijk Gewest;950;Extensieve procedure zonder verband met de hoofddiagnose;0;Chirurgisch;303;141
+Brussels Hoofdstedelijk Gewest;951;Matige uitgebreide procedure zonder verband met de hoofddiagnose;0;Chirurgisch;710;201
+Brussels Hoofdstedelijk Gewest;952;Niet-extensieve procedure zonder verband met de hoofddiagnose;0;Chirurgisch;338;235
+Brussels Hoofdstedelijk Gewest;955;Hoofddiagnose niet geldig als ontslagdiagnose;0;Andere;< 5;< 5
+Brussels Hoofdstedelijk Gewest;956;Niet te groeperen verblijven;0;Andere;9;< 5
+Brussels Hoofdstedelijk Gewest;MMM;Daghospitalisatie;SS;Andere;0;27
+Buitenlands verblijf;1;Lever- en/of darmtransplantatie;PP;Chirurgisch;45;0
+Buitenlands verblijf;2;Hart- en/of longtransplantatie;PP;Chirurgisch;< 5;0
+Buitenlands verblijf;3;Beenmergtransplantatie;PP;Chirurgisch;18;0
+Buitenlands verblijf;4;Extracorporele membraanoxygenatie of tracheostomie met langdurige mechanische ventilatie met extensieve procedure;PP;Chirurgisch;89;0
+Buitenlands verblijf;5;Tracheostomie met langdurige mechanische ventilatie zonder extensieve procedure;PP;Chirurgisch;5;0
+Buitenlands verblijf;20;Craniotomie voor trauma;1;Chirurgisch;35;0
+Buitenlands verblijf;21;Craniotomie behalve voor trauma;1;Chirurgisch;176;< 5
+Buitenlands verblijf;22;Procedures op een ventriculaire shunt;1;Chirurgisch;10;0
+Buitenlands verblijf;23;Spinale procedures;1;Chirurgisch;42;< 5
+Buitenlands verblijf;24;Extracraniale vasculaire procedures;1;Chirurgisch;104;< 5
+Buitenlands verblijf;26;Andere procedures op het zenuwstelsel en gerelateerde procedures;1;Chirurgisch;96;288
+Buitenlands verblijf;40;Spinale stoornissen en letsels;1;Medisch;9;< 5
+Buitenlands verblijf;41;Maligniteit van het zenuwstelsel;1;Medisch;48;8
+Buitenlands verblijf;42;Degeneratieve stoornissen van het zenuwstelsel met uitzondering van multipele sclerose;1;Medisch;97;< 5
+Buitenlands verblijf;43;Multipele sclerose en andere demyeliniserende ziekten;1;Medisch;70;< 5
+Buitenlands verblijf;44;Intracraniële hemorragie;1;Medisch;51;0
+Buitenlands verblijf;45;CVA en precerebrale occlusie met infarct;1;Medisch;194;< 5
+Buitenlands verblijf;46;Niet specifieke CVA en precerebrale occlusie zonder infarct;1;Medisch;10;6
+Buitenlands verblijf;47;Transitoire cerebrale ischemie (TIA);1;Medisch;87;0
+Buitenlands verblijf;48;Stoornissen van de perifere, craniale en autonome zenuwen;1;Medisch;95;31
+Buitenlands verblijf;49;Bacteriële en tuberculeuze infecties van het zenuwstelsel;1;Medisch;10;0
+Buitenlands verblijf;50;Niet bacteriële infecties van het zenuwstelsel behalve virale meningitis;1;Medisch;13;0
+Buitenlands verblijf;51;Virale meningitis;1;Medisch;10;0
+Buitenlands verblijf;52;Niet-traumatische stupor en coma;1;Medisch;33;0
+Buitenlands verblijf;53;Epileptisch insult;1;Medisch;359;8
+Buitenlands verblijf;54;Migraine en andere hoofdpijn;1;Medisch;90;5
+Buitenlands verblijf;55;Hoofdtrauma met coma > 1 uur of met hemorragie;1;Medisch;93;< 5
+Buitenlands verblijf;56;Cerebrale contusie/laceratie en gecompliceerde schedelbreuk, met coma < 1 uur of zonder coma;1;Medisch;7;0
+Buitenlands verblijf;57;Hersenschudding, gesloten schedelbreuk niet anders gespecificeerd, niet gecompliceerd intracraniaal letsel, coma < 1 uur of geen coma;1;Medisch;182;0
+Buitenlands verblijf;58;Andere stoornissen van het zenuwstelsel;1;Medisch;207;32
+Buitenlands verblijf;70;Procedures op de orbita;2;Chirurgisch;23;< 5
+Buitenlands verblijf;73;Procedures op het oog behalve op de orbita;2;Chirurgisch;298;1958
+Buitenlands verblijf;80;Acute majeure ooginfecties;2;Medisch;7;0
+Buitenlands verblijf;82;Oogstoornissen behalve majeure infecties;2;Medisch;36;32
+Buitenlands verblijf;89;Majeure procedures op aangezichts- en schedelbeenderen;3;Chirurgisch;44;197
+Buitenlands verblijf;90;Majeure procedures op larynx en trachea;3;Chirurgisch;12;< 5
+Buitenlands verblijf;91;Andere majeure procedures op hoofd en hals;3;Chirurgisch;24;6
+Buitenlands verblijf;92;Procedures op aangezichtsbeenderen, behalve majeure procedures op aangezichts- en schedelbeenderen;3;Chirurgisch;128;150
+Buitenlands verblijf;93;Procedures op sinussen en mastoïd;3;Chirurgisch;60;50
+Buitenlands verblijf;95;Palatoplastie en herstel van hazelip;3;Chirurgisch;9;< 5
+Buitenlands verblijf;97;Procedures op tonsillen en adenoïden;3;Chirurgisch;70;266
+Buitenlands verblijf;98;Andere procedures op oren, neus, mond en keel;3;Chirurgisch;243;374
+Buitenlands verblijf;110;Maligne aandoeningen van oren, neus, mond, keel, schedel/aangezicht;3;Medisch;21;24
+Buitenlands verblijf;111;Vertigo en andere labyrintstoornissen;3;Medisch;88;0
+Buitenlands verblijf;113;Infecties bovenste luchtwegen;3;Medisch;240;12
+Buitenlands verblijf;114;Dentale en orale ziekten en letsels;3;Medisch;81;638
+Buitenlands verblijf;115;Andere diagnosen van oren, neus, mond, keel en schedel/aangezicht;3;Medisch;657;117
+Buitenlands verblijf;120;Majeure thoracale en respiratoire procedures;4;Chirurgisch;101;< 5
+Buitenlands verblijf;121;Andere respiratoire en thoracale procedures;4;Chirurgisch;88;9
+Buitenlands verblijf;130;Diagnose van het respiratoire stelsel met kunstmatige beademing 96+ uur;4;Medisch;23;0
+Buitenlands verblijf;131;Mucoviscidose (cystic fibrosis) - longziekte;4;Medisch;20;0
+Buitenlands verblijf;132;Bronchopulmonale dysplasie en andere chronische respiratoire ziekten ontstaan in de perinatale periode;4;Medisch;< 5;0
+Buitenlands verblijf;133;Respiratoire insufficiëntie;4;Medisch;12;0
+Buitenlands verblijf;134;Longembolie;4;Medisch;93;< 5
+Buitenlands verblijf;135;Majeur thoracaal en respiratoir trauma;4;Medisch;108;< 5
+Buitenlands verblijf;136;Maligne respiratoire aandoening;4;Medisch;104;62
+Buitenlands verblijf;137;Majeure respiratoire infecties en inflammaties;4;Medisch;85;< 5
+Buitenlands verblijf;138;Bronchiolitis en respiratoir syncytiaal virus (RSV) pneumonie;4;Medisch;104;0
+Buitenlands verblijf;139;Andere pneumonie;4;Medisch;347;< 5
+Buitenlands verblijf;140;Chronische obstructieve longaandoeningen;4;Medisch;255;9
+Buitenlands verblijf;141;Astma;4;Medisch;89;0
+Buitenlands verblijf;142;Interstitiële en alveolaire longziekte;4;Medisch;36;7
+Buitenlands verblijf;143;Andere respiratoire diagnosen behalve tekens, symptomen en mineure diagnosen;4;Medisch;97;13
+Buitenlands verblijf;144;Respiratoire tekens, symptomen en mineure diagnosen;4;Medisch;230;51
+Buitenlands verblijf;160;Majeur cardiothoracaal herstel van hartanomalie;5;Chirurgisch;42;0
+Buitenlands verblijf;161;Inplantatie van hartdefibrillator en hartassistentiesyteem;5;Chirurgisch;45;< 5
+Buitenlands verblijf;162;Procedures op hartkleppen met acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;24;0
+Buitenlands verblijf;163;Procedures op hartkleppen zonder acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;154;0
+Buitenlands verblijf;165;Coronaire overbrugging met acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;51;0
+Buitenlands verblijf;166;Coronaire overbrugging zonder acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;229;0
+Buitenlands verblijf;167;Andere cardiothoracale procedures en thoracovasculaire procedures;5;Chirurgisch;160;< 5
+Buitenlands verblijf;169;Majeure abdominale vasculaire procedures;5;Chirurgisch;50;< 5
+Buitenlands verblijf;170;Implantatie van permanente pacemaker met AMI, hartdecompensatie of shock;5;Chirurgisch;8;0
+Buitenlands verblijf;171;Implanteren van permanente pacemaker zonder AMI, hartdecompensatie of shock;5;Chirurgisch;59;< 5
+Buitenlands verblijf;174;Percutane coronaire procedures met acuut myocardinfarct;5;Chirurgisch;295;11
+Buitenlands verblijf;175;Percutane coronaire procedures zonder acuut myocardinfarct;5;Chirurgisch;675;29
+Buitenlands verblijf;176;Vervangen van pacemaker of defibrillator;5;Chirurgisch;29;6
+Buitenlands verblijf;177;Revisie van pacemaker of defibrillator behalve toestel vervanging;5;Chirurgisch;13;0
+Buitenlands verblijf;180;Andere procedures op het circulatoire systeem;5;Chirurgisch;31;124
+Buitenlands verblijf;181;Procedures op de arteries van de onderste ledematen;5;Chirurgisch;235;25
+Buitenlands verblijf;182;Andere perifere vasculaire procedures;5;Chirurgisch;117;32
+Buitenlands verblijf;190;Acuut myocardinfarct;5;Medisch;94;10
+Buitenlands verblijf;191;Hartkatheterisatie voor coronaire condities;5;Medisch;178;244
+Buitenlands verblijf;192;Hartkatheterisatie voor andere niet-coronaire condities;5;Medisch;277;110
+Buitenlands verblijf;193;Acute en subacute endocarditis;5;Medisch;< 5;0
+Buitenlands verblijf;194;Hartfalen;5;Medisch;210;< 5
+Buitenlands verblijf;196;Hartstilstand en shock;5;Medisch;24;< 5
+Buitenlands verblijf;197;Perifere en andere vasculaire stoornissen;5;Medisch;85;40
+Buitenlands verblijf;198;Angina pectoris en coronaire atherosclerose;5;Medisch;53;0
+Buitenlands verblijf;199;Hypertensie;5;Medisch;45;< 5
+Buitenlands verblijf;200;Structurele hartaandoeningen en kleplijden;5;Medisch;34;< 5
+Buitenlands verblijf;201;Hartaritmie en geleidingsstoornissen;5;Medisch;256;85
+Buitenlands verblijf;203;Thoracale pijn;5;Medisch;78;< 5
+Buitenlands verblijf;204;Syncope en collaps;5;Medisch;145;< 5
+Buitenlands verblijf;205;Cardiomyopathie;5;Medisch;12;0
+Buitenlands verblijf;206;Dysfunctie, reactie en complicatie op cardiaal of vasculair toestel of procedure;5;Medisch;39;10
+Buitenlands verblijf;207;Andere diagnosen van het circulatoir stelsel;5;Medisch;89;7
+Buitenlands verblijf;220;Majeure procedures op oesofagus, maag en duodenum;6;Chirurgisch;145;9
+Buitenlands verblijf;221;Majeure procedures op dunne en dikke darm;6;Chirurgisch;274;< 5
+Buitenlands verblijf;222;Andere procedures op oesofagus, maag en duodenum;6;Chirurgisch;114;46
+Buitenlands verblijf;223;Andere procedures op dunne en dikke darm;6;Chirurgisch;89;22
+Buitenlands verblijf;224;Peritoneale adhesiolyse;6;Chirurgisch;28;< 5
+Buitenlands verblijf;225;Appendectomie;6;Chirurgisch;204;< 5
+Buitenlands verblijf;226;Anale procedures;6;Chirurgisch;85;153
+Buitenlands verblijf;227;Procedures voor hernia behalve voor hernia inguinalis, femoralis en umbilicalis;6;Chirurgisch;124;37
+Buitenlands verblijf;228;Procedures voor hernia inguinalis, femoralis en umbilicalis;6;Chirurgisch;159;188
+Buitenlands verblijf;229;Andere procedures op het spijsverteringsstelsel en abdomen;6;Chirurgisch;92;45
+Buitenlands verblijf;240;Maligne aandoeningen van het spijsverteringsstelsel;6;Medisch;109;100
+Buitenlands verblijf;241;Peptisch ulcus en gastritis;6;Medisch;106;150
+Buitenlands verblijf;242;Majeure slokdarmstoornissen;6;Medisch;11;5
+Buitenlands verblijf;243;Andere slokdarmstoornissen;6;Medisch;90;198
+Buitenlands verblijf;244;Diverticulitis en diverticulosis;6;Medisch;91;167
+Buitenlands verblijf;245;Inflammatoire darmziekte;6;Medisch;59;159
+Buitenlands verblijf;246;Gastro-intestinale vasculaire insufficiëntie;6;Medisch;17;< 5
+Buitenlands verblijf;247;Intestinale obstructie;6;Medisch;111;< 5
+Buitenlands verblijf;248;Majeure gastro-intestinale en peritoneale infecties;6;Medisch;63;< 5
+Buitenlands verblijf;249;Andere gastro-enteritis, misselijkheid en braken;6;Medisch;424;92
+Buitenlands verblijf;251;Abdominale pijn;6;Medisch;74;109
+Buitenlands verblijf;252;Dysfunctie, reactie op en complicatie van gastro-intestinaal toestel of procedure;6;Medisch;52;14
+Buitenlands verblijf;253;Andere en niet gespecificeerde gastro-intestinale hemorragie;6;Medisch;41;14
+Buitenlands verblijf;254;Andere diagnosen van spijsverteringsstelsel;6;Medisch;274;959
+Buitenlands verblijf;260;Majeure pancreas-, lever- en shuntprocedures;7;Chirurgisch;122;0
+Buitenlands verblijf;261;Majeure procedures op de galwegen;7;Chirurgisch;53;< 5
+Buitenlands verblijf;262;Cholecystectomie, behalve laparoscopisch;7;Chirurgisch;< 5;0
+Buitenlands verblijf;263;Laparoscopische cholecystectomie;7;Chirurgisch;256;45
+Buitenlands verblijf;264;Andere procedures op hepatobiliair stelsel en pancreas, abdominaal;7;Chirurgisch;98;37
+Buitenlands verblijf;279;Hepatisch coma en andere majeure acute leverstoornissen;7;Medisch;35;< 5
+Buitenlands verblijf;280;Alcoholische leverziekte;7;Medisch;85;< 5
+Buitenlands verblijf;281;Maligne aandoeningen van het hepatobiliair stelsel en de pancreas;7;Medisch;91;51
+Buitenlands verblijf;282;Stoornissen van de pancreas behalve maligne aandoeningen;7;Medisch;142;19
+Buitenlands verblijf;283;Andere leverstoornissen;7;Medisch;54;36
+Buitenlands verblijf;284;Stoornissen van de galblaas en de galwegen;7;Medisch;201;27
+Buitenlands verblijf;301;Vervanging van heupgewricht;8;Chirurgisch;847;0
+Buitenlands verblijf;302;Vervanging van kniegewricht;8;Chirurgisch;486;< 5
+Buitenlands verblijf;303;Dorsolumbale arthrodese bij wervelkolomafwijkingen;8;Chirurgisch;16;0
+Buitenlands verblijf;304;Dorsolumbale arthrodese behalve bij wervelkolomafwijkingen;8;Chirurgisch;245;0
+Buitenlands verblijf;305;Amputatie van onderste lidmaat behalve tenen;8;Chirurgisch;15;0
+Buitenlands verblijf;308;Herstellen van heup en femur fracturen;8;Chirurgisch;146;0
+Buitenlands verblijf;309;Andere significante procedures op heup en femur;8;Chirurgisch;78;59
+Buitenlands verblijf;310;Excisie en decompressie van discus intervertebralis;8;Chirurgisch;398;6
+Buitenlands verblijf;312;Huidgreffe behalve op de hand, voor musculo-skeletaal en bindweefsel diagnosen;8;Chirurgisch;19;7
+Buitenlands verblijf;313;Procedures op de knie en het onderbeen, behalve op de voet;8;Chirurgisch;384;484
+Buitenlands verblijf;314;Procedures op voet en tenen;8;Chirurgisch;161;105
+Buitenlands verblijf;315;Procedures op schouder, arm en voorarm behalve gewrichtsvervanging;8;Chirurgisch;612;215
+Buitenlands verblijf;316;Procedures op hand en pols;8;Chirurgisch;121;331
+Buitenlands verblijf;317;Procedures op pees, spier en andere weke weefsels;8;Chirurgisch;175;121
+Buitenlands verblijf;320;Andere procedures op musculo-skeletaalstelsel en bindweefsel;8;Chirurgisch;351;129
+Buitenlands verblijf;321;Cervicale artrodese en andere procedures op nek/rug, behalve excisie/decompressie discus intervertebralis;8;Chirurgisch;195;0
+Buitenlands verblijf;322;Vervanging van schouder en elleboog gewricht;8;Chirurgisch;36;0
+Buitenlands verblijf;340;Femurfracturen;8;Medisch;25;< 5
+Buitenlands verblijf;341;Fracturen van het bekken of luxatie van de heup;8;Medisch;44;< 5
+Buitenlands verblijf;342;Fracturen of luxatie, behalve femur, heup en bekken;8;Medisch;173;133
+Buitenlands verblijf;343;Maligne aandoeningen van het musculoskeletaal stelsel en pathologische fracturen hierdoor.;8;Medisch;47;28
+Buitenlands verblijf;344;Osteomyelitis, septische arthritis en andere musculo-skeletale infecties;8;Medisch;27;< 5
+Buitenlands verblijf;346;Stoornissen van het bindweefsel;8;Medisch;50;62
+Buitenlands verblijf;347;Andere stoornissen, breuken en letsels van de rug en van de nek;8;Medisch;279;726
+Buitenlands verblijf;349;Dysfunctie, bijwerking en complicaties van orthopedisch toestel of procedure;8;Medisch;30;11
+Buitenlands verblijf;351;Andere diagnosen van het musculo-skeletaal stelsel en bindweefsel;8;Medisch;189;112
+Buitenlands verblijf;361;Huidgreffe voor huid en subcutaan weefsel diagnosen;9;Chirurgisch;88;91
+Buitenlands verblijf;362;Mastectomie procedures;9;Chirurgisch;64;20
+Buitenlands verblijf;363;Procedures op de borst, behalve mastectomie;9;Chirurgisch;247;123
+Buitenlands verblijf;364;Andere procedures op huid, subcutaan weefsel en gerelateerde procedures;9;Chirurgisch;268;147
+Buitenlands verblijf;380;Huidulcera;9;Medisch;22;< 5
+Buitenlands verblijf;381;Majeure aandoeningen van de huid;9;Medisch;16;5
+Buitenlands verblijf;382;Maligne aandoeningen van de mamma;9;Medisch;21;48
+Buitenlands verblijf;383;Cellulitis en andere huidinfecties;9;Medisch;161;66
+Buitenlands verblijf;384;Contusie, open wonde en andere trauma van de huid en van het subcutaan weefsel;9;Medisch;105;76
+Buitenlands verblijf;385;Andere aandoeningen van de huid, het subcutaan weefsel en de mamma;9;Medisch;83;184
+Buitenlands verblijf;401;Procedures op bijnieren en hypofyse;10;Chirurgisch;12;0
+Buitenlands verblijf;403;Procedures voor obesitas;10;Chirurgisch;1253;80
+Buitenlands verblijf;404;Procedures op schildklier, bijschildklieren en ductus thyreoglossus;10;Chirurgisch;84;0
+Buitenlands verblijf;405;Andere procedures bij endocriene, nutritionele en metabole stoornissen;10;Chirurgisch;< 5;0
+Buitenlands verblijf;420;Diabetes;10;Medisch;122;< 5
+Buitenlands verblijf;421;Malnutritie,  “failure to thrive” en andere nutritionele stoornissen;10;Medisch;77;84
+Buitenlands verblijf;422;Hypovolemie en gerelateerde electrolytenstoornissen;10;Medisch;53;0
+Buitenlands verblijf;423;Congenitale afwijkingen van het metabolisme;10;Medisch;9;11
+Buitenlands verblijf;424;Andere endocriene stoornissen;10;Medisch;45;< 5
+Buitenlands verblijf;425;Andere elektrolytenstoornissen behalve in verband met hypovolemie;10;Medisch;49;< 5
+Buitenlands verblijf;440;Niertransplantatie;11;Chirurgisch;13;0
+Buitenlands verblijf;441;Majeure procedures op de blaas;11;Chirurgisch;52;< 5
+Buitenlands verblijf;442;Procedures op nier en urinewegen voor maligne aandoening;11;Chirurgisch;66;< 5
+Buitenlands verblijf;443;Procedures op nier en urinewegen voor niet maligne aandoening;11;Chirurgisch;274;235
+Buitenlands verblijf;444;Procedure enkel voor het aanleggen van een dialyse toegangsweg toestel;11;Chirurgisch;6;< 5
+Buitenlands verblijf;445;Andere procedures op de blaas;11;Chirurgisch;36;7
+Buitenlands verblijf;446;Transurethrale en urethrale procedures;11;Chirurgisch;231;53
+Buitenlands verblijf;447;Andere procedures op nieren, urinewegen en gerelateerde procedures;11;Chirurgisch;12;< 5
+Buitenlands verblijf;461;Maligne aandoening van de nier en urinewegen;11;Medisch;39;41
+Buitenlands verblijf;462;Nefritis en nefrose;11;Medisch;15;8
+Buitenlands verblijf;463;Infecties van de nier en de urinewegen;11;Medisch;327;18
+Buitenlands verblijf;465;Urinaire stenen en verworven bovenste urinewegobstructie;11;Medisch;232;218
+Buitenlands verblijf;466;Dysfunctie, reactie op en complicatie van genito-urinair toestel of procedure;11;Medisch;51;9
+Buitenlands verblijf;468;Andere nier en urinewegen diagnosen, tekens en symptomen;11;Medisch;144;254
+Buitenlands verblijf;469;Acute nierziekten;11;Medisch;27;0
+Buitenlands verblijf;470;Chronische nierziekten;11;Medisch;52;11
+Buitenlands verblijf;480;Majeure procedures in het kleine bekken bij de man;12;Chirurgisch;144;0
+Buitenlands verblijf;481;Procedures op de penis;12;Chirurgisch;35;22
+Buitenlands verblijf;482;Transurethrale prostatectomie;12;Chirurgisch;152;< 5
+Buitenlands verblijf;483;Procedures op de testes en het scrotum;12;Chirurgisch;43;123
+Buitenlands verblijf;484;Andere procedures op het mannelijk voortplantingsstelsel en gerelateerde procedures;12;Chirurgisch;27;< 5
+Buitenlands verblijf;500;Maligne aandoening van het mannelijk voortplantingsstelsel;12;Medisch;26;35
+Buitenlands verblijf;501;Diagnosen van het mannelijk voortplantingsstelsel behalve maligne aandoeningen;12;Medisch;91;508
+Buitenlands verblijf;510;Evisceratie van het kleine bekken, radicale hysterectomie en andere radicale gynaecologische procedures;13;Chirurgisch;37;0
+Buitenlands verblijf;511;Procedures op uterus/adnexen voor maligne aandoening van ovaria en adnexen;13;Chirurgisch;21;< 5
+Buitenlands verblijf;512;Procedures op uterus/adnexen voor maligne aandoening behalve ovaria en adnexen;13;Chirurgisch;20;0
+Buitenlands verblijf;513;Procedures op uterus/adnexen voor niet-maligne aandoening behalve leiomyoma;13;Chirurgisch;278;232
+Buitenlands verblijf;514;Reconstructieve procedures op het vrouwelijke voortplantingsstelsel;13;Chirurgisch;56;< 5
+Buitenlands verblijf;517;Dilatatie en curettage voor niet-verloskundige diagnosen;13;Chirurgisch;7;69
+Buitenlands verblijf;518;Andere procedures op het vrouwelijke voortplantingsstelsel en gerelateerde procedures;13;Chirurgisch;50;56
+Buitenlands verblijf;519;Procedures op uterus/adnexen voor leiomyoma;13;Chirurgisch;96;18
+Buitenlands verblijf;530;Maligne aandoening van het vrouwelijke voortplantingsstelsel;13;Medisch;13;24
+Buitenlands verblijf;531;Infecties van het vrouwelijke voortplantingsstelsel;13;Medisch;18;< 5
+Buitenlands verblijf;532;Menstruatiestoornissen en andere stoornissen van het vrouwelijke voortplantingsstelsel;13;Medisch;38;137
+Buitenlands verblijf;540;Bevalling met sectio caesarea;14;Chirurgisch;264;< 5
+Buitenlands verblijf;541;Vaginale bevalling met sterilisatie en/of dilatatie en curettage;14;Chirurgisch;19;< 5
+Buitenlands verblijf;542;Vaginale bevalling met gecompliceerde procedures behalve sterilisatie en/of dilatatie en curettage;14;Chirurgisch;11;0
+Buitenlands verblijf;544;Dilatatie en curettage, aspiratie curettage of hysterotomie voor verloskundige diagnosen;14;Chirurgisch;28;118
+Buitenlands verblijf;545;Procedure voor ectopische zwangerschap;14;Chirurgisch;23;5
+Buitenlands verblijf;546;Andere operatiezaal procedures voor verloskundige diagnosen behalve bevalling;14;Chirurgisch;51;12
+Buitenlands verblijf;560;Vaginale bevalling;14;Medisch;669;35
+Buitenlands verblijf;561;Diagnosen in het postpartum en post abortus, zonder ingrepen;14;Medisch;28;< 5
+Buitenlands verblijf;563;Vroegtijdige arbeid;14;Medisch;57;0
+Buitenlands verblijf;564;Abortus, zonder dilatatie en curettage, aspiratie curettage of hysterotomie;14;Medisch;9;5
+Buitenlands verblijf;565;Valse arbeid;14;Medisch;7;0
+Buitenlands verblijf;566;Andere diagnosen in het antepartum;14;Medisch;168;41
+Buitenlands verblijf;580;Pasgeborene, getransfereerd binnen 5 dagen, elders geboren;15;Medisch;< 5;0
+Buitenlands verblijf;581;Pasgeborene, getransfereerd binnen 5 dagen, hier geboren;15;Medisch;< 5;0
+Buitenlands verblijf;583;Pasgeborene, met extracorporele membraanoxygenatie (ECMO);15;Chirurgisch;< 5;0
+Buitenlands verblijf;588;Pasgeborene, geboortegewicht < 1 500 g met majeure procedure;15;Chirurgisch;5;0
+Buitenlands verblijf;589;Pasgeborene, geboortegewicht < 500 g of zwangerschapsduur < 24 weken;15;Medisch;< 5;0
+Buitenlands verblijf;591;Pasgeborene, geboortegewicht 500-749 g zonder majeure procedure;15;Medisch;< 5;0
+Buitenlands verblijf;593;Pasgeborene, geboortegewicht 750-999 g zonder majeure procedure;15;Medisch;7;0
+Buitenlands verblijf;602;Pasgeborene, geboortegewicht 1 000-1 249 g met respiratoire distress syndroom/andere majeure respiratoire anomalie of majeure anomalie;15;Medisch;15;0
+Buitenlands verblijf;603;Pasgeborene, geboortegewicht 1 000-1 249 g met of zonder andere significante aandoening;15;Medisch;< 5;0
+Buitenlands verblijf;607;Pasgeborene, geboortegewicht 1 250-1 499 g met respiratoire distress syndroom/andere majeure respiratoire of majeure anomalie;15;Medisch;12;0
+Buitenlands verblijf;608;Pasgeborene, geboortegewicht 1 250-1 499 g met of zonder andere significante aandoening;15;Medisch;< 5;0
+Buitenlands verblijf;609;Pasgeborene, geboortegewicht 1 500-2 499 g met majeure procedure;15;Chirurgisch;< 5;0
+Buitenlands verblijf;612;Pasgeborene, geboortegewicht 1 500-1 999 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;5;0
+Buitenlands verblijf;613;Pasgeborene, geboortegewicht 1 500-1 999 g met congenitale of perinatale infecties;15;Medisch;< 5;0
+Buitenlands verblijf;614;Andere pasgeborene, geboortegewicht 1 500-1 999 g met of zonder andere significante aandoening;15;Medisch;7;0
+Buitenlands verblijf;621;Pasgeborene, geboortegewicht 2 000-2 499 g met majeure anomalie;15;Medisch;6;0
+Buitenlands verblijf;622;Pasgeborene, geboortegewicht 2 000-2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;< 5;0
+Buitenlands verblijf;625;Pasgeborene, geboortegewicht 2 000-2 499 g, hier geboren, met andere significante aandoening;15;Medisch;< 5;0
+Buitenlands verblijf;626;Pasgeborene, geboortegewicht 2 000-2 499 g, normale pasgeborene of pasgeborene met ander probleem;15;Medisch;< 5;0
+Buitenlands verblijf;630;Pasgeborene, geboortegewicht > 2 499 g met majeure cardiovasculaire procedures;15;Chirurgisch;15;0
+Buitenlands verblijf;631;Pasgeborene, geboortegewicht > 2 499 g met andere majeure procedure;15;Chirurgisch;< 5;0
+Buitenlands verblijf;633;Pasgeborene, geboortegewicht > 2 499 g met majeure anomalie;15;Medisch;7;0
+Buitenlands verblijf;634;Pasgeborene, geboortegewicht > 2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;5;0
+Buitenlands verblijf;636;Pasgeborene, geboortegewicht > 2 499 g met congenitale of perinatale infecties;15;Medisch;< 5;0
+Buitenlands verblijf;639;Pasgeborene, geboortegewicht > 2 499 g hier geboren, met andere significante aandoening;15;Medisch;9;0
+Buitenlands verblijf;640;Pasgeborene, geboortegewicht > 2 499 g, normale pasgeborene of met ander probleem;15;Medisch;14;< 5
+Buitenlands verblijf;650;Splenectomie;16;Chirurgisch;< 5;0
+Buitenlands verblijf;651;Andere procedures op bloed en bloedvormende organen;16;Chirurgisch;19;9
+Buitenlands verblijf;660;Majeure hemato-/immunologische diagnosen behalve crisis van sikkelcelanemie en coagulatie;16;Medisch;62;48
+Buitenlands verblijf;661;Bloedstollingsstoornissen en bloedplaatjes;16;Medisch;18;17
+Buitenlands verblijf;662;Crisis van sikkelcelanemie;16;Medisch;19;< 5
+Buitenlands verblijf;663;Andere anemia en bloedstoornissen en hematopoietische organen;16;Medisch;95;147
+Buitenlands verblijf;680;Majeure operatiezaal procedures voor lymfatische/hematopoietische/andere neoplasma;17;Chirurgisch;21;0
+Buitenlands verblijf;681;Andere operatiezaal procedures voor lymfatisch/hematopoietisch/andere neoplasma;17;Chirurgisch;62;42
+Buitenlands verblijf;690;Acute leukemie;17;Medisch;45;144
+Buitenlands verblijf;691;Lymfoom, myeloom en niet-acute leukemie;17;Medisch;44;106
+Buitenlands verblijf;692;Radiotherapie;17;Medisch;22;5
+Buitenlands verblijf;694;Lymphatisch en andere maligne aandoeningen en neoplasmata met onzeker gedrag;17;Medisch;42;85
+Buitenlands verblijf;695;Chemotherapie voor acute leukemie;17;Medisch;59;278
+Buitenlands verblijf;696;Andere chemotherapie;17;Medisch;338;5732
+Buitenlands verblijf;710;Infectieuze en parasitaire ziekten, HIV met operatiezaal procedures inbegrepen;18;Chirurgisch;73;0
+Buitenlands verblijf;711;Postoperatieve, posttraumatische en andere toestel- infecties met operatiezaal procedures;18;Chirurgisch;62;11
+Buitenlands verblijf;720;Septicemie en gedissemineerde infecties;18;Medisch;165;0
+Buitenlands verblijf;721;Postoperatieve, posttraumatische en andere toestel infecties;18;Medisch;107;8
+Buitenlands verblijf;722;Koorts;18;Medisch;56;0
+Buitenlands verblijf;723;Virale ziekte;18;Medisch;137;< 5
+Buitenlands verblijf;724;Andere infectieuze en parasitaire ziekten;18;Medisch;65;6
+Buitenlands verblijf;740;Diagnosen van mentale ziekte met operatiezaal procedures;19;Chirurgisch;65;8
+Buitenlands verblijf;750;Schizofrenie;19;Medisch;20;0
+Buitenlands verblijf;751;Majeure depressieve stoornissen en andere/niet-gespecificeerde psychoses;19;Medisch;39;0
+Buitenlands verblijf;752;Persoonlijkheidsstoornissen en impulscontrolestoornissen;19;Medisch;5;0
+Buitenlands verblijf;753;Bipolaire stoornissen;19;Medisch;14;0
+Buitenlands verblijf;754;Depressie, behalve majeure depressieve diagnosen;19;Medisch;23;0
+Buitenlands verblijf;755;Aanpassingstoornis en neuroses, behalve depressieve diagnosen;19;Medisch;30;< 5
+Buitenlands verblijf;756;Acute angst en delirante toestanden;19;Medisch;36;0
+Buitenlands verblijf;757;Organische stoornissen van de geestelijke gezondheid;19;Medisch;20;6
+Buitenlands verblijf;758;Gedragsstoornissen;19;Medisch;7;0
+Buitenlands verblijf;759;Eetstoornissen;19;Medisch;< 5;0
+Buitenlands verblijf;760;Andere stoornissen van de mentale gezondheid;19;Medisch;59;< 5
+Buitenlands verblijf;770;Alcohol en drugs- misbruik of verslaving, ontslag tegen medisch advies;20;Medisch;11;< 5
+Buitenlands verblijf;772;Alcohol en drugs- verslaving met revalidatietherapie of revalidatie/detoxificatietherapie;20;Medisch;11;0
+Buitenlands verblijf;773;Misbruik van en verslaving aan opiaten;20;Medisch;5;0
+Buitenlands verblijf;774;Misbruik van en verslaving aan cocaine;20;Medisch;13;0
+Buitenlands verblijf;775;Misbruik van en verslaving aan alcohol;20;Medisch;189;< 5
+Buitenlands verblijf;776;Misbruik van en verslaving aan andere drugs;20;Medisch;16;< 5
+Buitenlands verblijf;791;Operatiezaal procedures voor andere complicaties van de behandeling;21;Chirurgisch;118;56
+Buitenlands verblijf;811;Allergische reacties;21;Medisch;33;0
+Buitenlands verblijf;812;Vergiftiging door geneesmiddellen;21;Medisch;113;0
+Buitenlands verblijf;813;Andere complicaties van de behandeling;21;Medisch;90;26
+Buitenlands verblijf;815;Andere diagnosen van letsels, vergiftigingen en toxische effecten;21;Medisch;61;< 5
+Buitenlands verblijf;816;Toxische effecten van niet-medische substanties;21;Medisch;39;< 5
+Buitenlands verblijf;841;Extensieve derde graad brandwonden met huidgreffe;22;Chirurgisch;< 5;0
+Buitenlands verblijf;842;Brandwonden met huidgreffe behalve extensieve derde graad brandwonden;22;Chirurgisch;19;< 5
+Buitenlands verblijf;843;Extensieve derde graad of “full thickness” brandwonden zonder huidgreffe;22;Medisch;< 5;0
+Buitenlands verblijf;844;“Partial thickness” brandwonden zonder huidgreffe;22;Medisch;36;0
+Buitenlands verblijf;850;Procedures met diagnosen van revalidatie, nazorg of andere contacten met gezondheidsinstellingen;23;Chirurgisch;244;2470
+Buitenlands verblijf;860;Revalidatie;23;Medisch;67;0
+Buitenlands verblijf;861;Tekens, symptomen en andere factoren met invloed op de gezondheidstoestand;23;Medisch;407;2683
+Buitenlands verblijf;862;Andere nazorg en convalescentie;23;Medisch;328;873
+Buitenlands verblijf;863;Neonatale nazorg;23;Medisch;9;0
+Buitenlands verblijf;890;HIV met multipele majeure HIV gerelateerde aandoeningen;24;Medisch;< 5;0
+Buitenlands verblijf;892;HIV met majeure HIV gerelateerde aandoeningen;24;Medisch;6;0
+Buitenlands verblijf;893;HIV met multipele significante HIV gerelateerde aandoeningen;24;Medisch;< 5;0
+Buitenlands verblijf;894;HIV met een significante HIV aandoening of zonder significante gerelateerde aandoeningen;24;Medisch;8;0
+Buitenlands verblijf;910;Craniotomie voor multipele significante traumata;25;Chirurgisch;9;0
+Buitenlands verblijf;911;Extensieve abdominale/thoracale procedures voor multipele significante traumata;25;Chirurgisch;15;0
+Buitenlands verblijf;912;Musculo-skeletale en andere procedures voor multipele significante traumata;25;Chirurgisch;74;0
+Buitenlands verblijf;930;Multipele significante traumata zonder operatiezaal procedures;25;Medisch;55;< 5
+Buitenlands verblijf;950;Extensieve procedure zonder verband met de hoofddiagnose;0;Chirurgisch;98;37
+Buitenlands verblijf;951;Matige uitgebreide procedure zonder verband met de hoofddiagnose;0;Chirurgisch;219;46
+Buitenlands verblijf;952;Niet-extensieve procedure zonder verband met de hoofddiagnose;0;Chirurgisch;93;64
+Buitenlands verblijf;955;Hoofddiagnose niet geldig als ontslagdiagnose;0;Andere;< 5;0
+Buitenlands verblijf;956;Niet te groeperen verblijven;0;Andere;0;< 5
+Buitenlands verblijf;MMM;Daghospitalisatie;SS;Andere;0;116
+Zonder vast verblijf;4;Extracorporele membraanoxygenatie of tracheostomie met langdurige mechanische ventilatie met extensieve procedure;PP;Chirurgisch;< 5;0
+Zonder vast verblijf;20;Craniotomie voor trauma;1;Chirurgisch;< 5;0
+Zonder vast verblijf;21;Craniotomie behalve voor trauma;1;Chirurgisch;< 5;0
+Zonder vast verblijf;26;Andere procedures op het zenuwstelsel en gerelateerde procedures;1;Chirurgisch;< 5;7
+Zonder vast verblijf;40;Spinale stoornissen en letsels;1;Medisch;< 5;0
+Zonder vast verblijf;41;Maligniteit van het zenuwstelsel;1;Medisch;< 5;0
+Zonder vast verblijf;42;Degeneratieve stoornissen van het zenuwstelsel met uitzondering van multipele sclerose;1;Medisch;< 5;0
+Zonder vast verblijf;43;Multipele sclerose en andere demyeliniserende ziekten;1;Medisch;< 5;0
+Zonder vast verblijf;44;Intracraniële hemorragie;1;Medisch;5;0
+Zonder vast verblijf;45;CVA en precerebrale occlusie met infarct;1;Medisch;6;0
+Zonder vast verblijf;47;Transitoire cerebrale ischemie (TIA);1;Medisch;< 5;0
+Zonder vast verblijf;48;Stoornissen van de perifere, craniale en autonome zenuwen;1;Medisch;< 5;< 5
+Zonder vast verblijf;50;Niet bacteriële infecties van het zenuwstelsel behalve virale meningitis;1;Medisch;< 5;0
+Zonder vast verblijf;53;Epileptisch insult;1;Medisch;15;0
+Zonder vast verblijf;54;Migraine en andere hoofdpijn;1;Medisch;< 5;0
+Zonder vast verblijf;55;Hoofdtrauma met coma > 1 uur of met hemorragie;1;Medisch;5;0
+Zonder vast verblijf;57;Hersenschudding, gesloten schedelbreuk niet anders gespecificeerd, niet gecompliceerd intracraniaal letsel, coma < 1 uur of geen coma;1;Medisch;7;< 5
+Zonder vast verblijf;58;Andere stoornissen van het zenuwstelsel;1;Medisch;< 5;0
+Zonder vast verblijf;73;Procedures op het oog behalve op de orbita;2;Chirurgisch;< 5;19
+Zonder vast verblijf;80;Acute majeure ooginfecties;2;Medisch;< 5;0
+Zonder vast verblijf;82;Oogstoornissen behalve majeure infecties;2;Medisch;6;8
+Zonder vast verblijf;89;Majeure procedures op aangezichts- en schedelbeenderen;3;Chirurgisch;0;5
+Zonder vast verblijf;92;Procedures op aangezichtsbeenderen, behalve majeure procedures op aangezichts- en schedelbeenderen;3;Chirurgisch;< 5;5
+Zonder vast verblijf;97;Procedures op tonsillen en adenoïden;3;Chirurgisch;0;5
+Zonder vast verblijf;98;Andere procedures op oren, neus, mond en keel;3;Chirurgisch;< 5;8
+Zonder vast verblijf;110;Maligne aandoeningen van oren, neus, mond, keel, schedel/aangezicht;3;Medisch;< 5;0
+Zonder vast verblijf;113;Infecties bovenste luchtwegen;3;Medisch;15;0
+Zonder vast verblijf;114;Dentale en orale ziekten en letsels;3;Medisch;6;16
+Zonder vast verblijf;115;Andere diagnosen van oren, neus, mond, keel en schedel/aangezicht;3;Medisch;18;15
+Zonder vast verblijf;120;Majeure thoracale en respiratoire procedures;4;Chirurgisch;< 5;0
+Zonder vast verblijf;121;Andere respiratoire en thoracale procedures;4;Chirurgisch;< 5;0
+Zonder vast verblijf;131;Mucoviscidose (cystic fibrosis) - longziekte;4;Medisch;< 5;0
+Zonder vast verblijf;133;Respiratoire insufficiëntie;4;Medisch;< 5;0
+Zonder vast verblijf;134;Longembolie;4;Medisch;< 5;0
+Zonder vast verblijf;135;Majeur thoracaal en respiratoir trauma;4;Medisch;< 5;0
+Zonder vast verblijf;136;Maligne respiratoire aandoening;4;Medisch;< 5;0
+Zonder vast verblijf;137;Majeure respiratoire infecties en inflammaties;4;Medisch;10;0
+Zonder vast verblijf;139;Andere pneumonie;4;Medisch;14;0
+Zonder vast verblijf;140;Chronische obstructieve longaandoeningen;4;Medisch;7;0
+Zonder vast verblijf;141;Astma;4;Medisch;7;0
+Zonder vast verblijf;142;Interstitiële en alveolaire longziekte;4;Medisch;< 5;0
+Zonder vast verblijf;143;Andere respiratoire diagnosen behalve tekens, symptomen en mineure diagnosen;4;Medisch;< 5;0
+Zonder vast verblijf;144;Respiratoire tekens, symptomen en mineure diagnosen;4;Medisch;11;0
+Zonder vast verblijf;161;Inplantatie van hartdefibrillator en hartassistentiesyteem;5;Chirurgisch;< 5;0
+Zonder vast verblijf;163;Procedures op hartkleppen zonder acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;< 5;0
+Zonder vast verblijf;166;Coronaire overbrugging zonder acuut myocardinfarct of complexe hoofddiagnose;5;Chirurgisch;< 5;0
+Zonder vast verblijf;167;Andere cardiothoracale procedures en thoracovasculaire procedures;5;Chirurgisch;< 5;0
+Zonder vast verblijf;174;Percutane coronaire procedures met acuut myocardinfarct;5;Chirurgisch;< 5;0
+Zonder vast verblijf;175;Percutane coronaire procedures zonder acuut myocardinfarct;5;Chirurgisch;8;< 5
+Zonder vast verblijf;177;Revisie van pacemaker of defibrillator behalve toestel vervanging;5;Chirurgisch;< 5;0
+Zonder vast verblijf;180;Andere procedures op het circulatoire systeem;5;Chirurgisch;0;< 5
+Zonder vast verblijf;181;Procedures op de arteries van de onderste ledematen;5;Chirurgisch;8;0
+Zonder vast verblijf;182;Andere perifere vasculaire procedures;5;Chirurgisch;< 5;< 5
+Zonder vast verblijf;190;Acuut myocardinfarct;5;Medisch;< 5;< 5
+Zonder vast verblijf;191;Hartkatheterisatie voor coronaire condities;5;Medisch;5;7
+Zonder vast verblijf;192;Hartkatheterisatie voor andere niet-coronaire condities;5;Medisch;6;0
+Zonder vast verblijf;193;Acute en subacute endocarditis;5;Medisch;< 5;0
+Zonder vast verblijf;194;Hartfalen;5;Medisch;9;0
+Zonder vast verblijf;196;Hartstilstand en shock;5;Medisch;< 5;0
+Zonder vast verblijf;197;Perifere en andere vasculaire stoornissen;5;Medisch;< 5;0
+Zonder vast verblijf;198;Angina pectoris en coronaire atherosclerose;5;Medisch;7;0
+Zonder vast verblijf;199;Hypertensie;5;Medisch;< 5;0
+Zonder vast verblijf;201;Hartaritmie en geleidingsstoornissen;5;Medisch;8;< 5
+Zonder vast verblijf;203;Thoracale pijn;5;Medisch;< 5;0
+Zonder vast verblijf;204;Syncope en collaps;5;Medisch;< 5;0
+Zonder vast verblijf;206;Dysfunctie, reactie en complicatie op cardiaal of vasculair toestel of procedure;5;Medisch;0;< 5
+Zonder vast verblijf;207;Andere diagnosen van het circulatoir stelsel;5;Medisch;< 5;< 5
+Zonder vast verblijf;220;Majeure procedures op oesofagus, maag en duodenum;6;Chirurgisch;0;< 5
+Zonder vast verblijf;221;Majeure procedures op dunne en dikke darm;6;Chirurgisch;< 5;0
+Zonder vast verblijf;222;Andere procedures op oesofagus, maag en duodenum;6;Chirurgisch;< 5;< 5
+Zonder vast verblijf;223;Andere procedures op dunne en dikke darm;6;Chirurgisch;< 5;< 5
+Zonder vast verblijf;224;Peritoneale adhesiolyse;6;Chirurgisch;< 5;0
+Zonder vast verblijf;225;Appendectomie;6;Chirurgisch;8;0
+Zonder vast verblijf;226;Anale procedures;6;Chirurgisch;< 5;< 5
+Zonder vast verblijf;227;Procedures voor hernia behalve voor hernia inguinalis, femoralis en umbilicalis;6;Chirurgisch;< 5;0
+Zonder vast verblijf;228;Procedures voor hernia inguinalis, femoralis en umbilicalis;6;Chirurgisch;< 5;< 5
+Zonder vast verblijf;229;Andere procedures op het spijsverteringsstelsel en abdomen;6;Chirurgisch;< 5;0
+Zonder vast verblijf;241;Peptisch ulcus en gastritis;6;Medisch;< 5;< 5
+Zonder vast verblijf;243;Andere slokdarmstoornissen;6;Medisch;6;< 5
+Zonder vast verblijf;244;Diverticulitis en diverticulosis;6;Medisch;< 5;< 5
+Zonder vast verblijf;245;Inflammatoire darmziekte;6;Medisch;< 5;< 5
+Zonder vast verblijf;247;Intestinale obstructie;6;Medisch;< 5;0
+Zonder vast verblijf;248;Majeure gastro-intestinale en peritoneale infecties;6;Medisch;< 5;0
+Zonder vast verblijf;249;Andere gastro-enteritis, misselijkheid en braken;6;Medisch;5;< 5
+Zonder vast verblijf;251;Abdominale pijn;6;Medisch;< 5;0
+Zonder vast verblijf;253;Andere en niet gespecificeerde gastro-intestinale hemorragie;6;Medisch;< 5;0
+Zonder vast verblijf;254;Andere diagnosen van spijsverteringsstelsel;6;Medisch;9;17
+Zonder vast verblijf;260;Majeure pancreas-, lever- en shuntprocedures;7;Chirurgisch;< 5;0
+Zonder vast verblijf;261;Majeure procedures op de galwegen;7;Chirurgisch;< 5;0
+Zonder vast verblijf;262;Cholecystectomie, behalve laparoscopisch;7;Chirurgisch;< 5;0
+Zonder vast verblijf;263;Laparoscopische cholecystectomie;7;Chirurgisch;8;< 5
+Zonder vast verblijf;264;Andere procedures op hepatobiliair stelsel en pancreas, abdominaal;7;Chirurgisch;< 5;0
+Zonder vast verblijf;279;Hepatisch coma en andere majeure acute leverstoornissen;7;Medisch;< 5;0
+Zonder vast verblijf;280;Alcoholische leverziekte;7;Medisch;< 5;< 5
+Zonder vast verblijf;282;Stoornissen van de pancreas behalve maligne aandoeningen;7;Medisch;12;0
+Zonder vast verblijf;283;Andere leverstoornissen;7;Medisch;< 5;0
+Zonder vast verblijf;284;Stoornissen van de galblaas en de galwegen;7;Medisch;6;0
+Zonder vast verblijf;301;Vervanging van heupgewricht;8;Chirurgisch;15;0
+Zonder vast verblijf;302;Vervanging van kniegewricht;8;Chirurgisch;< 5;0
+Zonder vast verblijf;304;Dorsolumbale arthrodese behalve bij wervelkolomafwijkingen;8;Chirurgisch;< 5;0
+Zonder vast verblijf;308;Herstellen van heup en femur fracturen;8;Chirurgisch;< 5;0
+Zonder vast verblijf;309;Andere significante procedures op heup en femur;8;Chirurgisch;< 5;< 5
+Zonder vast verblijf;310;Excisie en decompressie van discus intervertebralis;8;Chirurgisch;< 5;0
+Zonder vast verblijf;312;Huidgreffe behalve op de hand, voor musculo-skeletaal en bindweefsel diagnosen;8;Chirurgisch;< 5;0
+Zonder vast verblijf;313;Procedures op de knie en het onderbeen, behalve op de voet;8;Chirurgisch;8;< 5
+Zonder vast verblijf;314;Procedures op voet en tenen;8;Chirurgisch;< 5;< 5
+Zonder vast verblijf;315;Procedures op schouder, arm en voorarm behalve gewrichtsvervanging;8;Chirurgisch;12;< 5
+Zonder vast verblijf;316;Procedures op hand en pols;8;Chirurgisch;< 5;16
+Zonder vast verblijf;317;Procedures op pees, spier en andere weke weefsels;8;Chirurgisch;5;< 5
+Zonder vast verblijf;320;Andere procedures op musculo-skeletaalstelsel en bindweefsel;8;Chirurgisch;5;< 5
+Zonder vast verblijf;321;Cervicale artrodese en andere procedures op nek/rug, behalve excisie/decompressie discus intervertebralis;8;Chirurgisch;< 5;0
+Zonder vast verblijf;322;Vervanging van schouder en elleboog gewricht;8;Chirurgisch;< 5;0
+Zonder vast verblijf;341;Fracturen van het bekken of luxatie van de heup;8;Medisch;< 5;0
+Zonder vast verblijf;342;Fracturen of luxatie, behalve femur, heup en bekken;8;Medisch;8;8
+Zonder vast verblijf;343;Maligne aandoeningen van het musculoskeletaal stelsel en pathologische fracturen hierdoor.;8;Medisch;< 5;0
+Zonder vast verblijf;344;Osteomyelitis, septische arthritis en andere musculo-skeletale infecties;8;Medisch;< 5;0
+Zonder vast verblijf;346;Stoornissen van het bindweefsel;8;Medisch;< 5;0
+Zonder vast verblijf;347;Andere stoornissen, breuken en letsels van de rug en van de nek;8;Medisch;< 5;< 5
+Zonder vast verblijf;351;Andere diagnosen van het musculo-skeletaal stelsel en bindweefsel;8;Medisch;6;< 5
+Zonder vast verblijf;361;Huidgreffe voor huid en subcutaan weefsel diagnosen;9;Chirurgisch;< 5;< 5
+Zonder vast verblijf;363;Procedures op de borst, behalve mastectomie;9;Chirurgisch;< 5;0
+Zonder vast verblijf;364;Andere procedures op huid, subcutaan weefsel en gerelateerde procedures;9;Chirurgisch;5;6
+Zonder vast verblijf;380;Huidulcera;9;Medisch;< 5;0
+Zonder vast verblijf;381;Majeure aandoeningen van de huid;9;Medisch;< 5;< 5
+Zonder vast verblijf;383;Cellulitis en andere huidinfecties;9;Medisch;15;< 5
+Zonder vast verblijf;384;Contusie, open wonde en andere trauma van de huid en van het subcutaan weefsel;9;Medisch;10;15
+Zonder vast verblijf;385;Andere aandoeningen van de huid, het subcutaan weefsel en de mamma;9;Medisch;< 5;9
+Zonder vast verblijf;403;Procedures voor obesitas;10;Chirurgisch;5;0
+Zonder vast verblijf;404;Procedures op schildklier, bijschildklieren en ductus thyreoglossus;10;Chirurgisch;< 5;0
+Zonder vast verblijf;420;Diabetes;10;Medisch;14;< 5
+Zonder vast verblijf;421;Malnutritie,  “failure to thrive” en andere nutritionele stoornissen;10;Medisch;0;< 5
+Zonder vast verblijf;422;Hypovolemie en gerelateerde electrolytenstoornissen;10;Medisch;< 5;0
+Zonder vast verblijf;424;Andere endocriene stoornissen;10;Medisch;< 5;0
+Zonder vast verblijf;425;Andere elektrolytenstoornissen behalve in verband met hypovolemie;10;Medisch;5;0
+Zonder vast verblijf;443;Procedures op nier en urinewegen voor niet maligne aandoening;11;Chirurgisch;5;< 5
+Zonder vast verblijf;446;Transurethrale en urethrale procedures;11;Chirurgisch;< 5;0
+Zonder vast verblijf;462;Nefritis en nefrose;11;Medisch;< 5;0
+Zonder vast verblijf;463;Infecties van de nier en de urinewegen;11;Medisch;9;0
+Zonder vast verblijf;465;Urinaire stenen en verworven bovenste urinewegobstructie;11;Medisch;< 5;< 5
+Zonder vast verblijf;468;Andere nier en urinewegen diagnosen, tekens en symptomen;11;Medisch;< 5;< 5
+Zonder vast verblijf;469;Acute nierziekten;11;Medisch;< 5;0
+Zonder vast verblijf;470;Chronische nierziekten;11;Medisch;< 5;< 5
+Zonder vast verblijf;483;Procedures op de testes en het scrotum;12;Chirurgisch;< 5;< 5
+Zonder vast verblijf;501;Diagnosen van het mannelijk voortplantingsstelsel behalve maligne aandoeningen;12;Medisch;< 5;8
+Zonder vast verblijf;513;Procedures op uterus/adnexen voor niet-maligne aandoening behalve leiomyoma;13;Chirurgisch;< 5;< 5
+Zonder vast verblijf;514;Reconstructieve procedures op het vrouwelijke voortplantingsstelsel;13;Chirurgisch;< 5;0
+Zonder vast verblijf;519;Procedures op uterus/adnexen voor leiomyoma;13;Chirurgisch;< 5;0
+Zonder vast verblijf;531;Infecties van het vrouwelijke voortplantingsstelsel;13;Medisch;< 5;0
+Zonder vast verblijf;532;Menstruatiestoornissen en andere stoornissen van het vrouwelijke voortplantingsstelsel;13;Medisch;< 5;< 5
+Zonder vast verblijf;540;Bevalling met sectio caesarea;14;Chirurgisch;13;0
+Zonder vast verblijf;541;Vaginale bevalling met sterilisatie en/of dilatatie en curettage;14;Chirurgisch;< 5;0
+Zonder vast verblijf;544;Dilatatie en curettage, aspiratie curettage of hysterotomie voor verloskundige diagnosen;14;Chirurgisch;< 5;< 5
+Zonder vast verblijf;546;Andere operatiezaal procedures voor verloskundige diagnosen behalve bevalling;14;Chirurgisch;< 5;< 5
+Zonder vast verblijf;560;Vaginale bevalling;14;Medisch;48;< 5
+Zonder vast verblijf;561;Diagnosen in het postpartum en post abortus, zonder ingrepen;14;Medisch;< 5;0
+Zonder vast verblijf;563;Vroegtijdige arbeid;14;Medisch;< 5;0
+Zonder vast verblijf;564;Abortus, zonder dilatatie en curettage, aspiratie curettage of hysterotomie;14;Medisch;< 5;0
+Zonder vast verblijf;566;Andere diagnosen in het antepartum;14;Medisch;8;8
+Zonder vast verblijf;591;Pasgeborene, geboortegewicht 500-749 g zonder majeure procedure;15;Medisch;< 5;0
+Zonder vast verblijf;611;Pasgeborene, geboortegewicht 1 500-1 999 g met majeure anomalie;15;Medisch;< 5;0
+Zonder vast verblijf;626;Pasgeborene, geboortegewicht 2 000-2 499 g, normale pasgeborene of pasgeborene met ander probleem;15;Medisch;< 5;0
+Zonder vast verblijf;633;Pasgeborene, geboortegewicht > 2 499 g met majeure anomalie;15;Medisch;< 5;0
+Zonder vast verblijf;634;Pasgeborene, geboortegewicht > 2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;15;Medisch;< 5;0
+Zonder vast verblijf;640;Pasgeborene, geboortegewicht > 2 499 g, normale pasgeborene of met ander probleem;15;Medisch;< 5;0
+Zonder vast verblijf;660;Majeure hemato-/immunologische diagnosen behalve crisis van sikkelcelanemie en coagulatie;16;Medisch;< 5;0
+Zonder vast verblijf;662;Crisis van sikkelcelanemie;16;Medisch;< 5;0
+Zonder vast verblijf;663;Andere anemia en bloedstoornissen en hematopoietische organen;16;Medisch;5;< 5
+Zonder vast verblijf;681;Andere operatiezaal procedures voor lymfatisch/hematopoietisch/andere neoplasma;17;Chirurgisch;< 5;0
+Zonder vast verblijf;694;Lymphatisch en andere maligne aandoeningen en neoplasmata met onzeker gedrag;17;Medisch;0;< 5
+Zonder vast verblijf;696;Andere chemotherapie;17;Medisch;5;13
+Zonder vast verblijf;710;Infectieuze en parasitaire ziekten, HIV met operatiezaal procedures inbegrepen;18;Chirurgisch;< 5;0
+Zonder vast verblijf;711;Postoperatieve, posttraumatische en andere toestel- infecties met operatiezaal procedures;18;Chirurgisch;< 5;0
+Zonder vast verblijf;720;Septicemie en gedissemineerde infecties;18;Medisch;6;0
+Zonder vast verblijf;721;Postoperatieve, posttraumatische en andere toestel infecties;18;Medisch;< 5;0
+Zonder vast verblijf;722;Koorts;18;Medisch;< 5;0
+Zonder vast verblijf;723;Virale ziekte;18;Medisch;< 5;0
+Zonder vast verblijf;724;Andere infectieuze en parasitaire ziekten;18;Medisch;< 5;0
+Zonder vast verblijf;740;Diagnosen van mentale ziekte met operatiezaal procedures;19;Chirurgisch;< 5;0
+Zonder vast verblijf;750;Schizofrenie;19;Medisch;< 5;0
+Zonder vast verblijf;751;Majeure depressieve stoornissen en andere/niet-gespecificeerde psychoses;19;Medisch;14;0
+Zonder vast verblijf;752;Persoonlijkheidsstoornissen en impulscontrolestoornissen;19;Medisch;< 5;0
+Zonder vast verblijf;753;Bipolaire stoornissen;19;Medisch;7;0
+Zonder vast verblijf;754;Depressie, behalve majeure depressieve diagnosen;19;Medisch;< 5;0
+Zonder vast verblijf;755;Aanpassingstoornis en neuroses, behalve depressieve diagnosen;19;Medisch;< 5;0
+Zonder vast verblijf;756;Acute angst en delirante toestanden;19;Medisch;27;0
+Zonder vast verblijf;757;Organische stoornissen van de geestelijke gezondheid;19;Medisch;< 5;0
+Zonder vast verblijf;758;Gedragsstoornissen;19;Medisch;< 5;0
+Zonder vast verblijf;760;Andere stoornissen van de mentale gezondheid;19;Medisch;< 5;0
+Zonder vast verblijf;770;Alcohol en drugs- misbruik of verslaving, ontslag tegen medisch advies;20;Medisch;< 5;0
+Zonder vast verblijf;772;Alcohol en drugs- verslaving met revalidatietherapie of revalidatie/detoxificatietherapie;20;Medisch;< 5;0
+Zonder vast verblijf;773;Misbruik van en verslaving aan opiaten;20;Medisch;6;0
+Zonder vast verblijf;774;Misbruik van en verslaving aan cocaine;20;Medisch;5;0
+Zonder vast verblijf;775;Misbruik van en verslaving aan alcohol;20;Medisch;63;< 5
+Zonder vast verblijf;776;Misbruik van en verslaving aan andere drugs;20;Medisch;5;< 5
+Zonder vast verblijf;791;Operatiezaal procedures voor andere complicaties van de behandeling;21;Chirurgisch;< 5;0
+Zonder vast verblijf;811;Allergische reacties;21;Medisch;< 5;0
+Zonder vast verblijf;812;Vergiftiging door geneesmiddellen;21;Medisch;12;< 5
+Zonder vast verblijf;813;Andere complicaties van de behandeling;21;Medisch;< 5;0
+Zonder vast verblijf;815;Andere diagnosen van letsels, vergiftigingen en toxische effecten;21;Medisch;8;0
+Zonder vast verblijf;816;Toxische effecten van niet-medische substanties;21;Medisch;< 5;0
+Zonder vast verblijf;850;Procedures met diagnosen van revalidatie, nazorg of andere contacten met gezondheidsinstellingen;23;Chirurgisch;6;19
+Zonder vast verblijf;860;Revalidatie;23;Medisch;< 5;0
+Zonder vast verblijf;861;Tekens, symptomen en andere factoren met invloed op de gezondheidstoestand;23;Medisch;19;14
+Zonder vast verblijf;862;Andere nazorg en convalescentie;23;Medisch;< 5;< 5
+Zonder vast verblijf;863;Neonatale nazorg;23;Medisch;< 5;0
+Zonder vast verblijf;892;HIV met majeure HIV gerelateerde aandoeningen;24;Medisch;< 5;0
+Zonder vast verblijf;911;Extensieve abdominale/thoracale procedures voor multipele significante traumata;25;Chirurgisch;< 5;0
+Zonder vast verblijf;912;Musculo-skeletale en andere procedures voor multipele significante traumata;25;Chirurgisch;6;0
+Zonder vast verblijf;950;Extensieve procedure zonder verband met de hoofddiagnose;0;Chirurgisch;< 5;0
+Zonder vast verblijf;951;Matige uitgebreide procedure zonder verband met de hoofddiagnose;0;Chirurgisch;< 5;< 5
+Zonder vast verblijf;952;Niet-extensieve procedure zonder verband met de hoofddiagnose;0;Chirurgisch;< 5;< 5
+Totaal;;;;;1836284;2130568

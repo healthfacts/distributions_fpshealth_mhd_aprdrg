@@ -1,0 +1,1503 @@
+﻿région;drg_36;libellé_drg;mdc_36;type_de_drg;hospitalisation_classique;hospitalisation_de_jour
+Région flamande;001;001 Transplantation hépatique et/ou intestinale;PP;Chirurgical;113;0
+Région flamande;002;002 Transplantation cardiaque et/ou pulmonaire;PP;Chirurgical;88;0
+Région flamande;004;004 ECMO ou trachéostomie avec ventilation mécanique de longue durée et procédure extensive;PP;Chirurgical;520;0
+Région flamande;005;005 Trachéostomie avec ventilation mécanique de longue durée sans procédure extensive;PP;Chirurgical;548;0
+Région flamande;006;006 Transplantation du pancréas;PP;Chirurgical;< 5;0
+Région flamande;007;007 Transplantation de la moelle osseuse allogénique;PP;Chirurgical;250;< 5
+Région flamande;008;008 Transplantation de la moelle osseuse autologue;PP;Chirurgical;338;< 5
+Région flamande;009;009 Oxygénation corporelle par membrane (ECMO);PP;Chirurgical;25;0
+Région flamande;010;010 Traumatisme crânien avec coma profond;PP;Médical;23;0
+Région flamande;020;020 Craniotomie pour traumatisme;01;Chirurgical;429;< 5
+Région flamande;021;021 Craniotomie excepté pour traumatisme;01;Chirurgical;2 722;16
+Région flamande;022;022 Procédures sur le pontage ventriculaire;01;Chirurgical;283;< 5
+Région flamande;023;023 Procédures sur la colonne vertébrale et la moelle épinière;01;Chirurgical;695;64
+Région flamande;024;024 Procédures vasculaires extracrâniennes;01;Chirurgical;2 792;76
+Région flamande;026;026 Autres procédures sur le système nerveux et procédures associées;01;Chirurgical;1 383;18 191
+Région flamande;040;040 Troubles et traumatismes de la colonne vertebrale et de la moelle épiniere;01;Médical;230;55
+Région flamande;041;041 Affection maligne du système nerveux;01;Médical;1 626;313
+Région flamande;042;042 Troubles dégenératifs du système nerveux excepté la sclérose en plaques;01;Médical;8 513;200
+Région flamande;043;043 Sclérose en plaques et autres maladies démyélinisantes;01;Médical;1 818;196
+Région flamande;044;044 Hémorragie intracrânienne;01;Médical;1 898;20
+Région flamande;045;045 AVC et occlusion précérébrale avec infarctus;01;Médical;9 040;34
+Région flamande;046;046 AVC non spécifique et occlusion précérébrale sans infarctus;01;Médical;260;52
+Région flamande;047;047 Ischémie cérébrale transitoire (TIA);01;Médical;4 489;19
+Région flamande;048;048 Troubles des nerfs crâniens, périphériques et autonomes;01;Médical;1 936;1 566
+Région flamande;049;049 Infections bactériennes et tuberculeuses du système nerveux;01;Médical;313;< 5
+Région flamande;050;050 Infections non-bactériennes du système nerveux, excepté la méningite virale;01;Médical;509;60
+Région flamande;051;051 Méningite virale;01;Médical;274;< 5
+Région flamande;052;052 Altération de la conscience;01;Médical;1 460;24
+Région flamande;053;053 Crise épileptique;01;Médical;8 435;167
+Région flamande;054;054 Migraine et autres céphalées;01;Médical;3 304;145
+Région flamande;055;055 Traumatisme crânien avec coma > 1 heure ou avec hémorragie;01;Médical;1 940;13
+Région flamande;056;056 Contusion/lacération cérébrale et fracture du crâne compliquée, coma < 1heure ou sans coma;01;Médical;162;< 5
+Région flamande;057;057 Contusion, fract. du crâne fermée non spéc., traumatisme intracrân. non compl., coma < 1hr ou sans coma;01;Médical;5 011;28
+Région flamande;058;058 Autres troubles du système nerveux;01;Médical;8 607;980
+Région flamande;059;059 Lésions cérébrales graves, autres et anoxiques;01;Médical;69;8
+Région flamande;073;073 Procédures sur l'oeil et sur l'orbite;02;Chirurgical;4 419;70 885
+Région flamande;082;082 Infections oculaires et autres troubles oculaires;02;Médical;2 218;2 175
+Région flamande;089;089 Procédures majeures sur les os de la face et du crâne;03;Chirurgical;1 067;20 842
+Région flamande;091;091 Autres procédures majeures sur la tête et le cou;03;Chirurgical;555;78
+Région flamande;092;092 Procédures sur les os de la face, excepté procédures majeures sur les os du crâne/de la face;03;Chirurgical;3 183;18 578
+Région flamande;095;095 Réparation de la fente labiale et la fente palatine;03;Chirurgical;76;28
+Région flamande;097;097 Procédures sur les amygdales et les végétations;03;Chirurgical;2 591;9 417
+Région flamande;098;098 Autres procédures sur l'oreille, le nez, la bouche et la gorge;03;Chirurgical;7 323;19 338
+Région flamande;110;110 Affections malignes de l'oreille, le nez, la bouche, la gorge, le crâne/la face;03;Médical;622;999
+Région flamande;111;111 Vertige et autres troubles labyrinthiques;03;Médical;3 549;82
+Région flamande;113;113 Infections des voies aériennes supérieures;03;Médical;10 171;1 662
+Région flamande;114;114 Maladies et troubles dentaires et buccales;03;Médical;870;72 642
+Région flamande;115;115 Autres diagnostics de l'oreille, le nez, la bouche, la gorge, le crâne/la face;03;Médical;27 210;9 519
+Région flamande;120;120 Procédures majeures sur le système respiratoire et le thorax;04;Chirurgical;937;6
+Région flamande;121;121  Autres procédures sur le système respiratoire et le thorax;04;Chirurgical;2 519;378
+Région flamande;130;130 Affection du système respiratoire avec assistance ventilatoire pendant + de 96 heures;04;Médical;1 403;0
+Région flamande;131;131 Mucoviscidose (cystic fibrosis) - maladie pulmonaire;04;Médical;410;17
+Région flamande;132;132 Dysplasie broncho-pulmon. et autres maladies respirat.chron.apparaissant en période périnatale;04;Médical;61;< 5
+Région flamande;133;133 Insuffisance respiratoire;04;Médical;1 657;< 5
+Région flamande;134;134 Embolie pulmonaire;04;Médical;2 871;8
+Région flamande;135;135 Traumatisme majeur respiratoire et thoracique;04;Médical;2 156;16
+Région flamande;136;136 Affection maligne respiratoire;04;Médical;4 014;3 147
+Région flamande;137;137 Inflammations et infections majeures du système respiratoire;04;Médical;3 657;116
+Région flamande;138;138 Bronchiolite et pneumonie à virus respiratoire syncytial (RSV);04;Médical;2 286;23
+Région flamande;139;139 Autre pneumonie;04;Médical;27 968;72
+Région flamande;140;140 Maladie pulmonaire obstructive chronique;04;Médical;12 052;294
+Région flamande;141;141 Asthme;04;Médical;1 819;47
+Région flamande;142;142 Maladies pulmonaires interstitielles et alvéolaires;04;Médical;938;249
+Région flamande;143;143 Autres diagnostics respiratoires, excepté les signes, symptômes et diagnostics mineurs;04;Médical;2 395;535
+Région flamande;144;144 Signes respiratoires, symptômes et diagnostics mineurs;04;Médical;8 501;1 910
+Région flamande;145;145 Bronchite aiguë et symptômes associés;04;Médical;3 277;450
+Région flamande;160;160 Réparation majeure d'anomalie cardiaque par voie cardiothoracique;05;Chirurgical;64;0
+Région flamande;161;161 Implantation d'un défibrillateur cardiaque et d'un système d'assistance cardiaque;05;Chirurgical;1 353;13
+Région flamande;162;162 Procédures sur les valves cardiaques avec infarctus du myocarde aigu ou DP complexe;05;Chirurgical;271;0
+Région flamande;163;163 Procédures sur les valves cardiaques sans infarctus du myocarde aigu ou DP complexe;05;Chirurgical;2 105;0
+Région flamande;165;165 Pontage coronarien avec infarctus aigu du myocarde ou DP complexe;05;Chirurgical;531;0
+Région flamande;166;166 Pontage coronarien sans infarctus aigu du myocarde ou DP complexe;05;Chirurgical;2 085;0
+Région flamande;167;167 Autres procédures cardiothoraciques et thoracovasculaires;05;Chirurgical;1 055;197
+Région flamande;169;169 Procédures vasculaires abdominales majeures;05;Chirurgical;902;5
+Région flamande;170;170 Implantation du pacemaker permanent avec infarctus aigu du myocard., décomp. cardiaque ou choc;05;Chirurgical;38;0
+Région flamande;171;171 Implantation du pacemaker permanent sans infarctus aigu du myocard., décomp. cardiaque ou choc;05;Chirurgical;4 295;10
+Région flamande;174;174 Procédures coronariennes percutanées avec infarctus aigu du myocarde;05;Chirurgical;4 918;448
+Région flamande;175;175 Procédures coronariennes percutanées sans infarctus aigu du myocarde;05;Chirurgical;16 451;2 407
+Région flamande;176;176 Remplacement du pacemaker et du défibrillateur cardiaque;05;Chirurgical;1 260;196
+Région flamande;177;177 Révision du pacemaker et du défibrillateur cardiaque, excepté le remplacement de l'appareil;05;Chirurgical;367;< 5
+Région flamande;180;180 Autres procédures sur le système circulatoire;05;Chirurgical;1 057;9 271
+Région flamande;181;181 Procédures sur les artères des membres inférieurs;05;Chirurgical;10 226;987
+Région flamande;182;182 Autres procédures sur les vaisseaux périphériques;05;Chirurgical;2 259;2 004
+Région flamande;190;190 Infarctus aigu du myocarde;05;Médical;3 697;497
+Région flamande;191;191 Cathétérisme cardiaque pour maladie coronarienne;05;Médical;4 688;13 525
+Région flamande;192;192 Cathétérisme cardiaque pour autres affections non coronariennes;05;Médical;6 314;5 529
+Région flamande;193;193 Endocardite aiguë et subaiguë;05;Médical;129;< 5
+Région flamande;194;194 Insuffisance cardiaque;05;Médical;12 656;76
+Région flamande;196;196 Arrêt cardiaque et choc;05;Médical;514;91
+Région flamande;197;197 Troubles vasculaires, périphériques et autres;05;Médical;2 134;981
+Région flamande;198;198 Angine de poitrine et athérosclérose coronaire;05;Médical;2 055;37
+Région flamande;199;199 Hypertension;05;Médical;1 098;29
+Région flamande;200;200 Maladies cardiaques structurelles et valvulaires;05;Médical;521;180
+Région flamande;201;201 Arythmie cardiaque et troubles de la conduction;05;Médical;9 146;5 471
+Région flamande;203;203 Douleur thoracique;05;Médical;2 374;72
+Région flamande;204;204 Syncope et collapsus;05;Médical;6 525;97
+Région flamande;205;205 Cardiomyopathie;05;Médical;167;15
+Région flamande;206;206 Dysfonctionnement, réaction et complic. du matériel ou de la procédure cardiaque/vasculaire;05;Médical;736;313
+Région flamande;207;207 Autres diagnostics du système circulatoire;05;Médical;3 022;326
+Région flamande;220;220 Procédures majeures sur l'oesophage, l'estomac et le duodénum;06;Chirurgical;1 637;14
+Région flamande;222;222 Autres procédures sur l'oesophage, l'estomac et le duodénum;06;Chirurgical;632;160
+Région flamande;223;223 Autres procédures sur l'intestin grêle et le gros intestin;06;Chirurgical;823;1 114
+Région flamande;224;224 Adhésiolyse péritonéale;06;Chirurgical;1 113;107
+Région flamande;226;226 Procédures sur l'anus;06;Chirurgical;1 778;4 819
+Région flamande;227;227 Procédures pour hernie, excepté procédures pour hernie inguinale, fémorale et ombilicale;06;Chirurgical;2 962;1 744
+Région flamande;228;228 Procédures pour hernie inguinale, fémorale et ombilicale;06;Chirurgical;5 171;7 983
+Région flamande;229;229 Autres procédures sur le système digestif et l'abdomen;06;Chirurgical;1 468;437
+Région flamande;230;230 Procédures majeures sur l'intestin grêle;06;Chirurgical;3 434;17
+Région flamande;231;231 Procédures majeures sur le gros intestin;06;Chirurgical;6 615;185
+Région flamande;232;232 Fundoplicature de l'estomac;06;Chirurgical;310;< 5
+Région flamande;233;233 Appendicectomie avec diagnose principale complexe;06;Chirurgical;1 213;5
+Région flamande;234;234 Appendicectomie sans diagnose principale complexe;06;Chirurgical;6 083;185
+Région flamande;240;240 Affections malignes du système digestif;06;Médical;3 536;5 314
+Région flamande;241;241 Ulcère peptique et gastrite;06;Médical;3 776;8 170
+Région flamande;242;242 Troubles majeurs de l'oesophage;06;Médical;592;381
+Région flamande;243;243 Autres troubles de l'oesophage;06;Médical;2 903;9 409
+Région flamande;244;244 Diverticulite et diverticulose;06;Médical;5 023;10 195
+Région flamande;245;245 Maladie inflammatoire de l'intestin;06;Médical;1 689;5 951
+Région flamande;246;246 Insuffisance vasculaire gastro-intestinale;06;Médical;770;102
+Région flamande;247;247 Obstruction intestinale;06;Médical;4 559;207
+Région flamande;248;248 Infections gastro-intestinales et péritonéales majeures;06;Médical;2 743;144
+Région flamande;249;249 Autre gastro-entérite, nausée et vomissement;06;Médical;12 802;4 522
+Région flamande;251;251 Douleur abdominale;06;Médical;2 763;4 415
+Région flamande;252;252 Dysfonctionnement, réaction et complic, de dispositif ou de procédure gastro-intestinaux;06;Médical;1 363;534
+Région flamande;253;253 Hémorragie gastro-intestinale, autre et non specifiée;06;Médical;1 661;1 012
+Région flamande;254;254 Autres diagnostics du système digestif;06;Médical;10 910;65 900
+Région flamande;260;260 Procédures majeures sur pancréas, foie et shunt;07;Chirurgical;1 160;39
+Région flamande;261;261 Procédures majeures sur les voies biliaires;07;Chirurgical;210;5
+Région flamande;263;263 Cholécystectomie;07;Chirurgical;9 797;1 491
+Région flamande;264;264 Autres procédures abdominales, sur système hépatobiliaire et pancréas;07;Chirurgical;717;196
+Région flamande;279;279 Coma hépatique et autres troubles hépatiques majeurs aigus;07;Médical;906;38
+Région flamande;280;280 Maladie hépatique alcoolique;07;Médical;1 859;213
+Région flamande;281;281 Affection maligne du système hépatobiliaire et du pancréas;07;Médical;2 582;2 311
+Région flamande;282;282 Troubles du pancréas excepté affections malignes;07;Médical;3 714;595
+Région flamande;283;283 Autres troubles du foie;07;Médical;1 402;883
+Région flamande;284;284 Troubles de la vésicule biliaire et des voies biliaires;07;Médical;6 748;658
+Région flamande;301;301 Remplacement de l'articulation de la hanche;08;Chirurgical;16 752;16
+Région flamande;302;302 Remplacement de l'articulation du genou;08;Chirurgical;13 592;29
+Région flamande;303;303 Arthrodèse dorsale et lombaire pour déviation du dos;08;Chirurgical;160;0
+Région flamande;304;304 Arthrodèse dorso-lombaire excepté déviation du dos;08;Chirurgical;4 113;0
+Région flamande;305;305 Amputation du membre inférieur excepté les orteils;08;Chirurgical;533;7
+Région flamande;308;308 Réparation d'une fracture de la hanche et du fémur;08;Chirurgical;6 302;11
+Région flamande;309;309 Autre chirurgie significative de la hanche et du fémur;08;Chirurgical;1 983;1 160
+Région flamande;310;310 Excision et décompression du disque intervertébral;08;Chirurgical;8 848;129
+Région flamande;312;312 Greffe cutanée, excepté de la main, pour diagnostics musculo-squelettiques et du tissu conjonctif;08;Chirurgical;324;409
+Région flamande;313;313 Procédures sur le genou et la jambe, excepté le pied;08;Chirurgical;9 366;20 866
+Région flamande;314;314 Procédures sur le pied et les orteils;08;Chirurgical;7 201;4 461
+Région flamande;315;315 Procédures sur l'épaule, le bras et l'avant-bras excepté le remplacement de l'articulation;08;Chirurgical;17 521;10 519
+Région flamande;316;316 Procédures sur la main et le poignet;08;Chirurgical;2 709;17 868
+Région flamande;317;317 Procédures sur le tendon, le muscle et autres tissus mous;08;Chirurgical;3 604;5 744
+Région flamande;320;320 Autres procédures sur le système musculo-squelettique et le tissu conjonctif;08;Chirurgical;6 021;5 396
+Région flamande;321;321 Arthrodèse cervicale et autres procédures sur le cou/dos, excepté excis./décompres. de disque;08;Chirurgical;3 622;32
+Région flamande;322;322 Remplacement de l'articulation de l'épaule et du coude;08;Chirurgical;2 649;10
+Région flamande;340;340 Fracture du fémur;08;Médical;943;6
+Région flamande;341;341 Fracture du bassin ou luxation de la hanche;08;Médical;2 169;8
+Région flamande;342;342 Fracture ou luxation excepté du fémur, du bassin et du dos;08;Médical;4 309;2 235
+Région flamande;343;343 Affection maligne musc-squellet. et fracture pathol. dues à affection maligne musc-squellet.;08;Médical;1 311;1 043
+Région flamande;344;344 Ostéomyélite, arthrite septique et autres infections musculo-squelettiques;08;Médical;724;71
+Région flamande;346;346 Troubles du tissu conjonctif;08;Médical;1 682;1 026
+Région flamande;347;347 Autres troubles, fractures et traumatismes du dos et du cou;08;Médical;9 525;11 324
+Région flamande;349;349 Dysfonctionnement, réaction et complic. de matériel ou de procédure orthopédiques;08;Médical;1 187;349
+Région flamande;351;351 Autres diagnostics du système musculo-squelettique et du tissu conjonctif;08;Médical;6 189;3 496
+Région flamande;361;361 Greffe cutanée pour diagnotics de la peau et du tissu sous-cutane;09;Chirurgical;2 223;5 446
+Région flamande;362;362 Procédures de mastectomie;09;Chirurgical;2 787;276
+Région flamande;363;363 Procédures mammaires, excepté mastectomie;09;Chirurgical;7 295;3 658
+Région flamande;364;364 Autres procédures sur la peau, les tissus sous-cutanés et procédures associées;09;Chirurgical;3 044;3 679
+Région flamande;380;380 Ulcères cutanés;09;Médical;834;165
+Région flamande;381;381 Troubles majeurs de la peau;09;Médical;373;453
+Région flamande;382;382 Affections malignes du sein;09;Médical;448;3 583
+Région flamande;383;383 Cellulite et autres infections de la peau;09;Médical;5 712;1 815
+Région flamande;384;384 Contusion, plaie ouverte et autres traumatismes de la peau et du tissu sous-cutané;09;Médical;3 716;1 675
+Région flamande;385;385 Autres troubles de la peau, du tissu sous-cutané et du sein;09;Médical;2 256;9 293
+Région flamande;401;401 Procédures sur les surrénales et l'hypophyse;10;Chirurgical;146;0
+Région flamande;403;403 Procédures pour obésité;10;Chirurgical;5 960;70
+Région flamande;404;404 Procédures sur la thyroïde, les parathyroïdes ou le canal thyréoglosse;10;Chirurgical;3 058;42
+Région flamande;405;405 Autres procédures pour troubles endocriniens, nutritionnels et métaboliques;10;Chirurgical;137;7
+Région flamande;420;420 Diabète;10;Médical;5 113;40
+Région flamande;421;421 Malnutrition, retard staturo-pondéral et autres troubles nutritionnels;10;Médical;3 481;910
+Région flamande;422;422 Hypovolémie et troubles électrolytiques associés;10;Médical;1 999;< 5
+Région flamande;423;423 Anomalies congénitales du métabolisme;10;Médical;245;226
+Région flamande;424;424 Autres troubles endocriniens;10;Médical;651;122
+Région flamande;425;425 Autres troubles électrolytiques non hypovolémiques;10;Médical;1 165;7
+Région flamande;426;426 Troubles non hypovolémiques du bilan du sodium;10;Médical;1 490;< 5
+Région flamande;427;427 Troubles thyroïdiens;10;Médical;640;36
+Région flamande;440;440 Transplantation rénale;11;Chirurgical;202;0
+Région flamande;441;441 Procédures majeures sur la vessie;11;Chirurgical;630;< 5
+Région flamande;442;442 Procédures sur les reins et les voies urinaires pour affection maligne;11;Chirurgical;1 302;26
+Région flamande;443;443 Procédures sur les reins et les voies urinaires pour affection non maligne;11;Chirurgical;2 310;749
+Région flamande;444;444 Procédure pour installation du dispositif d'accès pour dialyse rénale et réparation de vaisseaux;11;Chirurgical;391;260
+Région flamande;445;445 Autres procédures sur la vessie;11;Chirurgical;1 303;515
+Région flamande;446;446 Procédures uréthrales et transuréthrales;11;Chirurgical;9 572;3 547
+Région flamande;447;447 Autres procédures sur les reins, les voies urinaires et procédures associées;11;Chirurgical;179;25
+Région flamande;461;461 Affection maligne des reins et voies urinaires;11;Médical;984;2 720
+Région flamande;462;462 Néphrite et néphrose;11;Médical;401;160
+Région flamande;463;463 Infections des reins et voies urinaires;11;Médical;12 520;725
+Région flamande;465;465 Lithiases urinaires et obstruction acquise du tractus urinaire supérieur;11;Médical;6 264;8 443
+Région flamande;466;466 Dysfonctionnement, réaction et complic. de matériel ou de procédure génito-urinaire;11;Médical;1 699;618
+Région flamande;468;468 Autres diagnostics, signes et symptômes du rein et des voies urinaires;11;Médical;6 311;17 950
+Région flamande;469;469 Traumatisme aigue du rein;11;Médical;1 342;24
+Région flamande;470;470 Maladie rénale chronique;11;Médical;1 028;357
+Région flamande;480;480 Procédures majeures sur le bassin masculin;12;Chirurgical;2 749;0
+Région flamande;482;482 Prostatectomie transurétrale;12;Chirurgical;4 518;153
+Région flamande;483;483 Procédures sur le pénis, les testicules et le scrotum;12;Chirurgical;1 165;3 617
+Région flamande;484;484 Autres procédures sur le système reproducteur masculin et procédures associées;12;Chirurgical;760;128
+Région flamande;500;500 Affection maligne du système reproducteur masculin;12;Médical;624;2 679
+Région flamande;501;501 Diagnostics du système reproducteur masculin excepté affections malignes;12;Médical;2 652;14 546
+Région flamande;510;510 Eviscération pelvienne, hystérectomie radicale et autres procédures gynécologiques radicales;13;Chirurgical;409;< 5
+Région flamande;511;511 Procédures sur utérus et annexes pour affection maligne des ovaires et ses annexes;13;Chirurgical;424;55
+Région flamande;512;512 Procédures sur utérus et annexes pour affections malignes excepté des ovaires et ses annexes;13;Chirurgical;659;52
+Région flamande;513;513 Procédures sur uterus/annexes pour affection non maligne excepté léiomyome;13;Chirurgical;5 158;4 192
+Région flamande;514;514 Procédures réconstructives du système reproducteur féminin;13;Chirurgical;1 266;88
+Région flamande;517;517 Dilatation et curetage pour des diagnostics non-obstétricaux;13;Chirurgical;281;3 679
+Région flamande;518;518 Autres procédures sur le système reproducteur féminin et procédures associées;13;Chirurgical;715;1 507
+Région flamande;519;519 Procédures sur utérus/annexes pour léiomyome;13;Chirurgical;2 018;521
+Région flamande;530;530 Affection maligne du système reproducteur féminin;13;Médical;698;1 066
+Région flamande;531;531 Infections du système reproducteur féminin;13;Médical;357;211
+Région flamande;532;532 Troubles menstruels et autres troubles du système reproducteur féminin;13;Médical;754;5 650
+Région flamande;540;540 Accouchement par césarienne;14;Chirurgical;13 540;36
+Région flamande;541;541 Accouchement par voie vaginale avec stérilisation et/ou dilatation et curetage;14;Chirurgical;1 364;52
+Région flamande;542;542 Accouchement par voie vaginale avec proc. compl., excepté stérilisat. ou dilat. et curet.;14;Chirurgical;896;12
+Région flamande;544;544 Dilatation et curetage, curetage par aspiration ou hystérotomie pour diagnostics obstétricaux;14;Chirurgical;721;4 172
+Région flamande;545;545 Procédure pour grossesse ectopique;14;Chirurgical;628;126
+Région flamande;546;546 Autres procédures en salle d'opération pour diagnostics obstétricaux excepté accouchement;14;Chirurgical;241;108
+Région flamande;560;560 Accouchement par voie vaginale;14;Médical;45 297;1 286
+Région flamande;561;561 Diagnostics du post-partum et post-avortement, sans procédure;14;Médical;896;81
+Région flamande;563;563 Travail prématuré;14;Médical;967;5
+Région flamande;564;564 Avortement, sans dilatation et curetage, curetage par aspiration ou hystérotomie;14;Médical;391;147
+Région flamande;565;565 Faux travail;14;Médical;500;6
+Région flamande;566;566 Autres diagnostics en antepartum;14;Médical;6 046;1 209
+Région flamande;580;580 Nouveau-né, transferé dans les 5 jours, né ailleurs;15;Médical;43;< 5
+Région flamande;581;581 Nouveau-né, transferé dans les 5 jours, né ici;15;Médical;20;0
+Région flamande;583;583 Nouveau-né, avec ECMO;15;Chirurgical;6;0
+Région flamande;588;588 Nouveau-né, poids de naissance < 1500g, avec procédure majeure;15;Chirurgical;26;0
+Région flamande;589;589 Nouveau-né, poids de nais. <  500g, ou poids de nais. 500-999g et age gestat. < 24 semaines, ou poids de nais. 500-749g avec anomalie majeure ou sans intervention de maintien de la vie;15;Médical;11;0
+Région flamande;591;591 Nouveau-né, poids de naissance 500-749g sans procédure majeure;15;Médical;48;0
+Région flamande;593;593 Nouveau-né, poids de naissance 750-999g sans procédure majeure;15;Médical;107;0
+Région flamande;602;602 Nouveau-né, poids de nais. 1000-1249g avec syndrôme de détresse resp./autres anom. resp. maj. ou anom. maj.;15;Médical;131;0
+Région flamande;603;603 Nouveau-né, poids de naissance 1000-1249g avec ou sans autre affection significative;15;Médical;18;0
+Région flamande;607;607 Nouveau-né, poids de nais. 1250-1499g avec syndrôme de détresse resp./autres anom. respir. maj. ou anom. maj.;15;Médical;143;0
+Région flamande;608;608 Nouveau-né, poids de naissance 1250-1499g avec/sans autre affection significative;15;Médical;38;0
+Région flamande;609;609 Nouveau-né, poids de naissance 1500-2499g avec procédure majeure;15;Chirurgical;37;0
+Région flamande;611;611 Nouveau-né, poids de naissance 1500-1999g avec anomalie majeure;15;Médical;85;0
+Région flamande;612;612 Nouveau-né, poids de naissance 1500-1999g avec syndrôme de détresse resp./autre affec. resp. majeure;15;Médical;176;0
+Région flamande;613;613 Nouveau-né, poids de naissance 1500-1999g avec infection congénitale ou périnatale;15;Médical;17;0
+Région flamande;614;614 Nouveau-né, poids de naissance 1500-1999g avec ou sans autre affection significative;15;Médical;184;0
+Région flamande;621;621 Nouveau-né, poids de naissance 2000-2499g avec anomalie majeure;15;Médical;82;0
+Région flamande;622;622 Nouveau-né, poids de naissance 2000-2499g avec syndrôme de détresse resp./autre affec. resp. majeure;15;Médical;109;0
+Région flamande;623;623 Nouveau-né, poids de naissance 2000-2499g avec infections congénitales ou périnatales;15;Médical;17;0
+Région flamande;625;625 Nouveau-né, poids de naissance 2000-2499g, né ici, avec autre affection significative;15;Médical;106;0
+Région flamande;626;626 Nouveau-né, poids de naissance 2000-2499g, nouveau-né normal ou nouveau-né avec autre problème;15;Médical;137;0
+Région flamande;630;630 Nouveau-né , poids de naissance > 2499g avec procédure cardiovasculaire majeure;15;Chirurgical;66;0
+Région flamande;631;631 Nouveau-né, poids de naissance > 2499g avec autre procédure majeure;15;Chirurgical;42;0
+Région flamande;633;633 Nouveau-né, poids de naissance > 2499g avec anomalie majeure;15;Médical;242;0
+Région flamande;634;634 Nouveau-né, poids de naissance > 2499g avec syndrôme de détresse resp./autre affec. resp. majeure;15;Médical;318;0
+Région flamande;636;636 Nouveau-né, poids de naissance > 2499g avec infection congénitale ou périnatale;15;Médical;115;0
+Région flamande;639;639 Nouveau-né, poids de naissance > 2499g avec autre affection significative;15;Médical;320;0
+Région flamande;640;640 Nouveau-né, poids de naissance > 2499g, nouveau-né normal ou nouveau-né avec autres problèmes;15;Médical;1 185;< 5
+Région flamande;650;650 Splénectomie;16;Chirurgical;82;0
+Région flamande;651;651 Autres procédures sur sang et organes hématopoïétiques;16;Chirurgical;366;471
+Région flamande;660;660 Diagnostics hématol./immunol. majeurs excepté crise drépanocytaire et crise de la coagulation;16;Médical;1 842;2 825
+Région flamande;661;661 Troubles de la coagulation et des plaquettes;16;Médical;557;1 050
+Région flamande;662;662 Crise d'anémie à cellules falciformes;16;Médical;290;42
+Région flamande;663;663 Autres anémies et troubles sanguins et troubles des organes hematopoïétiques;16;Médical;5 423;11 197
+Région flamande;680;680 Procédures majeures en salle d'opération pour néoplasie lymphatique/hématopoïétique/autre;17;Chirurgical;528;26
+Région flamande;681;681 Autres procédures en salle d'opération pour néoplasie lymphatique/hématopoïétique/autre;17;Chirurgical;1 730;1 034
+Région flamande;690;690 Leucémie aiguë;17;Médical;689;3 069
+Région flamande;691;691 Lymphome, myélome et leucémie non aiguë;17;Médical;1 625;4 956
+Région flamande;692;692 Radiothérapie;17;Médical;166;72
+Région flamande;694;694 Affections malignes, lymphatiques et autres, et néoplasmes de comportement incertain;17;Médical;1 448;9 105
+Région flamande;695;695 Chimiotherapie pour leucémie aiguë;17;Médical;789;6 343
+Région flamande;696;696 Autre chimiotherapie;17;Médical;13 018;271 257
+Région flamande;710;710 Infections et maladies parasitaires incluant le HIV avec procédure en salle d'opération;18;Chirurgical;958;87
+Région flamande;711;711 Infections d'un dispositif post-opératoires, post-traumatiques et autres avec procédure en salle d'opération;18;Chirurgical;1 089;376
+Région flamande;720;720 Septicémie et infections disséminées;18;Médical;7 034;11
+Région flamande;721;721 Infections d'un dispositif post-opératoires, post-traumatiques et autres;18;Médical;2 217;279
+Région flamande;722;722 Fièvre;18;Médical;2 333;17
+Région flamande;723;723 Maladie virale;18;Médical;4 714;40
+Région flamande;724;724 Autres maladies infectieuses et parasitaires;18;Médical;1 656;147
+Région flamande;740;740 Diagnostic de maladie mentale avec procédure en salle d'opération;19;Chirurgical;395;51
+Région flamande;750;750 Schizophrénie;19;Médical;110;12
+Région flamande;751;751 Troubles dépressifs majeurs et psychoses autres/non spécifiées;19;Médical;935;404
+Région flamande;752;752 Troubles de la personnalité et du contrôle des impulsions;19;Médical;86;0
+Région flamande;753;753 Troubles bipolaires;19;Médical;461;570
+Région flamande;754;754 Dépression, excepté trouble dépressif majeur;19;Médical;908;51
+Région flamande;755;755 Troubles de l'ajustement et névroses, excepté diagnostics dépressifs;19;Médical;1 148;69
+Région flamande;756;756 Etats d'anxiété et de délire aigus;19;Médical;1 467;40
+Région flamande;757;757 Troubles organiques de la santé mentale;19;Médical;696;83
+Région flamande;758;758 Troubles comportementaux;19;Médical;125;8
+Région flamande;759;759 Troubles de la nutrition;19;Médical;244;< 5
+Région flamande;760;760 Autres troubles de la santé mentale;19;Médical;1 712;242
+Région flamande;770;770 Abus ou dépendance à l'alcool et à la drogue, sortie contre l'avis medical;20;Médical;217;0
+Région flamande;772;772 Dépendance à l'alcool et à la drogue avec revalidation ou thérapie de revalidation/désintoxication;20;Médical;282;12
+Région flamande;773;773 Abus et dépendance aux opiacés;20;Médical;183;0
+Région flamande;774;774 Abus et dépendance à la cocaïne;20;Médical;263;0
+Région flamande;775;775 Abus et dépendance a l'alcool;20;Médical;3 424;12
+Région flamande;776;776 Abus et dépendance à d'autres drogues;20;Médical;384;6
+Région flamande;792;792 Procédures extensives en salle d'opération pour d'autres complications du traitement;21;Chirurgical;529;167
+Région flamande;793;793 Procédures modérément extensives en salle d'opération pour d'autres complications du traitement;21;Chirurgical;1 226;586
+Région flamande;794;794 Procédures non extensives en salle d'opération pour autres complications du traitement;21;Chirurgical;383;464
+Région flamande;810;810 Hémorragie ou hématome dues à complication;21;Médical;1 048;83
+Région flamande;811;811 Réactions allergiques;21;Médical;725;< 5
+Région flamande;812;812 Empoisonnement par agents médicamenteux;21;Médical;2 096;26
+Région flamande;813;813 Autres complications de traitement;21;Médical;1 609;856
+Région flamande;815;815 Autres diagnostics de blessure, empoisonnement, effets toxiques;21;Médical;1 006;58
+Région flamande;816;816 Effets toxiques de substances non médicamenteuses;21;Médical;777;16
+Région flamande;817;817 Surdosage;21;Médical;1 997;< 5
+Région flamande;841;841 Brûlures extensives du troisième degré avec greffe de peau;22;Chirurgical;6;0
+Région flamande;842;842 Brûlures avec greffe de peau excepté les brûlures extensives du 3ème degré;22;Chirurgical;81;25
+Région flamande;843;843 Brûlures extensives du troisième degré ou de l'epaisseur totale sans greffe de peau;22;Médical;< 5;< 5
+Région flamande;844;844 Brûlures de l'epaisseur partielle sans greffe de peau;22;Médical;377;22
+Région flamande;850;850 Procédure avec diagn. de rééducation, soins de suite ou autre contact avec services de santé;23;Chirurgical;4 139;17 550
+Région flamande;860;860 Revalidation;23;Médical;2 449;10
+Région flamande;861;861 Signes, symptômes et autres facteurs influencant l'état de santé;23;Médical;12 867;209 742
+Région flamande;862;862 Autre soins de suite et convalescence;23;Médical;6 121;45 829
+Région flamande;863;863 Soins de suite néonataux;23;Médical;543;< 5
+Région flamande;890;890 HIV avec multiples affections majeures associées au HIV;24;Médical;64;< 5
+Région flamande;892;892 HIV avec affections majeures associées au HIV;24;Médical;93;16
+Région flamande;893;893 HIV avec affections significatives multiples associées au HIV;24;Médical;10;0
+Région flamande;894;894 HIV avec une seule affection significative associée au HIV ou sans affections significatives associées;24;Médical;127;40
+Région flamande;910;910 Craniotomie pour polytraumatisme significatif;25;Chirurgical;119;0
+Région flamande;911;911 Procédures abdominales/thoraciques extensives pour polytraumatisme significatif;25;Chirurgical;88;< 5
+Région flamande;912;912 Procédures musculo-squelettiques et autres pour polytaumatisme significatif;25;Chirurgical;711;0
+Région flamande;930;930 Polytraumatisme significatif sans procédure en salle d'opération;25;Médical;835;8
+Région flamande;950;950 Procédure extensive sans rélation avec le diagnostic principal;00;Chirurgical;2 176;592
+Région flamande;951;951 Procédure modérément extensive sans rélation avec le diagnostic principal;00;Chirurgical;3 119;1 237
+Région flamande;952;952 Procédure non extensive sans rélation avec le diagnostic principal;00;Chirurgical;1 881;1 126
+Région flamande;955;955 Diagnostic principal non valable comme diagnostic de sortie;00;Autre;17;< 5
+Région flamande;956;956 Sejour non groupable;00;Autre;23;27
+Région flamande;MMM;MMM Hospitalisation de jour;SS;Autre;0;6 284
+Région wallonne;001;001 Transplantation hépatique et/ou intestinale;PP;Chirurgical;84;0
+Région wallonne;002;002 Transplantation cardiaque et/ou pulmonaire;PP;Chirurgical;44;0
+Région wallonne;004;004 ECMO ou trachéostomie avec ventilation mécanique de longue durée et procédure extensive;PP;Chirurgical;205;0
+Région wallonne;005;005 Trachéostomie avec ventilation mécanique de longue durée sans procédure extensive;PP;Chirurgical;376;0
+Région wallonne;006;006 Transplantation du pancréas;PP;Chirurgical;< 5;0
+Région wallonne;007;007 Transplantation de la moelle osseuse allogénique;PP;Chirurgical;115;< 5
+Région wallonne;008;008 Transplantation de la moelle osseuse autologue;PP;Chirurgical;165;0
+Région wallonne;009;009 Oxygénation corporelle par membrane (ECMO);PP;Chirurgical;20;< 5
+Région wallonne;010;010 Traumatisme crânien avec coma profond;PP;Médical;14;0
+Région wallonne;020;020 Craniotomie pour traumatisme;01;Chirurgical;221;0
+Région wallonne;021;021 Craniotomie excepté pour traumatisme;01;Chirurgical;1 410;9
+Région wallonne;022;022 Procédures sur le pontage ventriculaire;01;Chirurgical;118;< 5
+Région wallonne;023;023 Procédures sur la colonne vertébrale et la moelle épinière;01;Chirurgical;210;13
+Région wallonne;024;024 Procédures vasculaires extracrâniennes;01;Chirurgical;1 677;18
+Région wallonne;026;026 Autres procédures sur le système nerveux et procédures associées;01;Chirurgical;684;9 698
+Région wallonne;040;040 Troubles et traumatismes de la colonne vertebrale et de la moelle épiniere;01;Médical;134;30
+Région wallonne;041;041 Affection maligne du système nerveux;01;Médical;818;71
+Région wallonne;042;042 Troubles dégenératifs du système nerveux excepté la sclérose en plaques;01;Médical;3 658;86
+Région wallonne;043;043 Sclérose en plaques et autres maladies démyélinisantes;01;Médical;794;151
+Région wallonne;044;044 Hémorragie intracrânienne;01;Médical;964;14
+Région wallonne;045;045 AVC et occlusion précérébrale avec infarctus;01;Médical;4 472;25
+Région wallonne;046;046 AVC non spécifique et occlusion précérébrale sans infarctus;01;Médical;209;61
+Région wallonne;047;047 Ischémie cérébrale transitoire (TIA);01;Médical;1 586;18
+Région wallonne;048;048 Troubles des nerfs crâniens, périphériques et autonomes;01;Médical;1 019;1 132
+Région wallonne;049;049 Infections bactériennes et tuberculeuses du système nerveux;01;Médical;176;< 5
+Région wallonne;050;050 Infections non-bactériennes du système nerveux, excepté la méningite virale;01;Médical;229;8
+Région wallonne;051;051 Méningite virale;01;Médical;98;0
+Région wallonne;052;052 Altération de la conscience;01;Médical;534;7
+Région wallonne;053;053 Crise épileptique;01;Médical;4 675;87
+Région wallonne;054;054 Migraine et autres céphalées;01;Médical;1 113;95
+Région wallonne;055;055 Traumatisme crânien avec coma > 1 heure ou avec hémorragie;01;Médical;1 047;< 5
+Région wallonne;056;056 Contusion/lacération cérébrale et fracture du crâne compliquée, coma < 1heure ou sans coma;01;Médical;82;0
+Région wallonne;057;057 Contusion, fract. du crâne fermée non spéc., traumatisme intracrân. non compl., coma < 1hr ou sans coma;01;Médical;1 836;6
+Région wallonne;058;058 Autres troubles du système nerveux;01;Médical;5 594;547
+Région wallonne;059;059 Lésions cérébrales graves, autres et anoxiques;01;Médical;68;6
+Région wallonne;073;073 Procédures sur l'oeil et sur l'orbite;02;Chirurgical;2 534;32 058
+Région wallonne;082;082 Infections oculaires et autres troubles oculaires;02;Médical;962;586
+Région wallonne;089;089 Procédures majeures sur les os de la face et du crâne;03;Chirurgical;329;1 809
+Région wallonne;091;091 Autres procédures majeures sur la tête et le cou;03;Chirurgical;250;28
+Région wallonne;092;092 Procédures sur les os de la face, excepté procédures majeures sur les os du crâne/de la face;03;Chirurgical;1 128;1 946
+Région wallonne;095;095 Réparation de la fente labiale et la fente palatine;03;Chirurgical;60;< 5
+Région wallonne;097;097 Procédures sur les amygdales et les végétations;03;Chirurgical;945;5 287
+Région wallonne;098;098 Autres procédures sur l'oreille, le nez, la bouche et la gorge;03;Chirurgical;3 441;4 539
+Région wallonne;110;110 Affections malignes de l'oreille, le nez, la bouche, la gorge, le crâne/la face;03;Médical;667;575
+Région wallonne;111;111 Vertige et autres troubles labyrinthiques;03;Médical;865;41
+Région wallonne;113;113 Infections des voies aériennes supérieures;03;Médical;4 115;399
+Région wallonne;114;114 Maladies et troubles dentaires et buccales;03;Médical;564;17 222
+Région wallonne;115;115 Autres diagnostics de l'oreille, le nez, la bouche, la gorge, le crâne/la face;03;Médical;18 618;2 433
+Région wallonne;120;120 Procédures majeures sur le système respiratoire et le thorax;04;Chirurgical;550;< 5
+Région wallonne;121;121  Autres procédures sur le système respiratoire et le thorax;04;Chirurgical;1 553;160
+Région wallonne;130;130 Affection du système respiratoire avec assistance ventilatoire pendant + de 96 heures;04;Médical;1 496;0
+Région wallonne;131;131 Mucoviscidose (cystic fibrosis) - maladie pulmonaire;04;Médical;207;< 5
+Région wallonne;132;132 Dysplasie broncho-pulmon. et autres maladies respirat.chron.apparaissant en période périnatale;04;Médical;31;0
+Région wallonne;133;133 Insuffisance respiratoire;04;Médical;2 652;7
+Région wallonne;134;134 Embolie pulmonaire;04;Médical;2 094;7
+Région wallonne;135;135 Traumatisme majeur respiratoire et thoracique;04;Médical;962;< 5
+Région wallonne;136;136 Affection maligne respiratoire;04;Médical;2 404;1 574
+Région wallonne;137;137 Inflammations et infections majeures du système respiratoire;04;Médical;2 971;48
+Région wallonne;138;138 Bronchiolite et pneumonie à virus respiratoire syncytial (RSV);04;Médical;1 667;< 5
+Région wallonne;139;139 Autre pneumonie;04;Médical;18 560;33
+Région wallonne;140;140 Maladie pulmonaire obstructive chronique;04;Médical;8 546;153
+Région wallonne;141;141 Asthme;04;Médical;965;11
+Région wallonne;142;142 Maladies pulmonaires interstitielles et alvéolaires;04;Médical;640;150
+Région wallonne;143;143 Autres diagnostics respiratoires, excepté les signes, symptômes et diagnostics mineurs;04;Médical;1 897;458
+Région wallonne;144;144 Signes respiratoires, symptômes et diagnostics mineurs;04;Médical;3 495;703
+Région wallonne;145;145 Bronchite aiguë et symptômes associés;04;Médical;1 676;273
+Région wallonne;160;160 Réparation majeure d'anomalie cardiaque par voie cardiothoracique;05;Chirurgical;44;0
+Région wallonne;161;161 Implantation d'un défibrillateur cardiaque et d'un système d'assistance cardiaque;05;Chirurgical;504;8
+Région wallonne;162;162 Procédures sur les valves cardiaques avec infarctus du myocarde aigu ou DP complexe;05;Chirurgical;145;0
+Région wallonne;163;163 Procédures sur les valves cardiaques sans infarctus du myocarde aigu ou DP complexe;05;Chirurgical;1 109;0
+Région wallonne;165;165 Pontage coronarien avec infarctus aigu du myocarde ou DP complexe;05;Chirurgical;299;< 5
+Région wallonne;166;166 Pontage coronarien sans infarctus aigu du myocarde ou DP complexe;05;Chirurgical;1 198;0
+Région wallonne;167;167 Autres procédures cardiothoraciques et thoracovasculaires;05;Chirurgical;635;42
+Région wallonne;169;169 Procédures vasculaires abdominales majeures;05;Chirurgical;770;6
+Région wallonne;170;170 Implantation du pacemaker permanent avec infarctus aigu du myocard., décomp. cardiaque ou choc;05;Chirurgical;20;0
+Région wallonne;171;171 Implantation du pacemaker permanent sans infarctus aigu du myocard., décomp. cardiaque ou choc;05;Chirurgical;2 289;12
+Région wallonne;174;174 Procédures coronariennes percutanées avec infarctus aigu du myocarde;05;Chirurgical;3 291;98
+Région wallonne;175;175 Procédures coronariennes percutanées sans infarctus aigu du myocarde;05;Chirurgical;8 526;217
+Région wallonne;176;176 Remplacement du pacemaker et du défibrillateur cardiaque;05;Chirurgical;706;197
+Région wallonne;177;177 Révision du pacemaker et du défibrillateur cardiaque, excepté le remplacement de l'appareil;05;Chirurgical;197;< 5
+Région wallonne;180;180 Autres procédures sur le système circulatoire;05;Chirurgical;605;2 781
+Région wallonne;181;181 Procédures sur les artères des membres inférieurs;05;Chirurgical;4 371;227
+Région wallonne;182;182 Autres procédures sur les vaisseaux périphériques;05;Chirurgical;1 184;874
+Région wallonne;190;190 Infarctus aigu du myocarde;05;Médical;1 973;126
+Région wallonne;191;191 Cathétérisme cardiaque pour maladie coronarienne;05;Médical;3 580;2 931
+Région wallonne;192;192 Cathétérisme cardiaque pour autres affections non coronariennes;05;Médical;3 616;1 546
+Région wallonne;193;193 Endocardite aiguë et subaiguë;05;Médical;75;< 5
+Région wallonne;194;194 Insuffisance cardiaque;05;Médical;7 152;31
+Région wallonne;196;196 Arrêt cardiaque et choc;05;Médical;465;13
+Région wallonne;197;197 Troubles vasculaires, périphériques et autres;05;Médical;1 610;396
+Région wallonne;198;198 Angine de poitrine et athérosclérose coronaire;05;Médical;991;55
+Région wallonne;199;199 Hypertension;05;Médical;740;28
+Région wallonne;200;200 Maladies cardiaques structurelles et valvulaires;05;Médical;358;23
+Région wallonne;201;201 Arythmie cardiaque et troubles de la conduction;05;Médical;4 480;1 407
+Région wallonne;203;203 Douleur thoracique;05;Médical;829;143
+Région wallonne;204;204 Syncope et collapsus;05;Médical;2 059;32
+Région wallonne;205;205 Cardiomyopathie;05;Médical;91;< 5
+Région wallonne;206;206 Dysfonctionnement, réaction et complic. du matériel ou de la procédure cardiaque/vasculaire;05;Médical;383;166
+Région wallonne;207;207 Autres diagnostics du système circulatoire;05;Médical;1 470;98
+Région wallonne;220;220 Procédures majeures sur l'oesophage, l'estomac et le duodénum;06;Chirurgical;971;20
+Région wallonne;222;222 Autres procédures sur l'oesophage, l'estomac et le duodénum;06;Chirurgical;419;102
+Région wallonne;223;223 Autres procédures sur l'intestin grêle et le gros intestin;06;Chirurgical;463;480
+Région wallonne;224;224 Adhésiolyse péritonéale;06;Chirurgical;494;15
+Région wallonne;226;226 Procédures sur l'anus;06;Chirurgical;1 372;1 884
+Région wallonne;227;227 Procédures pour hernie, excepté procédures pour hernie inguinale, fémorale et ombilicale;06;Chirurgical;2 550;653
+Région wallonne;228;228 Procédures pour hernie inguinale, fémorale et ombilicale;06;Chirurgical;4 348;2 377
+Région wallonne;229;229 Autres procédures sur le système digestif et l'abdomen;06;Chirurgical;773;167
+Région wallonne;230;230 Procédures majeures sur l'intestin grêle;06;Chirurgical;2 122;< 5
+Région wallonne;231;231 Procédures majeures sur le gros intestin;06;Chirurgical;3 124;137
+Région wallonne;232;232 Fundoplicature de l'estomac;06;Chirurgical;442;0
+Région wallonne;233;233 Appendicectomie avec diagnose principale complexe;06;Chirurgical;934;< 5
+Région wallonne;234;234 Appendicectomie sans diagnose principale complexe;06;Chirurgical;2 896;47
+Région wallonne;240;240 Affections malignes du système digestif;06;Médical;1 991;2 354
+Région wallonne;241;241 Ulcère peptique et gastrite;06;Médical;1 720;5 367
+Région wallonne;242;242 Troubles majeurs de l'oesophage;06;Médical;308;179
+Région wallonne;243;243 Autres troubles de l'oesophage;06;Médical;1 683;6 885
+Région wallonne;244;244 Diverticulite et diverticulose;06;Médical;2 712;4 219
+Région wallonne;245;245 Maladie inflammatoire de l'intestin;06;Médical;1 016;2 407
+Région wallonne;246;246 Insuffisance vasculaire gastro-intestinale;06;Médical;392;28
+Région wallonne;247;247 Obstruction intestinale;06;Médical;2 288;58
+Région wallonne;248;248 Infections gastro-intestinales et péritonéales majeures;06;Médical;1 204;32
+Région wallonne;249;249 Autre gastro-entérite, nausée et vomissement;06;Médical;4 745;2 126
+Région wallonne;251;251 Douleur abdominale;06;Médical;1 267;2 130
+Région wallonne;252;252 Dysfonctionnement, réaction et complic, de dispositif ou de procédure gastro-intestinaux;06;Médical;988;370
+Région wallonne;253;253 Hémorragie gastro-intestinale, autre et non specifiée;06;Médical;858;691
+Région wallonne;254;254 Autres diagnostics du système digestif;06;Médical;5 725;22 960
+Région wallonne;260;260 Procédures majeures sur pancréas, foie et shunt;07;Chirurgical;670;26
+Région wallonne;261;261 Procédures majeures sur les voies biliaires;07;Chirurgical;112;< 5
+Région wallonne;263;263 Cholécystectomie;07;Chirurgical;6 315;563
+Région wallonne;264;264 Autres procédures abdominales, sur système hépatobiliaire et pancréas;07;Chirurgical;442;135
+Région wallonne;279;279 Coma hépatique et autres troubles hépatiques majeurs aigus;07;Médical;399;10
+Région wallonne;280;280 Maladie hépatique alcoolique;07;Médical;1 783;155
+Région wallonne;281;281 Affection maligne du système hépatobiliaire et du pancréas;07;Médical;1 705;1 206
+Région wallonne;282;282 Troubles du pancréas excepté affections malignes;07;Médical;2 716;586
+Région wallonne;283;283 Autres troubles du foie;07;Médical;936;356
+Région wallonne;284;284 Troubles de la vésicule biliaire et des voies biliaires;07;Médical;3 468;456
+Région wallonne;301;301 Remplacement de l'articulation de la hanche;08;Chirurgical;8 107;12
+Région wallonne;302;302 Remplacement de l'articulation du genou;08;Chirurgical;5 785;8
+Région wallonne;303;303 Arthrodèse dorsale et lombaire pour déviation du dos;08;Chirurgical;92;0
+Région wallonne;304;304 Arthrodèse dorso-lombaire excepté déviation du dos;08;Chirurgical;1 598;< 5
+Région wallonne;305;305 Amputation du membre inférieur excepté les orteils;08;Chirurgical;503;< 5
+Région wallonne;308;308 Réparation d'une fracture de la hanche et du fémur;08;Chirurgical;3 724;13
+Région wallonne;309;309 Autre chirurgie significative de la hanche et du fémur;08;Chirurgical;830;241
+Région wallonne;310;310 Excision et décompression du disque intervertébral;08;Chirurgical;4 294;31
+Région wallonne;312;312 Greffe cutanée, excepté de la main, pour diagnostics musculo-squelettiques et du tissu conjonctif;08;Chirurgical;182;200
+Région wallonne;313;313 Procédures sur le genou et la jambe, excepté le pied;08;Chirurgical;4 963;5 786
+Région wallonne;314;314 Procédures sur le pied et les orteils;08;Chirurgical;3 189;1 426
+Région wallonne;315;315 Procédures sur l'épaule, le bras et l'avant-bras excepté le remplacement de l'articulation;08;Chirurgical;6 794;3 268
+Région wallonne;316;316 Procédures sur la main et le poignet;08;Chirurgical;1 045;8 987
+Région wallonne;317;317 Procédures sur le tendon, le muscle et autres tissus mous;08;Chirurgical;1 971;1 977
+Région wallonne;320;320 Autres procédures sur le système musculo-squelettique et le tissu conjonctif;08;Chirurgical;2 776;2 375
+Région wallonne;321;321 Arthrodèse cervicale et autres procédures sur le cou/dos, excepté excis./décompres. de disque;08;Chirurgical;1 626;6
+Région wallonne;322;322 Remplacement de l'articulation de l'épaule et du coude;08;Chirurgical;1 212;16
+Région wallonne;340;340 Fracture du fémur;08;Médical;414;7
+Région wallonne;341;341 Fracture du bassin ou luxation de la hanche;08;Médical;806;12
+Région wallonne;342;342 Fracture ou luxation excepté du fémur, du bassin et du dos;08;Médical;2 157;1 021
+Région wallonne;343;343 Affection maligne musc-squellet. et fracture pathol. dues à affection maligne musc-squellet.;08;Médical;535;307
+Région wallonne;344;344 Ostéomyélite, arthrite septique et autres infections musculo-squelettiques;08;Médical;535;56
+Région wallonne;346;346 Troubles du tissu conjonctif;08;Médical;811;439
+Région wallonne;347;347 Autres troubles, fractures et traumatismes du dos et du cou;08;Médical;3 585;15 396
+Région wallonne;349;349 Dysfonctionnement, réaction et complic. de matériel ou de procédure orthopédiques;08;Médical;698;140
+Région wallonne;351;351 Autres diagnostics du système musculo-squelettique et du tissu conjonctif;08;Médical;3 008;3 130
+Région wallonne;361;361 Greffe cutanée pour diagnotics de la peau et du tissu sous-cutane;09;Chirurgical;1 328;2 579
+Région wallonne;362;362 Procédures de mastectomie;09;Chirurgical;1 560;112
+Région wallonne;363;363 Procédures mammaires, excepté mastectomie;09;Chirurgical;4 198;1 233
+Région wallonne;364;364 Autres procédures sur la peau, les tissus sous-cutanés et procédures associées;09;Chirurgical;1 773;1 616
+Région wallonne;380;380 Ulcères cutanés;09;Médical;543;19
+Région wallonne;381;381 Troubles majeurs de la peau;09;Médical;210;222
+Région wallonne;382;382 Affections malignes du sein;09;Médical;330;1 099
+Région wallonne;383;383 Cellulite et autres infections de la peau;09;Médical;3 190;827
+Région wallonne;384;384 Contusion, plaie ouverte et autres traumatismes de la peau et du tissu sous-cutané;09;Médical;1 702;892
+Région wallonne;385;385 Autres troubles de la peau, du tissu sous-cutané et du sein;09;Médical;1 385;5 471
+Région wallonne;401;401 Procédures sur les surrénales et l'hypophyse;10;Chirurgical;84;0
+Région wallonne;403;403 Procédures pour obésité;10;Chirurgical;3 331;8
+Région wallonne;404;404 Procédures sur la thyroïde, les parathyroïdes ou le canal thyréoglosse;10;Chirurgical;1 876;13
+Région wallonne;405;405 Autres procédures pour troubles endocriniens, nutritionnels et métaboliques;10;Chirurgical;92;8
+Région wallonne;420;420 Diabète;10;Médical;2 483;11
+Région wallonne;421;421 Malnutrition, retard staturo-pondéral et autres troubles nutritionnels;10;Médical;1 634;520
+Région wallonne;422;422 Hypovolémie et troubles électrolytiques associés;10;Médical;1 023;< 5
+Région wallonne;423;423 Anomalies congénitales du métabolisme;10;Médical;119;50
+Région wallonne;424;424 Autres troubles endocriniens;10;Médical;397;89
+Région wallonne;425;425 Autres troubles électrolytiques non hypovolémiques;10;Médical;694;< 5
+Région wallonne;426;426 Troubles non hypovolémiques du bilan du sodium;10;Médical;1 163;< 5
+Région wallonne;427;427 Troubles thyroïdiens;10;Médical;348;10
+Région wallonne;440;440 Transplantation rénale;11;Chirurgical;92;0
+Région wallonne;441;441 Procédures majeures sur la vessie;11;Chirurgical;376;< 5
+Région wallonne;442;442 Procédures sur les reins et les voies urinaires pour affection maligne;11;Chirurgical;641;< 5
+Région wallonne;443;443 Procédures sur les reins et les voies urinaires pour affection non maligne;11;Chirurgical;3 203;877
+Région wallonne;444;444 Procédure pour installation du dispositif d'accès pour dialyse rénale et réparation de vaisseaux;11;Chirurgical;286;93
+Région wallonne;445;445 Autres procédures sur la vessie;11;Chirurgical;616;166
+Région wallonne;446;446 Procédures uréthrales et transuréthrales;11;Chirurgical;3 791;884
+Région wallonne;447;447 Autres procédures sur les reins, les voies urinaires et procédures associées;11;Chirurgical;88;10
+Région wallonne;461;461 Affection maligne des reins et voies urinaires;11;Médical;660;766
+Région wallonne;462;462 Néphrite et néphrose;11;Médical;230;72
+Région wallonne;463;463 Infections des reins et voies urinaires;11;Médical;7 569;273
+Région wallonne;465;465 Lithiases urinaires et obstruction acquise du tractus urinaire supérieur;11;Médical;2 877;2 617
+Région wallonne;466;466 Dysfonctionnement, réaction et complic. de matériel ou de procédure génito-urinaire;11;Médical;927;225
+Région wallonne;468;468 Autres diagnostics, signes et symptômes du rein et des voies urinaires;11;Médical;2 930;6 978
+Région wallonne;469;469 Traumatisme aigue du rein;11;Médical;1 107;8
+Région wallonne;470;470 Maladie rénale chronique;11;Médical;873;369
+Région wallonne;480;480 Procédures majeures sur le bassin masculin;12;Chirurgical;913;0
+Région wallonne;482;482 Prostatectomie transurétrale;12;Chirurgical;1 817;9
+Région wallonne;483;483 Procédures sur le pénis, les testicules et le scrotum;12;Chirurgical;1 028;1 612
+Région wallonne;484;484 Autres procédures sur le système reproducteur masculin et procédures associées;12;Chirurgical;642;59
+Région wallonne;500;500 Affection maligne du système reproducteur masculin;12;Médical;279;824
+Région wallonne;501;501 Diagnostics du système reproducteur masculin excepté affections malignes;12;Médical;1 346;5 990
+Région wallonne;510;510 Eviscération pelvienne, hystérectomie radicale et autres procédures gynécologiques radicales;13;Chirurgical;224;0
+Région wallonne;511;511 Procédures sur utérus et annexes pour affection maligne des ovaires et ses annexes;13;Chirurgical;246;13
+Région wallonne;512;512 Procédures sur utérus et annexes pour affections malignes excepté des ovaires et ses annexes;13;Chirurgical;327;34
+Région wallonne;513;513 Procédures sur uterus/annexes pour affection non maligne excepté léiomyome;13;Chirurgical;3 888;2 197
+Région wallonne;514;514 Procédures réconstructives du système reproducteur féminin;13;Chirurgical;521;16
+Région wallonne;517;517 Dilatation et curetage pour des diagnostics non-obstétricaux;13;Chirurgical;152;1 383
+Région wallonne;518;518 Autres procédures sur le système reproducteur féminin et procédures associées;13;Chirurgical;466;632
+Région wallonne;519;519 Procédures sur utérus/annexes pour léiomyome;13;Chirurgical;1 119;221
+Région wallonne;530;530 Affection maligne du système reproducteur féminin;13;Médical;461;386
+Région wallonne;531;531 Infections du système reproducteur féminin;13;Médical;231;114
+Région wallonne;532;532 Troubles menstruels et autres troubles du système reproducteur féminin;13;Médical;579;2 512
+Région wallonne;540;540 Accouchement par césarienne;14;Chirurgical;7 519;32
+Région wallonne;541;541 Accouchement par voie vaginale avec stérilisation et/ou dilatation et curetage;14;Chirurgical;1 150;43
+Région wallonne;542;542 Accouchement par voie vaginale avec proc. compl., excepté stérilisat. ou dilat. et curet.;14;Chirurgical;409;9
+Région wallonne;544;544 Dilatation et curetage, curetage par aspiration ou hystérotomie pour diagnostics obstétricaux;14;Chirurgical;453;2 182
+Région wallonne;545;545 Procédure pour grossesse ectopique;14;Chirurgical;445;33
+Région wallonne;546;546 Autres procédures en salle d'opération pour diagnostics obstétricaux excepté accouchement;14;Chirurgical;139;143
+Région wallonne;560;560 Accouchement par voie vaginale;14;Médical;25 129;694
+Région wallonne;561;561 Diagnostics du post-partum et post-avortement, sans procédure;14;Médical;457;21
+Région wallonne;563;563 Travail prématuré;14;Médical;1 231;< 5
+Région wallonne;564;564 Avortement, sans dilatation et curetage, curetage par aspiration ou hystérotomie;14;Médical;285;105
+Région wallonne;565;565 Faux travail;14;Médical;322;< 5
+Région wallonne;566;566 Autres diagnostics en antepartum;14;Médical;3 236;602
+Région wallonne;580;580 Nouveau-né, transferé dans les 5 jours, né ailleurs;15;Médical;37;0
+Région wallonne;581;581 Nouveau-né, transferé dans les 5 jours, né ici;15;Médical;15;< 5
+Région wallonne;583;583 Nouveau-né, avec ECMO;15;Chirurgical;5;0
+Région wallonne;588;588 Nouveau-né, poids de naissance < 1500g, avec procédure majeure;15;Chirurgical;18;0
+Région wallonne;589;589 Nouveau-né, poids de nais. <  500g, ou poids de nais. 500-999g et age gestat. < 24 semaines, ou poids de nais. 500-749g avec anomalie majeure ou sans intervention de maintien de la vie;15;Médical;7;0
+Région wallonne;591;591 Nouveau-né, poids de naissance 500-749g sans procédure majeure;15;Médical;28;0
+Région wallonne;593;593 Nouveau-né, poids de naissance 750-999g sans procédure majeure;15;Médical;49;0
+Région wallonne;602;602 Nouveau-né, poids de nais. 1000-1249g avec syndrôme de détresse resp./autres anom. resp. maj. ou anom. maj.;15;Médical;68;0
+Région wallonne;603;603 Nouveau-né, poids de naissance 1000-1249g avec ou sans autre affection significative;15;Médical;9;0
+Région wallonne;607;607 Nouveau-né, poids de nais. 1250-1499g avec syndrôme de détresse resp./autres anom. respir. maj. ou anom. maj.;15;Médical;115;0
+Région wallonne;608;608 Nouveau-né, poids de naissance 1250-1499g avec/sans autre affection significative;15;Médical;31;0
+Région wallonne;609;609 Nouveau-né, poids de naissance 1500-2499g avec procédure majeure;15;Chirurgical;21;0
+Région wallonne;611;611 Nouveau-né, poids de naissance 1500-1999g avec anomalie majeure;15;Médical;45;< 5
+Région wallonne;612;612 Nouveau-né, poids de naissance 1500-1999g avec syndrôme de détresse resp./autre affec. resp. majeure;15;Médical;132;0
+Région wallonne;613;613 Nouveau-né, poids de naissance 1500-1999g avec infection congénitale ou périnatale;15;Médical;9;0
+Région wallonne;614;614 Nouveau-né, poids de naissance 1500-1999g avec ou sans autre affection significative;15;Médical;193;0
+Région wallonne;621;621 Nouveau-né, poids de naissance 2000-2499g avec anomalie majeure;15;Médical;40;0
+Région wallonne;622;622 Nouveau-né, poids de naissance 2000-2499g avec syndrôme de détresse resp./autre affec. resp. majeure;15;Médical;133;< 5
+Région wallonne;623;623 Nouveau-né, poids de naissance 2000-2499g avec infections congénitales ou périnatales;15;Médical;25;0
+Région wallonne;625;625 Nouveau-né, poids de naissance 2000-2499g, né ici, avec autre affection significative;15;Médical;76;0
+Région wallonne;626;626 Nouveau-né, poids de naissance 2000-2499g, nouveau-né normal ou nouveau-né avec autre problème;15;Médical;190;0
+Région wallonne;630;630 Nouveau-né , poids de naissance > 2499g avec procédure cardiovasculaire majeure;15;Chirurgical;21;0
+Région wallonne;631;631 Nouveau-né, poids de naissance > 2499g avec autre procédure majeure;15;Chirurgical;30;0
+Région wallonne;633;633 Nouveau-né, poids de naissance > 2499g avec anomalie majeure;15;Médical;144;0
+Région wallonne;634;634 Nouveau-né, poids de naissance > 2499g avec syndrôme de détresse resp./autre affec. resp. majeure;15;Médical;258;0
+Région wallonne;636;636 Nouveau-né, poids de naissance > 2499g avec infection congénitale ou périnatale;15;Médical;105;0
+Région wallonne;639;639 Nouveau-né, poids de naissance > 2499g avec autre affection significative;15;Médical;184;0
+Région wallonne;640;640 Nouveau-né, poids de naissance > 2499g, nouveau-né normal ou nouveau-né avec autres problèmes;15;Médical;721;< 5
+Région wallonne;650;650 Splénectomie;16;Chirurgical;46;0
+Région wallonne;651;651 Autres procédures sur sang et organes hématopoïétiques;16;Chirurgical;206;237
+Région wallonne;660;660 Diagnostics hématol./immunol. majeurs excepté crise drépanocytaire et crise de la coagulation;16;Médical;1 285;881
+Région wallonne;661;661 Troubles de la coagulation et des plaquettes;16;Médical;344;656
+Région wallonne;662;662 Crise d'anémie à cellules falciformes;16;Médical;254;8
+Région wallonne;663;663 Autres anémies et troubles sanguins et troubles des organes hematopoïétiques;16;Médical;3 398;5 702
+Région wallonne;680;680 Procédures majeures en salle d'opération pour néoplasie lymphatique/hématopoïétique/autre;17;Chirurgical;281;10
+Région wallonne;681;681 Autres procédures en salle d'opération pour néoplasie lymphatique/hématopoïétique/autre;17;Chirurgical;861;364
+Région wallonne;690;690 Leucémie aiguë;17;Médical;354;1 163
+Région wallonne;691;691 Lymphome, myélome et leucémie non aiguë;17;Médical;882;1 637
+Région wallonne;692;692 Radiothérapie;17;Médical;186;105
+Région wallonne;694;694 Affections malignes, lymphatiques et autres, et néoplasmes de comportement incertain;17;Médical;889;5 176
+Région wallonne;695;695 Chimiotherapie pour leucémie aiguë;17;Médical;403;3 019
+Région wallonne;696;696 Autre chimiotherapie;17;Médical;4 290;138 697
+Région wallonne;710;710 Infections et maladies parasitaires incluant le HIV avec procédure en salle d'opération;18;Chirurgical;615;19
+Région wallonne;711;711 Infections d'un dispositif post-opératoires, post-traumatiques et autres avec procédure en salle d'opération;18;Chirurgical;588;61
+Région wallonne;720;720 Septicémie et infections disséminées;18;Médical;4 440;< 5
+Région wallonne;721;721 Infections d'un dispositif post-opératoires, post-traumatiques et autres;18;Médical;1 090;88
+Région wallonne;722;722 Fièvre;18;Médical;1 207;8
+Région wallonne;723;723 Maladie virale;18;Médical;1 826;17
+Région wallonne;724;724 Autres maladies infectieuses et parasitaires;18;Médical;643;63
+Région wallonne;740;740 Diagnostic de maladie mentale avec procédure en salle d'opération;19;Chirurgical;119;13
+Région wallonne;750;750 Schizophrénie;19;Médical;209;15
+Région wallonne;751;751 Troubles dépressifs majeurs et psychoses autres/non spécifiées;19;Médical;636;17
+Région wallonne;752;752 Troubles de la personnalité et du contrôle des impulsions;19;Médical;151;0
+Région wallonne;753;753 Troubles bipolaires;19;Médical;359;8
+Région wallonne;754;754 Dépression, excepté trouble dépressif majeur;19;Médical;681;< 5
+Région wallonne;755;755 Troubles de l'ajustement et névroses, excepté diagnostics dépressifs;19;Médical;625;10
+Région wallonne;756;756 Etats d'anxiété et de délire aigus;19;Médical;1 456;5
+Région wallonne;757;757 Troubles organiques de la santé mentale;19;Médical;291;33
+Région wallonne;758;758 Troubles comportementaux;19;Médical;268;11
+Région wallonne;759;759 Troubles de la nutrition;19;Médical;122;0
+Région wallonne;760;760 Autres troubles de la santé mentale;19;Médical;1 346;84
+Région wallonne;770;770 Abus ou dépendance à l'alcool et à la drogue, sortie contre l'avis medical;20;Médical;206;< 5
+Région wallonne;772;772 Dépendance à l'alcool et à la drogue avec revalidation ou thérapie de revalidation/désintoxication;20;Médical;632;0
+Région wallonne;773;773 Abus et dépendance aux opiacés;20;Médical;237;< 5
+Région wallonne;774;774 Abus et dépendance à la cocaïne;20;Médical;178;< 5
+Région wallonne;775;775 Abus et dépendance a l'alcool;20;Médical;2 606;12
+Région wallonne;776;776 Abus et dépendance à d'autres drogues;20;Médical;299;< 5
+Région wallonne;792;792 Procédures extensives en salle d'opération pour d'autres complications du traitement;21;Chirurgical;255;21
+Région wallonne;793;793 Procédures modérément extensives en salle d'opération pour d'autres complications du traitement;21;Chirurgical;647;176
+Région wallonne;794;794 Procédures non extensives en salle d'opération pour autres complications du traitement;21;Chirurgical;207;164
+Région wallonne;810;810 Hémorragie ou hématome dues à complication;21;Médical;510;26
+Région wallonne;811;811 Réactions allergiques;21;Médical;327;< 5
+Région wallonne;812;812 Empoisonnement par agents médicamenteux;21;Médical;1 746;5
+Région wallonne;813;813 Autres complications de traitement;21;Médical;1 036;348
+Région wallonne;815;815 Autres diagnostics de blessure, empoisonnement, effets toxiques;21;Médical;1 026;27
+Région wallonne;816;816 Effets toxiques de substances non médicamenteuses;21;Médical;488;< 5
+Région wallonne;817;817 Surdosage;21;Médical;2 628;< 5
+Région wallonne;841;841 Brûlures extensives du troisième degré avec greffe de peau;22;Chirurgical;< 5;0
+Région wallonne;842;842 Brûlures avec greffe de peau excepté les brûlures extensives du 3ème degré;22;Chirurgical;98;27
+Région wallonne;843;843 Brûlures extensives du troisième degré ou de l'epaisseur totale sans greffe de peau;22;Médical;< 5;0
+Région wallonne;844;844 Brûlures de l'epaisseur partielle sans greffe de peau;22;Médical;154;10
+Région wallonne;850;850 Procédure avec diagn. de rééducation, soins de suite ou autre contact avec services de santé;23;Chirurgical;2 194;9 061
+Région wallonne;860;860 Revalidation;23;Médical;3 674;7
+Région wallonne;861;861 Signes, symptômes et autres facteurs influencant l'état de santé;23;Médical;10 868;34 535
+Région wallonne;862;862 Autre soins de suite et convalescence;23;Médical;5 954;10 425
+Région wallonne;863;863 Soins de suite néonataux;23;Médical;334;0
+Région wallonne;890;890 HIV avec multiples affections majeures associées au HIV;24;Médical;35;< 5
+Région wallonne;892;892 HIV avec affections majeures associées au HIV;24;Médical;65;< 5
+Région wallonne;893;893 HIV avec affections significatives multiples associées au HIV;24;Médical;27;0
+Région wallonne;894;894 HIV avec une seule affection significative associée au HIV ou sans affections significatives associées;24;Médical;75;10
+Région wallonne;910;910 Craniotomie pour polytraumatisme significatif;25;Chirurgical;58;0
+Région wallonne;911;911 Procédures abdominales/thoraciques extensives pour polytraumatisme significatif;25;Chirurgical;67;< 5
+Région wallonne;912;912 Procédures musculo-squelettiques et autres pour polytaumatisme significatif;25;Chirurgical;408;< 5
+Région wallonne;930;930 Polytraumatisme significatif sans procédure en salle d'opération;25;Médical;397;< 5
+Région wallonne;950;950 Procédure extensive sans rélation avec le diagnostic principal;00;Chirurgical;1 296;299
+Région wallonne;951;951 Procédure modérément extensive sans rélation avec le diagnostic principal;00;Chirurgical;1 779;543
+Région wallonne;952;952 Procédure non extensive sans rélation avec le diagnostic principal;00;Chirurgical;908;450
+Région wallonne;955;955 Diagnostic principal non valable comme diagnostic de sortie;00;Autre;10;0
+Région wallonne;956;956 Sejour non groupable;00;Autre;39;10
+Région wallonne;MMM;MMM Hospitalisation de jour;SS;Autre;0;413
+Région de Bruxelles-Capitale;001;001 Transplantation hépatique et/ou intestinale;PP;Chirurgical;12;0
+Région de Bruxelles-Capitale;002;002 Transplantation cardiaque et/ou pulmonaire;PP;Chirurgical;11;0
+Région de Bruxelles-Capitale;004;004 ECMO ou trachéostomie avec ventilation mécanique de longue durée et procédure extensive;PP;Chirurgical;63;0
+Région de Bruxelles-Capitale;005;005 Trachéostomie avec ventilation mécanique de longue durée sans procédure extensive;PP;Chirurgical;91;0
+Région de Bruxelles-Capitale;007;007 Transplantation de la moelle osseuse allogénique;PP;Chirurgical;39;< 5
+Région de Bruxelles-Capitale;008;008 Transplantation de la moelle osseuse autologue;PP;Chirurgical;33;0
+Région de Bruxelles-Capitale;009;009 Oxygénation corporelle par membrane (ECMO);PP;Chirurgical;7;0
+Région de Bruxelles-Capitale;010;010 Traumatisme crânien avec coma profond;PP;Médical;16;0
+Région de Bruxelles-Capitale;020;020 Craniotomie pour traumatisme;01;Chirurgical;59;0
+Région de Bruxelles-Capitale;021;021 Craniotomie excepté pour traumatisme;01;Chirurgical;364;< 5
+Région de Bruxelles-Capitale;022;022 Procédures sur le pontage ventriculaire;01;Chirurgical;49;0
+Région de Bruxelles-Capitale;023;023 Procédures sur la colonne vertébrale et la moelle épinière;01;Chirurgical;73;< 5
+Région de Bruxelles-Capitale;024;024 Procédures vasculaires extracrâniennes;01;Chirurgical;337;< 5
+Région de Bruxelles-Capitale;026;026 Autres procédures sur le système nerveux et procédures associées;01;Chirurgical;122;1 334
+Région de Bruxelles-Capitale;040;040 Troubles et traumatismes de la colonne vertebrale et de la moelle épiniere;01;Médical;38;7
+Région de Bruxelles-Capitale;041;041 Affection maligne du système nerveux;01;Médical;206;46
+Région de Bruxelles-Capitale;042;042 Troubles dégenératifs du système nerveux excepté la sclérose en plaques;01;Médical;961;33
+Région de Bruxelles-Capitale;043;043 Sclérose en plaques et autres maladies démyélinisantes;01;Médical;204;90
+Région de Bruxelles-Capitale;044;044 Hémorragie intracrânienne;01;Médical;267;5
+Région de Bruxelles-Capitale;045;045 AVC et occlusion précérébrale avec infarctus;01;Médical;1 083;14
+Région de Bruxelles-Capitale;046;046 AVC non spécifique et occlusion précérébrale sans infarctus;01;Médical;67;13
+Région de Bruxelles-Capitale;047;047 Ischémie cérébrale transitoire (TIA);01;Médical;341;12
+Région de Bruxelles-Capitale;048;048 Troubles des nerfs crâniens, périphériques et autonomes;01;Médical;242;688
+Région de Bruxelles-Capitale;049;049 Infections bactériennes et tuberculeuses du système nerveux;01;Médical;72;0
+Région de Bruxelles-Capitale;050;050 Infections non-bactériennes du système nerveux, excepté la méningite virale;01;Médical;79;8
+Région de Bruxelles-Capitale;051;051 Méningite virale;01;Médical;55;0
+Région de Bruxelles-Capitale;052;052 Altération de la conscience;01;Médical;107;< 5
+Région de Bruxelles-Capitale;053;053 Crise épileptique;01;Médical;1 534;58
+Région de Bruxelles-Capitale;054;054 Migraine et autres céphalées;01;Médical;259;23
+Région de Bruxelles-Capitale;055;055 Traumatisme crânien avec coma > 1 heure ou avec hémorragie;01;Médical;310;6
+Région de Bruxelles-Capitale;056;056 Contusion/lacération cérébrale et fracture du crâne compliquée, coma < 1heure ou sans coma;01;Médical;21;0
+Région de Bruxelles-Capitale;057;057 Contusion, fract. du crâne fermée non spéc., traumatisme intracrân. non compl., coma < 1hr ou sans coma;01;Médical;410;9
+Région de Bruxelles-Capitale;058;058 Autres troubles du système nerveux;01;Médical;1 926;166
+Région de Bruxelles-Capitale;059;059 Lésions cérébrales graves, autres et anoxiques;01;Médical;19;< 5
+Région de Bruxelles-Capitale;073;073 Procédures sur l'oeil et sur l'orbite;02;Chirurgical;377;8 524
+Région de Bruxelles-Capitale;082;082 Infections oculaires et autres troubles oculaires;02;Médical;281;255
+Région de Bruxelles-Capitale;089;089 Procédures majeures sur les os de la face et du crâne;03;Chirurgical;87;597
+Région de Bruxelles-Capitale;091;091 Autres procédures majeures sur la tête et le cou;03;Chirurgical;72;< 5
+Région de Bruxelles-Capitale;092;092 Procédures sur les os de la face, excepté procédures majeures sur les os du crâne/de la face;03;Chirurgical;396;664
+Région de Bruxelles-Capitale;095;095 Réparation de la fente labiale et la fente palatine;03;Chirurgical;19;0
+Région de Bruxelles-Capitale;097;097 Procédures sur les amygdales et les végétations;03;Chirurgical;326;1 426
+Région de Bruxelles-Capitale;098;098 Autres procédures sur l'oreille, le nez, la bouche et la gorge;03;Chirurgical;1 207;1 479
+Région de Bruxelles-Capitale;110;110 Affections malignes de l'oreille, le nez, la bouche, la gorge, le crâne/la face;03;Médical;136;91
+Région de Bruxelles-Capitale;111;111 Vertige et autres troubles labyrinthiques;03;Médical;247;35
+Région de Bruxelles-Capitale;113;113 Infections des voies aériennes supérieures;03;Médical;1 236;190
+Région de Bruxelles-Capitale;114;114 Maladies et troubles dentaires et buccales;03;Médical;120;6 143
+Région de Bruxelles-Capitale;115;115 Autres diagnostics de l'oreille, le nez, la bouche, la gorge, le crâne/la face;03;Médical;4 665;970
+Région de Bruxelles-Capitale;120;120 Procédures majeures sur le système respiratoire et le thorax;04;Chirurgical;107;0
+Région de Bruxelles-Capitale;121;121  Autres procédures sur le système respiratoire et le thorax;04;Chirurgical;335;19
+Région de Bruxelles-Capitale;130;130 Affection du système respiratoire avec assistance ventilatoire pendant + de 96 heures;04;Médical;426;0
+Région de Bruxelles-Capitale;131;131 Mucoviscidose (cystic fibrosis) - maladie pulmonaire;04;Médical;49;< 5
+Région de Bruxelles-Capitale;132;132 Dysplasie broncho-pulmon. et autres maladies respirat.chron.apparaissant en période périnatale;04;Médical;6;0
+Région de Bruxelles-Capitale;133;133 Insuffisance respiratoire;04;Médical;249;< 5
+Région de Bruxelles-Capitale;134;134 Embolie pulmonaire;04;Médical;579;< 5
+Région de Bruxelles-Capitale;135;135 Traumatisme majeur respiratoire et thoracique;04;Médical;186;8
+Région de Bruxelles-Capitale;136;136 Affection maligne respiratoire;04;Médical;664;269
+Région de Bruxelles-Capitale;137;137 Inflammations et infections majeures du système respiratoire;04;Médical;1 477;13
+Région de Bruxelles-Capitale;138;138 Bronchiolite et pneumonie à virus respiratoire syncytial (RSV);04;Médical;477;< 5
+Région de Bruxelles-Capitale;139;139 Autre pneumonie;04;Médical;5 805;26
+Région de Bruxelles-Capitale;140;140 Maladie pulmonaire obstructive chronique;04;Médical;1 577;48
+Région de Bruxelles-Capitale;141;141 Asthme;04;Médical;463;8
+Région de Bruxelles-Capitale;142;142 Maladies pulmonaires interstitielles et alvéolaires;04;Médical;201;50
+Région de Bruxelles-Capitale;143;143 Autres diagnostics respiratoires, excepté les signes, symptômes et diagnostics mineurs;04;Médical;417;85
+Région de Bruxelles-Capitale;144;144 Signes respiratoires, symptômes et diagnostics mineurs;04;Médical;971;157
+Région de Bruxelles-Capitale;145;145 Bronchite aiguë et symptômes associés;04;Médical;513;59
+Région de Bruxelles-Capitale;160;160 Réparation majeure d'anomalie cardiaque par voie cardiothoracique;05;Chirurgical;13;0
+Région de Bruxelles-Capitale;161;161 Implantation d'un défibrillateur cardiaque et d'un système d'assistance cardiaque;05;Chirurgical;119;< 5
+Région de Bruxelles-Capitale;162;162 Procédures sur les valves cardiaques avec infarctus du myocarde aigu ou DP complexe;05;Chirurgical;35;0
+Région de Bruxelles-Capitale;163;163 Procédures sur les valves cardiaques sans infarctus du myocarde aigu ou DP complexe;05;Chirurgical;190;0
+Région de Bruxelles-Capitale;165;165 Pontage coronarien avec infarctus aigu du myocarde ou DP complexe;05;Chirurgical;87;0
+Région de Bruxelles-Capitale;166;166 Pontage coronarien sans infarctus aigu du myocarde ou DP complexe;05;Chirurgical;230;< 5
+Région de Bruxelles-Capitale;167;167 Autres procédures cardiothoraciques et thoracovasculaires;05;Chirurgical;126;5
+Région de Bruxelles-Capitale;169;169 Procédures vasculaires abdominales majeures;05;Chirurgical;104;0
+Région de Bruxelles-Capitale;170;170 Implantation du pacemaker permanent avec infarctus aigu du myocard., décomp. cardiaque ou choc;05;Chirurgical;5;0
+Région de Bruxelles-Capitale;171;171 Implantation du pacemaker permanent sans infarctus aigu du myocard., décomp. cardiaque ou choc;05;Chirurgical;400;6
+Région de Bruxelles-Capitale;174;174 Procédures coronariennes percutanées avec infarctus aigu du myocarde;05;Chirurgical;600;50
+Région de Bruxelles-Capitale;175;175 Procédures coronariennes percutanées sans infarctus aigu du myocarde;05;Chirurgical;1 849;232
+Région de Bruxelles-Capitale;176;176 Remplacement du pacemaker et du défibrillateur cardiaque;05;Chirurgical;140;9
+Région de Bruxelles-Capitale;177;177 Révision du pacemaker et du défibrillateur cardiaque, excepté le remplacement de l'appareil;05;Chirurgical;30;0
+Région de Bruxelles-Capitale;180;180 Autres procédures sur le système circulatoire;05;Chirurgical;267;802
+Région de Bruxelles-Capitale;181;181 Procédures sur les artères des membres inférieurs;05;Chirurgical;792;9
+Région de Bruxelles-Capitale;182;182 Autres procédures sur les vaisseaux périphériques;05;Chirurgical;281;182
+Région de Bruxelles-Capitale;190;190 Infarctus aigu du myocarde;05;Médical;315;36
+Région de Bruxelles-Capitale;191;191 Cathétérisme cardiaque pour maladie coronarienne;05;Médical;759;832
+Région de Bruxelles-Capitale;192;192 Cathétérisme cardiaque pour autres affections non coronariennes;05;Médical;806;236
+Région de Bruxelles-Capitale;193;193 Endocardite aiguë et subaiguë;05;Médical;24;0
+Région de Bruxelles-Capitale;194;194 Insuffisance cardiaque;05;Médical;1 799;6
+Région de Bruxelles-Capitale;196;196 Arrêt cardiaque et choc;05;Médical;152;8
+Région de Bruxelles-Capitale;197;197 Troubles vasculaires, périphériques et autres;05;Médical;390;142
+Région de Bruxelles-Capitale;198;198 Angine de poitrine et athérosclérose coronaire;05;Médical;241;12
+Région de Bruxelles-Capitale;199;199 Hypertension;05;Médical;218;13
+Région de Bruxelles-Capitale;200;200 Maladies cardiaques structurelles et valvulaires;05;Médical;93;8
+Région de Bruxelles-Capitale;201;201 Arythmie cardiaque et troubles de la conduction;05;Médical;836;467
+Région de Bruxelles-Capitale;203;203 Douleur thoracique;05;Médical;155;28
+Région de Bruxelles-Capitale;204;204 Syncope et collapsus;05;Médical;379;7
+Région de Bruxelles-Capitale;205;205 Cardiomyopathie;05;Médical;44;0
+Région de Bruxelles-Capitale;206;206 Dysfonctionnement, réaction et complic. du matériel ou de la procédure cardiaque/vasculaire;05;Médical;90;70
+Région de Bruxelles-Capitale;207;207 Autres diagnostics du système circulatoire;05;Médical;399;41
+Région de Bruxelles-Capitale;220;220 Procédures majeures sur l'oesophage, l'estomac et le duodénum;06;Chirurgical;193;11
+Région de Bruxelles-Capitale;222;222 Autres procédures sur l'oesophage, l'estomac et le duodénum;06;Chirurgical;121;47
+Région de Bruxelles-Capitale;223;223 Autres procédures sur l'intestin grêle et le gros intestin;06;Chirurgical;147;178
+Région de Bruxelles-Capitale;224;224 Adhésiolyse péritonéale;06;Chirurgical;106;< 5
+Région de Bruxelles-Capitale;226;226 Procédures sur l'anus;06;Chirurgical;440;572
+Région de Bruxelles-Capitale;227;227 Procédures pour hernie, excepté procédures pour hernie inguinale, fémorale et ombilicale;06;Chirurgical;582;171
+Région de Bruxelles-Capitale;228;228 Procédures pour hernie inguinale, fémorale et ombilicale;06;Chirurgical;1 142;627
+Région de Bruxelles-Capitale;229;229 Autres procédures sur le système digestif et l'abdomen;06;Chirurgical;213;28
+Région de Bruxelles-Capitale;230;230 Procédures majeures sur l'intestin grêle;06;Chirurgical;427;0
+Région de Bruxelles-Capitale;231;231 Procédures majeures sur le gros intestin;06;Chirurgical;608;11
+Région de Bruxelles-Capitale;232;232 Fundoplicature de l'estomac;06;Chirurgical;57;0
+Région de Bruxelles-Capitale;233;233 Appendicectomie avec diagnose principale complexe;06;Chirurgical;323;5
+Région de Bruxelles-Capitale;234;234 Appendicectomie sans diagnose principale complexe;06;Chirurgical;945;26
+Région de Bruxelles-Capitale;240;240 Affections malignes du système digestif;06;Médical;562;570
+Région de Bruxelles-Capitale;241;241 Ulcère peptique et gastrite;06;Médical;504;3 033
+Région de Bruxelles-Capitale;242;242 Troubles majeurs de l'oesophage;06;Médical;85;55
+Région de Bruxelles-Capitale;243;243 Autres troubles de l'oesophage;06;Médical;361;1 787
+Région de Bruxelles-Capitale;244;244 Diverticulite et diverticulose;06;Médical;516;1 553
+Région de Bruxelles-Capitale;245;245 Maladie inflammatoire de l'intestin;06;Médical;303;681
+Région de Bruxelles-Capitale;246;246 Insuffisance vasculaire gastro-intestinale;06;Médical;50;6
+Région de Bruxelles-Capitale;247;247 Obstruction intestinale;06;Médical;507;17
+Région de Bruxelles-Capitale;248;248 Infections gastro-intestinales et péritonéales majeures;06;Médical;225;11
+Région de Bruxelles-Capitale;249;249 Autre gastro-entérite, nausée et vomissement;06;Médical;955;371
+Région de Bruxelles-Capitale;251;251 Douleur abdominale;06;Médical;259;525
+Région de Bruxelles-Capitale;252;252 Dysfonctionnement, réaction et complic, de dispositif ou de procédure gastro-intestinaux;06;Médical;249;53
+Région de Bruxelles-Capitale;253;253 Hémorragie gastro-intestinale, autre et non specifiée;06;Médical;193;120
+Région de Bruxelles-Capitale;254;254 Autres diagnostics du système digestif;06;Médical;1 462;5 875
+Région de Bruxelles-Capitale;260;260 Procédures majeures sur pancréas, foie et shunt;07;Chirurgical;170;9
+Région de Bruxelles-Capitale;261;261 Procédures majeures sur les voies biliaires;07;Chirurgical;30;< 5
+Région de Bruxelles-Capitale;263;263 Cholécystectomie;07;Chirurgical;1 563;72
+Région de Bruxelles-Capitale;264;264 Autres procédures abdominales, sur système hépatobiliaire et pancréas;07;Chirurgical;111;17
+Région de Bruxelles-Capitale;279;279 Coma hépatique et autres troubles hépatiques majeurs aigus;07;Médical;116;8
+Région de Bruxelles-Capitale;280;280 Maladie hépatique alcoolique;07;Médical;378;18
+Région de Bruxelles-Capitale;281;281 Affection maligne du système hépatobiliaire et du pancréas;07;Médical;464;235
+Région de Bruxelles-Capitale;282;282 Troubles du pancréas excepté affections malignes;07;Médical;733;103
+Région de Bruxelles-Capitale;283;283 Autres troubles du foie;07;Médical;345;101
+Région de Bruxelles-Capitale;284;284 Troubles de la vésicule biliaire et des voies biliaires;07;Médical;981;84
+Région de Bruxelles-Capitale;301;301 Remplacement de l'articulation de la hanche;08;Chirurgical;1 450;14
+Région de Bruxelles-Capitale;302;302 Remplacement de l'articulation du genou;08;Chirurgical;1 132;< 5
+Région de Bruxelles-Capitale;303;303 Arthrodèse dorsale et lombaire pour déviation du dos;08;Chirurgical;19;0
+Région de Bruxelles-Capitale;304;304 Arthrodèse dorso-lombaire excepté déviation du dos;08;Chirurgical;337;< 5
+Région de Bruxelles-Capitale;305;305 Amputation du membre inférieur excepté les orteils;08;Chirurgical;88;0
+Région de Bruxelles-Capitale;308;308 Réparation d'une fracture de la hanche et du fémur;08;Chirurgical;834;< 5
+Région de Bruxelles-Capitale;309;309 Autre chirurgie significative de la hanche et du fémur;08;Chirurgical;191;88
+Région de Bruxelles-Capitale;310;310 Excision et décompression du disque intervertébral;08;Chirurgical;719;13
+Région de Bruxelles-Capitale;312;312 Greffe cutanée, excepté de la main, pour diagnostics musculo-squelettiques et du tissu conjonctif;08;Chirurgical;38;36
+Région de Bruxelles-Capitale;313;313 Procédures sur le genou et la jambe, excepté le pied;08;Chirurgical;1 364;1 811
+Région de Bruxelles-Capitale;314;314 Procédures sur le pied et les orteils;08;Chirurgical;706;345
+Région de Bruxelles-Capitale;315;315 Procédures sur l'épaule, le bras et l'avant-bras excepté le remplacement de l'articulation;08;Chirurgical;1 674;952
+Région de Bruxelles-Capitale;316;316 Procédures sur la main et le poignet;08;Chirurgical;262;1 808
+Région de Bruxelles-Capitale;317;317 Procédures sur le tendon, le muscle et autres tissus mous;08;Chirurgical;397;380
+Région de Bruxelles-Capitale;320;320 Autres procédures sur le système musculo-squelettique et le tissu conjonctif;08;Chirurgical;571;1 011
+Région de Bruxelles-Capitale;321;321 Arthrodèse cervicale et autres procédures sur le cou/dos, excepté excis./décompres. de disque;08;Chirurgical;285;7
+Région de Bruxelles-Capitale;322;322 Remplacement de l'articulation de l'épaule et du coude;08;Chirurgical;212;< 5
+Région de Bruxelles-Capitale;340;340 Fracture du fémur;08;Médical;157;< 5
+Région de Bruxelles-Capitale;341;341 Fracture du bassin ou luxation de la hanche;08;Médical;206;< 5
+Région de Bruxelles-Capitale;342;342 Fracture ou luxation excepté du fémur, du bassin et du dos;08;Médical;619;418
+Région de Bruxelles-Capitale;343;343 Affection maligne musc-squellet. et fracture pathol. dues à affection maligne musc-squellet.;08;Médical;152;61
+Région de Bruxelles-Capitale;344;344 Ostéomyélite, arthrite septique et autres infections musculo-squelettiques;08;Médical;175;19
+Région de Bruxelles-Capitale;346;346 Troubles du tissu conjonctif;08;Médical;273;209
+Région de Bruxelles-Capitale;347;347 Autres troubles, fractures et traumatismes du dos et du cou;08;Médical;828;8 960
+Région de Bruxelles-Capitale;349;349 Dysfonctionnement, réaction et complic. de matériel ou de procédure orthopédiques;08;Médical;148;28
+Région de Bruxelles-Capitale;351;351 Autres diagnostics du système musculo-squelettique et du tissu conjonctif;08;Médical;897;503
+Région de Bruxelles-Capitale;361;361 Greffe cutanée pour diagnotics de la peau et du tissu sous-cutane;09;Chirurgical;298;683
+Région de Bruxelles-Capitale;362;362 Procédures de mastectomie;09;Chirurgical;460;24
+Région de Bruxelles-Capitale;363;363 Procédures mammaires, excepté mastectomie;09;Chirurgical;1 114;371
+Région de Bruxelles-Capitale;364;364 Autres procédures sur la peau, les tissus sous-cutanés et procédures associées;09;Chirurgical;505;620
+Région de Bruxelles-Capitale;380;380 Ulcères cutanés;09;Médical;115;< 5
+Région de Bruxelles-Capitale;381;381 Troubles majeurs de la peau;09;Médical;51;29
+Région de Bruxelles-Capitale;382;382 Affections malignes du sein;09;Médical;114;265
+Région de Bruxelles-Capitale;383;383 Cellulite et autres infections de la peau;09;Médical;875;243
+Région de Bruxelles-Capitale;384;384 Contusion, plaie ouverte et autres traumatismes de la peau et du tissu sous-cutané;09;Médical;481;397
+Région de Bruxelles-Capitale;385;385 Autres troubles de la peau, du tissu sous-cutané et du sein;09;Médical;330;1 525
+Région de Bruxelles-Capitale;401;401 Procédures sur les surrénales et l'hypophyse;10;Chirurgical;32;0
+Région de Bruxelles-Capitale;403;403 Procédures pour obésité;10;Chirurgical;795;< 5
+Région de Bruxelles-Capitale;404;404 Procédures sur la thyroïde, les parathyroïdes ou le canal thyréoglosse;10;Chirurgical;466;< 5
+Région de Bruxelles-Capitale;405;405 Autres procédures pour troubles endocriniens, nutritionnels et métaboliques;10;Chirurgical;27;< 5
+Région de Bruxelles-Capitale;420;420 Diabète;10;Médical;1 146;9
+Région de Bruxelles-Capitale;421;421 Malnutrition, retard staturo-pondéral et autres troubles nutritionnels;10;Médical;384;82
+Région de Bruxelles-Capitale;422;422 Hypovolémie et troubles électrolytiques associés;10;Médical;244;< 5
+Région de Bruxelles-Capitale;423;423 Anomalies congénitales du métabolisme;10;Médical;57;32
+Région de Bruxelles-Capitale;424;424 Autres troubles endocriniens;10;Médical;103;23
+Région de Bruxelles-Capitale;425;425 Autres troubles électrolytiques non hypovolémiques;10;Médical;164;< 5
+Région de Bruxelles-Capitale;426;426 Troubles non hypovolémiques du bilan du sodium;10;Médical;335;0
+Région de Bruxelles-Capitale;427;427 Troubles thyroïdiens;10;Médical;120;< 5
+Région de Bruxelles-Capitale;440;440 Transplantation rénale;11;Chirurgical;37;0
+Région de Bruxelles-Capitale;441;441 Procédures majeures sur la vessie;11;Chirurgical;56;0
+Région de Bruxelles-Capitale;442;442 Procédures sur les reins et les voies urinaires pour affection maligne;11;Chirurgical;140;< 5
+Région de Bruxelles-Capitale;443;443 Procédures sur les reins et les voies urinaires pour affection non maligne;11;Chirurgical;462;232
+Région de Bruxelles-Capitale;444;444 Procédure pour installation du dispositif d'accès pour dialyse rénale et réparation de vaisseaux;11;Chirurgical;103;16
+Région de Bruxelles-Capitale;445;445 Autres procédures sur la vessie;11;Chirurgical;116;31
+Région de Bruxelles-Capitale;446;446 Procédures uréthrales et transuréthrales;11;Chirurgical;849;505
+Région de Bruxelles-Capitale;447;447 Autres procédures sur les reins, les voies urinaires et procédures associées;11;Chirurgical;22;< 5
+Région de Bruxelles-Capitale;461;461 Affection maligne des reins et voies urinaires;11;Médical;180;300
+Région de Bruxelles-Capitale;462;462 Néphrite et néphrose;11;Médical;88;21
+Région de Bruxelles-Capitale;463;463 Infections des reins et voies urinaires;11;Médical;2 133;63
+Région de Bruxelles-Capitale;465;465 Lithiases urinaires et obstruction acquise du tractus urinaire supérieur;11;Médical;714;1 203
+Région de Bruxelles-Capitale;466;466 Dysfonctionnement, réaction et complic. de matériel ou de procédure génito-urinaire;11;Médical;265;83
+Région de Bruxelles-Capitale;468;468 Autres diagnostics, signes et symptômes du rein et des voies urinaires;11;Médical;605;1 843
+Région de Bruxelles-Capitale;469;469 Traumatisme aigue du rein;11;Médical;225;0
+Région de Bruxelles-Capitale;470;470 Maladie rénale chronique;11;Médical;226;65
+Région de Bruxelles-Capitale;480;480 Procédures majeures sur le bassin masculin;12;Chirurgical;150;0
+Région de Bruxelles-Capitale;482;482 Prostatectomie transurétrale;12;Chirurgical;339;30
+Région de Bruxelles-Capitale;483;483 Procédures sur le pénis, les testicules et le scrotum;12;Chirurgical;264;490
+Région de Bruxelles-Capitale;484;484 Autres procédures sur le système reproducteur masculin et procédures associées;12;Chirurgical;171;14
+Région de Bruxelles-Capitale;500;500 Affection maligne du système reproducteur masculin;12;Médical;81;159
+Région de Bruxelles-Capitale;501;501 Diagnostics du système reproducteur masculin excepté affections malignes;12;Médical;390;2 886
+Région de Bruxelles-Capitale;510;510 Eviscération pelvienne, hystérectomie radicale et autres procédures gynécologiques radicales;13;Chirurgical;47;0
+Région de Bruxelles-Capitale;511;511 Procédures sur utérus et annexes pour affection maligne des ovaires et ses annexes;13;Chirurgical;74;6
+Région de Bruxelles-Capitale;512;512 Procédures sur utérus et annexes pour affections malignes excepté des ovaires et ses annexes;13;Chirurgical;76;9
+Région de Bruxelles-Capitale;513;513 Procédures sur uterus/annexes pour affection non maligne excepté léiomyome;13;Chirurgical;834;790
+Région de Bruxelles-Capitale;514;514 Procédures réconstructives du système reproducteur féminin;13;Chirurgical;73;14
+Région de Bruxelles-Capitale;517;517 Dilatation et curetage pour des diagnostics non-obstétricaux;13;Chirurgical;25;478
+Région de Bruxelles-Capitale;518;518 Autres procédures sur le système reproducteur féminin et procédures associées;13;Chirurgical;92;139
+Région de Bruxelles-Capitale;519;519 Procédures sur utérus/annexes pour léiomyome;13;Chirurgical;477;174
+Région de Bruxelles-Capitale;530;530 Affection maligne du système reproducteur féminin;13;Médical;137;126
+Région de Bruxelles-Capitale;531;531 Infections du système reproducteur féminin;13;Médical;72;23
+Région de Bruxelles-Capitale;532;532 Troubles menstruels et autres troubles du système reproducteur féminin;13;Médical;158;693
+Région de Bruxelles-Capitale;540;540 Accouchement par césarienne;14;Chirurgical;3 105;5
+Région de Bruxelles-Capitale;541;541 Accouchement par voie vaginale avec stérilisation et/ou dilatation et curetage;14;Chirurgical;442;5
+Région de Bruxelles-Capitale;542;542 Accouchement par voie vaginale avec proc. compl., excepté stérilisat. ou dilat. et curet.;14;Chirurgical;313;< 5
+Région de Bruxelles-Capitale;544;544 Dilatation et curetage, curetage par aspiration ou hystérotomie pour diagnostics obstétricaux;14;Chirurgical;186;703
+Région de Bruxelles-Capitale;545;545 Procédure pour grossesse ectopique;14;Chirurgical;182;11
+Région de Bruxelles-Capitale;546;546 Autres procédures en salle d'opération pour diagnostics obstétricaux excepté accouchement;14;Chirurgical;63;76
+Région de Bruxelles-Capitale;560;560 Accouchement par voie vaginale;14;Médical;12 166;215
+Région de Bruxelles-Capitale;561;561 Diagnostics du post-partum et post-avortement, sans procédure;14;Médical;168;11
+Région de Bruxelles-Capitale;563;563 Travail prématuré;14;Médical;308;< 5
+Région de Bruxelles-Capitale;564;564 Avortement, sans dilatation et curetage, curetage par aspiration ou hystérotomie;14;Médical;104;20
+Région de Bruxelles-Capitale;565;565 Faux travail;14;Médical;87;8
+Région de Bruxelles-Capitale;566;566 Autres diagnostics en antepartum;14;Médical;1 338;312
+Région de Bruxelles-Capitale;580;580 Nouveau-né, transferé dans les 5 jours, né ailleurs;15;Médical;36;0
+Région de Bruxelles-Capitale;581;581 Nouveau-né, transferé dans les 5 jours, né ici;15;Médical;20;0
+Région de Bruxelles-Capitale;583;583 Nouveau-né, avec ECMO;15;Chirurgical;< 5;0
+Région de Bruxelles-Capitale;588;588 Nouveau-né, poids de naissance < 1500g, avec procédure majeure;15;Chirurgical;6;0
+Région de Bruxelles-Capitale;589;589 Nouveau-né, poids de nais. <  500g, ou poids de nais. 500-999g et age gestat. < 24 semaines, ou poids de nais. 500-749g avec anomalie majeure ou sans intervention de maintien de la vie;15;Médical;12;0
+Région de Bruxelles-Capitale;591;591 Nouveau-né, poids de naissance 500-749g sans procédure majeure;15;Médical;15;0
+Région de Bruxelles-Capitale;593;593 Nouveau-né, poids de naissance 750-999g sans procédure majeure;15;Médical;39;0
+Région de Bruxelles-Capitale;602;602 Nouveau-né, poids de nais. 1000-1249g avec syndrôme de détresse resp./autres anom. resp. maj. ou anom. maj.;15;Médical;22;0
+Région de Bruxelles-Capitale;603;603 Nouveau-né, poids de naissance 1000-1249g avec ou sans autre affection significative;15;Médical;< 5;0
+Région de Bruxelles-Capitale;607;607 Nouveau-né, poids de nais. 1250-1499g avec syndrôme de détresse resp./autres anom. respir. maj. ou anom. maj.;15;Médical;45;0
+Région de Bruxelles-Capitale;608;608 Nouveau-né, poids de naissance 1250-1499g avec/sans autre affection significative;15;Médical;12;0
+Région de Bruxelles-Capitale;609;609 Nouveau-né, poids de naissance 1500-2499g avec procédure majeure;15;Chirurgical;9;0
+Région de Bruxelles-Capitale;611;611 Nouveau-né, poids de naissance 1500-1999g avec anomalie majeure;15;Médical;16;0
+Région de Bruxelles-Capitale;612;612 Nouveau-né, poids de naissance 1500-1999g avec syndrôme de détresse resp./autre affec. resp. majeure;15;Médical;49;0
+Région de Bruxelles-Capitale;613;613 Nouveau-né, poids de naissance 1500-1999g avec infection congénitale ou périnatale;15;Médical;< 5;0
+Région de Bruxelles-Capitale;614;614 Nouveau-né, poids de naissance 1500-1999g avec ou sans autre affection significative;15;Médical;55;0
+Région de Bruxelles-Capitale;621;621 Nouveau-né, poids de naissance 2000-2499g avec anomalie majeure;15;Médical;16;0
+Région de Bruxelles-Capitale;622;622 Nouveau-né, poids de naissance 2000-2499g avec syndrôme de détresse resp./autre affec. resp. majeure;15;Médical;53;0
+Région de Bruxelles-Capitale;623;623 Nouveau-né, poids de naissance 2000-2499g avec infections congénitales ou périnatales;15;Médical;17;0
+Région de Bruxelles-Capitale;625;625 Nouveau-né, poids de naissance 2000-2499g, né ici, avec autre affection significative;15;Médical;37;0
+Région de Bruxelles-Capitale;626;626 Nouveau-né, poids de naissance 2000-2499g, nouveau-né normal ou nouveau-né avec autre problème;15;Médical;76;0
+Région de Bruxelles-Capitale;630;630 Nouveau-né , poids de naissance > 2499g avec procédure cardiovasculaire majeure;15;Chirurgical;< 5;0
+Région de Bruxelles-Capitale;631;631 Nouveau-né, poids de naissance > 2499g avec autre procédure majeure;15;Chirurgical;11;0
+Région de Bruxelles-Capitale;633;633 Nouveau-né, poids de naissance > 2499g avec anomalie majeure;15;Médical;72;0
+Région de Bruxelles-Capitale;634;634 Nouveau-né, poids de naissance > 2499g avec syndrôme de détresse resp./autre affec. resp. majeure;15;Médical;122;0
+Région de Bruxelles-Capitale;636;636 Nouveau-né, poids de naissance > 2499g avec infection congénitale ou périnatale;15;Médical;54;0
+Région de Bruxelles-Capitale;639;639 Nouveau-né, poids de naissance > 2499g avec autre affection significative;15;Médical;71;0
+Région de Bruxelles-Capitale;640;640 Nouveau-né, poids de naissance > 2499g, nouveau-né normal ou nouveau-né avec autres problèmes;15;Médical;350;0
+Région de Bruxelles-Capitale;650;650 Splénectomie;16;Chirurgical;7;0
+Région de Bruxelles-Capitale;651;651 Autres procédures sur sang et organes hématopoïétiques;16;Chirurgical;42;26
+Région de Bruxelles-Capitale;660;660 Diagnostics hématol./immunol. majeurs excepté crise drépanocytaire et crise de la coagulation;16;Médical;311;271
+Région de Bruxelles-Capitale;661;661 Troubles de la coagulation et des plaquettes;16;Médical;101;204
+Région de Bruxelles-Capitale;662;662 Crise d'anémie à cellules falciformes;16;Médical;242;35
+Région de Bruxelles-Capitale;663;663 Autres anémies et troubles sanguins et troubles des organes hematopoïétiques;16;Médical;856;1 854
+Région de Bruxelles-Capitale;680;680 Procédures majeures en salle d'opération pour néoplasie lymphatique/hématopoïétique/autre;17;Chirurgical;73;< 5
+Région de Bruxelles-Capitale;681;681 Autres procédures en salle d'opération pour néoplasie lymphatique/hématopoïétique/autre;17;Chirurgical;283;87
+Région de Bruxelles-Capitale;690;690 Leucémie aiguë;17;Médical;92;491
+Région de Bruxelles-Capitale;691;691 Lymphome, myélome et leucémie non aiguë;17;Médical;265;744
+Région de Bruxelles-Capitale;692;692 Radiothérapie;17;Médical;61;< 5
+Région de Bruxelles-Capitale;694;694 Affections malignes, lymphatiques et autres, et néoplasmes de comportement incertain;17;Médical;219;1 009
+Région de Bruxelles-Capitale;695;695 Chimiotherapie pour leucémie aiguë;17;Médical;156;1 246
+Région de Bruxelles-Capitale;696;696 Autre chimiotherapie;17;Médical;1 581;31 450
+Région de Bruxelles-Capitale;710;710 Infections et maladies parasitaires incluant le HIV avec procédure en salle d'opération;18;Chirurgical;144;12
+Région de Bruxelles-Capitale;711;711 Infections d'un dispositif post-opératoires, post-traumatiques et autres avec procédure en salle d'opération;18;Chirurgical;149;26
+Région de Bruxelles-Capitale;720;720 Septicémie et infections disséminées;18;Médical;943;5
+Région de Bruxelles-Capitale;721;721 Infections d'un dispositif post-opératoires, post-traumatiques et autres;18;Médical;275;21
+Région de Bruxelles-Capitale;722;722 Fièvre;18;Médical;257;< 5
+Région de Bruxelles-Capitale;723;723 Maladie virale;18;Médical;535;< 5
+Région de Bruxelles-Capitale;724;724 Autres maladies infectieuses et parasitaires;18;Médical;227;15
+Région de Bruxelles-Capitale;740;740 Diagnostic de maladie mentale avec procédure en salle d'opération;19;Chirurgical;28;< 5
+Région de Bruxelles-Capitale;750;750 Schizophrénie;19;Médical;130;0
+Région de Bruxelles-Capitale;751;751 Troubles dépressifs majeurs et psychoses autres/non spécifiées;19;Médical;297;0
+Région de Bruxelles-Capitale;752;752 Troubles de la personnalité et du contrôle des impulsions;19;Médical;50;0
+Région de Bruxelles-Capitale;753;753 Troubles bipolaires;19;Médical;168;0
+Région de Bruxelles-Capitale;754;754 Dépression, excepté trouble dépressif majeur;19;Médical;108;0
+Région de Bruxelles-Capitale;755;755 Troubles de l'ajustement et névroses, excepté diagnostics dépressifs;19;Médical;113;< 5
+Région de Bruxelles-Capitale;756;756 Etats d'anxiété et de délire aigus;19;Médical;324;7
+Région de Bruxelles-Capitale;757;757 Troubles organiques de la santé mentale;19;Médical;160;28
+Région de Bruxelles-Capitale;758;758 Troubles comportementaux;19;Médical;34;< 5
+Région de Bruxelles-Capitale;759;759 Troubles de la nutrition;19;Médical;23;0
+Région de Bruxelles-Capitale;760;760 Autres troubles de la santé mentale;19;Médical;328;62
+Région de Bruxelles-Capitale;770;770 Abus ou dépendance à l'alcool et à la drogue, sortie contre l'avis medical;20;Médical;63;0
+Région de Bruxelles-Capitale;772;772 Dépendance à l'alcool et à la drogue avec revalidation ou thérapie de revalidation/désintoxication;20;Médical;188;0
+Région de Bruxelles-Capitale;773;773 Abus et dépendance aux opiacés;20;Médical;60;< 5
+Région de Bruxelles-Capitale;774;774 Abus et dépendance à la cocaïne;20;Médical;46;0
+Région de Bruxelles-Capitale;775;775 Abus et dépendance a l'alcool;20;Médical;502;5
+Région de Bruxelles-Capitale;776;776 Abus et dépendance à d'autres drogues;20;Médical;79;< 5
+Région de Bruxelles-Capitale;792;792 Procédures extensives en salle d'opération pour d'autres complications du traitement;21;Chirurgical;42;7
+Région de Bruxelles-Capitale;793;793 Procédures modérément extensives en salle d'opération pour d'autres complications du traitement;21;Chirurgical;136;63
+Région de Bruxelles-Capitale;794;794 Procédures non extensives en salle d'opération pour autres complications du traitement;21;Chirurgical;43;33
+Région de Bruxelles-Capitale;810;810 Hémorragie ou hématome dues à complication;21;Médical;91;7
+Région de Bruxelles-Capitale;811;811 Réactions allergiques;21;Médical;91;0
+Région de Bruxelles-Capitale;812;812 Empoisonnement par agents médicamenteux;21;Médical;363;< 5
+Région de Bruxelles-Capitale;813;813 Autres complications de traitement;21;Médical;249;93
+Région de Bruxelles-Capitale;815;815 Autres diagnostics de blessure, empoisonnement, effets toxiques;21;Médical;248;7
+Région de Bruxelles-Capitale;816;816 Effets toxiques de substances non médicamenteuses;21;Médical;103;< 5
+Région de Bruxelles-Capitale;817;817 Surdosage;21;Médical;348;0
+Région de Bruxelles-Capitale;842;842 Brûlures avec greffe de peau excepté les brûlures extensives du 3ème degré;22;Chirurgical;< 5;6
+Région de Bruxelles-Capitale;843;843 Brûlures extensives du troisième degré ou de l'epaisseur totale sans greffe de peau;22;Médical;< 5;0
+Région de Bruxelles-Capitale;844;844 Brûlures de l'epaisseur partielle sans greffe de peau;22;Médical;35;< 5
+Région de Bruxelles-Capitale;850;850 Procédure avec diagn. de rééducation, soins de suite ou autre contact avec services de santé;23;Chirurgical;521;2 983
+Région de Bruxelles-Capitale;860;860 Revalidation;23;Médical;2 103;0
+Région de Bruxelles-Capitale;861;861 Signes, symptômes et autres facteurs influencant l'état de santé;23;Médical;1 893;6 768
+Région de Bruxelles-Capitale;862;862 Autre soins de suite et convalescence;23;Médical;1 383;2 704
+Région de Bruxelles-Capitale;863;863 Soins de suite néonataux;23;Médical;58;0
+Région de Bruxelles-Capitale;890;890 HIV avec multiples affections majeures associées au HIV;24;Médical;52;0
+Région de Bruxelles-Capitale;892;892 HIV avec affections majeures associées au HIV;24;Médical;83;10
+Région de Bruxelles-Capitale;893;893 HIV avec affections significatives multiples associées au HIV;24;Médical;19;0
+Région de Bruxelles-Capitale;894;894 HIV avec une seule affection significative associée au HIV ou sans affections significatives associées;24;Médical;89;16
+Région de Bruxelles-Capitale;910;910 Craniotomie pour polytraumatisme significatif;25;Chirurgical;11;0
+Région de Bruxelles-Capitale;911;911 Procédures abdominales/thoraciques extensives pour polytraumatisme significatif;25;Chirurgical;< 5;0
+Région de Bruxelles-Capitale;912;912 Procédures musculo-squelettiques et autres pour polytaumatisme significatif;25;Chirurgical;75;0
+Région de Bruxelles-Capitale;930;930 Polytraumatisme significatif sans procédure en salle d'opération;25;Médical;65;< 5
+Région de Bruxelles-Capitale;950;950 Procédure extensive sans rélation avec le diagnostic principal;00;Chirurgical;288;97
+Région de Bruxelles-Capitale;951;951 Procédure modérément extensive sans rélation avec le diagnostic principal;00;Chirurgical;372;119
+Région de Bruxelles-Capitale;952;952 Procédure non extensive sans rélation avec le diagnostic principal;00;Chirurgical;194;132
+Région de Bruxelles-Capitale;955;955 Diagnostic principal non valable comme diagnostic de sortie;00;Autre;< 5;0
+Région de Bruxelles-Capitale;956;956 Sejour non groupable;00;Autre;21;< 5
+Région de Bruxelles-Capitale;MMM;MMM Hospitalisation de jour;SS;Autre;0;41
+Domicile étranger;001;001 Transplantation hépatique et/ou intestinale;PP;Chirurgical;27;0
+Domicile étranger;002;002 Transplantation cardiaque et/ou pulmonaire;PP;Chirurgical;8;0
+Domicile étranger;004;004 ECMO ou trachéostomie avec ventilation mécanique de longue durée et procédure extensive;PP;Chirurgical;34;0
+Domicile étranger;005;005 Trachéostomie avec ventilation mécanique de longue durée sans procédure extensive;PP;Chirurgical;17;0
+Domicile étranger;006;006 Transplantation du pancréas;PP;Chirurgical;< 5;0
+Domicile étranger;007;007 Transplantation de la moelle osseuse allogénique;PP;Chirurgical;20;0
+Domicile étranger;008;008 Transplantation de la moelle osseuse autologue;PP;Chirurgical;6;0
+Domicile étranger;009;009 Oxygénation corporelle par membrane (ECMO);PP;Chirurgical;< 5;0
+Domicile étranger;010;010 Traumatisme crânien avec coma profond;PP;Médical;< 5;0
+Domicile étranger;020;020 Craniotomie pour traumatisme;01;Chirurgical;21;0
+Domicile étranger;021;021 Craniotomie excepté pour traumatisme;01;Chirurgical;122;0
+Domicile étranger;022;022 Procédures sur le pontage ventriculaire;01;Chirurgical;12;0
+Domicile étranger;023;023 Procédures sur la colonne vertébrale et la moelle épinière;01;Chirurgical;48;< 5
+Domicile étranger;024;024 Procédures vasculaires extracrâniennes;01;Chirurgical;80;< 5
+Domicile étranger;026;026 Autres procédures sur le système nerveux et procédures associées;01;Chirurgical;52;266
+Domicile étranger;040;040 Troubles et traumatismes de la colonne vertebrale et de la moelle épiniere;01;Médical;10;0
+Domicile étranger;041;041 Affection maligne du système nerveux;01;Médical;48;8
+Domicile étranger;042;042 Troubles dégenératifs du système nerveux excepté la sclérose en plaques;01;Médical;68;6
+Domicile étranger;043;043 Sclérose en plaques et autres maladies démyélinisantes;01;Médical;46;< 5
+Domicile étranger;044;044 Hémorragie intracrânienne;01;Médical;36;0
+Domicile étranger;045;045 AVC et occlusion précérébrale avec infarctus;01;Médical;136;5
+Domicile étranger;046;046 AVC non spécifique et occlusion précérébrale sans infarctus;01;Médical;6;< 5
+Domicile étranger;047;047 Ischémie cérébrale transitoire (TIA);01;Médical;53;0
+Domicile étranger;048;048 Troubles des nerfs crâniens, périphériques et autonomes;01;Médical;48;20
+Domicile étranger;049;049 Infections bactériennes et tuberculeuses du système nerveux;01;Médical;< 5;0
+Domicile étranger;050;050 Infections non-bactériennes du système nerveux, excepté la méningite virale;01;Médical;14;0
+Domicile étranger;051;051 Méningite virale;01;Médical;5;0
+Domicile étranger;052;052 Altération de la conscience;01;Médical;29;0
+Domicile étranger;053;053 Crise épileptique;01;Médical;242;5
+Domicile étranger;054;054 Migraine et autres céphalées;01;Médical;69;0
+Domicile étranger;055;055 Traumatisme crânien avec coma > 1 heure ou avec hémorragie;01;Médical;60;0
+Domicile étranger;056;056 Contusion/lacération cérébrale et fracture du crâne compliquée, coma < 1heure ou sans coma;01;Médical;< 5;0
+Domicile étranger;057;057 Contusion, fract. du crâne fermée non spéc., traumatisme intracrân. non compl., coma < 1hr ou sans coma;01;Médical;96;< 5
+Domicile étranger;058;058 Autres troubles du système nerveux;01;Médical;150;18
+Domicile étranger;059;059 Lésions cérébrales graves, autres et anoxiques;01;Médical;5;< 5
+Domicile étranger;073;073 Procédures sur l'oeil et sur l'orbite;02;Chirurgical;220;1 356
+Domicile étranger;082;082 Infections oculaires et autres troubles oculaires;02;Médical;55;41
+Domicile étranger;089;089 Procédures majeures sur les os de la face et du crâne;03;Chirurgical;30;127
+Domicile étranger;091;091 Autres procédures majeures sur la tête et le cou;03;Chirurgical;18;6
+Domicile étranger;092;092 Procédures sur les os de la face, excepté procédures majeures sur les os du crâne/de la face;03;Chirurgical;55;152
+Domicile étranger;095;095 Réparation de la fente labiale et la fente palatine;03;Chirurgical;< 5;< 5
+Domicile étranger;097;097 Procédures sur les amygdales et les végétations;03;Chirurgical;38;129
+Domicile étranger;098;098 Autres procédures sur l'oreille, le nez, la bouche et la gorge;03;Chirurgical;185;257
+Domicile étranger;110;110 Affections malignes de l'oreille, le nez, la bouche, la gorge, le crâne/la face;03;Médical;21;31
+Domicile étranger;111;111 Vertige et autres troubles labyrinthiques;03;Médical;49;< 5
+Domicile étranger;113;113 Infections des voies aériennes supérieures;03;Médical;147;24
+Domicile étranger;114;114 Maladies et troubles dentaires et buccales;03;Médical;22;406
+Domicile étranger;115;115 Autres diagnostics de l'oreille, le nez, la bouche, la gorge, le crâne/la face;03;Médical;450;143
+Domicile étranger;120;120 Procédures majeures sur le système respiratoire et le thorax;04;Chirurgical;38;0
+Domicile étranger;121;121  Autres procédures sur le système respiratoire et le thorax;04;Chirurgical;94;16
+Domicile étranger;130;130 Affection du système respiratoire avec assistance ventilatoire pendant + de 96 heures;04;Médical;37;0
+Domicile étranger;131;131 Mucoviscidose (cystic fibrosis) - maladie pulmonaire;04;Médical;10;< 5
+Domicile étranger;132;132 Dysplasie broncho-pulmon. et autres maladies respirat.chron.apparaissant en période périnatale;04;Médical;< 5;0
+Domicile étranger;133;133 Insuffisance respiratoire;04;Médical;54;0
+Domicile étranger;134;134 Embolie pulmonaire;04;Médical;47;0
+Domicile étranger;135;135 Traumatisme majeur respiratoire et thoracique;04;Médical;76;0
+Domicile étranger;136;136 Affection maligne respiratoire;04;Médical;82;44
+Domicile étranger;137;137 Inflammations et infections majeures du système respiratoire;04;Médical;71;0
+Domicile étranger;138;138 Bronchiolite et pneumonie à virus respiratoire syncytial (RSV);04;Médical;49;0
+Domicile étranger;139;139 Autre pneumonie;04;Médical;438;< 5
+Domicile étranger;140;140 Maladie pulmonaire obstructive chronique;04;Médical;138;0
+Domicile étranger;141;141 Asthme;04;Médical;34;< 5
+Domicile étranger;142;142 Maladies pulmonaires interstitielles et alvéolaires;04;Médical;19;< 5
+Domicile étranger;143;143 Autres diagnostics respiratoires, excepté les signes, symptômes et diagnostics mineurs;04;Médical;78;13
+Domicile étranger;144;144 Signes respiratoires, symptômes et diagnostics mineurs;04;Médical;77;21
+Domicile étranger;145;145 Bronchite aiguë et symptômes associés;04;Médical;54;9
+Domicile étranger;160;160 Réparation majeure d'anomalie cardiaque par voie cardiothoracique;05;Chirurgical;36;0
+Domicile étranger;161;161 Implantation d'un défibrillateur cardiaque et d'un système d'assistance cardiaque;05;Chirurgical;47;< 5
+Domicile étranger;162;162 Procédures sur les valves cardiaques avec infarctus du myocarde aigu ou DP complexe;05;Chirurgical;20;0
+Domicile étranger;163;163 Procédures sur les valves cardiaques sans infarctus du myocarde aigu ou DP complexe;05;Chirurgical;145;0
+Domicile étranger;165;165 Pontage coronarien avec infarctus aigu du myocarde ou DP complexe;05;Chirurgical;44;0
+Domicile étranger;166;166 Pontage coronarien sans infarctus aigu du myocarde ou DP complexe;05;Chirurgical;207;0
+Domicile étranger;167;167 Autres procédures cardiothoraciques et thoracovasculaires;05;Chirurgical;103;6
+Domicile étranger;169;169 Procédures vasculaires abdominales majeures;05;Chirurgical;27;0
+Domicile étranger;170;170 Implantation du pacemaker permanent avec infarctus aigu du myocard., décomp. cardiaque ou choc;05;Chirurgical;< 5;0
+Domicile étranger;171;171 Implantation du pacemaker permanent sans infarctus aigu du myocard., décomp. cardiaque ou choc;05;Chirurgical;46;0
+Domicile étranger;174;174 Procédures coronariennes percutanées avec infarctus aigu du myocarde;05;Chirurgical;222;13
+Domicile étranger;175;175 Procédures coronariennes percutanées sans infarctus aigu du myocarde;05;Chirurgical;446;29
+Domicile étranger;176;176 Remplacement du pacemaker et du défibrillateur cardiaque;05;Chirurgical;26;6
+Domicile étranger;177;177 Révision du pacemaker et du défibrillateur cardiaque, excepté le remplacement de l'appareil;05;Chirurgical;10;0
+Domicile étranger;180;180 Autres procédures sur le système circulatoire;05;Chirurgical;14;80
+Domicile étranger;181;181 Procédures sur les artères des membres inférieurs;05;Chirurgical;171;11
+Domicile étranger;182;182 Autres procédures sur les vaisseaux périphériques;05;Chirurgical;87;30
+Domicile étranger;190;190 Infarctus aigu du myocarde;05;Médical;84;8
+Domicile étranger;191;191 Cathétérisme cardiaque pour maladie coronarienne;05;Médical;124;191
+Domicile étranger;192;192 Cathétérisme cardiaque pour autres affections non coronariennes;05;Médical;154;68
+Domicile étranger;193;193 Endocardite aiguë et subaiguë;05;Médical;< 5;0
+Domicile étranger;194;194 Insuffisance cardiaque;05;Médical;181;< 5
+Domicile étranger;196;196 Arrêt cardiaque et choc;05;Médical;9;< 5
+Domicile étranger;197;197 Troubles vasculaires, périphériques et autres;05;Médical;65;19
+Domicile étranger;198;198 Angine de poitrine et athérosclérose coronaire;05;Médical;29;< 5
+Domicile étranger;199;199 Hypertension;05;Médical;34;0
+Domicile étranger;200;200 Maladies cardiaques structurelles et valvulaires;05;Médical;18;< 5
+Domicile étranger;201;201 Arythmie cardiaque et troubles de la conduction;05;Médical;179;73
+Domicile étranger;203;203 Douleur thoracique;05;Médical;42;5
+Domicile étranger;204;204 Syncope et collapsus;05;Médical;78;5
+Domicile étranger;205;205 Cardiomyopathie;05;Médical;5;0
+Domicile étranger;206;206 Dysfonctionnement, réaction et complic. du matériel ou de la procédure cardiaque/vasculaire;05;Médical;21;15
+Domicile étranger;207;207 Autres diagnostics du système circulatoire;05;Médical;46;8
+Domicile étranger;220;220 Procédures majeures sur l'oesophage, l'estomac et le duodénum;06;Chirurgical;85;0
+Domicile étranger;222;222 Autres procédures sur l'oesophage, l'estomac et le duodénum;06;Chirurgical;46;26
+Domicile étranger;223;223 Autres procédures sur l'intestin grêle et le gros intestin;06;Chirurgical;25;13
+Domicile étranger;224;224 Adhésiolyse péritonéale;06;Chirurgical;36;< 5
+Domicile étranger;226;226 Procédures sur l'anus;06;Chirurgical;52;73
+Domicile étranger;227;227 Procédures pour hernie, excepté procédures pour hernie inguinale, fémorale et ombilicale;06;Chirurgical;102;36
+Domicile étranger;228;228 Procédures pour hernie inguinale, fémorale et ombilicale;06;Chirurgical;104;123
+Domicile étranger;229;229 Autres procédures sur le système digestif et l'abdomen;06;Chirurgical;62;34
+Domicile étranger;230;230 Procédures majeures sur l'intestin grêle;06;Chirurgical;131;< 5
+Domicile étranger;231;231 Procédures majeures sur le gros intestin;06;Chirurgical;138;5
+Domicile étranger;232;232 Fundoplicature de l'estomac;06;Chirurgical;15;0
+Domicile étranger;233;233 Appendicectomie avec diagnose principale complexe;06;Chirurgical;27;< 5
+Domicile étranger;234;234 Appendicectomie sans diagnose principale complexe;06;Chirurgical;126;5
+Domicile étranger;240;240 Affections malignes du système digestif;06;Médical;106;88
+Domicile étranger;241;241 Ulcère peptique et gastrite;06;Médical;75;113
+Domicile étranger;242;242 Troubles majeurs de l'oesophage;06;Médical;11;< 5
+Domicile étranger;243;243 Autres troubles de l'oesophage;06;Médical;82;143
+Domicile étranger;244;244 Diverticulite et diverticulose;06;Médical;66;130
+Domicile étranger;245;245 Maladie inflammatoire de l'intestin;06;Médical;48;148
+Domicile étranger;246;246 Insuffisance vasculaire gastro-intestinale;06;Médical;13;0
+Domicile étranger;247;247 Obstruction intestinale;06;Médical;64;< 5
+Domicile étranger;248;248 Infections gastro-intestinales et péritonéales majeures;06;Médical;51;< 5
+Domicile étranger;249;249 Autre gastro-entérite, nausée et vomissement;06;Médical;195;49
+Domicile étranger;251;251 Douleur abdominale;06;Médical;62;90
+Domicile étranger;252;252 Dysfonctionnement, réaction et complic, de dispositif ou de procédure gastro-intestinaux;06;Médical;78;17
+Domicile étranger;253;253 Hémorragie gastro-intestinale, autre et non specifiée;06;Médical;32;13
+Domicile étranger;254;254 Autres diagnostics du système digestif;06;Médical;238;842
+Domicile étranger;260;260 Procédures majeures sur pancréas, foie et shunt;07;Chirurgical;83;< 5
+Domicile étranger;261;261 Procédures majeures sur les voies biliaires;07;Chirurgical;6;0
+Domicile étranger;263;263 Cholécystectomie;07;Chirurgical;183;25
+Domicile étranger;264;264 Autres procédures abdominales, sur système hépatobiliaire et pancréas;07;Chirurgical;33;< 5
+Domicile étranger;279;279 Coma hépatique et autres troubles hépatiques majeurs aigus;07;Médical;47;< 5
+Domicile étranger;280;280 Maladie hépatique alcoolique;07;Médical;56;< 5
+Domicile étranger;281;281 Affection maligne du système hépatobiliaire et du pancréas;07;Médical;107;65
+Domicile étranger;282;282 Troubles du pancréas excepté affections malignes;07;Médical;129;26
+Domicile étranger;283;283 Autres troubles du foie;07;Médical;58;20
+Domicile étranger;284;284 Troubles de la vésicule biliaire et des voies biliaires;07;Médical;231;33
+Domicile étranger;301;301 Remplacement de l'articulation de la hanche;08;Chirurgical;606;0
+Domicile étranger;302;302 Remplacement de l'articulation du genou;08;Chirurgical;376;0
+Domicile étranger;303;303 Arthrodèse dorsale et lombaire pour déviation du dos;08;Chirurgical;13;0
+Domicile étranger;304;304 Arthrodèse dorso-lombaire excepté déviation du dos;08;Chirurgical;142;0
+Domicile étranger;305;305 Amputation du membre inférieur excepté les orteils;08;Chirurgical;15;0
+Domicile étranger;308;308 Réparation d'une fracture de la hanche et du fémur;08;Chirurgical;101;0
+Domicile étranger;309;309 Autre chirurgie significative de la hanche et du fémur;08;Chirurgical;40;24
+Domicile étranger;310;310 Excision et décompression du disque intervertébral;08;Chirurgical;280;< 5
+Domicile étranger;312;312 Greffe cutanée, excepté de la main, pour diagnostics musculo-squelettiques et du tissu conjonctif;08;Chirurgical;17;12
+Domicile étranger;313;313 Procédures sur le genou et la jambe, excepté le pied;08;Chirurgical;300;361
+Domicile étranger;314;314 Procédures sur le pied et les orteils;08;Chirurgical;121;80
+Domicile étranger;315;315 Procédures sur l'épaule, le bras et l'avant-bras excepté le remplacement de l'articulation;08;Chirurgical;427;137
+Domicile étranger;316;316 Procédures sur la main et le poignet;08;Chirurgical;91;270
+Domicile étranger;317;317 Procédures sur le tendon, le muscle et autres tissus mous;08;Chirurgical;96;99
+Domicile étranger;320;320 Autres procédures sur le système musculo-squelettique et le tissu conjonctif;08;Chirurgical;226;98
+Domicile étranger;321;321 Arthrodèse cervicale et autres procédures sur le cou/dos, excepté excis./décompres. de disque;08;Chirurgical;132;0
+Domicile étranger;322;322 Remplacement de l'articulation de l'épaule et du coude;08;Chirurgical;44;0
+Domicile étranger;340;340 Fracture du fémur;08;Médical;10;0
+Domicile étranger;341;341 Fracture du bassin ou luxation de la hanche;08;Médical;22;< 5
+Domicile étranger;342;342 Fracture ou luxation excepté du fémur, du bassin et du dos;08;Médical;88;67
+Domicile étranger;343;343 Affection maligne musc-squellet. et fracture pathol. dues à affection maligne musc-squellet.;08;Médical;43;15
+Domicile étranger;344;344 Ostéomyélite, arthrite septique et autres infections musculo-squelettiques;08;Médical;20;< 5
+Domicile étranger;346;346 Troubles du tissu conjonctif;08;Médical;35;40
+Domicile étranger;347;347 Autres troubles, fractures et traumatismes du dos et du cou;08;Médical;172;435
+Domicile étranger;349;349 Dysfonctionnement, réaction et complic. de matériel ou de procédure orthopédiques;08;Médical;21;7
+Domicile étranger;351;351 Autres diagnostics du système musculo-squelettique et du tissu conjonctif;08;Médical;112;60
+Domicile étranger;361;361 Greffe cutanée pour diagnotics de la peau et du tissu sous-cutane;09;Chirurgical;79;84
+Domicile étranger;362;362 Procédures de mastectomie;09;Chirurgical;43;7
+Domicile étranger;363;363 Procédures mammaires, excepté mastectomie;09;Chirurgical;177;69
+Domicile étranger;364;364 Autres procédures sur la peau, les tissus sous-cutanés et procédures associées;09;Chirurgical;159;89
+Domicile étranger;380;380 Ulcères cutanés;09;Médical;18;0
+Domicile étranger;381;381 Troubles majeurs de la peau;09;Médical;10;7
+Domicile étranger;382;382 Affections malignes du sein;09;Médical;6;31
+Domicile étranger;383;383 Cellulite et autres infections de la peau;09;Médical;96;45
+Domicile étranger;384;384 Contusion, plaie ouverte et autres traumatismes de la peau et du tissu sous-cutané;09;Médical;58;59
+Domicile étranger;385;385 Autres troubles de la peau, du tissu sous-cutané et du sein;09;Médical;70;132
+Domicile étranger;401;401 Procédures sur les surrénales et l'hypophyse;10;Chirurgical;< 5;0
+Domicile étranger;403;403 Procédures pour obésité;10;Chirurgical;1 086;30
+Domicile étranger;404;404 Procédures sur la thyroïde, les parathyroïdes ou le canal thyréoglosse;10;Chirurgical;60;< 5
+Domicile étranger;405;405 Autres procédures pour troubles endocriniens, nutritionnels et métaboliques;10;Chirurgical;< 5;< 5
+Domicile étranger;420;420 Diabète;10;Médical;111;< 5
+Domicile étranger;421;421 Malnutrition, retard staturo-pondéral et autres troubles nutritionnels;10;Médical;58;89
+Domicile étranger;422;422 Hypovolémie et troubles électrolytiques associés;10;Médical;33;0
+Domicile étranger;423;423 Anomalies congénitales du métabolisme;10;Médical;9;< 5
+Domicile étranger;424;424 Autres troubles endocriniens;10;Médical;14;< 5
+Domicile étranger;425;425 Autres troubles électrolytiques non hypovolémiques;10;Médical;24;< 5
+Domicile étranger;426;426 Troubles non hypovolémiques du bilan du sodium;10;Médical;17;0
+Domicile étranger;427;427 Troubles thyroïdiens;10;Médical;6;< 5
+Domicile étranger;440;440 Transplantation rénale;11;Chirurgical;18;0
+Domicile étranger;441;441 Procédures majeures sur la vessie;11;Chirurgical;39;0
+Domicile étranger;442;442 Procédures sur les reins et les voies urinaires pour affection maligne;11;Chirurgical;48;< 5
+Domicile étranger;443;443 Procédures sur les reins et les voies urinaires pour affection non maligne;11;Chirurgical;150;77
+Domicile étranger;444;444 Procédure pour installation du dispositif d'accès pour dialyse rénale et réparation de vaisseaux;11;Chirurgical;8;< 5
+Domicile étranger;445;445 Autres procédures sur la vessie;11;Chirurgical;36;7
+Domicile étranger;446;446 Procédures uréthrales et transuréthrales;11;Chirurgical;179;85
+Domicile étranger;447;447 Autres procédures sur les reins, les voies urinaires et procédures associées;11;Chirurgical;< 5;0
+Domicile étranger;461;461 Affection maligne des reins et voies urinaires;11;Médical;33;43
+Domicile étranger;462;462 Néphrite et néphrose;11;Médical;8;< 5
+Domicile étranger;463;463 Infections des reins et voies urinaires;11;Médical;223;10
+Domicile étranger;465;465 Lithiases urinaires et obstruction acquise du tractus urinaire supérieur;11;Médical;170;237
+Domicile étranger;466;466 Dysfonctionnement, réaction et complic. de matériel ou de procédure génito-urinaire;11;Médical;47;22
+Domicile étranger;468;468 Autres diagnostics, signes et symptômes du rein et des voies urinaires;11;Médical;131;343
+Domicile étranger;469;469 Traumatisme aigue du rein;11;Médical;21;< 5
+Domicile étranger;470;470 Maladie rénale chronique;11;Médical;35;5
+Domicile étranger;480;480 Procédures majeures sur le bassin masculin;12;Chirurgical;122;0
+Domicile étranger;482;482 Prostatectomie transurétrale;12;Chirurgical;117;< 5
+Domicile étranger;483;483 Procédures sur le pénis, les testicules et le scrotum;12;Chirurgical;49;70
+Domicile étranger;484;484 Autres procédures sur le système reproducteur masculin et procédures associées;12;Chirurgical;28;< 5
+Domicile étranger;500;500 Affection maligne du système reproducteur masculin;12;Médical;17;43
+Domicile étranger;501;501 Diagnostics du système reproducteur masculin excepté affections malignes;12;Médical;51;263
+Domicile étranger;510;510 Eviscération pelvienne, hystérectomie radicale et autres procédures gynécologiques radicales;13;Chirurgical;42;0
+Domicile étranger;511;511 Procédures sur utérus et annexes pour affection maligne des ovaires et ses annexes;13;Chirurgical;24;< 5
+Domicile étranger;512;512 Procédures sur utérus et annexes pour affections malignes excepté des ovaires et ses annexes;13;Chirurgical;22;< 5
+Domicile étranger;513;513 Procédures sur uterus/annexes pour affection non maligne excepté léiomyome;13;Chirurgical;172;129
+Domicile étranger;514;514 Procédures réconstructives du système reproducteur féminin;13;Chirurgical;42;0
+Domicile étranger;517;517 Dilatation et curetage pour des diagnostics non-obstétricaux;13;Chirurgical;< 5;52
+Domicile étranger;518;518 Autres procédures sur le système reproducteur féminin et procédures associées;13;Chirurgical;37;25
+Domicile étranger;519;519 Procédures sur utérus/annexes pour léiomyome;13;Chirurgical;69;15
+Domicile étranger;530;530 Affection maligne du système reproducteur féminin;13;Médical;31;20
+Domicile étranger;531;531 Infections du système reproducteur féminin;13;Médical;10;< 5
+Domicile étranger;532;532 Troubles menstruels et autres troubles du système reproducteur féminin;13;Médical;17;95
+Domicile étranger;540;540 Accouchement par césarienne;14;Chirurgical;231;0
+Domicile étranger;541;541 Accouchement par voie vaginale avec stérilisation et/ou dilatation et curetage;14;Chirurgical;25;0
+Domicile étranger;542;542 Accouchement par voie vaginale avec proc. compl., excepté stérilisat. ou dilat. et curet.;14;Chirurgical;9;0
+Domicile étranger;544;544 Dilatation et curetage, curetage par aspiration ou hystérotomie pour diagnostics obstétricaux;14;Chirurgical;24;81
+Domicile étranger;545;545 Procédure pour grossesse ectopique;14;Chirurgical;17;< 5
+Domicile étranger;546;546 Autres procédures en salle d'opération pour diagnostics obstétricaux excepté accouchement;14;Chirurgical;48;< 5
+Domicile étranger;560;560 Accouchement par voie vaginale;14;Médical;643;38
+Domicile étranger;561;561 Diagnostics du post-partum et post-avortement, sans procédure;14;Médical;20;< 5
+Domicile étranger;563;563 Travail prématuré;14;Médical;42;0
+Domicile étranger;564;564 Avortement, sans dilatation et curetage, curetage par aspiration ou hystérotomie;14;Médical;11;< 5
+Domicile étranger;565;565 Faux travail;14;Médical;7;0
+Domicile étranger;566;566 Autres diagnostics en antepartum;14;Médical;106;43
+Domicile étranger;580;580 Nouveau-né, transferé dans les 5 jours, né ailleurs;15;Médical;< 5;0
+Domicile étranger;581;581 Nouveau-né, transferé dans les 5 jours, né ici;15;Médical;< 5;0
+Domicile étranger;583;583 Nouveau-né, avec ECMO;15;Chirurgical;< 5;0
+Domicile étranger;588;588 Nouveau-né, poids de naissance < 1500g, avec procédure majeure;15;Chirurgical;< 5;0
+Domicile étranger;591;591 Nouveau-né, poids de naissance 500-749g sans procédure majeure;15;Médical;< 5;0
+Domicile étranger;593;593 Nouveau-né, poids de naissance 750-999g sans procédure majeure;15;Médical;< 5;0
+Domicile étranger;602;602 Nouveau-né, poids de nais. 1000-1249g avec syndrôme de détresse resp./autres anom. resp. maj. ou anom. maj.;15;Médical;< 5;0
+Domicile étranger;603;603 Nouveau-né, poids de naissance 1000-1249g avec ou sans autre affection significative;15;Médical;< 5;0
+Domicile étranger;607;607 Nouveau-né, poids de nais. 1250-1499g avec syndrôme de détresse resp./autres anom. respir. maj. ou anom. maj.;15;Médical;10;0
+Domicile étranger;609;609 Nouveau-né, poids de naissance 1500-2499g avec procédure majeure;15;Chirurgical;< 5;0
+Domicile étranger;611;611 Nouveau-né, poids de naissance 1500-1999g avec anomalie majeure;15;Médical;< 5;0
+Domicile étranger;612;612 Nouveau-né, poids de naissance 1500-1999g avec syndrôme de détresse resp./autre affec. resp. majeure;15;Médical;5;0
+Domicile étranger;614;614 Nouveau-né, poids de naissance 1500-1999g avec ou sans autre affection significative;15;Médical;< 5;0
+Domicile étranger;621;621 Nouveau-né, poids de naissance 2000-2499g avec anomalie majeure;15;Médical;< 5;0
+Domicile étranger;622;622 Nouveau-né, poids de naissance 2000-2499g avec syndrôme de détresse resp./autre affec. resp. majeure;15;Médical;< 5;0
+Domicile étranger;623;623 Nouveau-né, poids de naissance 2000-2499g avec infections congénitales ou périnatales;15;Médical;< 5;0
+Domicile étranger;626;626 Nouveau-né, poids de naissance 2000-2499g, nouveau-né normal ou nouveau-né avec autre problème;15;Médical;< 5;0
+Domicile étranger;630;630 Nouveau-né , poids de naissance > 2499g avec procédure cardiovasculaire majeure;15;Chirurgical;18;0
+Domicile étranger;631;631 Nouveau-né, poids de naissance > 2499g avec autre procédure majeure;15;Chirurgical;< 5;0
+Domicile étranger;633;633 Nouveau-né, poids de naissance > 2499g avec anomalie majeure;15;Médical;13;0
+Domicile étranger;634;634 Nouveau-né, poids de naissance > 2499g avec syndrôme de détresse resp./autre affec. resp. majeure;15;Médical;9;0
+Domicile étranger;636;636 Nouveau-né, poids de naissance > 2499g avec infection congénitale ou périnatale;15;Médical;< 5;0
+Domicile étranger;639;639 Nouveau-né, poids de naissance > 2499g avec autre affection significative;15;Médical;< 5;0
+Domicile étranger;640;640 Nouveau-né, poids de naissance > 2499g, nouveau-né normal ou nouveau-né avec autres problèmes;15;Médical;11;< 5
+Domicile étranger;650;650 Splénectomie;16;Chirurgical;6;0
+Domicile étranger;651;651 Autres procédures sur sang et organes hématopoïétiques;16;Chirurgical;15;13
+Domicile étranger;660;660 Diagnostics hématol./immunol. majeurs excepté crise drépanocytaire et crise de la coagulation;16;Médical;53;52
+Domicile étranger;661;661 Troubles de la coagulation et des plaquettes;16;Médical;24;12
+Domicile étranger;662;662 Crise d'anémie à cellules falciformes;16;Médical;8;0
+Domicile étranger;663;663 Autres anémies et troubles sanguins et troubles des organes hematopoïétiques;16;Médical;72;163
+Domicile étranger;680;680 Procédures majeures en salle d'opération pour néoplasie lymphatique/hématopoïétique/autre;17;Chirurgical;21;0
+Domicile étranger;681;681 Autres procédures en salle d'opération pour néoplasie lymphatique/hématopoïétique/autre;17;Chirurgical;59;26
+Domicile étranger;690;690 Leucémie aiguë;17;Médical;27;131
+Domicile étranger;691;691 Lymphome, myélome et leucémie non aiguë;17;Médical;33;64
+Domicile étranger;692;692 Radiothérapie;17;Médical;6;0
+Domicile étranger;694;694 Affections malignes, lymphatiques et autres, et néoplasmes de comportement incertain;17;Médical;34;57
+Domicile étranger;695;695 Chimiotherapie pour leucémie aiguë;17;Médical;68;224
+Domicile étranger;696;696 Autre chimiotherapie;17;Médical;358;5 725
+Domicile étranger;710;710 Infections et maladies parasitaires incluant le HIV avec procédure en salle d'opération;18;Chirurgical;24;< 5
+Domicile étranger;711;711 Infections d'un dispositif post-opératoires, post-traumatiques et autres avec procédure en salle d'opération;18;Chirurgical;58;7
+Domicile étranger;720;720 Septicémie et infections disséminées;18;Médical;114;< 5
+Domicile étranger;721;721 Infections d'un dispositif post-opératoires, post-traumatiques et autres;18;Médical;58;< 5
+Domicile étranger;722;722 Fièvre;18;Médical;30;0
+Domicile étranger;723;723 Maladie virale;18;Médical;60;< 5
+Domicile étranger;724;724 Autres maladies infectieuses et parasitaires;18;Médical;28;< 5
+Domicile étranger;740;740 Diagnostic de maladie mentale avec procédure en salle d'opération;19;Chirurgical;31;< 5
+Domicile étranger;750;750 Schizophrénie;19;Médical;8;0
+Domicile étranger;751;751 Troubles dépressifs majeurs et psychoses autres/non spécifiées;19;Médical;19;0
+Domicile étranger;752;752 Troubles de la personnalité et du contrôle des impulsions;19;Médical;< 5;< 5
+Domicile étranger;753;753 Troubles bipolaires;19;Médical;6;< 5
+Domicile étranger;754;754 Dépression, excepté trouble dépressif majeur;19;Médical;12;0
+Domicile étranger;755;755 Troubles de l'ajustement et névroses, excepté diagnostics dépressifs;19;Médical;9;0
+Domicile étranger;756;756 Etats d'anxiété et de délire aigus;19;Médical;38;0
+Domicile étranger;757;757 Troubles organiques de la santé mentale;19;Médical;< 5;< 5
+Domicile étranger;758;758 Troubles comportementaux;19;Médical;11;< 5
+Domicile étranger;759;759 Troubles de la nutrition;19;Médical;< 5;0
+Domicile étranger;760;760 Autres troubles de la santé mentale;19;Médical;40;11
+Domicile étranger;770;770 Abus ou dépendance à l'alcool et à la drogue, sortie contre l'avis medical;20;Médical;< 5;0
+Domicile étranger;772;772 Dépendance à l'alcool et à la drogue avec revalidation ou thérapie de revalidation/désintoxication;20;Médical;6;0
+Domicile étranger;773;773 Abus et dépendance aux opiacés;20;Médical;11;0
+Domicile étranger;775;775 Abus et dépendance a l'alcool;20;Médical;129;0
+Domicile étranger;776;776 Abus et dépendance à d'autres drogues;20;Médical;9;0
+Domicile étranger;792;792 Procédures extensives en salle d'opération pour d'autres complications du traitement;21;Chirurgical;33;< 5
+Domicile étranger;793;793 Procédures modérément extensives en salle d'opération pour d'autres complications du traitement;21;Chirurgical;46;22
+Domicile étranger;794;794 Procédures non extensives en salle d'opération pour autres complications du traitement;21;Chirurgical;18;12
+Domicile étranger;810;810 Hémorragie ou hématome dues à complication;21;Médical;20;< 5
+Domicile étranger;811;811 Réactions allergiques;21;Médical;12;0
+Domicile étranger;812;812 Empoisonnement par agents médicamenteux;21;Médical;40;< 5
+Domicile étranger;813;813 Autres complications de traitement;21;Médical;64;24
+Domicile étranger;815;815 Autres diagnostics de blessure, empoisonnement, effets toxiques;21;Médical;35;< 5
+Domicile étranger;816;816 Effets toxiques de substances non médicamenteuses;21;Médical;24;< 5
+Domicile étranger;817;817 Surdosage;21;Médical;32;0
+Domicile étranger;841;841 Brûlures extensives du troisième degré avec greffe de peau;22;Chirurgical;< 5;0
+Domicile étranger;842;842 Brûlures avec greffe de peau excepté les brûlures extensives du 3ème degré;22;Chirurgical;8;0
+Domicile étranger;844;844 Brûlures de l'epaisseur partielle sans greffe de peau;22;Médical;21;< 5
+Domicile étranger;850;850 Procédure avec diagn. de rééducation, soins de suite ou autre contact avec services de santé;23;Chirurgical;182;1 674
+Domicile étranger;860;860 Revalidation;23;Médical;35;0
+Domicile étranger;861;861 Signes, symptômes et autres facteurs influencant l'état de santé;23;Médical;276;2 332
+Domicile étranger;862;862 Autre soins de suite et convalescence;23;Médical;221;797
+Domicile étranger;863;863 Soins de suite néonataux;23;Médical;9;0
+Domicile étranger;890;890 HIV avec multiples affections majeures associées au HIV;24;Médical;< 5;0
+Domicile étranger;892;892 HIV avec affections majeures associées au HIV;24;Médical;8;0
+Domicile étranger;894;894 HIV avec une seule affection significative associée au HIV ou sans affections significatives associées;24;Médical;6;< 5
+Domicile étranger;910;910 Craniotomie pour polytraumatisme significatif;25;Chirurgical;7;0
+Domicile étranger;911;911 Procédures abdominales/thoraciques extensives pour polytraumatisme significatif;25;Chirurgical;7;0
+Domicile étranger;912;912 Procédures musculo-squelettiques et autres pour polytaumatisme significatif;25;Chirurgical;33;0
+Domicile étranger;930;930 Polytraumatisme significatif sans procédure en salle d'opération;25;Médical;35;0
+Domicile étranger;950;950 Procédure extensive sans rélation avec le diagnostic principal;00;Chirurgical;66;30
+Domicile étranger;951;951 Procédure modérément extensive sans rélation avec le diagnostic principal;00;Chirurgical;107;25
+Domicile étranger;952;952 Procédure non extensive sans rélation avec le diagnostic principal;00;Chirurgical;65;27
+Domicile étranger;956;956 Sejour non groupable;00;Autre;0;< 5
+Domicile étranger;MMM;MMM Hospitalisation de jour;SS;Autre;0;114
+Sans domicile fixe;001;001 Transplantation hépatique et/ou intestinale;PP;Chirurgical;< 5;0
+Sans domicile fixe;005;005 Trachéostomie avec ventilation mécanique de longue durée sans procédure extensive;PP;Chirurgical;< 5;0
+Sans domicile fixe;010;010 Traumatisme crânien avec coma profond;PP;Médical;< 5;0
+Sans domicile fixe;020;020 Craniotomie pour traumatisme;01;Chirurgical;< 5;0
+Sans domicile fixe;021;021 Craniotomie excepté pour traumatisme;01;Chirurgical;< 5;0
+Sans domicile fixe;024;024 Procédures vasculaires extracrâniennes;01;Chirurgical;< 5;0
+Sans domicile fixe;026;026 Autres procédures sur le système nerveux et procédures associées;01;Chirurgical;< 5;6
+Sans domicile fixe;042;042 Troubles dégenératifs du système nerveux excepté la sclérose en plaques;01;Médical;5;0
+Sans domicile fixe;044;044 Hémorragie intracrânienne;01;Médical;< 5;0
+Sans domicile fixe;048;048 Troubles des nerfs crâniens, périphériques et autonomes;01;Médical;< 5;< 5
+Sans domicile fixe;050;050 Infections non-bactériennes du système nerveux, excepté la méningite virale;01;Médical;< 5;0
+Sans domicile fixe;051;051 Méningite virale;01;Médical;< 5;0
+Sans domicile fixe;052;052 Altération de la conscience;01;Médical;< 5;0
+Sans domicile fixe;053;053 Crise épileptique;01;Médical;19;< 5
+Sans domicile fixe;054;054 Migraine et autres céphalées;01;Médical;0;< 5
+Sans domicile fixe;055;055 Traumatisme crânien avec coma > 1 heure ou avec hémorragie;01;Médical;< 5;0
+Sans domicile fixe;056;056 Contusion/lacération cérébrale et fracture du crâne compliquée, coma < 1heure ou sans coma;01;Médical;< 5;0
+Sans domicile fixe;057;057 Contusion, fract. du crâne fermée non spéc., traumatisme intracrân. non compl., coma < 1hr ou sans coma;01;Médical;5;< 5
+Sans domicile fixe;058;058 Autres troubles du système nerveux;01;Médical;< 5;< 5
+Sans domicile fixe;059;059 Lésions cérébrales graves, autres et anoxiques;01;Médical;< 5;0
+Sans domicile fixe;073;073 Procédures sur l'oeil et sur l'orbite;02;Chirurgical;6;< 5
+Sans domicile fixe;082;082 Infections oculaires et autres troubles oculaires;02;Médical;< 5;< 5
+Sans domicile fixe;089;089 Procédures majeures sur les os de la face et du crâne;03;Chirurgical;< 5;< 5
+Sans domicile fixe;092;092 Procédures sur les os de la face, excepté procédures majeures sur les os du crâne/de la face;03;Chirurgical;< 5;< 5
+Sans domicile fixe;097;097 Procédures sur les amygdales et les végétations;03;Chirurgical;0;< 5
+Sans domicile fixe;098;098 Autres procédures sur l'oreille, le nez, la bouche et la gorge;03;Chirurgical;< 5;< 5
+Sans domicile fixe;113;113 Infections des voies aériennes supérieures;03;Médical;5;0
+Sans domicile fixe;114;114 Maladies et troubles dentaires et buccales;03;Médical;< 5;< 5
+Sans domicile fixe;115;115 Autres diagnostics de l'oreille, le nez, la bouche, la gorge, le crâne/la face;03;Médical;11;15
+Sans domicile fixe;121;121  Autres procédures sur le système respiratoire et le thorax;04;Chirurgical;< 5;0
+Sans domicile fixe;130;130 Affection du système respiratoire avec assistance ventilatoire pendant + de 96 heures;04;Médical;< 5;0
+Sans domicile fixe;131;131 Mucoviscidose (cystic fibrosis) - maladie pulmonaire;04;Médical;< 5;0
+Sans domicile fixe;133;133 Insuffisance respiratoire;04;Médical;6;0
+Sans domicile fixe;134;134 Embolie pulmonaire;04;Médical;< 5;0
+Sans domicile fixe;135;135 Traumatisme majeur respiratoire et thoracique;04;Médical;< 5;< 5
+Sans domicile fixe;136;136 Affection maligne respiratoire;04;Médical;< 5;< 5
+Sans domicile fixe;137;137 Inflammations et infections majeures du système respiratoire;04;Médical;10;0
+Sans domicile fixe;139;139 Autre pneumonie;04;Médical;26;0
+Sans domicile fixe;140;140 Maladie pulmonaire obstructive chronique;04;Médical;19;0
+Sans domicile fixe;141;141 Asthme;04;Médical;< 5;0
+Sans domicile fixe;142;142 Maladies pulmonaires interstitielles et alvéolaires;04;Médical;< 5;0
+Sans domicile fixe;143;143 Autres diagnostics respiratoires, excepté les signes, symptômes et diagnostics mineurs;04;Médical;< 5;0
+Sans domicile fixe;144;144 Signes respiratoires, symptômes et diagnostics mineurs;04;Médical;5;0
+Sans domicile fixe;145;145 Bronchite aiguë et symptômes associés;04;Médical;< 5;0
+Sans domicile fixe;161;161 Implantation d'un défibrillateur cardiaque et d'un système d'assistance cardiaque;05;Chirurgical;< 5;0
+Sans domicile fixe;165;165 Pontage coronarien avec infarctus aigu du myocarde ou DP complexe;05;Chirurgical;< 5;0
+Sans domicile fixe;169;169 Procédures vasculaires abdominales majeures;05;Chirurgical;< 5;0
+Sans domicile fixe;171;171 Implantation du pacemaker permanent sans infarctus aigu du myocard., décomp. cardiaque ou choc;05;Chirurgical;< 5;0
+Sans domicile fixe;174;174 Procédures coronariennes percutanées avec infarctus aigu du myocarde;05;Chirurgical;8;0
+Sans domicile fixe;175;175 Procédures coronariennes percutanées sans infarctus aigu du myocarde;05;Chirurgical;7;0
+Sans domicile fixe;176;176 Remplacement du pacemaker et du défibrillateur cardiaque;05;Chirurgical;< 5;0
+Sans domicile fixe;180;180 Autres procédures sur le système circulatoire;05;Chirurgical;< 5;0
+Sans domicile fixe;181;181 Procédures sur les artères des membres inférieurs;05;Chirurgical;< 5;0
+Sans domicile fixe;182;182 Autres procédures sur les vaisseaux périphériques;05;Chirurgical;< 5;0
+Sans domicile fixe;190;190 Infarctus aigu du myocarde;05;Médical;< 5;0
+Sans domicile fixe;191;191 Cathétérisme cardiaque pour maladie coronarienne;05;Médical;< 5;< 5
+Sans domicile fixe;192;192 Cathétérisme cardiaque pour autres affections non coronariennes;05;Médical;< 5;0
+Sans domicile fixe;194;194 Insuffisance cardiaque;05;Médical;< 5;0
+Sans domicile fixe;196;196 Arrêt cardiaque et choc;05;Médical;< 5;0
+Sans domicile fixe;197;197 Troubles vasculaires, périphériques et autres;05;Médical;< 5;0
+Sans domicile fixe;198;198 Angine de poitrine et athérosclérose coronaire;05;Médical;< 5;0
+Sans domicile fixe;201;201 Arythmie cardiaque et troubles de la conduction;05;Médical;< 5;< 5
+Sans domicile fixe;203;203 Douleur thoracique;05;Médical;< 5;0
+Sans domicile fixe;204;204 Syncope et collapsus;05;Médical;< 5;0
+Sans domicile fixe;206;206 Dysfonctionnement, réaction et complic. du matériel ou de la procédure cardiaque/vasculaire;05;Médical;< 5;0
+Sans domicile fixe;207;207 Autres diagnostics du système circulatoire;05;Médical;< 5;< 5
+Sans domicile fixe;222;222 Autres procédures sur l'oesophage, l'estomac et le duodénum;06;Chirurgical;< 5;0
+Sans domicile fixe;223;223 Autres procédures sur l'intestin grêle et le gros intestin;06;Chirurgical;< 5;0
+Sans domicile fixe;224;224 Adhésiolyse péritonéale;06;Chirurgical;< 5;0
+Sans domicile fixe;226;226 Procédures sur l'anus;06;Chirurgical;< 5;< 5
+Sans domicile fixe;227;227 Procédures pour hernie, excepté procédures pour hernie inguinale, fémorale et ombilicale;06;Chirurgical;0;< 5
+Sans domicile fixe;228;228 Procédures pour hernie inguinale, fémorale et ombilicale;06;Chirurgical;< 5;< 5
+Sans domicile fixe;229;229 Autres procédures sur le système digestif et l'abdomen;06;Chirurgical;0;< 5
+Sans domicile fixe;230;230 Procédures majeures sur l'intestin grêle;06;Chirurgical;< 5;0
+Sans domicile fixe;231;231 Procédures majeures sur le gros intestin;06;Chirurgical;< 5;0
+Sans domicile fixe;233;233 Appendicectomie avec diagnose principale complexe;06;Chirurgical;< 5;0
+Sans domicile fixe;234;234 Appendicectomie sans diagnose principale complexe;06;Chirurgical;5;0
+Sans domicile fixe;240;240 Affections malignes du système digestif;06;Médical;< 5;0
+Sans domicile fixe;241;241 Ulcère peptique et gastrite;06;Médical;< 5;< 5
+Sans domicile fixe;242;242 Troubles majeurs de l'oesophage;06;Médical;< 5;0
+Sans domicile fixe;243;243 Autres troubles de l'oesophage;06;Médical;< 5;0
+Sans domicile fixe;244;244 Diverticulite et diverticulose;06;Médical;< 5;< 5
+Sans domicile fixe;245;245 Maladie inflammatoire de l'intestin;06;Médical;< 5;< 5
+Sans domicile fixe;247;247 Obstruction intestinale;06;Médical;< 5;< 5
+Sans domicile fixe;248;248 Infections gastro-intestinales et péritonéales majeures;06;Médical;< 5;0
+Sans domicile fixe;249;249 Autre gastro-entérite, nausée et vomissement;06;Médical;< 5;0
+Sans domicile fixe;251;251 Douleur abdominale;06;Médical;5;0
+Sans domicile fixe;253;253 Hémorragie gastro-intestinale, autre et non specifiée;06;Médical;< 5;0
+Sans domicile fixe;254;254 Autres diagnostics du système digestif;06;Médical;6;< 5
+Sans domicile fixe;263;263 Cholécystectomie;07;Chirurgical;< 5;0
+Sans domicile fixe;280;280 Maladie hépatique alcoolique;07;Médical;9;0
+Sans domicile fixe;282;282 Troubles du pancréas excepté affections malignes;07;Médical;14;< 5
+Sans domicile fixe;283;283 Autres troubles du foie;07;Médical;< 5;0
+Sans domicile fixe;284;284 Troubles de la vésicule biliaire et des voies biliaires;07;Médical;< 5;< 5
+Sans domicile fixe;301;301 Remplacement de l'articulation de la hanche;08;Chirurgical;5;0
+Sans domicile fixe;302;302 Remplacement de l'articulation du genou;08;Chirurgical;< 5;0
+Sans domicile fixe;305;305 Amputation du membre inférieur excepté les orteils;08;Chirurgical;< 5;0
+Sans domicile fixe;308;308 Réparation d'une fracture de la hanche et du fémur;08;Chirurgical;< 5;0
+Sans domicile fixe;309;309 Autre chirurgie significative de la hanche et du fémur;08;Chirurgical;< 5;0
+Sans domicile fixe;310;310 Excision et décompression du disque intervertébral;08;Chirurgical;< 5;0
+Sans domicile fixe;312;312 Greffe cutanée, excepté de la main, pour diagnostics musculo-squelettiques et du tissu conjonctif;08;Chirurgical;< 5;< 5
+Sans domicile fixe;313;313 Procédures sur le genou et la jambe, excepté le pied;08;Chirurgical;9;< 5
+Sans domicile fixe;315;315 Procédures sur l'épaule, le bras et l'avant-bras excepté le remplacement de l'articulation;08;Chirurgical;10;5
+Sans domicile fixe;316;316 Procédures sur la main et le poignet;08;Chirurgical;< 5;5
+Sans domicile fixe;317;317 Procédures sur le tendon, le muscle et autres tissus mous;08;Chirurgical;< 5;< 5
+Sans domicile fixe;320;320 Autres procédures sur le système musculo-squelettique et le tissu conjonctif;08;Chirurgical;< 5;< 5
+Sans domicile fixe;342;342 Fracture ou luxation excepté du fémur, du bassin et du dos;08;Médical;6;14
+Sans domicile fixe;343;343 Affection maligne musc-squellet. et fracture pathol. dues à affection maligne musc-squellet.;08;Médical;0;< 5
+Sans domicile fixe;344;344 Ostéomyélite, arthrite septique et autres infections musculo-squelettiques;08;Médical;< 5;0
+Sans domicile fixe;347;347 Autres troubles, fractures et traumatismes du dos et du cou;08;Médical;< 5;9
+Sans domicile fixe;351;351 Autres diagnostics du système musculo-squelettique et du tissu conjonctif;08;Médical;5;0
+Sans domicile fixe;361;361 Greffe cutanée pour diagnotics de la peau et du tissu sous-cutane;09;Chirurgical;< 5;< 5
+Sans domicile fixe;363;363 Procédures mammaires, excepté mastectomie;09;Chirurgical;0;< 5
+Sans domicile fixe;364;364 Autres procédures sur la peau, les tissus sous-cutanés et procédures associées;09;Chirurgical;9;6
+Sans domicile fixe;383;383 Cellulite et autres infections de la peau;09;Médical;14;< 5
+Sans domicile fixe;384;384 Contusion, plaie ouverte et autres traumatismes de la peau et du tissu sous-cutané;09;Médical;15;11
+Sans domicile fixe;385;385 Autres troubles de la peau, du tissu sous-cutané et du sein;09;Médical;< 5;< 5
+Sans domicile fixe;420;420 Diabète;10;Médical;13;0
+Sans domicile fixe;424;424 Autres troubles endocriniens;10;Médical;< 5;0
+Sans domicile fixe;425;425 Autres troubles électrolytiques non hypovolémiques;10;Médical;< 5;0
+Sans domicile fixe;427;427 Troubles thyroïdiens;10;Médical;< 5;0
+Sans domicile fixe;446;446 Procédures uréthrales et transuréthrales;11;Chirurgical;0;< 5
+Sans domicile fixe;461;461 Affection maligne des reins et voies urinaires;11;Médical;< 5;0
+Sans domicile fixe;463;463 Infections des reins et voies urinaires;11;Médical;5;0
+Sans domicile fixe;465;465 Lithiases urinaires et obstruction acquise du tractus urinaire supérieur;11;Médical;< 5;< 5
+Sans domicile fixe;466;466 Dysfonctionnement, réaction et complic. de matériel ou de procédure génito-urinaire;11;Médical;< 5;0
+Sans domicile fixe;468;468 Autres diagnostics, signes et symptômes du rein et des voies urinaires;11;Médical;< 5;0
+Sans domicile fixe;483;483 Procédures sur le pénis, les testicules et le scrotum;12;Chirurgical;< 5;0
+Sans domicile fixe;501;501 Diagnostics du système reproducteur masculin excepté affections malignes;12;Médical;< 5;< 5
+Sans domicile fixe;511;511 Procédures sur utérus et annexes pour affection maligne des ovaires et ses annexes;13;Chirurgical;< 5;0
+Sans domicile fixe;513;513 Procédures sur uterus/annexes pour affection non maligne excepté léiomyome;13;Chirurgical;< 5;0
+Sans domicile fixe;517;517 Dilatation et curetage pour des diagnostics non-obstétricaux;13;Chirurgical;0;5
+Sans domicile fixe;530;530 Affection maligne du système reproducteur féminin;13;Médical;< 5;0
+Sans domicile fixe;532;532 Troubles menstruels et autres troubles du système reproducteur féminin;13;Médical;< 5;< 5
+Sans domicile fixe;540;540 Accouchement par césarienne;14;Chirurgical;13;0
+Sans domicile fixe;541;541 Accouchement par voie vaginale avec stérilisation et/ou dilatation et curetage;14;Chirurgical;< 5;0
+Sans domicile fixe;544;544 Dilatation et curetage, curetage par aspiration ou hystérotomie pour diagnostics obstétricaux;14;Chirurgical;< 5;< 5
+Sans domicile fixe;560;560 Accouchement par voie vaginale;14;Médical;32;0
+Sans domicile fixe;561;561 Diagnostics du post-partum et post-avortement, sans procédure;14;Médical;< 5;0
+Sans domicile fixe;563;563 Travail prématuré;14;Médical;< 5;0
+Sans domicile fixe;565;565 Faux travail;14;Médical;< 5;0
+Sans domicile fixe;566;566 Autres diagnostics en antepartum;14;Médical;< 5;8
+Sans domicile fixe;588;588 Nouveau-né, poids de naissance < 1500g, avec procédure majeure;15;Chirurgical;< 5;0
+Sans domicile fixe;593;593 Nouveau-né, poids de naissance 750-999g sans procédure majeure;15;Médical;< 5;0
+Sans domicile fixe;626;626 Nouveau-né, poids de naissance 2000-2499g, nouveau-né normal ou nouveau-né avec autre problème;15;Médical;< 5;0
+Sans domicile fixe;630;630 Nouveau-né , poids de naissance > 2499g avec procédure cardiovasculaire majeure;15;Chirurgical;< 5;0
+Sans domicile fixe;639;639 Nouveau-né, poids de naissance > 2499g avec autre affection significative;15;Médical;< 5;0
+Sans domicile fixe;640;640 Nouveau-né, poids de naissance > 2499g, nouveau-né normal ou nouveau-né avec autres problèmes;15;Médical;< 5;0
+Sans domicile fixe;661;661 Troubles de la coagulation et des plaquettes;16;Médical;0;< 5
+Sans domicile fixe;662;662 Crise d'anémie à cellules falciformes;16;Médical;< 5;0
+Sans domicile fixe;663;663 Autres anémies et troubles sanguins et troubles des organes hematopoïétiques;16;Médical;< 5;< 5
+Sans domicile fixe;681;681 Autres procédures en salle d'opération pour néoplasie lymphatique/hématopoïétique/autre;17;Chirurgical;< 5;0
+Sans domicile fixe;690;690 Leucémie aiguë;17;Médical;< 5;0
+Sans domicile fixe;691;691 Lymphome, myélome et leucémie non aiguë;17;Médical;< 5;0
+Sans domicile fixe;694;694 Affections malignes, lymphatiques et autres, et néoplasmes de comportement incertain;17;Médical;< 5;0
+Sans domicile fixe;696;696 Autre chimiotherapie;17;Médical;< 5;37
+Sans domicile fixe;710;710 Infections et maladies parasitaires incluant le HIV avec procédure en salle d'opération;18;Chirurgical;< 5;< 5
+Sans domicile fixe;711;711 Infections d'un dispositif post-opératoires, post-traumatiques et autres avec procédure en salle d'opération;18;Chirurgical;< 5;0
+Sans domicile fixe;720;720 Septicémie et infections disséminées;18;Médical;< 5;0
+Sans domicile fixe;721;721 Infections d'un dispositif post-opératoires, post-traumatiques et autres;18;Médical;< 5;0
+Sans domicile fixe;723;723 Maladie virale;18;Médical;< 5;0
+Sans domicile fixe;724;724 Autres maladies infectieuses et parasitaires;18;Médical;< 5;0
+Sans domicile fixe;750;750 Schizophrénie;19;Médical;< 5;0
+Sans domicile fixe;751;751 Troubles dépressifs majeurs et psychoses autres/non spécifiées;19;Médical;12;0
+Sans domicile fixe;752;752 Troubles de la personnalité et du contrôle des impulsions;19;Médical;< 5;0
+Sans domicile fixe;755;755 Troubles de l'ajustement et névroses, excepté diagnostics dépressifs;19;Médical;< 5;0
+Sans domicile fixe;756;756 Etats d'anxiété et de délire aigus;19;Médical;17;0
+Sans domicile fixe;758;758 Troubles comportementaux;19;Médical;< 5;0
+Sans domicile fixe;760;760 Autres troubles de la santé mentale;19;Médical;< 5;0
+Sans domicile fixe;770;770 Abus ou dépendance à l'alcool et à la drogue, sortie contre l'avis medical;20;Médical;7;0
+Sans domicile fixe;772;772 Dépendance à l'alcool et à la drogue avec revalidation ou thérapie de revalidation/désintoxication;20;Médical;< 5;0
+Sans domicile fixe;773;773 Abus et dépendance aux opiacés;20;Médical;9;< 5
+Sans domicile fixe;774;774 Abus et dépendance à la cocaïne;20;Médical;5;0
+Sans domicile fixe;775;775 Abus et dépendance a l'alcool;20;Médical;59;< 5
+Sans domicile fixe;776;776 Abus et dépendance à d'autres drogues;20;Médical;< 5;0
+Sans domicile fixe;793;793 Procédures modérément extensives en salle d'opération pour d'autres complications du traitement;21;Chirurgical;0;< 5
+Sans domicile fixe;812;812 Empoisonnement par agents médicamenteux;21;Médical;< 5;0
+Sans domicile fixe;813;813 Autres complications de traitement;21;Médical;< 5;0
+Sans domicile fixe;815;815 Autres diagnostics de blessure, empoisonnement, effets toxiques;21;Médical;5;0
+Sans domicile fixe;816;816 Effets toxiques de substances non médicamenteuses;21;Médical;5;0
+Sans domicile fixe;817;817 Surdosage;21;Médical;8;0
+Sans domicile fixe;844;844 Brûlures de l'epaisseur partielle sans greffe de peau;22;Médical;< 5;0
+Sans domicile fixe;850;850 Procédure avec diagn. de rééducation, soins de suite ou autre contact avec services de santé;23;Chirurgical;< 5;8
+Sans domicile fixe;861;861 Signes, symptômes et autres facteurs influencant l'état de santé;23;Médical;19;21
+Sans domicile fixe;862;862 Autre soins de suite et convalescence;23;Médical;< 5;< 5
+Sans domicile fixe;890;890 HIV avec multiples affections majeures associées au HIV;24;Médical;< 5;0
+Sans domicile fixe;892;892 HIV avec affections majeures associées au HIV;24;Médical;< 5;0
+Sans domicile fixe;894;894 HIV avec une seule affection significative associée au HIV ou sans affections significatives associées;24;Médical;< 5;< 5
+Sans domicile fixe;911;911 Procédures abdominales/thoraciques extensives pour polytraumatisme significatif;25;Chirurgical;< 5;0
+Sans domicile fixe;912;912 Procédures musculo-squelettiques et autres pour polytaumatisme significatif;25;Chirurgical;< 5;0
+Sans domicile fixe;930;930 Polytraumatisme significatif sans procédure en salle d'opération;25;Médical;< 5;< 5
+Sans domicile fixe;950;950 Procédure extensive sans rélation avec le diagnostic principal;00;Chirurgical;< 5;0
+Sans domicile fixe;951;951 Procédure modérément extensive sans rélation avec le diagnostic principal;00;Chirurgical;< 5;< 5
+Sans domicile fixe;952;952 Procédure non extensive sans rélation avec le diagnostic principal;00;Chirurgical;< 5;< 5
+Sans domicile fixe;956;956 Sejour non groupable;00;Autre;< 5;0
+Total;;;;;1 521 150;1 845 872

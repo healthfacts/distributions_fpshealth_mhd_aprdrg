@@ -1,0 +1,591 @@
+﻿code;beschrijving;medisch_of_chirurgicsh;mdc;soort_hospitalisatie;aantal_verblijven
+001;Lever- en/of darmtransplantatie;Chirurgisch;PP;Klass. hosp;278
+002;Hart- en/of longtransplantatie;Chirurgisch;PP;Klass. hosp;169
+003;Beenmergtransplantatie;Chirurgisch;PP;Klass. hosp;910
+003;Beenmergtransplantatie;Chirurgisch;PP;Daghosp.;15
+004;ECMO of tracheostomie met langdurige mechanische ventilatie met extensieve procedure;Chirurgisch;PP;Klass. hosp;1186
+004;ECMO of tracheostomie met langdurige mechanische ventilatie met extensieve procedure;Chirurgisch;PP;Daghosp.;5
+005;Tracheostomie met langdurige mechanische ventilatie zonder extensieve procedure;Chirurgisch;PP;Klass. hosp;709
+006;Pancreastransplantatie;Chirurgisch;PP;Klass. hosp;9
+020;Craniotomie voor trauma;Chirurgisch;01;Klass. hosp;929
+020;Craniotomie voor trauma;Chirurgisch;01;Daghosp.;5
+021;Craniotomie behalve voor trauma;Chirurgisch;01;Klass. hosp;4175
+021;Craniotomie behalve voor trauma;Chirurgisch;01;Daghosp.;29
+022;Procedures op een ventriculaire shunt;Chirurgisch;01;Klass. hosp;989
+022;Procedures op een ventriculaire shunt;Chirurgisch;01;Daghosp.;13
+023;Spinale procedures;Chirurgisch;01;Klass. hosp;1852
+023;Spinale procedures;Chirurgisch;01;Daghosp.;117
+024;Extracraniale vasculaire procedures;Chirurgisch;01;Klass. hosp;4596
+024;Extracraniale vasculaire procedures;Chirurgisch;01;Daghosp.;30
+026;Andere procedures op het zenuwstelsel en gerelateerde procedures;Chirurgisch;01;Klass. hosp;3532
+026;Andere procedures op het zenuwstelsel en gerelateerde procedures;Chirurgisch;01;Daghosp.;35398
+040;Spinale stoornissen en letsels;Medisch;01;Klass. hosp;475
+040;Spinale stoornissen en letsels;Medisch;01;Daghosp.;60
+041;Maligniteit van het zenuwstelsel;Medisch;01;Klass. hosp;3077
+041;Maligniteit van het zenuwstelsel;Medisch;01;Daghosp.;335
+042;Degeneratieve stoornissen van het zenuwstelsel met uitzondering van multipele sclerose;Medisch;01;Klass. hosp;12870
+042;Degeneratieve stoornissen van het zenuwstelsel met uitzondering van multipele sclerose;Medisch;01;Daghosp.;166
+043;Multipele sclerose en andere demyeliniserende ziekten;Medisch;01;Klass. hosp;3385
+043;Multipele sclerose en andere demyeliniserende ziekten;Medisch;01;Daghosp.;598
+044;Intracraniële hemorragie;Medisch;01;Klass. hosp;3370
+044;Intracraniële hemorragie;Medisch;01;Daghosp.;51
+045;CVA en precerebrale occlusie met infarct;Medisch;01;Klass. hosp;15806
+045;CVA en precerebrale occlusie met infarct;Medisch;01;Daghosp.;17
+046;Niet specifieke CVA en precerebrale occlusie zonder infarct;Medisch;01;Klass. hosp;1104
+046;Niet specifieke CVA en precerebrale occlusie zonder infarct;Medisch;01;Daghosp.;82
+047;Transitoire (cerebrale) ischemie (TIA);Medisch;01;Klass. hosp;7410
+047;Transitoire (cerebrale) ischemie (TIA);Medisch;01;Daghosp.;18
+048;Stoornissen van de perifere, craniale en autonome zenuwen;Medisch;01;Klass. hosp;4174
+048;Stoornissen van de perifere, craniale en autonome zenuwen;Medisch;01;Daghosp.;6752
+049;Bacteriele en tuberculeuze infecties van het zenuwstelsel;Medisch;01;Klass. hosp;704
+049;Bacteriele en tuberculeuze infecties van het zenuwstelsel;Medisch;01;Daghosp.;11
+050;Niet bacteriele infecties van het zenuwstelsel behalve virale meningitis;Medisch;01;Klass. hosp;748
+050;Niet bacteriele infecties van het zenuwstelsel behalve virale meningitis;Medisch;01;Daghosp.;58
+051;Virale meningitis;Medisch;01;Klass. hosp;1464
+051;Virale meningitis;Medisch;01;Daghosp.;1
+052;Niet-traumatische stupor en coma;Medisch;01;Klass. hosp;2871
+052;Niet-traumatische stupor en coma;Medisch;01;Daghosp.;43
+053;Epileptisch insult;Medisch;01;Klass. hosp;15962
+053;Epileptisch insult;Medisch;01;Daghosp.;323
+054;Migraine en andere hoofdpijn;Medisch;01;Klass. hosp;6376
+054;Migraine en andere hoofdpijn;Medisch;01;Daghosp.;474
+055;Hoofdtrauma met coma > 1 uur of met hemorragie;Medisch;01;Klass. hosp;2959
+055;Hoofdtrauma met coma > 1 uur of met hemorragie;Medisch;01;Daghosp.;16
+056;Cerebrale contusie/laceratie en gecompliceerde schedelbreuk, met coma < 1 uur of zonder coma;Medisch;01;Klass. hosp;894
+056;Cerebrale contusie/laceratie en gecompliceerde schedelbreuk, met coma < 1 uur of zonder coma;Medisch;01;Daghosp.;5
+057;Hersenschudding, gesloten schedelbreuk niet anders gespecificeerd, niet gecompliceerd intracraniaal letsel, coma < 1 uur of geen coma;Medisch;01;Klass. hosp;9771
+057;Hersenschudding, gesloten schedelbreuk niet anders gespecificeerd, niet gecompliceerd intracraniaal letsel, coma < 1 uur of geen coma;Medisch;01;Daghosp.;42
+058;Andere stoornissen van het zenuwstelsel;Medisch;01;Klass. hosp;16654
+058;Andere stoornissen van het zenuwstelsel;Medisch;01;Daghosp.;1364
+070;Procedures op de orbita;Chirurgisch;02;Klass. hosp;579
+070;Procedures op de orbita;Chirurgisch;02;Daghosp.;150
+073;Procedures op het oog behalve op de orbita;Chirurgisch;02;Klass. hosp;11805
+073;Procedures op het oog behalve op de orbita;Chirurgisch;02;Daghosp.;135250
+080;Acute majeure ooginfecties;Medisch;02;Klass. hosp;707
+080;Acute majeure ooginfecties;Medisch;02;Daghosp.;7
+082;Oogstoornissen behalve majeure infecties;Medisch;02;Klass. hosp;2842
+082;Oogstoornissen behalve majeure infecties;Medisch;02;Daghosp.;1920
+089;Majeure procedures op aangezichts- en schedelbeenderen;Chirurgisch;03;Klass. hosp;1758
+089;Majeure procedures op aangezichts- en schedelbeenderen;Chirurgisch;03;Daghosp.;455
+090;Majeure procedures op larynx en trachea;Chirurgisch;03;Klass. hosp;270
+090;Majeure procedures op larynx en trachea;Chirurgisch;03;Daghosp.;8
+091;Andere majeure procedures op hoofd en hals;Chirurgisch;03;Klass. hosp;654
+091;Andere majeure procedures op hoofd en hals;Chirurgisch;03;Daghosp.;225
+092;Procedures op aangezichtsbeenderen, behalve majeure procedures op aangezichts- en schedelbeenderen;Chirurgisch;03;Klass. hosp;3527
+092;Procedures op aangezichtsbeenderen, behalve majeure procedures op aangezichts- en schedelbeenderen;Chirurgisch;03;Daghosp.;9653
+093;Procedures op sinussen en mastoïd;Chirurgisch;03;Klass. hosp;6595
+093;Procedures op sinussen en mastoïd;Chirurgisch;03;Daghosp.;4972
+095;Palatoplastie en herstel van hazelip;Chirurgisch;03;Klass. hosp;881
+095;Palatoplastie en herstel van hazelip;Chirurgisch;03;Daghosp.;350
+097;Procedures op tonsillen en adenoïden;Chirurgisch;03;Klass. hosp;7763
+097;Procedures op tonsillen en adenoïden;Chirurgisch;03;Daghosp.;34816
+098;Andere procedures op oren, neus, mond en keel;Chirurgisch;03;Klass. hosp;14729
+098;Andere procedures op oren, neus, mond en keel;Chirurgisch;03;Daghosp.;72481
+110;Maligne aandoeningen van oren, neus, mond, keel, schedel/aangezicht;Medisch;03;Klass. hosp;1967
+110;Maligne aandoeningen van oren, neus, mond, keel, schedel/aangezicht;Medisch;03;Daghosp.;1563
+111;Vertigo en andere labyrinthstoornissen;Medisch;03;Klass. hosp;5219
+111;Vertigo en andere labyrinthstoornissen;Medisch;03;Daghosp.;41
+113;Infecties bovenste luchtwegen;Medisch;03;Klass. hosp;17323
+113;Infecties bovenste luchtwegen;Medisch;03;Daghosp.;909
+114;Dentale en orale ziekten en letsels;Medisch;03;Klass. hosp;4207
+114;Dentale en orale ziekten en letsels;Medisch;03;Daghosp.;95265
+115;Andere diagnosen van oren, neus, mond, keel en schedel/aangezicht;Medisch;03;Klass. hosp;47137
+115;Andere diagnosen van oren, neus, mond, keel en schedel/aangezicht;Medisch;03;Daghosp.;6149
+120;Majeure thoracale en respiratoire procedures;Chirurgisch;04;Klass. hosp;2482
+120;Majeure thoracale en respiratoire procedures;Chirurgisch;04;Daghosp.;11
+121;Andere respiratoire en thoracale procedures;Chirurgisch;04;Klass. hosp;4413
+121;Andere respiratoire en thoracale procedures;Chirurgisch;04;Daghosp.;379
+130;Diagnose van het respiratoire stelsel met kunstmatige beademing 96+ uur;Medisch;04;Klass. hosp;1461
+131;Mucoviscidose (cystic fibrosis) - longziekte;Medisch;04;Klass. hosp;793
+131;Mucoviscidose (cystic fibrosis) - longziekte;Medisch;04;Daghosp.;18
+132;Bronchopulmonale dysplasie en andere chronische respiratoire ziekten ontstaan in de perinatale periode;Medisch;04;Klass. hosp;119
+133;Longoedeem en respiratoire insufficiëntie;Medisch;04;Klass. hosp;1226
+133;Longoedeem en respiratoire insufficiëntie;Medisch;04;Daghosp.;12
+134;Longembolie;Medisch;04;Klass. hosp;5325
+134;Longembolie;Medisch;04;Daghosp.;18
+135;Majeur thoracaal en respiratoir trauma;Medisch;04;Klass. hosp;3011
+135;Majeur thoracaal en respiratoir trauma;Medisch;04;Daghosp.;11
+136;Maligne respiratoire aandoening;Medisch;04;Klass. hosp;8789
+136;Maligne respiratoire aandoening;Medisch;04;Daghosp.;4740
+137;Majeure respiratoire infecties en inflammaties;Medisch;04;Klass. hosp;7461
+137;Majeure respiratoire infecties en inflammaties;Medisch;04;Daghosp.;150
+138;Bronchiolitis en RSV pneumonie;Medisch;04;Klass. hosp;10673
+138;Bronchiolitis en RSV pneumonie;Medisch;04;Daghosp.;25
+139;Andere pneumonie;Medisch;04;Klass. hosp;32901
+139;Andere pneumonie;Medisch;04;Daghosp.;233
+140;Chronische obstructieve longaandoeningen;Medisch;04;Klass. hosp;28964
+140;Chronische obstructieve longaandoeningen;Medisch;04;Daghosp.;919
+141;Astma;Medisch;04;Klass. hosp;5763
+141;Astma;Medisch;04;Daghosp.;137
+142;Interstitiële longziekte;Medisch;04;Klass. hosp;1840
+142;Interstitiële longziekte;Medisch;04;Daghosp.;429
+143;Andere respiratoire diagnosen behalve tekens, symptomen en mineure diagnosen;Medisch;04;Klass. hosp;5983
+143;Andere respiratoire diagnosen behalve tekens, symptomen en mineure diagnosen;Medisch;04;Daghosp.;1315
+144;Respiratoire tekens, symptomen en mineure diagnosen;Medisch;04;Klass. hosp;27366
+144;Respiratoire tekens, symptomen en mineure diagnosen;Medisch;04;Daghosp.;2685
+160;Majeur cardiothoracaal herstel van hartanomalie;Chirurgisch;05;Klass. hosp;203
+161;Inplantatie van hartdefibrillator en hartassistentiesyteem;Chirurgisch;05;Klass. hosp;1828
+161;Inplantatie van hartdefibrillator en hartassistentiesyteem;Chirurgisch;05;Daghosp.;68
+162;Procedures op hartkleppen met hartkatheterisatie;Chirurgisch;05;Klass. hosp;961
+162;Procedures op hartkleppen met hartkatheterisatie;Chirurgisch;05;Daghosp.;1
+163;Procedures op hartkleppen zonder hartkatheterisatie;Chirurgisch;05;Klass. hosp;3965
+165;Coronaire overbrugging met hartkatheterisatie of percutane hartprocedures;Chirurgisch;05;Klass. hosp;1940
+166;Coronaire overbrugging zonder hartkatheterisatie of percutane hartprocedures;Chirurgisch;05;Klass. hosp;3569
+167;Andere cardiothoracale procedures;Chirurgisch;05;Klass. hosp;831
+167;Andere cardiothoracale procedures;Chirurgisch;05;Daghosp.;1
+169;Majeure thoracale en abdominale vasculaire procedures;Chirurgisch;05;Klass. hosp;2553
+169;Majeure thoracale en abdominale vasculaire procedures;Chirurgisch;05;Daghosp.;11
+170;Implantatie van permanente pacemaker met AMI, hartdecompensatie of shock;Chirurgisch;05;Klass. hosp;432
+171;Implanteren van permanente pacemaker zonder AMI, hartdecompensatie of shock;Chirurgisch;05;Klass. hosp;7468
+171;Implanteren van permanente pacemaker zonder AMI, hartdecompensatie of shock;Chirurgisch;05;Daghosp.;35
+173;Andere vasculaire procedures;Chirurgisch;05;Klass. hosp;21709
+173;Andere vasculaire procedures;Chirurgisch;05;Daghosp.;4900
+174;Percutane cardiovasculaire procedures met acuut hartinfarct;Chirurgisch;05;Klass. hosp;7770
+174;Percutane cardiovasculaire procedures met acuut hartinfarct;Chirurgisch;05;Daghosp.;378
+175;Percutane cardiovasculaire procedures zonder acuut hartinfarct;Chirurgisch;05;Klass. hosp;23216
+175;Percutane cardiovasculaire procedures zonder acuut hartinfarct;Chirurgisch;05;Daghosp.;1830
+176;Vervangen van pacemaker of defibrillator;Chirurgisch;05;Klass. hosp;2874
+176;Vervangen van pacemaker of defibrillator;Chirurgisch;05;Daghosp.;401
+177;Revisie van pacemaker of defibrillator behalve toestel vervanging;Chirurgisch;05;Klass. hosp;934
+177;Revisie van pacemaker of defibrillator behalve toestel vervanging;Chirurgisch;05;Daghosp.;80
+180;Andere procedures op het circulatoire systeem;Chirurgisch;05;Klass. hosp;3791
+180;Andere procedures op het circulatoire systeem;Chirurgisch;05;Daghosp.;19156
+190;Acuut myocardinfarct;Medisch;05;Klass. hosp;8447
+190;Acuut myocardinfarct;Medisch;05;Daghosp.;484
+191;Hartkatheterisatie met circulatoire stoornissen behalve ischemische hartziekte;Medisch;05;Klass. hosp;12408
+191;Hartkatheterisatie met circulatoire stoornissen behalve ischemische hartziekte;Medisch;05;Daghosp.;2750
+192;Hartkatheterisatie voor ischemische hartziekte;Medisch;05;Klass. hosp;20623
+192;Hartkatheterisatie voor ischemische hartziekte;Medisch;05;Daghosp.;10129
+193;Acute en subacute endocarditis;Medisch;05;Klass. hosp;241
+193;Acute en subacute endocarditis;Medisch;05;Daghosp.;1
+194;Hartfalen;Medisch;05;Klass. hosp;22217
+194;Hartfalen;Medisch;05;Daghosp.;25
+196;Hartstilstand;Medisch;05;Klass. hosp;943
+196;Hartstilstand;Medisch;05;Daghosp.;115
+197;Perifere en andere vasculaire stoornissen;Medisch;05;Klass. hosp;6387
+197;Perifere en andere vasculaire stoornissen;Medisch;05;Daghosp.;2085
+198;Angina pectoris en coronaire atherosclerose;Medisch;05;Klass. hosp;5751
+198;Angina pectoris en coronaire atherosclerose;Medisch;05;Daghosp.;49
+199;Hypertensie;Medisch;05;Klass. hosp;2695
+199;Hypertensie;Medisch;05;Daghosp.;31
+200;Structurele hartaandoeningen en kleplijden;Medisch;05;Klass. hosp;1198
+200;Structurele hartaandoeningen en kleplijden;Medisch;05;Daghosp.;142
+201;Hartaritmie en geleidingsstoornissen;Medisch;05;Klass. hosp;20456
+201;Hartaritmie en geleidingsstoornissen;Medisch;05;Daghosp.;4711
+203;Thoracale pijn;Medisch;05;Klass. hosp;5701
+203;Thoracale pijn;Medisch;05;Daghosp.;156
+204;Syncope en collaps;Medisch;05;Klass. hosp;10190
+204;Syncope en collaps;Medisch;05;Daghosp.;33
+205;Cardiomyopathie;Medisch;05;Klass. hosp;282
+205;Cardiomyopathie;Medisch;05;Daghosp.;2
+206;Dysfunctie, reactie en complicatie op cardiaal of vasculair toestel of procedure;Medisch;05;Klass. hosp;999
+206;Dysfunctie, reactie en complicatie op cardiaal of vasculair toestel of procedure;Medisch;05;Daghosp.;295
+207;Andere diagnosen van het circulatoir stelsel;Medisch;05;Klass. hosp;5284
+207;Andere diagnosen van het circulatoir stelsel;Medisch;05;Daghosp.;261
+220;Majeure procedures op oesofagus, maag en duodenum;Chirurgisch;06;Klass. hosp;3394
+220;Majeure procedures op oesofagus, maag en duodenum;Chirurgisch;06;Daghosp.;144
+221;Majeure procedures op dunne en dikke darm;Chirurgisch;06;Klass. hosp;15871
+221;Majeure procedures op dunne en dikke darm;Chirurgisch;06;Daghosp.;72
+222;Andere procedures op oesofagus, maag, duodenum;Chirurgisch;06;Klass. hosp;2370
+222;Andere procedures op oesofagus, maag, duodenum;Chirurgisch;06;Daghosp.;222
+223;Andere procedures op dunne en dikke darm;Chirurgisch;06;Klass. hosp;3003
+223;Andere procedures op dunne en dikke darm;Chirurgisch;06;Daghosp.;231
+224;Peritoneale adhesiolyse;Chirurgisch;06;Klass. hosp;1673
+224;Peritoneale adhesiolyse;Chirurgisch;06;Daghosp.;88
+225;Appendectomie;Chirurgisch;06;Klass. hosp;13278
+225;Appendectomie;Chirurgisch;06;Daghosp.;108
+226;Anale procedures;Chirurgisch;06;Klass. hosp;8138
+226;Anale procedures;Chirurgisch;06;Daghosp.;8252
+227;Procedures voor hernia behalve voor hernia inguinalis, femoralis en umbilicalis;Chirurgisch;06;Klass. hosp;6762
+227;Procedures voor hernia behalve voor hernia inguinalis, femoralis en umbilicalis;Chirurgisch;06;Daghosp.;1178
+228;Procedures voor hernia inguinalis, femoralis en umbilicalis;Chirurgisch;06;Klass. hosp;18111
+228;Procedures voor hernia inguinalis, femoralis en umbilicalis;Chirurgisch;06;Daghosp.;11123
+229;Andere procedures op het spijsverteringsstelsel en abdomen;Chirurgisch;06;Klass. hosp;2414
+229;Andere procedures op het spijsverteringsstelsel en abdomen;Chirurgisch;06;Daghosp.;422
+240;Maligne aandoeningen van het spijsverteringsstelsel;Medisch;06;Klass. hosp;7062
+240;Maligne aandoeningen van het spijsverteringsstelsel;Medisch;06;Daghosp.;7942
+241;Peptisch ulcus en gastritis;Medisch;06;Klass. hosp;9153
+241;Peptisch ulcus en gastritis;Medisch;06;Daghosp.;11283
+242;Majeure slokdarmstoornissen;Medisch;06;Klass. hosp;896
+242;Majeure slokdarmstoornissen;Medisch;06;Daghosp.;385
+243;Andere slokdarmstoornissen;Medisch;06;Klass. hosp;8223
+243;Andere slokdarmstoornissen;Medisch;06;Daghosp.;17354
+244;Diverticulitis en diverticulosis;Medisch;06;Klass. hosp;9331
+244;Diverticulitis en diverticulosis;Medisch;06;Daghosp.;14077
+245;Inflammatoire darmziekte;Medisch;06;Klass. hosp;3132
+245;Inflammatoire darmziekte;Medisch;06;Daghosp.;6852
+246;Gastro-intestinale vasculaire insufficiëntie;Medisch;06;Klass. hosp;1642
+246;Gastro-intestinale vasculaire insufficiëntie;Medisch;06;Daghosp.;147
+247;Intestinale obstructie;Medisch;06;Klass. hosp;8797
+247;Intestinale obstructie;Medisch;06;Daghosp.;478
+248;Majeure gastro-intestinale en peritoneale infecties;Medisch;06;Klass. hosp;5048
+248;Majeure gastro-intestinale en peritoneale infecties;Medisch;06;Daghosp.;152
+249;Niet bacteriële gastro-enteritis, misselijkheid en braken;Medisch;06;Klass. hosp;29891
+249;Niet bacteriële gastro-enteritis, misselijkheid en braken;Medisch;06;Daghosp.;6377
+251;Abdominale pijn;Medisch;06;Klass. hosp;6807
+251;Abdominale pijn;Medisch;06;Daghosp.;7117
+252;Dysfunctie, reactie op en complicatie van gastro-intestinaal toestel of procedure;Medisch;06;Klass. hosp;1915
+252;Dysfunctie, reactie op en complicatie van gastro-intestinaal toestel of procedure;Medisch;06;Daghosp.;697
+253;Andere en niet gespecificeerde gastro-intestinale hemorragie;Medisch;06;Klass. hosp;2402
+253;Andere en niet gespecificeerde gastro-intestinale hemorragie;Medisch;06;Daghosp.;1864
+254;Andere diagnosen van spijsverteringsstelsel;Medisch;06;Klass. hosp;23213
+254;Andere diagnosen van spijsverteringsstelsel;Medisch;06;Daghosp.;69430
+260;Majeure pancreas-, lever- en shuntprocedures;Chirurgisch;07;Klass. hosp;2412
+260;Majeure pancreas-, lever- en shuntprocedures;Chirurgisch;07;Daghosp.;14
+261;Majeure procedures op de galwegen;Chirurgisch;07;Klass. hosp;566
+261;Majeure procedures op de galwegen;Chirurgisch;07;Daghosp.;37
+262;Cholecystectomie, behalve laparoscopisch;Chirurgisch;07;Klass. hosp;891
+262;Cholecystectomie, behalve laparoscopisch;Chirurgisch;07;Daghosp.;19
+263;Laparoscopische cholecystectomie;Chirurgisch;07;Klass. hosp;19353
+263;Laparoscopische cholecystectomie;Chirurgisch;07;Daghosp.;1043
+264;Andere procedures op hepatobiliair stelsel en pancreas, abdominaal;Chirurgisch;07;Klass. hosp;1030
+264;Andere procedures op hepatobiliair stelsel en pancreas, abdominaal;Chirurgisch;07;Daghosp.;264
+279;Hepatisch coma en andere majeure acute leverstoornissen;Medisch;07;Klass. hosp;1496
+279;Hepatisch coma en andere majeure acute leverstoornissen;Medisch;07;Daghosp.;55
+280;Alcoholische leverziekte;Medisch;07;Klass. hosp;3979
+280;Alcoholische leverziekte;Medisch;07;Daghosp.;373
+281;Maligne aandoeningen van het hepatobiliair stelsel en de pancreas;Medisch;07;Klass. hosp;5157
+281;Maligne aandoeningen van het hepatobiliair stelsel en de pancreas;Medisch;07;Daghosp.;1923
+282;Stoornissen van de pancreas behalve maligne aandoeningen;Medisch;07;Klass. hosp;6841
+282;Stoornissen van de pancreas behalve maligne aandoeningen;Medisch;07;Daghosp.;833
+283;Andere leverstoornissen;Medisch;07;Klass. hosp;3466
+283;Andere leverstoornissen;Medisch;07;Daghosp.;1401
+284;Stoornissen van de galblaas en de galwegen;Medisch;07;Klass. hosp;11229
+284;Stoornissen van de galblaas en de galwegen;Medisch;07;Daghosp.;1020
+301;Vervanging van heupgewricht;Chirurgisch;08;Klass. hosp;27562
+301;Vervanging van heupgewricht;Chirurgisch;08;Daghosp.;9
+302;Kniegewricht vervanging;Chirurgisch;08;Klass. hosp;22843
+302;Kniegewricht vervanging;Chirurgisch;08;Daghosp.;14
+303;Dorsolumbale arthrodese bij wervelkolomafwijkingen;Chirurgisch;08;Klass. hosp;311
+304;Dorsolumbale arthrodese behalve bij wervelkolomafwijkingen;Chirurgisch;08;Klass. hosp;10063
+304;Dorsolumbale arthrodese behalve bij wervelkolomafwijkingen;Chirurgisch;08;Daghosp.;2
+305;Amputatie van onderste lidmaat behalve tenen;Chirurgisch;08;Klass. hosp;1047
+305;Amputatie van onderste lidmaat behalve tenen;Chirurgisch;08;Daghosp.;2
+308;Procedures op heup en femur voor trauma behalve gewrichtsvervanging;Chirurgisch;08;Klass. hosp;10785
+308;Procedures op heup en femur voor trauma behalve gewrichtsvervanging;Chirurgisch;08;Daghosp.;8
+309;Procedures op heup en femur zonder trauma behalve gewrichtsvervanging;Chirurgisch;08;Klass. hosp;2662
+309;Procedures op heup en femur zonder trauma behalve gewrichtsvervanging;Chirurgisch;08;Daghosp.;771
+310;Excisie en decompressie van discus intervertebralis;Chirurgisch;08;Klass. hosp;19212
+310;Excisie en decompressie van discus intervertebralis;Chirurgisch;08;Daghosp.;204
+312;Huidgreffe behalve op de hand, voor musculo-skeletaal en bindweefsel diagnosen;Chirurgisch;08;Klass. hosp;345
+312;Huidgreffe behalve op de hand, voor musculo-skeletaal en bindweefsel diagnosen;Chirurgisch;08;Daghosp.;287
+313;Procedures op de knie en het onderbeen, behalve op de voet;Chirurgisch;08;Klass. hosp;24216
+313;Procedures op de knie en het onderbeen, behalve op de voet;Chirurgisch;08;Daghosp.;46167
+314;Procedures op voet en tenen;Chirurgisch;08;Klass. hosp;16569
+314;Procedures op voet en tenen;Chirurgisch;08;Daghosp.;6805
+315;Procedures op schouder, arm en voorarm;Chirurgisch;08;Klass. hosp;38616
+315;Procedures op schouder, arm en voorarm;Chirurgisch;08;Daghosp.;11963
+316;Procedures op hand en pols;Chirurgisch;08;Klass. hosp;6335
+316;Procedures op hand en pols;Chirurgisch;08;Daghosp.;32133
+317;Procedures op pees, spier en andere weke weefsels;Chirurgisch;08;Klass. hosp;7362
+317;Procedures op pees, spier en andere weke weefsels;Chirurgisch;08;Daghosp.;8827
+320;Andere procedures op musculo-skeletaalstelsel en bindweefsel;Chirurgisch;08;Klass. hosp;8798
+320;Andere procedures op musculo-skeletaalstelsel en bindweefsel;Chirurgisch;08;Daghosp.;23635
+321;Cervicale artrodese en andere procedures op nek/rug, behalve excisie/decompressie discus intervertebralis;Chirurgisch;08;Klass. hosp;7512
+321;Cervicale artrodese en andere procedures op nek/rug, behalve excisie/decompressie discus intervertebralis;Chirurgisch;08;Daghosp.;477
+340;Femurfracturen;Medisch;08;Klass. hosp;1465
+340;Femurfracturen;Medisch;08;Daghosp.;20
+341;Fracturen van het bekken of luxatie van de heup;Medisch;08;Klass. hosp;3889
+341;Fracturen van het bekken of luxatie van de heup;Medisch;08;Daghosp.;32
+342;Fracturen of luxatie, behalve femur, heup en bekken;Medisch;08;Klass. hosp;8834
+342;Fracturen of luxatie, behalve femur, heup en bekken;Medisch;08;Daghosp.;4049
+343;Maligne aandoeningen van het musculoskeletaal stelsel en pathologische fracturen hierdoor.;Medisch;08;Klass. hosp;2308
+343;Maligne aandoeningen van het musculoskeletaal stelsel en pathologische fracturen hierdoor.;Medisch;08;Daghosp.;948
+344;Osteomyelitis, septische arthritis en andere musculo-skeletale infecties;Medisch;08;Klass. hosp;1340
+344;Osteomyelitis, septische arthritis en andere musculo-skeletale infecties;Medisch;08;Daghosp.;47
+346;Stoornissen van het bindweefsel;Medisch;08;Klass. hosp;3606
+346;Stoornissen van het bindweefsel;Medisch;08;Daghosp.;1952
+347;Andere stoornissen, breuken en letsels van de rug en van de nek;Medisch;08;Klass. hosp;21587
+347;Andere stoornissen, breuken en letsels van de rug en van de nek;Medisch;08;Daghosp.;112195
+349;Dysfunctie, bijwerking en complicaties van orthopedisch toestel of procedure;Medisch;08;Klass. hosp;2248
+349;Dysfunctie, bijwerking en complicaties van orthopedisch toestel of procedure;Medisch;08;Daghosp.;338
+351;Andere diagnosen van het musculo-skeletaal stelsel en bindweefsel;Medisch;08;Klass. hosp;12852
+351;Andere diagnosen van het musculo-skeletaal stelsel en bindweefsel;Medisch;08;Daghosp.;8101
+361;Huidgreffe voor huid en subcutaan weefsel diagnosen;Chirurgisch;09;Klass. hosp;3413
+361;Huidgreffe voor huid en subcutaan weefsel diagnosen;Chirurgisch;09;Daghosp.;5062
+362;Mastectomie procedures;Chirurgisch;09;Klass. hosp;6299
+362;Mastectomie procedures;Chirurgisch;09;Daghosp.;262
+363;Procedures op de borst, behalve mastectomie;Chirurgisch;09;Klass. hosp;14821
+363;Procedures op de borst, behalve mastectomie;Chirurgisch;09;Daghosp.;5854
+364;Andere procedures op huid, subcutaan weefsel en gerelateerde procedures;Chirurgisch;09;Klass. hosp;10067
+364;Andere procedures op huid, subcutaan weefsel en gerelateerde procedures;Chirurgisch;09;Daghosp.;8698
+380;Huidulcera;Medisch;09;Klass. hosp;2363
+380;Huidulcera;Medisch;09;Daghosp.;132
+381;Majeure aandoeningen van de huid;Medisch;09;Klass. hosp;1357
+381;Majeure aandoeningen van de huid;Medisch;09;Daghosp.;418
+382;Maligne aandoeningen van de mamma;Medisch;09;Klass. hosp;1372
+382;Maligne aandoeningen van de mamma;Medisch;09;Daghosp.;3737
+383;Cellulitis en andere bacteriële huidinfecties;Medisch;09;Klass. hosp;11274
+383;Cellulitis en andere bacteriële huidinfecties;Medisch;09;Daghosp.;1739
+384;Contusie, open wonde en andere trauma van de huid en van het subcutaan weefsel;Medisch;09;Klass. hosp;8794
+384;Contusie, open wonde en andere trauma van de huid en van het subcutaan weefsel;Medisch;09;Daghosp.;5464
+385;Andere aandoeningen van de huid, het subcutaan weefsel en de mamma;Medisch;09;Klass. hosp;4816
+385;Andere aandoeningen van de huid, het subcutaan weefsel en de mamma;Medisch;09;Daghosp.;18932
+401;Procedures op bijnieren en hypofyse;Chirurgisch;10;Klass. hosp;606
+401;Procedures op bijnieren en hypofyse;Chirurgisch;10;Daghosp.;2
+403;Procedures voor obesitas;Chirurgisch;10;Klass. hosp;12946
+403;Procedures voor obesitas;Chirurgisch;10;Daghosp.;68
+404;Procedures op schildklier, bijschildklieren en ductus thyreoglossus;Chirurgisch;10;Klass. hosp;7082
+404;Procedures op schildklier, bijschildklieren en ductus thyreoglossus;Chirurgisch;10;Daghosp.;92
+405;Andere procedures bij endocriene, nutritionele en metabole stoornissen;Chirurgisch;10;Klass. hosp;645
+405;Andere procedures bij endocriene, nutritionele en metabole stoornissen;Chirurgisch;10;Daghosp.;162
+420;Diabetes;Medisch;10;Klass. hosp;11802
+420;Diabetes;Medisch;10;Daghosp.;45
+421;Malnutritie, “failure to thrive” en andere nutritionele stoornissen;Medisch;10;Klass. hosp;5797
+421;Malnutritie, “failure to thrive” en andere nutritionele stoornissen;Medisch;10;Daghosp.;1783
+422;Hypovolemie en gerelateerde electrolytenstoornissen;Medisch;10;Klass. hosp;4689
+422;Hypovolemie en gerelateerde electrolytenstoornissen;Medisch;10;Daghosp.;8
+423;Congenitale afwijkingen van het metabolisme;Medisch;10;Klass. hosp;530
+423;Congenitale afwijkingen van het metabolisme;Medisch;10;Daghosp.;308
+424;Andere endocriene stoornissen;Medisch;10;Klass. hosp;3271
+424;Andere endocriene stoornissen;Medisch;10;Daghosp.;204
+425;Andere elektrolytenstoornissen behalve in verband met hypovolemie;Medisch;10;Klass. hosp;4916
+425;Andere elektrolytenstoornissen behalve in verband met hypovolemie;Medisch;10;Daghosp.;19
+440;Niertransplantatie;Chirurgisch;11;Klass. hosp;470
+441;Majeure procedures op de blaas;Chirurgisch;11;Klass. hosp;1106
+441;Majeure procedures op de blaas;Chirurgisch;11;Daghosp.;10
+442;Procedures op nier en urinewegen voor maligne aandoening;Chirurgisch;11;Klass. hosp;1951
+442;Procedures op nier en urinewegen voor maligne aandoening;Chirurgisch;11;Daghosp.;8
+443;Procedures op nier en urinewegen voor niet maligne aandoening;Chirurgisch;11;Klass. hosp;2973
+443;Procedures op nier en urinewegen voor niet maligne aandoening;Chirurgisch;11;Daghosp.;228
+444;Procedure enkel voor het aanleggen van een dialyse toegangsweg toestel;Chirurgisch;11;Klass. hosp;1850
+444;Procedure enkel voor het aanleggen van een dialyse toegangsweg toestel;Chirurgisch;11;Daghosp.;497
+445;Andere procedures op de blaas;Chirurgisch;11;Klass. hosp;1841
+445;Andere procedures op de blaas;Chirurgisch;11;Daghosp.;439
+446;Transurethrale en urethrale procedures;Chirurgisch;11;Klass. hosp;17414
+446;Transurethrale en urethrale procedures;Chirurgisch;11;Daghosp.;5373
+447;Andere procedures op nieren, urinewegen en gerelateerde procedures;Chirurgisch;11;Klass. hosp;1306
+447;Andere procedures op nieren, urinewegen en gerelateerde procedures;Chirurgisch;11;Daghosp.;323
+460;Nierinsufficiëntie;Medisch;11;Klass. hosp;4776
+460;Nierinsufficiëntie;Medisch;11;Daghosp.;201
+461;Maligne aandoening van de nier en urinewegen;Medisch;11;Klass. hosp;1496
+461;Maligne aandoening van de nier en urinewegen;Medisch;11;Daghosp.;2154
+462;Nefritis en nefrose;Medisch;11;Klass. hosp;893
+462;Nefritis en nefrose;Medisch;11;Daghosp.;127
+463;Infecties van de nier en de urinewegen;Medisch;11;Klass. hosp;19399
+463;Infecties van de nier en de urinewegen;Medisch;11;Daghosp.;840
+465;Urinaire stenen en verworven bovenste urinewegobstructie;Medisch;11;Klass. hosp;12084
+465;Urinaire stenen en verworven bovenste urinewegobstructie;Medisch;11;Daghosp.;13264
+466;Dysfunctie, reactie op en complicatie van genito-urinair toestel of procedure;Medisch;11;Klass. hosp;2908
+466;Dysfunctie, reactie op en complicatie van genito-urinair toestel of procedure;Medisch;11;Daghosp.;764
+468;Andere nier en urinewegen diagnosen, tekens en symptomen;Medisch;11;Klass. hosp;11337
+468;Andere nier en urinewegen diagnosen, tekens en symptomen;Medisch;11;Daghosp.;18193
+480;Majeure procedures in het kleine bekken bij de man;Chirurgisch;12;Klass. hosp;4007
+480;Majeure procedures in het kleine bekken bij de man;Chirurgisch;12;Daghosp.;21
+481;Procedures op de penis;Chirurgisch;12;Klass. hosp;1367
+481;Procedures op de penis;Chirurgisch;12;Daghosp.;1983
+482;Transurethrale prostatectomie;Chirurgisch;12;Klass. hosp;8103
+482;Transurethrale prostatectomie;Chirurgisch;12;Daghosp.;32
+483;Procedures op de testes en het scrotum;Chirurgisch;12;Klass. hosp;2782
+483;Procedures op de testes en het scrotum;Chirurgisch;12;Daghosp.;5829
+484;Andere procedures op het mannelijk voortplantingsstelsel en gerelateerde procedures;Chirurgisch;12;Klass. hosp;1509
+484;Andere procedures op het mannelijk voortplantingsstelsel en gerelateerde procedures;Chirurgisch;12;Daghosp.;22841
+500;Maligne aandoening van het mannelijk voortplantingsstelsel;Medisch;12;Klass. hosp;1038
+500;Maligne aandoening van het mannelijk voortplantingsstelsel;Medisch;12;Daghosp.;1756
+501;Diagnosen van het mannelijk voortplantingsstelsel behalve maligne aandoeningen;Medisch;12;Klass. hosp;4289
+501;Diagnosen van het mannelijk voortplantingsstelsel behalve maligne aandoeningen;Medisch;12;Daghosp.;15581
+510;Evisceratie van het kleine bekken, radicale hysterectomie en andere radicale gynaecologische procedures;Chirurgisch;13;Klass. hosp;1935
+510;Evisceratie van het kleine bekken, radicale hysterectomie en andere radicale gynaecologische procedures;Chirurgisch;13;Daghosp.;8
+511;Procedures op uterus/adnexen voor maligne aandoening van ovaria en adnexen;Chirurgisch;13;Klass. hosp;462
+511;Procedures op uterus/adnexen voor maligne aandoening van ovaria en adnexen;Chirurgisch;13;Daghosp.;19
+512;Procedures op uterus/adnexen voor maligne aandoening behalve ovaria en adnexen;Chirurgisch;13;Klass. hosp;794
+512;Procedures op uterus/adnexen voor maligne aandoening behalve ovaria en adnexen;Chirurgisch;13;Daghosp.;87
+513;Procedures op uterus/adnexen voor niet-maligne aandoening behalve leiomyoma;Chirurgisch;13;Klass. hosp;14917
+513;Procedures op uterus/adnexen voor niet-maligne aandoening behalve leiomyoma;Chirurgisch;13;Daghosp.;9649
+514;Reconstructieve procedures op het vrouwelijke voortplantingsstelsel;Chirurgisch;13;Klass. hosp;7901
+514;Reconstructieve procedures op het vrouwelijke voortplantingsstelsel;Chirurgisch;13;Daghosp.;1173
+517;Dilatatie en curettage voor niet-verloskundige diagnosen;Chirurgisch;13;Klass. hosp;674
+517;Dilatatie en curettage voor niet-verloskundige diagnosen;Chirurgisch;13;Daghosp.;7012
+518;Andere procedures op het vrouwelijke voortplantingsstelsel en gerelateerde procedures;Chirurgisch;13;Klass. hosp;2832
+518;Andere procedures op het vrouwelijke voortplantingsstelsel en gerelateerde procedures;Chirurgisch;13;Daghosp.;6581
+519;Procedures op uterus/adnexen voor leiomyoma;Chirurgisch;13;Klass. hosp;5074
+519;Procedures op uterus/adnexen voor leiomyoma;Chirurgisch;13;Daghosp.;1188
+530;Maligne aandoening van het vrouwelijke voortplantingsstelsel;Medisch;13;Klass. hosp;1238
+530;Maligne aandoening van het vrouwelijke voortplantingsstelsel;Medisch;13;Daghosp.;921
+531;Infecties van het vrouwelijke voortplantingsstelsel;Medisch;13;Klass. hosp;1131
+531;Infecties van het vrouwelijke voortplantingsstelsel;Medisch;13;Daghosp.;643
+532;Menstruatiestoornissen en andere stoornissen van het vrouwelijke voortplantingsstelsel;Medisch;13;Klass. hosp;2408
+532;Menstruatiestoornissen en andere stoornissen van het vrouwelijke voortplantingsstelsel;Medisch;13;Daghosp.;9674
+540;Bevalling met sectio caesarea;Chirurgisch;14;Klass. hosp;25830
+540;Bevalling met sectio caesarea;Chirurgisch;14;Daghosp.;51
+541;Vaginale bevalling met sterilisatie en/of dilatatie en curettage;Chirurgisch;14;Klass. hosp;370
+541;Vaginale bevalling met sterilisatie en/of dilatatie en curettage;Chirurgisch;14;Daghosp.;19
+542;Vaginale bevalling met gecompliceerde procedures behalve sterilisatie en/of dilatatie en curettage;Chirurgisch;14;Klass. hosp;293
+542;Vaginale bevalling met gecompliceerde procedures behalve sterilisatie en/of dilatatie en curettage;Chirurgisch;14;Daghosp.;4
+544;Dilatatie en curettage, aspiratie curettage of hysterotomie voor verloskundige diagnosen;Chirurgisch;14;Klass. hosp;2161
+544;Dilatatie en curettage, aspiratie curettage of hysterotomie voor verloskundige diagnosen;Chirurgisch;14;Daghosp.;11625
+545;Procedure voor ectopische zwangerschap;Chirurgisch;14;Klass. hosp;1401
+545;Procedure voor ectopische zwangerschap;Chirurgisch;14;Daghosp.;127
+546;Andere O.R. procedures voor verloskundige diagnosen behalve bevalling;Chirurgisch;14;Klass. hosp;608
+546;Andere O.R. procedures voor verloskundige diagnosen behalve bevalling;Chirurgisch;14;Daghosp.;356
+560;Vaginale bevalling;Medisch;14;Klass. hosp;96421
+560;Vaginale bevalling;Medisch;14;Daghosp.;568
+561;Diagnosen in het postpartum en post abortus, zonder ingrepen;Medisch;14;Klass. hosp;1798
+561;Diagnosen in het postpartum en post abortus, zonder ingrepen;Medisch;14;Daghosp.;195
+563;Dreigende abortus;Medisch;14;Klass. hosp;6188
+563;Dreigende abortus;Medisch;14;Daghosp.;18
+564;Abortus, zonder dilatatie en curettage, aspiratie curettage of hysterotomie;Medisch;14;Klass. hosp;1211
+564;Abortus, zonder dilatatie en curettage, aspiratie curettage of hysterotomie;Medisch;14;Daghosp.;431
+565;Valse arbeid;Medisch;14;Klass. hosp;861
+565;Valse arbeid;Medisch;14;Daghosp.;11
+566;Andere diagnosen in het antepartum;Medisch;14;Klass. hosp;12374
+566;Andere diagnosen in het antepartum;Medisch;14;Daghosp.;4921
+580;Pasgeborene, getransfereerd binnen 5 dagen, elders geboren;Medisch;15;Klass. hosp;204
+581;Pasgeborene, getransfereerd binnen 5 dagen, hier geboren;Medisch;15;Klass. hosp;34
+581;Pasgeborene, getransfereerd binnen 5 dagen, hier geboren;Medisch;15;Daghosp.;5
+583;Pasgeborene, met ECMO;Chirurgisch;15;Klass. hosp;14
+588;Pasgeborene, geboortegewicht < 1 500 g met majeure procedure;Chirurgisch;15;Klass. hosp;83
+589;Pasgeborene, geboortegewicht < 500 g of zwangerschapsduur < 24 weken;Medisch;15;Klass. hosp;23
+591;Pasgeborene, geboortegewicht 500–749 g zonder majeure procedure;Medisch;15;Klass. hosp;103
+593;Pasgeborene, geboortegewicht 750–999 g zonder majeure procedure;Medisch;15;Klass. hosp;252
+602;Pasgeborene, geboortegewicht 1 000–1 249 g met respiratoire distress syndroom/andere majeure respiratoire anomalie of majeure anomalie;Medisch;15;Klass. hosp;225
+603;Pasgeborene, geboortegewicht 1 000–1 249 g met of zonder andere significante aandoening;Medisch;15;Klass. hosp;54
+607;Pasgeborene, geboortegewicht 1 250–1 499 g met respiratoire distress syndroom/andere majeure respiratoire of majeure anomalie;Medisch;15;Klass. hosp;333
+608;Pasgeborene, geboortegewicht 1 250–1 499 g met of zonder andere significante aandoening;Medisch;15;Klass. hosp;136
+609;Pasgeborene, geboortegewicht 1 500–2 499 g met majeure procedure;Chirurgisch;15;Klass. hosp;79
+611;Pasgeborene, geboortegewicht 1 500–1 999 g met majeure anomalie;Medisch;15;Klass. hosp;209
+612;Pasgeborene, geboortegewicht 1 500–1 999 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;Medisch;15;Klass. hosp;317
+613;Pasgeborene, geboortgewicht 1 500–1 999 g met congenitale of perinatale infecties;Medisch;15;Klass. hosp;56
+614;Andere pasgeborene, geboortegewicht 1 500–1 999 g met of zonder andere significante aandoening;Medisch;15;Klass. hosp;502
+621;Pasgeborene, geboortgewicht 2 000–2 499 g met majeure anomalie;Medisch;15;Klass. hosp;164
+622;Pasgeborene, geboortegewicht 2 000–2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;Medisch;15;Klass. hosp;242
+623;Pasgeborene, geboortegewicht 2 000–2 499 g met congenitale of perinatale infecties;Medisch;15;Klass. hosp;57
+625;Pasgeborene, geboortegewicht 2 000–2 499 g, hier geboren, met andere significante aandoening;Medisch;15;Klass. hosp;234
+626;Pasgeborene, geboortegewicht 2 000–2 499 g, normale pasgeborene of pasgeborene met ander probleem;Medisch;15;Klass. hosp;441
+630;Pasgeborene, geboortegewicht > 2 499 g met majeure cardiovasculaire procedures;Chirurgisch;15;Klass. hosp;99
+631;Pasgeborene, geboortegewicht > 2 499 g met andere majeure procedure;Chirurgisch;15;Klass. hosp;129
+633;Pasgeborene, geboortegewicht > 2 499 g met majeure anomalie;Medisch;15;Klass. hosp;433
+633;Pasgeborene, geboortegewicht > 2 499 g met majeure anomalie;Medisch;15;Daghosp.;1
+634;Pasgeborene, geboortegewicht > 2 499 g met respiratoire distress syndroom/andere majeure respiratoire aandoening;Medisch;15;Klass. hosp;478
+636;Pasgeborene, geboortegewicht > 2 499 g met congenitale of perinatale infecties;Medisch;15;Klass. hosp;222
+639;Pasgeborene, geboortegewicht > 2 499 g hier geboren, met andere significante aandoening;Medisch;15;Klass. hosp;611
+640;Pasgeborene, geboortegewicht > 2 499 g, normale pasgeborene of met ander probleem;Medisch;15;Klass. hosp;1458
+640;Pasgeborene, geboortegewicht > 2 499 g, normale pasgeborene of met ander probleem;Medisch;15;Daghosp.;14
+650;Splenectomie;Chirurgisch;16;Klass. hosp;231
+651;Andere procedures op bloed en bloedvormende organen;Chirurgisch;16;Klass. hosp;689
+651;Andere procedures op bloed en bloedvormende organen;Chirurgisch;16;Daghosp.;670
+660;Majeure hemato-/immunologische diagnosen behalve crisis van sikkelcelanemie en coagulatie;Medisch;16;Klass. hosp;4132
+660;Majeure hemato-/immunologische diagnosen behalve crisis van sikkelcelanemie en coagulatie;Medisch;16;Daghosp.;2418
+661;Bloedstollingsstoornissen en bloedplaatjes;Medisch;16;Klass. hosp;1071
+661;Bloedstollingsstoornissen en bloedplaatjes;Medisch;16;Daghosp.;2005
+662;Crisis van sikkelcelanemie;Medisch;16;Klass. hosp;718
+662;Crisis van sikkelcelanemie;Medisch;16;Daghosp.;173
+663;Andere anemia en bloedstoornissen en hematopoietische organen;Medisch;16;Klass. hosp;10301
+663;Andere anemia en bloedstoornissen en hematopoietische organen;Medisch;16;Daghosp.;19060
+680;Majeure operatiezaal procedures voor lymfatische/hematopoietische/andere neoplasma;Chirurgisch;17;Klass. hosp;842
+680;Majeure operatiezaal procedures voor lymfatische/hematopoietische/andere neoplasma;Chirurgisch;17;Daghosp.;11
+681;Andere operatiezaal procedures voor lymfatisch/hematopoietisch/andere neoplasma;Chirurgisch;17;Klass. hosp;2632
+681;Andere operatiezaal procedures voor lymfatisch/hematopoietisch/andere neoplasma;Chirurgisch;17;Daghosp.;1084
+690;Acute leukemie;Medisch;17;Klass. hosp;1198
+690;Acute leukemie;Medisch;17;Daghosp.;3801
+691;Lymfoom, myeloom en niet-acute leukemie;Medisch;17;Klass. hosp;3057
+691;Lymfoom, myeloom en niet-acute leukemie;Medisch;17;Daghosp.;5667
+692;Radiotherapie;Medisch;17;Klass. hosp;883
+692;Radiotherapie;Medisch;17;Daghosp.;365
+693;Chemotherapie;Medisch;17;Klass. hosp;27856
+693;Chemotherapie;Medisch;17;Daghosp.;329459
+694;Lymphatisch en andere maligne aandoeningen en neoplasmata met onzeker gedrag;Medisch;17;Klass. hosp;2473
+694;Lymphatisch en andere maligne aandoeningen en neoplasmata met onzeker gedrag;Medisch;17;Daghosp.;12819
+710;Infectieuze en parasitaire ziekten, HIV met operatiezaal procedures inbegrepen;Chirurgisch;18;Klass. hosp;1279
+710;Infectieuze en parasitaire ziekten, HIV met operatiezaal procedures inbegrepen;Chirurgisch;18;Daghosp.;97
+711;Postoperatieve, posttraumatische en andere toestel- infecties met operatiezaal procedures;Chirurgisch;18;Klass. hosp;1593
+711;Postoperatieve, posttraumatische en andere toestel- infecties met operatiezaal procedures;Chirurgisch;18;Daghosp.;378
+720;Septicemie en gedissemineerde infecties;Medisch;18;Klass. hosp;9595
+720;Septicemie en gedissemineerde infecties;Medisch;18;Daghosp.;33
+721;Postoperatieve, posttraumatische en andere toestel infecties;Medisch;18;Klass. hosp;4351
+721;Postoperatieve, posttraumatische en andere toestel infecties;Medisch;18;Daghosp.;373
+722;Koorts;Medisch;18;Klass. hosp;3674
+722;Koorts;Medisch;18;Daghosp.;32
+723;Virale ziekte;Medisch;18;Klass. hosp;8252
+723;Virale ziekte;Medisch;18;Daghosp.;61
+724;Andere infectieuze en parasitaire ziekten;Medisch;18;Klass. hosp;2982
+724;Andere infectieuze en parasitaire ziekten;Medisch;18;Daghosp.;349
+740;Diagnosen van mentale ziekte met operatiezaal procedures;Chirurgisch;19;Klass. hosp;459
+740;Diagnosen van mentale ziekte met operatiezaal procedures;Chirurgisch;19;Daghosp.;38
+750;Schizofrenie;Medisch;19;Klass. hosp;457
+750;Schizofrenie;Medisch;19;Daghosp.;15
+751;Majeure depressieve stoornissen en andere/niet-gespecificeerde psychoses;Medisch;19;Klass. hosp;3688
+751;Majeure depressieve stoornissen en andere/niet-gespecificeerde psychoses;Medisch;19;Daghosp.;450
+752;Persoonlijkheidsstoornissen en impulscontrolestoornissen;Medisch;19;Klass. hosp;478
+752;Persoonlijkheidsstoornissen en impulscontrolestoornissen;Medisch;19;Daghosp.;1
+753;Bipolaire stoornissen;Medisch;19;Klass. hosp;862
+753;Bipolaire stoornissen;Medisch;19;Daghosp.;26
+754;Depressie, behalve majeure depressieve diagnosen;Medisch;19;Klass. hosp;4199
+754;Depressie, behalve majeure depressieve diagnosen;Medisch;19;Daghosp.;48
+755;Aanpassingstoornis en neuroses, behalve depressieve diagnosen;Medisch;19;Klass. hosp;1773
+755;Aanpassingstoornis en neuroses, behalve depressieve diagnosen;Medisch;19;Daghosp.;29
+756;Acute angst en delirante toestanden;Medisch;19;Klass. hosp;3092
+756;Acute angst en delirante toestanden;Medisch;19;Daghosp.;27
+757;Organische stoornissen van de geestelijke gezondheid;Medisch;19;Klass. hosp;4884
+757;Organische stoornissen van de geestelijke gezondheid;Medisch;19;Daghosp.;111
+758;Gedragsstoornissen van de kindertijd;Medisch;19;Klass. hosp;734
+758;Gedragsstoornissen van de kindertijd;Medisch;19;Daghosp.;33
+759;Eetstoornissen;Medisch;19;Klass. hosp;286
+759;Eetstoornissen;Medisch;19;Daghosp.;7
+760;Andere stoornissen van de mentale gezondheid;Medisch;19;Klass. hosp;4626
+760;Andere stoornissen van de mentale gezondheid;Medisch;19;Daghosp.;421
+770;Alcohol en drugs- misbruik of verslaving, ontslag tegen medisch advies;Medisch;20;Klass. hosp;769
+772;Alcohol en drugs- verslaving met revalidatietherapie of revalidatie/detoxificatietherapie;Medisch;20;Klass. hosp;1478
+772;Alcohol en drugs- verslaving met revalidatietherapie of revalidatie/detoxificatietherapie;Medisch;20;Daghosp.;1
+773;Misbruik van en verslaving aan opiaten;Medisch;20;Klass. hosp;428
+773;Misbruik van en verslaving aan opiaten;Medisch;20;Daghosp.;3
+774;Misbruik van en verslaving aan cocaine;Medisch;20;Klass. hosp;241
+774;Misbruik van en verslaving aan cocaine;Medisch;20;Daghosp.;2
+775;Misbruik van en verslaving aan alcohol;Medisch;20;Klass. hosp;9376
+775;Misbruik van en verslaving aan alcohol;Medisch;20;Daghosp.;284
+776;Misbruik van en verslaving aan andere drugs;Medisch;20;Klass. hosp;1272
+776;Misbruik van en verslaving aan andere drugs;Medisch;20;Daghosp.;5
+791;Operatiezaal procedures voor andere complicaties van de behandeling;Chirurgisch;21;Klass. hosp;4210
+791;Operatiezaal procedures voor andere complicaties van de behandeling;Chirurgisch;21;Daghosp.;1635
+811;Allergische reacties;Medisch;21;Klass. hosp;1163
+811;Allergische reacties;Medisch;21;Daghosp.;7
+812;Vergiftiging door geneesmiddellen;Medisch;21;Klass. hosp;10555
+812;Vergiftiging door geneesmiddellen;Medisch;21;Daghosp.;34
+813;Andere complicaties van de behandeling;Medisch;21;Klass. hosp;5519
+813;Andere complicaties van de behandeling;Medisch;21;Daghosp.;2085
+815;Andere diagnosen van letsels, vergiftigingen en toxische effecten;Medisch;21;Klass. hosp;3038
+815;Andere diagnosen van letsels, vergiftigingen en toxische effecten;Medisch;21;Daghosp.;76
+816;Toxische effecten van niet-medische substanties;Medisch;21;Klass. hosp;2525
+816;Toxische effecten van niet-medische substanties;Medisch;21;Daghosp.;28
+841;Extensieve derde graad brandwonden met huidgreffe;Chirurgisch;22;Klass. hosp;24
+842;“Full thickness” brandwonden met huidgreffe;Chirurgisch;22;Klass. hosp;173
+842;“Full thickness” brandwonden met huidgreffe;Chirurgisch;22;Daghosp.;49
+843;Extensieve derde graad of “full thickness” brandwonden zonder huidgreffe;Medisch;22;Klass. hosp;142
+843;Extensieve derde graad of “full thickness” brandwonden zonder huidgreffe;Medisch;22;Daghosp.;13
+844;“Partial thickness” brandwonden met of zonder huidgreffe;Medisch;22;Klass. hosp;821
+844;“Partial thickness” brandwonden met of zonder huidgreffe;Medisch;22;Daghosp.;52
+850;Procedures met diagnosen van revalidatie, nazorg of andere contacten met gezondheidsinstellingen;Chirurgisch;23;Klass. hosp;5169
+850;Procedures met diagnosen van revalidatie, nazorg of andere contacten met gezondheidsinstellingen;Chirurgisch;23;Daghosp.;21830
+860;Revalidatie;Medisch;23;Klass. hosp;23622
+860;Revalidatie;Medisch;23;Daghosp.;4
+861;Tekens, symptomen en andere factoren met invloed op de gezondheidstoestand;Medisch;23;Klass. hosp;41120
+861;Tekens, symptomen en andere factoren met invloed op de gezondheidstoestand;Medisch;23;Daghosp.;154575
+862;Andere nazorg en convalescentie;Medisch;23;Klass. hosp;13855
+862;Andere nazorg en convalescentie;Medisch;23;Daghosp.;49790
+863;Neonatale nazorg;Medisch;23;Klass. hosp;968
+863;Neonatale nazorg;Medisch;23;Daghosp.;4
+890;HIV met multipele majeure HIV gerelateerde aandoeningen;Medisch;24;Klass. hosp;142
+890;HIV met multipele majeure HIV gerelateerde aandoeningen;Medisch;24;Daghosp.;3
+892;HIV met majeure HIV gerelateerde aandoening;Medisch;24;Klass. hosp;289
+892;HIV met majeure HIV gerelateerde aandoening;Medisch;24;Daghosp.;23
+893;Hiv met multipele significante hiv gerelateerde aandoeningen;Medisch;24;Klass. hosp;48
+893;Hiv met multipele significante hiv gerelateerde aandoeningen;Medisch;24;Daghosp.;1
+894;HIV met een significante HIV aandoening of zonder significante gerelateerde aandoeningen;Medisch;24;Klass. hosp;383
+894;HIV met een significante HIV aandoening of zonder significante gerelateerde aandoeningen;Medisch;24;Daghosp.;111
+910;Craniotomie voor multipele significante traumata;Chirurgisch;25;Klass. hosp;173
+911;Extensieve abdominale/thoracale procedures voor multipele significante traumata;Chirurgisch;25;Klass. hosp;203
+912;Musculo-skeletale en andere procedures voor multipele significante traumata;Chirurgisch;25;Klass. hosp;984
+912;Musculo-skeletale en andere procedures voor multipele significante traumata;Chirurgisch;25;Daghosp.;3
+930;Multipele significante traumata zonder operatiezaal procedures;Medisch;25;Klass. hosp;1002
+930;Multipele significante traumata zonder operatiezaal procedures;Medisch;25;Daghosp.;12
+950;Extensieve procedure zonder verband met de hoofddiagnose;Chirurgisch;00;Klass. hosp;3110
+950;Extensieve procedure zonder verband met de hoofddiagnose;Chirurgisch;00;Daghosp.;398
+951;Matige uitgebreide procedure zonder verband met de hoofddiagnose;Chirurgisch;00;Klass. hosp;4603
+951;Matige uitgebreide procedure zonder verband met de hoofddiagnose;Chirurgisch;00;Daghosp.;1340
+952;Niet-extensieve procedure zonder verband met de hoofddiagnose;Chirurgisch;00;Klass. hosp;4255
+952;Niet-extensieve procedure zonder verband met de hoofddiagnose;Chirurgisch;00;Daghosp.;2430
+955;Hoofddiagnose niet geldig als ontslagdiagnose;Andere;00;Klass. hosp;25
+955;Hoofddiagnose niet geldig als ontslagdiagnose;Andere;00;Daghosp.;17
+956;Niet te groeperen verblijven;Andere;00;Klass. hosp;202
+956;Niet te groeperen verblijven;Andere;00;Daghosp.;80
+MMM;Daghospitalisatie;Andere;SS;Daghosp.;13134

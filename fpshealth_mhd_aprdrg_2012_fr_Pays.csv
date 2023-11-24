@@ -1,0 +1,593 @@
+﻿code;description;médical_ou_chirurgical;mdc;type_d_hospitalisation;nombre_de_séjours
+001;Transplantation hépatique et/ou intestinale;Chirurgical;PP;Classique;273
+002;Transplantation cardiaque et/ou pulmonaire;Chirurgical;PP;Classique;206
+003;Transplantation de moelle osseuse;Chirurgical;PP;Classique;941
+003;Transplantation de moelle osseuse;Chirurgical;PP;De jour;10
+004;ECMO ou trachéostomie avec ventilation mécanique de longue durée et procédure extensive;Chirurgical;PP;Classique;1284
+005;Trachéostomie avec ventilation mécanique de longue durée sans intervention extensive;Chirurgical;PP;Classique;818
+006;Transplantation du pancréas;Chirurgical;PP;Classique;11
+020;Craniotomie pour traumatisme;Chirurgical;01;Classique;878
+020;Craniotomie pour traumatisme;Chirurgical;01;De jour;2
+021;Craniotomie excepté pour traumatisme;Chirurgical;01;Classique;3996
+021;Craniotomie excepté pour traumatisme;Chirurgical;01;De jour;15
+022;Procédures concernant un shunt ventriculaire;Chirurgical;01;Classique;1014
+022;Procédures concernant un shunt ventriculaire;Chirurgical;01;De jour;15
+023;Procédures au niveau de la colonne vertébrale et de la moelle épinière;Chirurgical;01;Classique;1869
+023;Procédures au niveau de la colonne vertébrale et de la moelle épinière;Chirurgical;01;De jour;112
+024;Procédures vasculaires extracrâniennes;Chirurgical;01;Classique;4820
+024;Procédures vasculaires extracrâniennes;Chirurgical;01;De jour;42
+026;Autres procédures du système nerveux et procédures apparentées;Chirurgical;01;Classique;3685
+026;Autres procédures du système nerveux et procédures apparentées;Chirurgical;01;De jour;34929
+040;Troubles et lésions de la colonne vertébrale et de la moelle épinière;Médical;01;Classique;478
+040;Troubles et lésions de la colonne vertébrale et de la moelle épinière;Médical;01;De jour;51
+041;Malignité du système nerveux;Médical;01;Classique;3143
+041;Malignité du système nerveux;Médical;01;De jour;430
+042;Troubles dégénératifs du système nerveux excepté la sclérose en plaques;Médical;01;Classique;12729
+042;Troubles dégénératifs du système nerveux excepté la sclérose en plaques;Médical;01;De jour;152
+043;Sclérose en plaques et autres maladies démyélinisantes;Médical;01;Classique;3400
+043;Sclérose en plaques et autres maladies démyélinisantes;Médical;01;De jour;479
+044;Hémorragie intracrânienne;Médical;01;Classique;3300
+044;Hémorragie intracrânienne;Médical;01;De jour;42
+045;Accident vasculaire cérébral et occlusion précérébrale avec infarctus;Médical;01;Classique;15602
+045;Accident vasculaire cérébral et occlusion précérébrale avec infarctus;Médical;01;De jour;18
+046;Accident vasculaire cérébral non spécifique et occlusion précérébrale sans infarctus;Médical;01;Classique;1114
+046;Accident vasculaire cérébral non spécifique et occlusion précérébrale sans infarctus;Médical;01;De jour;92
+047;Ischémie cérébrale transitoire (TIA);Médical;01;Classique;7170
+047;Ischémie cérébrale transitoire (TIA);Médical;01;De jour;49
+048;Troubles des nerfs crâniens, périphériques et autonomes;Médical;01;Classique;4131
+048;Troubles des nerfs crâniens, périphériques et autonomes;Médical;01;De jour;9790
+049;Infections bactériennes et tuberculeuses du système nerveux;Médical;01;Classique;726
+049;Infections bactériennes et tuberculeuses du système nerveux;Médical;01;De jour;9
+050;Infections non-bactériennes du système nerveux, excepté méningite virale;Médical;01;Classique;745
+050;Infections non-bactériennes du système nerveux, excepté méningite virale;Médical;01;De jour;67
+051;Méningite virale;Médical;01;Classique;1347
+051;Méningite virale;Médical;01;De jour;1
+052;Comas et états stuporeux non traumatiques;Médical;01;Classique;2859
+052;Comas et états stuporeux non traumatiques;Médical;01;De jour;45
+053;Crise épileptique;Médical;01;Classique;15506
+053;Crise épileptique;Médical;01;De jour;309
+054;Migraine et autres céphalées;Médical;01;Classique;5940
+054;Migraine et autres céphalées;Médical;01;De jour;661
+055;Traumatisme crânien avec coma > 1 heure ou hémorragie;Médical;01;Classique;2875
+055;Traumatisme crânien avec coma > 1 heure ou hémorragie;Médical;01;De jour;11
+056;Contusion/lacération cérébrale et fracture du crâne compliquée, coma < 1 heure ou pas de coma;Médical;01;Classique;878
+056;Contusion/lacération cérébrale et fracture du crâne compliquée, coma < 1 heure ou pas de coma;Médical;01;De jour;5
+057;Commotion, fracture du crâne fermée non autrement spécifiée, lésion intracrânienne non compliquée, coma < 1 h ou pas de coma;Médical;01;Classique;9790
+057;Commotion, fracture du crâne fermée non autrement spécifiée, lésion intracrânienne non compliquée, coma < 1 h ou pas de coma;Médical;01;De jour;48
+058;Autres troubles du système nerveux;Médical;01;Classique;15880
+058;Autres troubles du système nerveux;Médical;01;De jour;1675
+070;Procédures orbitaires;Chirurgical;02;Classique;598
+070;Procédures orbitaires;Chirurgical;02;De jour;164
+073;Procédures sur l'œil excepté l'orbite;Chirurgical;02;Classique;12109
+073;Procédures sur l'œil excepté l'orbite;Chirurgical;02;De jour;131292
+080;Infections aiguës majeures de l'œil;Médical;02;Classique;712
+080;Infections aiguës majeures de l'œil;Médical;02;De jour;11
+082;Troubles oculaires excepté infections majeures;Médical;02;Classique;2935
+082;Troubles oculaires excepté infections majeures;Médical;02;De jour;2050
+089;Procédures majeures sur les os de la face et du crâne;Chirurgical;03;Classique;1704
+089;Procédures majeures sur les os de la face et du crâne;Chirurgical;03;De jour;370
+090;Procédures majeures du larynx et de la trachée;Chirurgical;03;Classique;259
+090;Procédures majeures du larynx et de la trachée;Chirurgical;03;De jour;11
+091;Autres procédures majeures de la tête et du cou;Chirurgical;03;Classique;604
+091;Autres procédures majeures de la tête et du cou;Chirurgical;03;De jour;343
+092;Procédures sur les os de la face, excepté procédures majeures des os du crâne/de la face;Chirurgical;03;Classique;3408
+092;Procédures sur les os de la face, excepté procédures majeures des os du crâne/de la face;Chirurgical;03;De jour;8456
+093;Procédures sur sinus et mastoïde;Chirurgical;03;Classique;7008
+093;Procédures sur sinus et mastoïde;Chirurgical;03;De jour;4489
+095;Réparation de la fente labiale et du palais;Chirurgical;03;Classique;852
+095;Réparation de la fente labiale et du palais;Chirurgical;03;De jour;353
+097;Procédures sur amygdales et végétations;Chirurgical;03;Classique;8215
+097;Procédures sur amygdales et végétations;Chirurgical;03;De jour;37526
+098;Autres procédures sur l'oreille, le nez, la bouche et la gorge;Chirurgical;03;Classique;14927
+098;Autres procédures sur l'oreille, le nez, la bouche et la gorge;Chirurgical;03;De jour;69200
+110;Affections malignes de l'oreille, du nez, de la bouche, de la gorge, du crâne/de la face;Médical;03;Classique;1991
+110;Affections malignes de l'oreille, du nez, de la bouche, de la gorge, du crâne/de la face;Médical;03;De jour;1280
+111;Vertige et autres troubles labyrinthiques;Médical;03;Classique;5076
+111;Vertige et autres troubles labyrinthiques;Médical;03;De jour;47
+113;Infection des voies respiratoires supérieures;Médical;03;Classique;16202
+113;Infection des voies respiratoires supérieures;Médical;03;De jour;832
+114;Maladies et lésions dentaires et buccales;Médical;03;Classique;4484
+114;Maladies et lésions dentaires et buccales;Médical;03;De jour;96657
+115;Autres diagnostics de l'oreille, du nez, de la bouche, de la gorge, du crâne/de la face;Médical;03;Classique;44405
+115;Autres diagnostics de l'oreille, du nez, de la bouche, de la gorge, du crâne/de la face;Médical;03;De jour;5897
+120;Interventions majeures sur le système respiratoire et le thorax;Chirurgical;04;Classique;2413
+120;Interventions majeures sur le système respiratoire et le thorax;Chirurgical;04;De jour;13
+121;Autres interventions sur le système respiratoire et le thorax;Chirurgical;04;Classique;4426
+121;Autres interventions sur le système respiratoire et le thorax;Chirurgical;04;De jour;421
+130;Affection du système respiratoire avec assistance ventilatoire pendant plus de 96 heures;Médical;04;Classique;1747
+131;Mucoviscidose (cystic fibrosis) - maladie pulmonaire;Médical;04;Classique;825
+131;Mucoviscidose (cystic fibrosis) - maladie pulmonaire;Médical;04;De jour;20
+132;Dysplasie broncho-pulmonaire et autres maladies respiratoires chroniques apparaissant en période périnatale;Médical;04;Classique;104
+132;Dysplasie broncho-pulmonaire et autres maladies respiratoires chroniques apparaissant en période périnatale;Médical;04;De jour;3
+133;Œdème pulmonaire et insuffisance respiratoire;Médical;04;Classique;1446
+133;Œdème pulmonaire et insuffisance respiratoire;Médical;04;De jour;13
+134;Embolie pulmonaire;Médical;04;Classique;5263
+134;Embolie pulmonaire;Médical;04;De jour;15
+135;Traumatisme majeur du thorax et respiratoire;Médical;04;Classique;2848
+135;Traumatisme majeur du thorax et respiratoire;Médical;04;De jour;6
+136;Affection maligne respiratoire;Médical;04;Classique;8900
+136;Affection maligne respiratoire;Médical;04;De jour;4104
+137;Inflammations et infections majeures du système respiratoire;Médical;04;Classique;7464
+137;Inflammations et infections majeures du système respiratoire;Médical;04;De jour;201
+138;Bronchiolite et pneumonie à virus respiratoire syncytial (RSV);Médical;04;Classique;11968
+138;Bronchiolite et pneumonie à virus respiratoire syncytial (RSV);Médical;04;De jour;19
+139;Autre pneumonie;Médical;04;Classique;34741
+139;Autre pneumonie;Médical;04;De jour;184
+140;Maladie pulmonaire obstructive chronique;Médical;04;Classique;28639
+140;Maladie pulmonaire obstructive chronique;Médical;04;De jour;793
+141;Asthme;Médical;04;Classique;5896
+141;Asthme;Médical;04;De jour;115
+142;Maladie pulmonaire interstitielle;Médical;04;Classique;1821
+142;Maladie pulmonaire interstitielle;Médical;04;De jour;408
+143;Autres diagnostics respiratoires excepté les signes, symptômes et diagnostics mineurs;Médical;04;Classique;6205
+143;Autres diagnostics respiratoires excepté les signes, symptômes et diagnostics mineurs;Médical;04;De jour;1515
+144;Signes respiratoires, symptômes et diagnostics mineurs;Médical;04;Classique;27389
+144;Signes respiratoires, symptômes et diagnostics mineurs;Médical;04;De jour;2832
+160;Réparation majeure d'anomalie cardiaque par voie cardiothoracique;Chirurgical;05;Classique;148
+161;Implantation d'un défibrillateur cardiaque et système d'assistance cardiaque;Chirurgical;05;Classique;1690
+161;Implantation d'un défibrillateur cardiaque et système d'assistance cardiaque;Chirurgical;05;De jour;28
+162;Procédures sur valve cardiaque avec cathétérisme cardiaque;Chirurgical;05;Classique;927
+163;Procédures sur valve cardiaque sans cathétérisme cardiaque;Chirurgical;05;Classique;3978
+165;Pontage coronaire avec cathétérisme cardiaque ou intervention cardiaque percutanée;Chirurgical;05;Classique;2000
+165;Pontage coronaire avec cathétérisme cardiaque ou intervention cardiaque percutanée;Chirurgical;05;De jour;1
+166;Pontage coronaire sans cathétérisme cardiaque ni intervention cardiaque percutanée;Chirurgical;05;Classique;3585
+167;Autres procédures cardiothoraciques;Chirurgical;05;Classique;810
+167;Autres procédures cardiothoraciques;Chirurgical;05;De jour;3
+169;Procédures majeures sur les vaisseaux thoraciques et abdominaux;Chirurgical;05;Classique;2735
+169;Procédures majeures sur les vaisseaux thoraciques et abdominaux;Chirurgical;05;De jour;10
+170;Implantation de pacemaker permanent avec infarctus aigu du myocarde, décompensation cardiaque ou choc;Chirurgical;05;Classique;409
+170;Implantation de pacemaker permanent avec infarctus aigu du myocarde, décompensation cardiaque ou choc;Chirurgical;05;De jour;1
+171;Implantation de pacemaker permanent sans infarctus aigu du myocarde ni décompensation cardiaque ni choc;Chirurgical;05;Classique;7463
+171;Implantation de pacemaker permanent sans infarctus aigu du myocarde ni décompensation cardiaque ni choc;Chirurgical;05;De jour;56
+173;Autres procédures vasculaires;Chirurgical;05;Classique;21552
+173;Autres procédures vasculaires;Chirurgical;05;De jour;3381
+174;Procédures cardiovasculaires percutanées avec infarctus aigu du myocarde;Chirurgical;05;Classique;7699
+174;Procédures cardiovasculaires percutanées avec infarctus aigu du myocarde;Chirurgical;05;De jour;437
+175;Procédures cardiovasculaires percutanées sans infarctus aigu du myocarde;Chirurgical;05;Classique;22396
+175;Procédures cardiovasculaires percutanées sans infarctus aigu du myocarde;Chirurgical;05;De jour;1933
+176;Remplacement de pacemaker et du défibrillateur cardiaque;Chirurgical;05;Classique;2761
+176;Remplacement de pacemaker et du défibrillateur cardiaque;Chirurgical;05;De jour;329
+177;Révision de pacemaker et de défibrillateur cardiaque excepté remplacement d'appareil;Chirurgical;05;Classique;905
+177;Révision de pacemaker et de défibrillateur cardiaque excepté remplacement d'appareil;Chirurgical;05;De jour;66
+180;Autres procédures sur le système circulatoire;Chirurgical;05;Classique;4611
+180;Autres procédures sur le système circulatoire;Chirurgical;05;De jour;20521
+190;Infarctus aigu du myocarde;Médical;05;Classique;8462
+190;Infarctus aigu du myocarde;Médical;05;De jour;466
+191;Cathétérisme cardiaque avec troubles circulatoires excepté maladie ischémique du myocarde;Médical;05;Classique;12656
+191;Cathétérisme cardiaque avec troubles circulatoires excepté maladie ischémique du myocarde;Médical;05;De jour;2838
+192;Cathétérisme cardiaque pour maladie ischémique du myocarde;Médical;05;Classique;21572
+192;Cathétérisme cardiaque pour maladie ischémique du myocarde;Médical;05;De jour;9852
+193;Endocardite aiguë et subaiguë;Médical;05;Classique;196
+194;Insuffisance cardiaque;Médical;05;Classique;21748
+194;Insuffisance cardiaque;Médical;05;De jour;21
+196;Arrêt cardiaque;Médical;05;Classique;1070
+196;Arrêt cardiaque;Médical;05;De jour;117
+197;Troubles vasculaires périphériques et autres;Médical;05;Classique;6547
+197;Troubles vasculaires périphériques et autres;Médical;05;De jour;1753
+198;Angine de poitrine et athérosclérose coronaire;Médical;05;Classique;6321
+198;Angine de poitrine et athérosclérose coronaire;Médical;05;De jour;49
+199;Hypertension;Médical;05;Classique;2781
+199;Hypertension;Médical;05;De jour;32
+200;Maladies cardiaques structurelles et valvulaires;Médical;05;Classique;1350
+200;Maladies cardiaques structurelles et valvulaires;Médical;05;De jour;132
+201;Arythmie cardiaque et troubles de conduction;Médical;05;Classique;20508
+201;Arythmie cardiaque et troubles de conduction;Médical;05;De jour;4842
+203;Douleur thoracique;Médical;05;Classique;5725
+203;Douleur thoracique;Médical;05;De jour;134
+204;Syncope et collapsus;Médical;05;Classique;9699
+204;Syncope et collapsus;Médical;05;De jour;34
+205;Cardiomyopathie;Médical;05;Classique;289
+205;Cardiomyopathie;Médical;05;De jour;6
+206;Dysfonctionnement, réaction et complication de matériel ou de procédure cardiaque ou vasculaire;Médical;05;Classique;986
+206;Dysfonctionnement, réaction et complication de matériel ou de procédure cardiaque ou vasculaire;Médical;05;De jour;360
+207;Autres diagnostics du système circulatoire;Médical;05;Classique;5323
+207;Autres diagnostics du système circulatoire;Médical;05;De jour;253
+220;Procédures majeures sur œsophage, estomac et duodénum;Chirurgical;06;Classique;3515
+220;Procédures majeures sur œsophage, estomac et duodénum;Chirurgical;06;De jour;139
+221;Procédures majeures sur l'intestin grêle et le gros intestin;Chirurgical;06;Classique;16012
+221;Procédures majeures sur l'intestin grêle et le gros intestin;Chirurgical;06;De jour;61
+222;Autres procédures sur œsophage, estomac et duodénum;Chirurgical;06;Classique;2347
+222;Autres procédures sur œsophage, estomac et duodénum;Chirurgical;06;De jour;185
+223;Autres procédures sur l'intestin grêle et le gros intestin;Chirurgical;06;Classique;2943
+223;Autres procédures sur l'intestin grêle et le gros intestin;Chirurgical;06;De jour;281
+224;Lyse d'adhérences péritonéales;Chirurgical;06;Classique;1633
+224;Lyse d'adhérences péritonéales;Chirurgical;06;De jour;95
+225;Appendicectomie;Chirurgical;06;Classique;13820
+225;Appendicectomie;Chirurgical;06;De jour;98
+226;Procédures sur l'anus;Chirurgical;06;Classique;8502
+226;Procédures sur l'anus;Chirurgical;06;De jour;8171
+227;Procédures pour hernie excepté inguinale, fémorale et ombilicale;Chirurgical;06;Classique;6489
+227;Procédures pour hernie excepté inguinale, fémorale et ombilicale;Chirurgical;06;De jour;1066
+228;Procédures pour hernie inguinale, fémorale et ombilicale;Chirurgical;06;Classique;18761
+228;Procédures pour hernie inguinale, fémorale et ombilicale;Chirurgical;06;De jour;10404
+229;Autres procédures sur le système digestif et au niveau abdominal;Chirurgical;06;Classique;2437
+229;Autres procédures sur le système digestif et au niveau abdominal;Chirurgical;06;De jour;423
+240;Affections malignes du tube digestif;Médical;06;Classique;7211
+240;Affections malignes du tube digestif;Médical;06;De jour;7459
+241;Ulcère peptique et gastrite;Médical;06;Classique;9209
+241;Ulcère peptique et gastrite;Médical;06;De jour;10393
+242;Troubles majeurs de l'œsophage;Médical;06;Classique;957
+242;Troubles majeurs de l'œsophage;Médical;06;De jour;410
+243;Autres troubles de l'œsophage;Médical;06;Classique;8624
+243;Autres troubles de l'œsophage;Médical;06;De jour;17828
+244;Diverticulite et diverticulose;Médical;06;Classique;9468
+244;Diverticulite et diverticulose;Médical;06;De jour;15137
+245;Maladie inflammatoire de l'intestin;Médical;06;Classique;3024
+245;Maladie inflammatoire de l'intestin;Médical;06;De jour;6866
+246;Insuffisance vasculaire gastro-intestinale;Médical;06;Classique;1746
+246;Insuffisance vasculaire gastro-intestinale;Médical;06;De jour;162
+247;Obstruction intestinale;Médical;06;Classique;8627
+247;Obstruction intestinale;Médical;06;De jour;457
+248;Infections gastro-intestinales et péritonéales majeures;Médical;06;Classique;5013
+248;Infections gastro-intestinales et péritonéales majeures;Médical;06;De jour;127
+249;Gastro-entérites non bactériennes, nausée et vomissement;Médical;06;Classique;28461
+249;Gastro-entérites non bactériennes, nausée et vomissement;Médical;06;De jour;6468
+251;Douleur abdominale;Médical;06;Classique;6741
+251;Douleur abdominale;Médical;06;De jour;6848
+252;Dysfonctionnement, réaction et complication de matériel ou de procédure gastro-intestinaux;Médical;06;Classique;1732
+252;Dysfonctionnement, réaction et complication de matériel ou de procédure gastro-intestinaux;Médical;06;De jour;711
+253;Hémorragie gastro-intestinale autre et non spécifiée;Médical;06;Classique;2550
+253;Hémorragie gastro-intestinale autre et non spécifiée;Médical;06;De jour;1884
+254;Autres diagnostics du système digestif;Médical;06;Classique;22526
+254;Autres diagnostics du système digestif;Médical;06;De jour;69585
+260;Procédures majeures sur pancréas, foie et shunt;Chirurgical;07;Classique;2283
+260;Procédures majeures sur pancréas, foie et shunt;Chirurgical;07;De jour;26
+261;Procédures majeures des voies biliaires;Chirurgical;07;Classique;632
+261;Procédures majeures des voies biliaires;Chirurgical;07;De jour;38
+262;Cholécystectomie excepté par voie laparascopique;Chirurgical;07;Classique;1019
+262;Cholécystectomie excepté par voie laparascopique;Chirurgical;07;De jour;11
+263;Cholécystectomie laparoscopique;Chirurgical;07;Classique;19211
+263;Cholécystectomie laparoscopique;Chirurgical;07;De jour;844
+264;Autres procédures abdominales, sur système hépatobiliaire et pancréas;Chirurgical;07;Classique;1024
+264;Autres procédures abdominales, sur système hépatobiliaire et pancréas;Chirurgical;07;De jour;284
+279;Coma hépatique et autres troubles hépatiques majeurs aigus;Médical;07;Classique;1672
+279;Coma hépatique et autres troubles hépatiques majeurs aigus;Médical;07;De jour;82
+280;Maladie hépatique alcoolique;Médical;07;Classique;3865
+280;Maladie hépatique alcoolique;Médical;07;De jour;372
+281;Affections malignes du système hépatobiliaire et du pancréas;Médical;07;Classique;5025
+281;Affections malignes du système hépatobiliaire et du pancréas;Médical;07;De jour;1836
+282;Troubles du pancréas excepté affections malignes;Médical;07;Classique;6719
+282;Troubles du pancréas excepté affections malignes;Médical;07;De jour;766
+283;Autres troubles du foie;Médical;07;Classique;3348
+283;Autres troubles du foie;Médical;07;De jour;1518
+284;Troubles de la vésicule biliaire et des voies biliaires;Médical;07;Classique;10852
+284;Troubles de la vésicule biliaire et des voies biliaires;Médical;07;De jour;1071
+301;Remplacement d'articulation de hanche;Chirurgical;08;Classique;27536
+301;Remplacement d'articulation de hanche;Chirurgical;08;De jour;11
+302;Remplacement d'articulation de genou;Chirurgical;08;Classique;22321
+302;Remplacement d'articulation de genou;Chirurgical;08;De jour;15
+303;Arthrodèse dorsolombaire pour déviation du dos;Chirurgical;08;Classique;306
+304;Arthrodèse dorsolombaire excepté déviation du dos;Chirurgical;08;Classique;9819
+304;Arthrodèse dorsolombaire excepté déviation du dos;Chirurgical;08;De jour;3
+305;Amputation du membre inférieur, excepté amputation des seuls orteils;Chirurgical;08;Classique;1030
+305;Amputation du membre inférieur, excepté amputation des seuls orteils;Chirurgical;08;De jour;2
+308;Procédures hanche et fémur pour traumatisme, excepté remplacement articulaire;Chirurgical;08;Classique;10780
+308;Procédures hanche et fémur pour traumatisme, excepté remplacement articulaire;Chirurgical;08;De jour;6
+309;Procédures hanche et fémur sans traumatisme, excepté remplacement articulaire;Chirurgical;08;Classique;2795
+309;Procédures hanche et fémur sans traumatisme, excepté remplacement articulaire;Chirurgical;08;De jour;805
+310;Excision et décompression de disque intervertébral;Chirurgical;08;Classique;19640
+310;Excision et décompression de disque intervertébral;Chirurgical;08;De jour;173
+312;Greffe cutanée, excepté sur la main, pour affections musculo-squelettique et du tissu conjonctif;Chirurgical;08;Classique;371
+312;Greffe cutanée, excepté sur la main, pour affections musculo-squelettique et du tissu conjonctif;Chirurgical;08;De jour;280
+313;Procédures au niveau du genou et de la jambe excepté le pied;Chirurgical;08;Classique;24696
+313;Procédures au niveau du genou et de la jambe excepté le pied;Chirurgical;08;De jour;47113
+314;Procédures au niveau du pied et des orteils;Chirurgical;08;Classique;16131
+314;Procédures au niveau du pied et des orteils;Chirurgical;08;De jour;6391
+315;Procédures au niveau de l'épaule, du bras et de l'avant-bras;Chirurgical;08;Classique;37902
+315;Procédures au niveau de l'épaule, du bras et de l'avant-bras;Chirurgical;08;De jour;11009
+316;Procédures de la main et du poignet;Chirurgical;08;Classique;6751
+316;Procédures de la main et du poignet;Chirurgical;08;De jour;31567
+317;Procédures au niveau des tendons, muscles et autres tissus mous;Chirurgical;08;Classique;7579
+317;Procédures au niveau des tendons, muscles et autres tissus mous;Chirurgical;08;De jour;9257
+320;Autres procédures du système musculo-squelettique et du tissu conjonctif;Chirurgical;08;Classique;9067
+320;Autres procédures du système musculo-squelettique et du tissu conjonctif;Chirurgical;08;De jour;22383
+321;Arthrodèse cervicale et autres procédures sur le cou/dos, excepté excision/décompression de disques intervertébraux;Chirurgical;08;Classique;7443
+321;Arthrodèse cervicale et autres procédures sur le cou/dos, excepté excision/décompression de disques intervertébraux;Chirurgical;08;De jour;367
+340;Fractures du fémur;Médical;08;Classique;1454
+340;Fractures du fémur;Médical;08;De jour;22
+341;Fracture du bassin ou luxation de la hanche;Médical;08;Classique;3784
+341;Fracture du bassin ou luxation de la hanche;Médical;08;De jour;33
+342;Fracture ou luxation excepté du fémur, du bassin et du dos;Médical;08;Classique;9071
+342;Fracture ou luxation excepté du fémur, du bassin et du dos;Médical;08;De jour;4221
+343;Affection maligne musculo-squelletique et fractures patholiques liées aux affection malignes musculo-squelettiques;Médical;08;Classique;2270
+343;Affection maligne musculo-squelletique et fractures patholiques liées aux affection malignes musculo-squelettiques;Médical;08;De jour;1351
+344;Ostéomyélite, arthrite septique et autres infections musculo-squelettiques;Médical;08;Classique;1264
+344;Ostéomyélite, arthrite septique et autres infections musculo-squelettiques;Médical;08;De jour;47
+346;Troubles du tissu conjonctif;Médical;08;Classique;3662
+346;Troubles du tissu conjonctif;Médical;08;De jour;2025
+347;Autres troubles, fractures et lésions du dos et du cou;Médical;08;Classique;22462
+347;Autres troubles, fractures et lésions du dos et du cou;Médical;08;De jour;142384
+349;Dysfonctionnement, réaction et complication de matériel ou de procédure orthopédique;Médical;08;Classique;2116
+349;Dysfonctionnement, réaction et complication de matériel ou de procédure orthopédique;Médical;08;De jour;319
+351;Autres diagnostics concernant le système musculo-squelettique et le tissu conjonctif;Médical;08;Classique;12944
+351;Autres diagnostics concernant le système musculo-squelettique et le tissu conjonctif;Médical;08;De jour;6658
+361;Greffe cutanée pour affections de la peau et du tissu sous-cutané;Chirurgical;09;Classique;3583
+361;Greffe cutanée pour affections de la peau et du tissu sous-cutané;Chirurgical;09;De jour;4989
+362;Procédures de mastectomie;Chirurgical;09;Classique;6310
+362;Procédures de mastectomie;Chirurgical;09;De jour;224
+363;Procédures mammaires, excepté mastectomie;Chirurgical;09;Classique;14846
+363;Procédures mammaires, excepté mastectomie;Chirurgical;09;De jour;5621
+364;Autres interventions sur la peau, les tissus sous-cutanés et apparentés;Chirurgical;09;Classique;9863
+364;Autres interventions sur la peau, les tissus sous-cutanés et apparentés;Chirurgical;09;De jour;8535
+380;Ulcères cutanés;Médical;09;Classique;2386
+380;Ulcères cutanés;Médical;09;De jour;142
+381;Affections majeures de la peau;Médical;09;Classique;1358
+381;Affections majeures de la peau;Médical;09;De jour;340
+382;Affections malignes du sein;Médical;09;Classique;1297
+382;Affections malignes du sein;Médical;09;De jour;3547
+383;Cellulite et autres infections bactériennes cutanées;Médical;09;Classique;11078
+383;Cellulite et autres infections bactériennes cutanées;Médical;09;De jour;1795
+384;Contusion, plaie ouverte et autres traumatismes de peau et du tissu sous-cutané;Médical;09;Classique;8702
+384;Contusion, plaie ouverte et autres traumatismes de peau et du tissu sous-cutané;Médical;09;De jour;5918
+385;Autres affections de la peau, du tissu sous-cutané et du sein;Médical;09;Classique;5047
+385;Autres affections de la peau, du tissu sous-cutané et du sein;Médical;09;De jour;18732
+401;Procédures sur les surrénales et l'hypophyse;Chirurgical;10;Classique;593
+403;Procédures pour obésité;Chirurgical;10;Classique;12615
+403;Procédures pour obésité;Chirurgical;10;De jour;83
+404;Procédures sur la thyroïde, les parathyroïdes ou le canal thyréoglosse;Chirurgical;10;Classique;7466
+404;Procédures sur la thyroïde, les parathyroïdes ou le canal thyréoglosse;Chirurgical;10;De jour;68
+405;Autres procédures pour troubles endocriniens, nutritionnels et métaboliques;Chirurgical;10;Classique;654
+405;Autres procédures pour troubles endocriniens, nutritionnels et métaboliques;Chirurgical;10;De jour;148
+420;Diabète;Médical;10;Classique;12310
+420;Diabète;Médical;10;De jour;32
+421;Malnutrition, retard staturopondéral et autres troubles nutritionnels;Médical;10;Classique;5947
+421;Malnutrition, retard staturopondéral et autres troubles nutritionnels;Médical;10;De jour;1649
+422;Hypovolémie et troubles électrolytiques associés;Médical;10;Classique;4363
+422;Hypovolémie et troubles électrolytiques associés;Médical;10;De jour;17
+423;Anomalies congénitales du métabolisme;Médical;10;Classique;516
+423;Anomalies congénitales du métabolisme;Médical;10;De jour;312
+424;Autres troubles endocriniens;Médical;10;Classique;3317
+424;Autres troubles endocriniens;Médical;10;De jour;207
+425;Autres troubles électrolytiques sauf associés à l'hypovolémie;Médical;10;Classique;4494
+425;Autres troubles électrolytiques sauf associés à l'hypovolémie;Médical;10;De jour;15
+440;Transplantation rénale;Chirurgical;11;Classique;495
+441;Procédures majeures sur la vessie;Chirurgical;11;Classique;1108
+441;Procédures majeures sur la vessie;Chirurgical;11;De jour;16
+442;Procédures sur les reins et les voies urinaires pour affections malignes;Chirurgical;11;Classique;1968
+442;Procédures sur les reins et les voies urinaires pour affections malignes;Chirurgical;11;De jour;11
+443;Procédures sur les reins et les voies urinaires pour affections non malignes;Chirurgical;11;Classique;3109
+443;Procédures sur les reins et les voies urinaires pour affections non malignes;Chirurgical;11;De jour;269
+444;Procédure uniquement pour matériel de voie d'accès de dialyse rénale;Chirurgical;11;Classique;1864
+444;Procédure uniquement pour matériel de voie d'accès de dialyse rénale;Chirurgical;11;De jour;540
+445;Autres procédures de la vessie;Chirurgical;11;Classique;1940
+445;Autres procédures de la vessie;Chirurgical;11;De jour;312
+446;Procédures urétrales et transurétrales;Chirurgical;11;Classique;17321
+446;Procédures urétrales et transurétrales;Chirurgical;11;De jour;4912
+447;Autres procédures du rein, des voies urinaires et apparentées;Chirurgical;11;Classique;1357
+447;Autres procédures du rein, des voies urinaires et apparentées;Chirurgical;11;De jour;341
+460;Insuffisance rénale;Médical;11;Classique;4667
+460;Insuffisance rénale;Médical;11;De jour;208
+461;Affection maligne des reins et des voies urinaires;Médical;11;Classique;1447
+461;Affection maligne des reins et des voies urinaires;Médical;11;De jour;2424
+462;Néphrite et néphrose;Médical;11;Classique;874
+462;Néphrite et néphrose;Médical;11;De jour;90
+463;Infections des reins et des voies urinaires;Médical;11;Classique;19075
+463;Infections des reins et des voies urinaires;Médical;11;De jour;806
+465;Lithiases urinaires et obstruction acquise du tractus urinaire supérieur;Médical;11;Classique;12152
+465;Lithiases urinaires et obstruction acquise du tractus urinaire supérieur;Médical;11;De jour;13105
+466;Dysfonctionnement, réaction et complication de matériel ou de procédure génito-urinaire;Médical;11;Classique;2844
+466;Dysfonctionnement, réaction et complication de matériel ou de procédure génito-urinaire;Médical;11;De jour;723
+468;Autres diagnostics, signes et symptômes du rein et des voies urinaires;Médical;11;Classique;11040
+468;Autres diagnostics, signes et symptômes du rein et des voies urinaires;Médical;11;De jour;17836
+480;Procédures majeures sur le petit bassin chez l'homme;Chirurgical;12;Classique;4401
+480;Procédures majeures sur le petit bassin chez l'homme;Chirurgical;12;De jour;27
+481;Procédures sur le pénis;Chirurgical;12;Classique;1309
+481;Procédures sur le pénis;Chirurgical;12;De jour;2140
+482;Prostatectomie transurétrale;Chirurgical;12;Classique;8113
+482;Prostatectomie transurétrale;Chirurgical;12;De jour;28
+483;Procédures sur les testicules et le scrotum;Chirurgical;12;Classique;3003
+483;Procédures sur les testicules et le scrotum;Chirurgical;12;De jour;5689
+484;Autres interventions sur le système reproducteur masculin et interventions apparentées;Chirurgical;12;Classique;1671
+484;Autres interventions sur le système reproducteur masculin et interventions apparentées;Chirurgical;12;De jour;23056
+500;Affections malignes du système reproducteur masculin;Médical;12;Classique;1069
+500;Affections malignes du système reproducteur masculin;Médical;12;De jour;1821
+501;Diagnostics du système reproducteur masculin sauf affections malignes;Médical;12;Classique;4246
+501;Diagnostics du système reproducteur masculin sauf affections malignes;Médical;12;De jour;14226
+510;Éviscération pelvienne, hystérectomie radicale et autres procédures gynécologiques radicales;Chirurgical;13;Classique;2059
+510;Éviscération pelvienne, hystérectomie radicale et autres procédures gynécologiques radicales;Chirurgical;13;De jour;6
+511;Procédures sur utérus et annexes pour affections malignes des ovaires et des annexes;Chirurgical;13;Classique;518
+511;Procédures sur utérus et annexes pour affections malignes des ovaires et des annexes;Chirurgical;13;De jour;16
+512;Procédures sur utérus et annexes pour affections malignes excepté des ovaires et des annexes;Chirurgical;13;Classique;862
+512;Procédures sur utérus et annexes pour affections malignes excepté des ovaires et des annexes;Chirurgical;13;De jour;92
+513;Procédures sur utérus/annexes pour affection non maligne excepté léiomyome;Chirurgical;13;Classique;15555
+513;Procédures sur utérus/annexes pour affection non maligne excepté léiomyome;Chirurgical;13;De jour;9759
+514;Interventions reconstructrices du système reproducteur féminin;Chirurgical;13;Classique;8557
+514;Interventions reconstructrices du système reproducteur féminin;Chirurgical;13;De jour;1134
+517;Dilatation et curetage pour diagnostics non-obstétriques;Chirurgical;13;Classique;722
+517;Dilatation et curetage pour diagnostics non-obstétriques;Chirurgical;13;De jour;7803
+518;Autres procédures sur le système reproducteur féminin et procédures apparentées;Chirurgical;13;Classique;2725
+518;Autres procédures sur le système reproducteur féminin et procédures apparentées;Chirurgical;13;De jour;5731
+519;Procédures sur utérus/annexes pour léiomyome;Chirurgical;13;Classique;5423
+519;Procédures sur utérus/annexes pour léiomyome;Chirurgical;13;De jour;1068
+530;Affection maligne du système reproducteur féminin;Médical;13;Classique;1280
+530;Affection maligne du système reproducteur féminin;Médical;13;De jour;878
+531;Infections du système reproducteur féminin;Médical;13;Classique;1157
+531;Infections du système reproducteur féminin;Médical;13;De jour;720
+532;Troubles menstruels et autres troubles du système reproducteur féminin;Médical;13;Classique;2587
+532;Troubles menstruels et autres troubles du système reproducteur féminin;Médical;13;De jour;9852
+540;Accouchement par césarienne;Chirurgical;14;Classique;25726
+540;Accouchement par césarienne;Chirurgical;14;De jour;46
+541;Accouchement par voie vaginale avec stérilisation et/ou dilatation et curetage;Chirurgical;14;Classique;449
+541;Accouchement par voie vaginale avec stérilisation et/ou dilatation et curetage;Chirurgical;14;De jour;19
+542;Accouchement par voie vaginale avec procédure compliquée, excepté stérilisation et dilatation et curetage;Chirurgical;14;Classique;364
+542;Accouchement par voie vaginale avec procédure compliquée, excepté stérilisation et dilatation et curetage;Chirurgical;14;De jour;3
+544;Dilatation et curetage, curetage par aspiration ou hystérotomie pour diagnostics obstétricaux;Chirurgical;14;Classique;2279
+544;Dilatation et curetage, curetage par aspiration ou hystérotomie pour diagnostics obstétricaux;Chirurgical;14;De jour;11572
+545;Procédure pour grossesse ectopique;Chirurgical;14;Classique;1425
+545;Procédure pour grossesse ectopique;Chirurgical;14;De jour;100
+546;Autres procédures O.R. pour diagnostics obstétricaux excepté accouchement;Chirurgical;14;Classique;568
+546;Autres procédures O.R. pour diagnostics obstétricaux excepté accouchement;Chirurgical;14;De jour;343
+560;Accouchement par voie vaginale;Médical;14;Classique;99242
+560;Accouchement par voie vaginale;Médical;14;De jour;579
+561;Diagnostics du post-partum et post-avortement, sans procédure;Médical;14;Classique;1779
+561;Diagnostics du post-partum et post-avortement, sans procédure;Médical;14;De jour;170
+563;Menace d'avortement;Médical;14;Classique;6525
+563;Menace d'avortement;Médical;14;De jour;10
+564;Avortement, sans dilatation-curetage, curetage par aspiration ni hystérotomie;Médical;14;Classique;1207
+564;Avortement, sans dilatation-curetage, curetage par aspiration ni hystérotomie;Médical;14;De jour;446
+565;Faux travail;Médical;14;Classique;943
+565;Faux travail;Médical;14;De jour;21
+566;Autres diagnostics en antepartum;Médical;14;Classique;12206
+566;Autres diagnostics en antepartum;Médical;14;De jour;5549
+580;Nouveau-né, transféré dans les 5 jours, né ailleurs;Médical;15;Classique;215
+580;Nouveau-né, transféré dans les 5 jours, né ailleurs;Médical;15;De jour;2
+581;Nouveau-né, transféré dans les 5 jours, né ici;Médical;15;Classique;42
+581;Nouveau-né, transféré dans les 5 jours, né ici;Médical;15;De jour;3
+583;Nouveau-né, avec ECMO;Chirurgical;15;Classique;13
+588;Nouveau-né, poids de naissance < 1 500 g avec procédure majeure;Chirurgical;15;Classique;87
+589;Nouveau-né, poids de naissance < 500 g ou âge gestationnel < 24 semaines;Médical;15;Classique;26
+589;Nouveau-né, poids de naissance < 500 g ou âge gestationnel < 24 semaines;Médical;15;De jour;1
+591;Nouveau-né, poids de naissance 500–749 g sans procédure majeure;Médical;15;Classique;100
+593;Nouveau-né, poids de naissance 750–999 g sans procédure majeure;Médical;15;Classique;228
+602;Nouveau-né, poids de naissance 1 000–1 249 g avec syndrome de détresse respiratoire/autre anomalie respiratoire majeure ou anomalie majeure;Médical;15;Classique;237
+603;Nouveau-né, poids de naissance 1 000–1 249 g avec ou sans autre affection significative;Médical;15;Classique;64
+607;Nouveau-né, poids de naissance 1 250–1 499 g avec syndrome de détresse respiratoire, autre anomalie respiratoire majeure ou autre anomalie;Médical;15;Classique;332
+608;Nouveau-né, poids de naissance 1 250–1 499 g avec ou sans autre affection significative;Médical;15;Classique;162
+609;Nouveau-né, poids de naissance 1 500–2 499 g avec procédure majeure;Chirurgical;15;Classique;91
+611;Nouveau-né, poids de naissance 1 500–1 999 g avec anomalie majeure;Médical;15;Classique;232
+612;Nouveau-né, poids de naissance 1 500–1 999 g avec syndrome de détresse respiratoire ou autre affection respiratoire majeure;Médical;15;Classique;311
+613;Nouveau-né, poids de naissance 1 500–1 999 g avec infection congénitale ou périnatale;Médical;15;Classique;51
+614;Autre nouveau-né, poids de naissance 1 500–1 999 g avec ou sans autre affection significative;Médical;15;Classique;556
+621;Nouveau-né, poids de naissance 2 000–2 499 g avec anomalie majeure;Médical;15;Classique;165
+622;Nouveau-né, poids de naissance 2 000–2 499 g avec syndrome de détresse respiratoire ou autre affection respiratoire majeure;Médical;15;Classique;236
+623;Nouveau-né, poids de naissance 2 000–2 499 g avec infections congénitales ou périnatales;Médical;15;Classique;65
+625;Nouveau-né, poids de naissance 2 000–2 499 g, né ici, avec autre affection significative;Médical;15;Classique;199
+626;Nouveau-né, poids de naissance 2 000–2 499 g, normal ou nouveau-né avec autre problème;Médical;15;Classique;435
+630;Nouveau-né, poids de naissance > 2 499 g avec procédure cardiovasculaire majeure;Chirurgical;15;Classique;110
+631;Nouveau-né, poids de naissance > 2 499 g avec autre procédure majeure;Chirurgical;15;Classique;142
+633;Nouveau-né, poids de naissance > 2 499 g avec anomalie majeure;Médical;15;Classique;419
+634;Nouveau-né, poids de naissance > 2 499 g avec syndrome de détresse respiratoire ou autre affection respiratoire majeure;Médical;15;Classique;476
+636;Nouveau-né, poids de naissance > 2 499 g avec infection congénitale ou périnatale;Médical;15;Classique;219
+639;Nouveau-né, poids de naissance > 2 499 g avec autre affection significative;Médical;15;Classique;586
+640;Nouveau-né, poids de naissance > 2 499 g, normal ou avec autre problème;Médical;15;Classique;1425
+640;Nouveau-né, poids de naissance > 2 499 g, normal ou avec autre problème;Médical;15;De jour;10
+650;Splénectomie;Chirurgical;16;Classique;303
+650;Splénectomie;Chirurgical;16;De jour;1
+651;Autres procédures sur sang et organes hématopoïétiques;Chirurgical;16;Classique;716
+651;Autres procédures sur sang et organes hématopoïétiques;Chirurgical;16;De jour;758
+660;Diagnostics hématologiques/immunologiques majeurs excepté crise drépanocytaire et coagulation;Médical;16;Classique;3980
+660;Diagnostics hématologiques/immunologiques majeurs excepté crise drépanocytaire et coagulation;Médical;16;De jour;3308
+661;Troubles de la coagulation et des plaquettes;Médical;16;Classique;1087
+661;Troubles de la coagulation et des plaquettes;Médical;16;De jour;1811
+662;Crise d'anémie à cellules falciformes;Médical;16;Classique;691
+662;Crise d'anémie à cellules falciformes;Médical;16;De jour;166
+663;Autres anémies et troubles sanguins et troubles des organes hématopoïétiques;Médical;16;Classique;10220
+663;Autres anémies et troubles sanguins et troubles des organes hématopoïétiques;Médical;16;De jour;20572
+680;Procédures opératoires majeures pour néoplasie lymphatique/hématopoïétique/autre;Chirurgical;17;Classique;877
+680;Procédures opératoires majeures pour néoplasie lymphatique/hématopoïétique/autre;Chirurgical;17;De jour;15
+681;Autres procédures opératoires pour néoplasie lymphatique/hématopoïétique/autre;Chirurgical;17;Classique;2815
+681;Autres procédures opératoires pour néoplasie lymphatique/hématopoïétique/autre;Chirurgical;17;De jour;1064
+690;Leucémie aiguë;Médical;17;Classique;1173
+690;Leucémie aiguë;Médical;17;De jour;3516
+691;Lymphome, myélome et leucémie non aiguë;Médical;17;Classique;3021
+691;Lymphome, myélome et leucémie non aiguë;Médical;17;De jour;6181
+692;Radiothérapie;Médical;17;Classique;1043
+692;Radiothérapie;Médical;17;De jour;420
+693;Chimiothérapie;Médical;17;Classique;29144
+693;Chimiothérapie;Médical;17;De jour;329935
+694;Affections malignes lymphatiques et autres et néoplasmes de comportement incertain;Médical;17;Classique;2471
+694;Affections malignes lymphatiques et autres et néoplasmes de comportement incertain;Médical;17;De jour;13936
+710;Infections et maladies parasitaires incluant le HIV avec procédure opératoire;Chirurgical;18;Classique;1286
+710;Infections et maladies parasitaires incluant le HIV avec procédure opératoire;Chirurgical;18;De jour;106
+711;Infections post-opératoires, post-traumatiques ou d'autre matériel avec procédure opératoire;Chirurgical;18;Classique;1593
+711;Infections post-opératoires, post-traumatiques ou d'autre matériel avec procédure opératoire;Chirurgical;18;De jour;337
+720;Septicémie et infections disséminées;Médical;18;Classique;9003
+720;Septicémie et infections disséminées;Médical;18;De jour;44
+721;Infections post-opératoires, post-traumatiques ou d'autre matériel;Médical;18;Classique;4152
+721;Infections post-opératoires, post-traumatiques ou d'autre matériel;Médical;18;De jour;395
+722;Fièvre;Médical;18;Classique;3543
+722;Fièvre;Médical;18;De jour;37
+723;Maladie virale;Médical;18;Classique;7865
+723;Maladie virale;Médical;18;De jour;49
+724;Autres maladies infectieuses ou parasitaires;Médical;18;Classique;3027
+724;Autres maladies infectieuses ou parasitaires;Médical;18;De jour;195
+740;Diagnostic de maladie mentale avec procédure opératoire;Chirurgical;19;Classique;483
+740;Diagnostic de maladie mentale avec procédure opératoire;Chirurgical;19;De jour;37
+750;Schizophrénie;Médical;19;Classique;470
+750;Schizophrénie;Médical;19;De jour;3
+751;Troubles dépressifs majeurs et psychoses autres/non spécifiées;Médical;19;Classique;3865
+751;Troubles dépressifs majeurs et psychoses autres/non spécifiées;Médical;19;De jour;286
+752;Troubles de la personnalité et du contrôle des impulsions;Médical;19;Classique;500
+752;Troubles de la personnalité et du contrôle des impulsions;Médical;19;De jour;2
+753;Troubles bipolaires;Médical;19;Classique;803
+753;Troubles bipolaires;Médical;19;De jour;4
+754;Dépression, excepté trouble dépressif majeur;Médical;19;Classique;4339
+754;Dépression, excepté trouble dépressif majeur;Médical;19;De jour;10
+755;Troubles de l'ajustement et névroses, excepté diagnostics dépressifs;Médical;19;Classique;1656
+755;Troubles de l'ajustement et névroses, excepté diagnostics dépressifs;Médical;19;De jour;30
+756;États d'anxiété et de délire aigus;Médical;19;Classique;2863
+756;États d'anxiété et de délire aigus;Médical;19;De jour;50
+757;Troubles organiques de la santé mentale;Médical;19;Classique;5033
+757;Troubles organiques de la santé mentale;Médical;19;De jour;182
+758;Troubles comportementaux de l'enfance;Médical;19;Classique;733
+758;Troubles comportementaux de l'enfance;Médical;19;De jour;33
+759;Troubles de la nutrition;Médical;19;Classique;335
+759;Troubles de la nutrition;Médical;19;De jour;4
+760;Autres troubles de la santé mentale;Médical;19;Classique;4335
+760;Autres troubles de la santé mentale;Médical;19;De jour;441
+770;Abus d'alcool et de drogues et dépendance, sortie contre avis médical;Médical;20;Classique;815
+770;Abus d'alcool et de drogues et dépendance, sortie contre avis médical;Médical;20;De jour;2
+772;Dépendance à l'alcool et aux drogues avec revalidation ou revalidation/désintoxication;Médical;20;Classique;1480
+773;Abus d'opiacés et dépendance;Médical;20;Classique;436
+773;Abus d'opiacés et dépendance;Médical;20;De jour;2
+774;Abus de cocaïne et dépendance;Médical;20;Classique;199
+774;Abus de cocaïne et dépendance;Médical;20;De jour;1
+775;Abus d'alcool et dépendance;Médical;20;Classique;9157
+775;Abus d'alcool et dépendance;Médical;20;De jour;249
+776;Abus d'autres drogues, et dépendance;Médical;20;Classique;1273
+776;Abus d'autres drogues, et dépendance;Médical;20;De jour;3
+791;Procédures opératoires pour autres complications de traitement;Chirurgical;21;Classique;4537
+791;Procédures opératoires pour autres complications de traitement;Chirurgical;21;De jour;1711
+811;Réactions allergiques;Médical;21;Classique;1162
+811;Réactions allergiques;Médical;21;De jour;4
+812;Empoisonnement par agents médicamenteux;Médical;21;Classique;10487
+812;Empoisonnement par agents médicamenteux;Médical;21;De jour;36
+813;Autres complications de traitement;Médical;21;Classique;5466
+813;Autres complications de traitement;Médical;21;De jour;2010
+815;Autres diagnostics de blessure, empoisonnement, effets toxiques;Médical;21;Classique;2877
+815;Autres diagnostics de blessure, empoisonnement, effets toxiques;Médical;21;De jour;69
+816;Effets toxiques de substances non médicamenteuses;Médical;21;Classique;2480
+816;Effets toxiques de substances non médicamenteuses;Médical;21;De jour;17
+841;Brûlures extensives du troisième degré avec greffe de peau;Chirurgical;22;Classique;27
+842;Brûlures de « l'épaisseur totale » avec greffe de peau;Chirurgical;22;Classique;183
+842;Brûlures de « l'épaisseur totale » avec greffe de peau;Chirurgical;22;De jour;57
+843;Brûlures extensives du troisième degré ou de « l'épaisseur totale » sans greffe de peau;Médical;22;Classique;152
+843;Brûlures extensives du troisième degré ou de « l'épaisseur totale » sans greffe de peau;Médical;22;De jour;18
+844;Brûlures de « l'épaisseur partielle » avec ou sans greffe de peau;Médical;22;Classique;863
+844;Brûlures de « l'épaisseur partielle » avec ou sans greffe de peau;Médical;22;De jour;73
+850;Procédure avec diagnostic de rééducation, suites de soins ou autre contact avec services de santé;Chirurgical;23;Classique;5039
+850;Procédure avec diagnostic de rééducation, suites de soins ou autre contact avec services de santé;Chirurgical;23;De jour;22107
+860;Rééducation;Médical;23;Classique;23632
+860;Rééducation;Médical;23;De jour;18
+861;Signes, symptômes et autres facteurs influençant l'état de santé;Médical;23;Classique;40989
+861;Signes, symptômes et autres facteurs influençant l'état de santé;Médical;23;De jour;137694
+862;Autre suite de soin et convalescence;Médical;23;Classique;12676
+862;Autre suite de soin et convalescence;Médical;23;De jour;48144
+863;Suite de soins néonatale;Médical;23;Classique;948
+863;Suite de soins néonatale;Médical;23;De jour;5
+890;HIV avec multiples affections majeures en rapport avec le HIV;Médical;24;Classique;175
+890;HIV avec multiples affections majeures en rapport avec le HIV;Médical;24;De jour;5
+892;HIV avec affection majeure en rapport avec le HIV;Médical;24;Classique;296
+892;HIV avec affection majeure en rapport avec le HIV;Médical;24;De jour;25
+893;HIV avec affections significatives multiples en rapport avec le HIV;Médical;24;Classique;46
+893;HIV avec affections significatives multiples en rapport avec le HIV;Médical;24;De jour;3
+894;HIV avec une ou  sans affection significative en rapport avec le HIV;Médical;24;Classique;434
+894;HIV avec une ou  sans affection significative en rapport avec le HIV;Médical;24;De jour;78
+910;Craniotomie pour polytraumatisme significatif;Chirurgical;25;Classique;193
+911;Procédure abdominale/thoracique extensive pour polytraumatisme significatif;Chirurgical;25;Classique;205
+911;Procédure abdominale/thoracique extensive pour polytraumatisme significatif;Chirurgical;25;De jour;2
+912;Procédures musculo-squelettiques et autres pour polytraumatisme significatif;Chirurgical;25;Classique;1017
+912;Procédures musculo-squelettiques et autres pour polytraumatisme significatif;Chirurgical;25;De jour;3
+930;Polytraumatisme significatif sans procédure opératoire;Médical;25;Classique;1034
+930;Polytraumatisme significatif sans procédure opératoire;Médical;25;De jour;19
+950;Procédure extensive sans relation avec le diagnostic principal;Chirurgical;00;Classique;3083
+950;Procédure extensive sans relation avec le diagnostic principal;Chirurgical;00;De jour;296
+951;Procédure modérément étendue sans relation avec le diagnostic principal;Chirurgical;00;Classique;4570
+951;Procédure modérément étendue sans relation avec le diagnostic principal;Chirurgical;00;De jour;1327
+952;Procédure non extensive sans relation avec le diagnostic principal;Chirurgical;00;Classique;4518
+952;Procédure non extensive sans relation avec le diagnostic principal;Chirurgical;00;De jour;2553
+955;Diagnostic principal non valable comme diagnostic de sortie;Autre;00;Classique;46
+955;Diagnostic principal non valable comme diagnostic de sortie;Autre;00;De jour;8
+956;Séjour non groupable;Autre;00;Classique;164
+956;Séjour non groupable;Autre;00;De jour;70
+MMM;Hospitalisation de jour;Autre;SS;De jour;11697
